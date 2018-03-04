@@ -1,0 +1,241 @@
+Div,Round,Date,Time,timestamp,Weekday,HomeTeam,AwayTeam,FTHG,FTAG,FTG,FTR,FTHR,FTAW,HTHG,HTAG,HTG,HTR,HTHR,HTAR,Report_url
+italy-1969-1970,1,1969-09-14,,,sunday,Brescia Calcio,AC Milan,1,4,5,A,L,W,0,4,4,A,L,W,http://www.worldfootball.net/report/serie-a-1969-1970-brescia-calcio-ac-milan/
+italy-1969-1970,1,1969-09-14,,,sunday,ACF Fiorentina,Hellas Verona,1,0,1,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/serie-a-1969-1970-acf-fiorentina-hellas-verona/
+italy-1969-1970,1,1969-09-14,,,sunday,Inter,Bologna FC,1,0,1,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/serie-a-1969-1970-inter-bologna-fc/
+italy-1969-1970,1,1969-09-14,,,sunday,Juventus,US Palermo,4,1,5,H,W,L,1,1,2,D,D,D,http://www.worldfootball.net/report/serie-a-1969-1970-juventus-us-palermo/
+italy-1969-1970,1,1969-09-14,,,sunday,Lanerossi Vicenza,SSC Napoli,3,2,5,H,W,L,2,1,3,H,W,L,http://www.worldfootball.net/report/serie-a-1969-1970-vicenza-calcio-ssc-napoli/
+italy-1969-1970,1,1969-09-14,,,sunday,Lazio Roma,Torino FC,1,1,2,D,D,D,0,1,1,A,L,W,http://www.worldfootball.net/report/serie-a-1969-1970-lazio-roma-torino-fc/
+italy-1969-1970,1,1969-09-14,,,sunday,Sampdoria,Cagliari Calcio,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/serie-a-1969-1970-sampdoria-cagliari-calcio/
+italy-1969-1970,1,1969-09-14,,,sunday,AS Bari,AS Roma,1,0,1,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/serie-a-1969-1970-fc-bari-1908-as-roma/
+italy-1969-1970,2,1969-09-21,,,sunday,US Palermo,Inter,1,2,3,A,L,W,1,1,2,D,D,D,http://www.worldfootball.net/report/serie-a-1969-1970-us-palermo-inter/
+italy-1969-1970,2,1969-09-21,,,sunday,Hellas Verona,Juventus,1,0,1,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/serie-a-1969-1970-hellas-verona-juventus/
+italy-1969-1970,2,1969-09-21,,,sunday,AS Roma,Brescia Calcio,1,0,1,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/serie-a-1969-1970-as-roma-brescia-calcio/
+italy-1969-1970,2,1969-09-21,,,sunday,Bologna FC,Lazio Roma,1,0,1,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/serie-a-1969-1970-bologna-fc-lazio-roma/
+italy-1969-1970,2,1969-09-21,,,sunday,AC Milan,AS Bari,1,0,1,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/serie-a-1969-1970-ac-milan-fc-bari-1908/
+italy-1969-1970,2,1969-09-21,,,sunday,Cagliari Calcio,Lanerossi Vicenza,2,1,3,H,W,L,2,0,2,H,W,L,http://www.worldfootball.net/report/serie-a-1969-1970-cagliari-calcio-vicenza-calcio/
+italy-1969-1970,2,1969-09-21,,,sunday,SSC Napoli,ACF Fiorentina,0,1,1,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/serie-a-1969-1970-ssc-napoli-acf-fiorentina/
+italy-1969-1970,2,1969-09-21,,,sunday,Torino FC,Sampdoria,2,1,3,H,W,L,1,1,2,D,D,D,http://www.worldfootball.net/report/serie-a-1969-1970-torino-fc-sampdoria/
+italy-1969-1970,3,1969-09-28,,,sunday,ACF Fiorentina,Sampdoria,1,0,1,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/serie-a-1969-1970-acf-fiorentina-sampdoria/
+italy-1969-1970,3,1969-09-28,,,sunday,Hellas Verona,AS Roma,2,0,2,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/serie-a-1969-1970-hellas-verona-as-roma/
+italy-1969-1970,3,1969-09-28,,,sunday,US Palermo,Lanerossi Vicenza,1,3,4,A,L,W,1,1,2,D,D,D,http://www.worldfootball.net/report/serie-a-1969-1970-us-palermo-vicenza-calcio/
+italy-1969-1970,3,1969-09-28,,,sunday,Lazio Roma,AC Milan,1,0,1,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/serie-a-1969-1970-lazio-roma-ac-milan/
+italy-1969-1970,3,1969-09-28,,,sunday,Inter,Torino FC,2,0,2,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/serie-a-1969-1970-inter-torino-fc/
+italy-1969-1970,3,1969-09-28,,,sunday,Brescia Calcio,Cagliari Calcio,0,2,2,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/serie-a-1969-1970-brescia-calcio-cagliari-calcio/
+italy-1969-1970,3,1969-09-28,,,sunday,AS Bari,SSC Napoli,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/serie-a-1969-1970-fc-bari-1908-ssc-napoli/
+italy-1969-1970,3,1969-09-28,,,sunday,Juventus,Bologna FC,1,1,2,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/serie-a-1969-1970-juventus-bologna-fc/
+italy-1969-1970,4,1969-10-05,,,sunday,AS Roma,Inter,2,1,3,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/serie-a-1969-1970-as-roma-inter/
+italy-1969-1970,4,1969-10-05,,,sunday,AC Milan,Hellas Verona,2,0,2,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/serie-a-1969-1970-ac-milan-hellas-verona/
+italy-1969-1970,4,1969-10-05,,,sunday,Torino FC,SSC Napoli,0,2,2,A,L,W,0,2,2,A,L,W,http://www.worldfootball.net/report/serie-a-1969-1970-torino-fc-ssc-napoli/
+italy-1969-1970,4,1969-10-05,,,sunday,Bologna FC,US Palermo,3,1,4,H,W,L,3,0,3,H,W,L,http://www.worldfootball.net/report/serie-a-1969-1970-bologna-fc-us-palermo/
+italy-1969-1970,4,1969-10-05,,,sunday,Cagliari Calcio,Lazio Roma,1,0,1,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/serie-a-1969-1970-cagliari-calcio-lazio-roma/
+italy-1969-1970,4,1969-10-05,,,sunday,Lanerossi Vicenza,ACF Fiorentina,1,2,3,A,L,W,1,1,2,D,D,D,http://www.worldfootball.net/report/serie-a-1969-1970-vicenza-calcio-acf-fiorentina/
+italy-1969-1970,4,1969-10-05,,,sunday,Brescia Calcio,AS Bari,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/serie-a-1969-1970-brescia-calcio-fc-bari-1908/
+italy-1969-1970,4,1969-10-05,,,sunday,Sampdoria,Juventus,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/serie-a-1969-1970-sampdoria-juventus/
+italy-1969-1970,5,1969-10-12,,,sunday,Inter,Brescia Calcio,3,1,4,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/serie-a-1969-1970-inter-brescia-calcio/
+italy-1969-1970,5,1969-10-12,,,sunday,Hellas Verona,Bologna FC,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/serie-a-1969-1970-hellas-verona-bologna-fc/
+italy-1969-1970,5,1969-10-12,,,sunday,US Palermo,AC Milan,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/serie-a-1969-1970-us-palermo-ac-milan/
+italy-1969-1970,5,1969-10-12,,,sunday,SSC Napoli,AS Roma,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/serie-a-1969-1970-ssc-napoli-as-roma/
+italy-1969-1970,5,1969-10-12,,,sunday,Juventus,Torino FC,1,2,3,A,L,W,1,0,1,H,W,L,http://www.worldfootball.net/report/serie-a-1969-1970-juventus-torino-fc/
+italy-1969-1970,5,1969-10-12,,,sunday,ACF Fiorentina,Cagliari Calcio,0,1,1,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/serie-a-1969-1970-acf-fiorentina-cagliari-calcio/
+italy-1969-1970,5,1969-10-12,,,sunday,AS Bari,Lanerossi Vicenza,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/serie-a-1969-1970-fc-bari-1908-vicenza-calcio/
+italy-1969-1970,5,1969-10-12,,,sunday,Lazio Roma,Sampdoria,1,0,1,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/serie-a-1969-1970-lazio-roma-sampdoria/
+italy-1969-1970,6,1969-10-19,,,sunday,Cagliari Calcio,Inter,1,1,2,D,D,D,0,1,1,A,L,W,http://www.worldfootball.net/report/serie-a-1969-1970-cagliari-calcio-inter/
+italy-1969-1970,6,1969-10-19,,,sunday,Sampdoria,SSC Napoli,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/serie-a-1969-1970-sampdoria-ssc-napoli/
+italy-1969-1970,6,1969-10-19,,,sunday,AC Milan,AS Roma,2,3,5,A,L,W,1,2,3,A,L,W,http://www.worldfootball.net/report/serie-a-1969-1970-ac-milan-as-roma/
+italy-1969-1970,6,1969-10-19,,,sunday,Torino FC,US Palermo,1,1,2,D,D,D,0,1,1,A,L,W,http://www.worldfootball.net/report/serie-a-1969-1970-torino-fc-us-palermo/
+italy-1969-1970,6,1969-10-19,,,sunday,Lanerossi Vicenza,Juventus,1,0,1,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/serie-a-1969-1970-vicenza-calcio-juventus/
+italy-1969-1970,6,1969-10-19,,,sunday,Brescia Calcio,Hellas Verona,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/serie-a-1969-1970-brescia-calcio-hellas-verona/
+italy-1969-1970,6,1969-10-19,,,sunday,Bologna FC,AS Bari,1,1,2,D,D,D,1,0,1,H,W,L,http://www.worldfootball.net/report/serie-a-1969-1970-bologna-fc-fc-bari-1908/
+italy-1969-1970,6,1969-10-19,,,sunday,Lazio Roma,ACF Fiorentina,5,1,6,H,W,L,3,1,4,H,W,L,http://www.worldfootball.net/report/serie-a-1969-1970-lazio-roma-acf-fiorentina/
+italy-1969-1970,7,1969-10-26,,,sunday,AS Bari,Sampdoria,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/serie-a-1969-1970-fc-bari-1908-sampdoria/
+italy-1969-1970,7,1969-10-26,,,sunday,ACF Fiorentina,Torino FC,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/serie-a-1969-1970-acf-fiorentina-torino-fc/
+italy-1969-1970,7,1969-10-26,,,sunday,Juventus,Inter,2,1,3,H,W,L,1,1,2,D,D,D,http://www.worldfootball.net/report/serie-a-1969-1970-juventus-inter/
+italy-1969-1970,7,1969-10-26,,,sunday,Lanerossi Vicenza,Hellas Verona,3,0,3,H,W,L,2,0,2,H,W,L,http://www.worldfootball.net/report/serie-a-1969-1970-vicenza-calcio-hellas-verona/
+italy-1969-1970,7,1969-10-26,,,sunday,AC Milan,Bologna FC,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/serie-a-1969-1970-ac-milan-bologna-fc/
+italy-1969-1970,7,1969-10-26,,,sunday,SSC Napoli,Cagliari Calcio,0,2,2,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/serie-a-1969-1970-ssc-napoli-cagliari-calcio/
+italy-1969-1970,7,1969-10-26,,,sunday,US Palermo,Brescia Calcio,1,3,4,A,L,W,0,2,2,A,L,W,http://www.worldfootball.net/report/serie-a-1969-1970-us-palermo-brescia-calcio/
+italy-1969-1970,7,1969-10-26,,,sunday,AS Roma,Lazio Roma,2,1,3,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/serie-a-1969-1970-as-roma-lazio-roma/
+italy-1969-1970,8,1969-11-09,,,sunday,SSC Napoli,Juventus,1,0,1,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/serie-a-1969-1970-ssc-napoli-juventus/
+italy-1969-1970,8,1969-11-09,,,sunday,Sampdoria,Brescia Calcio,2,0,2,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/serie-a-1969-1970-sampdoria-brescia-calcio/
+italy-1969-1970,8,1969-11-09,,,sunday,Torino FC,AS Bari,0,1,1,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/serie-a-1969-1970-torino-fc-fc-bari-1908/
+italy-1969-1970,8,1969-11-09,,,sunday,Inter,AC Milan,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/serie-a-1969-1970-inter-ac-milan/
+italy-1969-1970,8,1969-11-09,,,sunday,Bologna FC,ACF Fiorentina,2,2,4,D,D,D,0,1,1,A,L,W,http://www.worldfootball.net/report/serie-a-1969-1970-bologna-fc-acf-fiorentina/
+italy-1969-1970,8,1969-11-09,,,sunday,Cagliari Calcio,AS Roma,1,0,1,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/serie-a-1969-1970-cagliari-calcio-as-roma/
+italy-1969-1970,8,1969-11-09,,,sunday,Lazio Roma,Lanerossi Vicenza,1,0,1,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/serie-a-1969-1970-lazio-roma-vicenza-calcio/
+italy-1969-1970,8,1969-11-09,,,sunday,Hellas Verona,US Palermo,2,0,2,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/serie-a-1969-1970-hellas-verona-us-palermo/
+italy-1969-1970,9,1969-11-16,,,sunday,ACF Fiorentina,AS Bari,3,0,3,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/serie-a-1969-1970-acf-fiorentina-fc-bari-1908/
+italy-1969-1970,9,1969-11-16,,,sunday,Torino FC,Hellas Verona,2,1,3,H,W,L,0,1,1,A,L,W,http://www.worldfootball.net/report/serie-a-1969-1970-torino-fc-hellas-verona/
+italy-1969-1970,9,1969-11-16,,,sunday,AS Roma,Sampdoria,3,3,6,D,D,D,2,0,2,H,W,L,http://www.worldfootball.net/report/serie-a-1969-1970-as-roma-sampdoria/
+italy-1969-1970,9,1969-11-16,,,sunday,US Palermo,Lazio Roma,1,1,2,D,D,D,1,1,2,D,D,D,http://www.worldfootball.net/report/serie-a-1969-1970-us-palermo-lazio-roma/
+italy-1969-1970,9,1969-11-16,,,sunday,Lanerossi Vicenza,Inter,1,1,2,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/serie-a-1969-1970-vicenza-calcio-inter/
+italy-1969-1970,9,1969-11-16,,,sunday,Cagliari Calcio,Juventus,1,1,2,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/serie-a-1969-1970-cagliari-calcio-juventus/
+italy-1969-1970,9,1969-11-16,,,sunday,Brescia Calcio,Bologna FC,1,1,2,D,D,D,1,1,2,D,D,D,http://www.worldfootball.net/report/serie-a-1969-1970-brescia-calcio-bologna-fc/
+italy-1969-1970,9,1969-11-16,,,sunday,AC Milan,SSC Napoli,1,0,1,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/serie-a-1969-1970-ac-milan-ssc-napoli/
+italy-1969-1970,10,1969-11-30,,,sunday,Inter,Lazio Roma,3,0,3,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/serie-a-1969-1970-inter-lazio-roma/
+italy-1969-1970,10,1969-11-30,,,sunday,Hellas Verona,Cagliari Calcio,1,1,2,D,D,D,1,0,1,H,W,L,http://www.worldfootball.net/report/serie-a-1969-1970-hellas-verona-cagliari-calcio/
+italy-1969-1970,10,1969-11-30,,,sunday,Sampdoria,AC Milan,1,1,2,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/serie-a-1969-1970-sampdoria-ac-milan/
+italy-1969-1970,10,1969-11-30,,,sunday,AS Roma,Torino FC,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/serie-a-1969-1970-as-roma-torino-fc/
+italy-1969-1970,10,1969-11-30,,,sunday,Bologna FC,Lanerossi Vicenza,1,1,2,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/serie-a-1969-1970-bologna-fc-vicenza-calcio/
+italy-1969-1970,10,1969-11-30,,,sunday,AS Bari,US Palermo,1,0,1,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/serie-a-1969-1970-fc-bari-1908-us-palermo/
+italy-1969-1970,10,1969-11-30,,,sunday,SSC Napoli,Brescia Calcio,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/serie-a-1969-1970-ssc-napoli-brescia-calcio/
+italy-1969-1970,10,1969-11-30,,,sunday,Juventus,ACF Fiorentina,2,0,2,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/serie-a-1969-1970-juventus-acf-fiorentina/
+italy-1969-1970,11,1969-12-07,,,sunday,Lazio Roma,SSC Napoli,0,2,2,A,L,W,0,2,2,A,L,W,http://www.worldfootball.net/report/serie-a-1969-1970-lazio-roma-ssc-napoli/
+italy-1969-1970,11,1969-12-07,,,sunday,Hellas Verona,AS Bari,4,1,5,H,W,L,2,0,2,H,W,L,http://www.worldfootball.net/report/serie-a-1969-1970-hellas-verona-fc-bari-1908/
+italy-1969-1970,11,1969-12-07,,,sunday,Torino FC,Brescia Calcio,1,0,1,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/serie-a-1969-1970-torino-fc-brescia-calcio/
+italy-1969-1970,11,1969-12-07,,,sunday,AC Milan,Juventus,0,2,2,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/serie-a-1969-1970-ac-milan-juventus/
+italy-1969-1970,11,1969-12-07,,,sunday,Lanerossi Vicenza,AS Roma,3,0,3,H,W,L,2,0,2,H,W,L,http://www.worldfootball.net/report/serie-a-1969-1970-vicenza-calcio-as-roma/
+italy-1969-1970,11,1969-12-07,,,sunday,ACF Fiorentina,Inter,2,0,2,H,W,L,2,0,2,H,W,L,http://www.worldfootball.net/report/serie-a-1969-1970-acf-fiorentina-inter/
+italy-1969-1970,11,1969-12-07,,,sunday,Cagliari Calcio,Bologna FC,1,0,1,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/serie-a-1969-1970-cagliari-calcio-bologna-fc/
+italy-1969-1970,11,1969-12-07,,,sunday,US Palermo,Sampdoria,3,0,3,H,W,L,3,0,3,H,W,L,http://www.worldfootball.net/report/serie-a-1969-1970-us-palermo-sampdoria/
+italy-1969-1970,12,1969-12-14,,,sunday,ACF Fiorentina,AS Roma,2,2,4,D,D,D,1,0,1,H,W,L,http://www.worldfootball.net/report/serie-a-1969-1970-acf-fiorentina-as-roma/
+italy-1969-1970,12,1969-12-14,,,sunday,Sampdoria,Lanerossi Vicenza,0,1,1,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/serie-a-1969-1970-sampdoria-vicenza-calcio/
+italy-1969-1970,12,1969-12-14,,,sunday,US Palermo,Cagliari Calcio,1,0,1,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/serie-a-1969-1970-us-palermo-cagliari-calcio/
+italy-1969-1970,12,1969-12-14,,,sunday,Torino FC,AC Milan,0,1,1,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/serie-a-1969-1970-torino-fc-ac-milan/
+italy-1969-1970,12,1969-12-14,,,sunday,Brescia Calcio,Juventus,0,1,1,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/serie-a-1969-1970-brescia-calcio-juventus/
+italy-1969-1970,12,1969-12-14,,,sunday,Bologna FC,SSC Napoli,1,2,3,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/serie-a-1969-1970-bologna-fc-ssc-napoli/
+italy-1969-1970,12,1969-12-14,,,sunday,Lazio Roma,Hellas Verona,0,1,1,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/serie-a-1969-1970-lazio-roma-hellas-verona/
+italy-1969-1970,12,1969-12-14,,,sunday,Inter,AS Bari,1,0,1,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/serie-a-1969-1970-inter-fc-bari-1908/
+italy-1969-1970,13,1969-12-21,,,sunday,Lanerossi Vicenza,Brescia Calcio,0,1,1,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/serie-a-1969-1970-vicenza-calcio-brescia-calcio/
+italy-1969-1970,13,1969-12-21,,,sunday,Hellas Verona,Sampdoria,1,1,2,D,D,D,1,1,2,D,D,D,http://www.worldfootball.net/report/serie-a-1969-1970-hellas-verona-sampdoria/
+italy-1969-1970,13,1969-12-21,,,sunday,AS Roma,US Palermo,1,1,2,D,D,D,0,1,1,A,L,W,http://www.worldfootball.net/report/serie-a-1969-1970-as-roma-us-palermo/
+italy-1969-1970,13,1969-12-21,,,sunday,AC Milan,ACF Fiorentina,4,2,6,H,W,L,2,1,3,H,W,L,http://www.worldfootball.net/report/serie-a-1969-1970-ac-milan-acf-fiorentina/
+italy-1969-1970,13,1969-12-21,,,sunday,Juventus,Lazio Roma,2,1,3,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/serie-a-1969-1970-juventus-lazio-roma/
+italy-1969-1970,13,1969-12-21,,,sunday,Bologna FC,Torino FC,0,1,1,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/serie-a-1969-1970-bologna-fc-torino-fc/
+italy-1969-1970,13,1969-12-21,,,sunday,AS Bari,Cagliari Calcio,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/serie-a-1969-1970-fc-bari-1908-cagliari-calcio/
+italy-1969-1970,13,1969-12-21,,,sunday,SSC Napoli,Inter,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/serie-a-1969-1970-ssc-napoli-inter/
+italy-1969-1970,14,1969-12-28,,,sunday,Inter,Hellas Verona,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/serie-a-1969-1970-inter-hellas-verona/
+italy-1969-1970,14,1969-12-28,,,sunday,Sampdoria,Bologna FC,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/serie-a-1969-1970-sampdoria-bologna-fc/
+italy-1969-1970,14,1969-12-28,,,sunday,Torino FC,Lanerossi Vicenza,1,0,1,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/serie-a-1969-1970-torino-fc-vicenza-calcio/
+italy-1969-1970,14,1969-12-28,,,sunday,US Palermo,SSC Napoli,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/serie-a-1969-1970-us-palermo-ssc-napoli/
+italy-1969-1970,14,1969-12-28,,,sunday,Brescia Calcio,ACF Fiorentina,1,2,3,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/serie-a-1969-1970-brescia-calcio-acf-fiorentina/
+italy-1969-1970,14,1969-12-28,,,sunday,AS Bari,Lazio Roma,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/serie-a-1969-1970-fc-bari-1908-lazio-roma/
+italy-1969-1970,14,1969-12-28,,,sunday,AS Roma,Juventus,0,3,3,A,L,W,0,2,2,A,L,W,http://www.worldfootball.net/report/serie-a-1969-1970-as-roma-juventus/
+italy-1969-1970,14,1969-12-28,,,sunday,Cagliari Calcio,AC Milan,1,1,2,D,D,D,1,0,1,H,W,L,http://www.worldfootball.net/report/serie-a-1969-1970-cagliari-calcio-ac-milan/
+italy-1969-1970,15,1970-01-03,,,saturday,Inter,Sampdoria,3,2,5,H,W,L,1,1,2,D,D,D,http://www.worldfootball.net/report/serie-a-1969-1970-inter-sampdoria/
+italy-1969-1970,15,1970-01-03,,,saturday,SSC Napoli,Hellas Verona,2,1,3,H,W,L,0,1,1,A,L,W,http://www.worldfootball.net/report/serie-a-1969-1970-ssc-napoli-hellas-verona/
+italy-1969-1970,15,1970-01-03,,,saturday,Lazio Roma,Brescia Calcio,1,0,1,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/serie-a-1969-1970-lazio-roma-brescia-calcio/
+italy-1969-1970,15,1970-01-03,,,saturday,Juventus,AS Bari,1,0,1,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/serie-a-1969-1970-juventus-fc-bari-1908/
+italy-1969-1970,15,1970-01-03,,,saturday,ACF Fiorentina,US Palermo,3,1,4,H,W,L,2,0,2,H,W,L,http://www.worldfootball.net/report/serie-a-1969-1970-acf-fiorentina-us-palermo/
+italy-1969-1970,15,1970-01-03,,,saturday,Cagliari Calcio,Torino FC,2,0,2,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/serie-a-1969-1970-cagliari-calcio-torino-fc/
+italy-1969-1970,15,1970-01-03,,,saturday,Bologna FC,AS Roma,1,1,2,D,D,D,1,0,1,H,W,L,http://www.worldfootball.net/report/serie-a-1969-1970-bologna-fc-as-roma/
+italy-1969-1970,15,1970-01-03,,,saturday,Lanerossi Vicenza,AC Milan,1,0,1,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/serie-a-1969-1970-vicenza-calcio-ac-milan/
+italy-1969-1970,16,1970-01-11,,,sunday,AS Roma,AS Bari,1,0,1,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/serie-a-1969-1970-as-roma-fc-bari-1908/
+italy-1969-1970,16,1970-01-11,,,sunday,Cagliari Calcio,Sampdoria,4,0,4,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/serie-a-1969-1970-cagliari-calcio-sampdoria/
+italy-1969-1970,16,1970-01-11,,,sunday,Hellas Verona,ACF Fiorentina,0,1,1,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/serie-a-1969-1970-hellas-verona-acf-fiorentina/
+italy-1969-1970,16,1970-01-11,,,sunday,Torino FC,Lazio Roma,3,0,3,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/serie-a-1969-1970-torino-fc-lazio-roma/
+italy-1969-1970,16,1970-01-11,,,sunday,Bologna FC,Inter,2,1,3,H,W,L,2,1,3,H,W,L,http://www.worldfootball.net/report/serie-a-1969-1970-bologna-fc-inter/
+italy-1969-1970,16,1970-01-11,,,sunday,AC Milan,Brescia Calcio,1,1,2,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/serie-a-1969-1970-ac-milan-brescia-calcio/
+italy-1969-1970,16,1970-01-11,,,sunday,SSC Napoli,Lanerossi Vicenza,1,0,1,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/serie-a-1969-1970-ssc-napoli-vicenza-calcio/
+italy-1969-1970,16,1970-01-11,,,sunday,US Palermo,Juventus,1,3,4,A,L,W,0,2,2,A,L,W,http://www.worldfootball.net/report/serie-a-1969-1970-us-palermo-juventus/
+italy-1969-1970,17,1970-01-18,,,sunday,Inter,US Palermo,2,0,2,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/serie-a-1969-1970-inter-us-palermo/
+italy-1969-1970,17,1970-01-18,,,sunday,Sampdoria,Torino FC,1,1,2,D,D,D,1,0,1,H,W,L,http://www.worldfootball.net/report/serie-a-1969-1970-sampdoria-torino-fc/
+italy-1969-1970,17,1970-01-18,,,sunday,Lazio Roma,Bologna FC,1,0,1,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/serie-a-1969-1970-lazio-roma-bologna-fc/
+italy-1969-1970,17,1970-01-18,,,sunday,Juventus,Hellas Verona,3,0,3,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/serie-a-1969-1970-juventus-hellas-verona/
+italy-1969-1970,17,1970-01-18,,,sunday,ACF Fiorentina,SSC Napoli,1,2,3,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/serie-a-1969-1970-acf-fiorentina-ssc-napoli/
+italy-1969-1970,17,1970-01-18,,,sunday,Brescia Calcio,AS Roma,0,1,1,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/serie-a-1969-1970-brescia-calcio-as-roma/
+italy-1969-1970,17,1970-01-18,,,sunday,AS Bari,AC Milan,0,5,5,A,L,W,0,2,2,A,L,W,http://www.worldfootball.net/report/serie-a-1969-1970-fc-bari-1908-ac-milan/
+italy-1969-1970,17,1970-01-18,,,sunday,Lanerossi Vicenza,Cagliari Calcio,1,2,3,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/serie-a-1969-1970-vicenza-calcio-cagliari-calcio/
+italy-1969-1970,18,1970-01-25,,,sunday,AC Milan,Lazio Roma,3,0,3,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/serie-a-1969-1970-ac-milan-lazio-roma/
+italy-1969-1970,18,1970-01-25,,,sunday,SSC Napoli,AS Bari,1,0,1,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/serie-a-1969-1970-ssc-napoli-fc-bari-1908/
+italy-1969-1970,18,1970-01-25,,,sunday,Torino FC,Inter,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/serie-a-1969-1970-torino-fc-inter/
+italy-1969-1970,18,1970-01-25,,,sunday,Sampdoria,ACF Fiorentina,1,3,4,A,L,W,1,0,1,H,W,L,http://www.worldfootball.net/report/serie-a-1969-1970-sampdoria-acf-fiorentina/
+italy-1969-1970,18,1970-01-25,,,sunday,Bologna FC,Juventus,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/serie-a-1969-1970-bologna-fc-juventus/
+italy-1969-1970,18,1970-01-25,,,sunday,Lanerossi Vicenza,US Palermo,1,1,2,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/serie-a-1969-1970-vicenza-calcio-us-palermo/
+italy-1969-1970,18,1970-01-25,,,sunday,Cagliari Calcio,Brescia Calcio,4,0,4,H,W,L,2,0,2,H,W,L,http://www.worldfootball.net/report/serie-a-1969-1970-cagliari-calcio-brescia-calcio/
+italy-1969-1970,18,1970-01-25,,,sunday,AS Roma,Hellas Verona,1,1,2,D,D,D,1,1,2,D,D,D,http://www.worldfootball.net/report/serie-a-1969-1970-as-roma-hellas-verona/
+italy-1969-1970,19,1970-02-01,,,sunday,Juventus,Sampdoria,2,0,2,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/serie-a-1969-1970-juventus-sampdoria/
+italy-1969-1970,19,1970-02-01,,,sunday,Hellas Verona,AC Milan,2,2,4,D,D,D,0,1,1,A,L,W,http://www.worldfootball.net/report/serie-a-1969-1970-hellas-verona-ac-milan/
+italy-1969-1970,19,1970-02-01,,,sunday,US Palermo,Bologna FC,1,0,1,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/serie-a-1969-1970-us-palermo-bologna-fc/
+italy-1969-1970,19,1970-02-01,,,sunday,Lazio Roma,Cagliari Calcio,0,2,2,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/serie-a-1969-1970-lazio-roma-cagliari-calcio/
+italy-1969-1970,19,1970-02-01,,,sunday,Inter,AS Roma,2,0,2,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/serie-a-1969-1970-inter-as-roma/
+italy-1969-1970,19,1970-02-01,,,sunday,ACF Fiorentina,Lanerossi Vicenza,2,1,3,H,W,L,0,1,1,A,L,W,http://www.worldfootball.net/report/serie-a-1969-1970-acf-fiorentina-vicenza-calcio/
+italy-1969-1970,19,1970-02-01,,,sunday,AS Bari,Brescia Calcio,2,0,2,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/serie-a-1969-1970-fc-bari-1908-brescia-calcio/
+italy-1969-1970,19,1970-02-01,,,sunday,SSC Napoli,Torino FC,4,0,4,H,W,L,2,0,2,H,W,L,http://www.worldfootball.net/report/serie-a-1969-1970-ssc-napoli-torino-fc/
+italy-1969-1970,20,1970-02-08,,,sunday,Lanerossi Vicenza,AS Bari,2,0,2,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/serie-a-1969-1970-vicenza-calcio-fc-bari-1908/
+italy-1969-1970,20,1970-02-08,,,sunday,AC Milan,US Palermo,1,0,1,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/serie-a-1969-1970-ac-milan-us-palermo/
+italy-1969-1970,20,1970-02-08,,,sunday,Torino FC,Juventus,0,3,3,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/serie-a-1969-1970-torino-fc-juventus/
+italy-1969-1970,20,1970-02-08,,,sunday,Sampdoria,Lazio Roma,0,2,2,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/serie-a-1969-1970-sampdoria-lazio-roma/
+italy-1969-1970,20,1970-02-08,,,sunday,Bologna FC,Hellas Verona,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/serie-a-1969-1970-bologna-fc-hellas-verona/
+italy-1969-1970,20,1970-02-08,,,sunday,Cagliari Calcio,ACF Fiorentina,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/serie-a-1969-1970-cagliari-calcio-acf-fiorentina/
+italy-1969-1970,20,1970-02-08,,,sunday,Brescia Calcio,Inter,1,1,2,D,D,D,1,0,1,H,W,L,http://www.worldfootball.net/report/serie-a-1969-1970-brescia-calcio-inter/
+italy-1969-1970,20,1970-02-08,,,sunday,AS Roma,SSC Napoli,2,1,3,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/serie-a-1969-1970-as-roma-ssc-napoli/
+italy-1969-1970,21,1970-02-15,,,sunday,Juventus,Lanerossi Vicenza,4,0,4,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/serie-a-1969-1970-juventus-vicenza-calcio/
+italy-1969-1970,21,1970-02-15,,,sunday,Hellas Verona,Brescia Calcio,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/serie-a-1969-1970-hellas-verona-brescia-calcio/
+italy-1969-1970,21,1970-02-15,,,sunday,AS Roma,AC Milan,0,1,1,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/serie-a-1969-1970-as-roma-ac-milan/
+italy-1969-1970,21,1970-02-15,,,sunday,SSC Napoli,Sampdoria,0,2,2,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/serie-a-1969-1970-ssc-napoli-sampdoria/
+italy-1969-1970,21,1970-02-15,,,sunday,Inter,Cagliari Calcio,1,0,1,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/serie-a-1969-1970-inter-cagliari-calcio/
+italy-1969-1970,21,1970-02-15,,,sunday,ACF Fiorentina,Lazio Roma,2,0,2,H,W,L,2,0,2,H,W,L,http://www.worldfootball.net/report/serie-a-1969-1970-acf-fiorentina-lazio-roma/
+italy-1969-1970,21,1970-02-15,,,sunday,AS Bari,Bologna FC,0,2,2,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/serie-a-1969-1970-fc-bari-1908-bologna-fc/
+italy-1969-1970,21,1970-02-15,,,sunday,US Palermo,Torino FC,1,0,1,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/serie-a-1969-1970-us-palermo-torino-fc/
+italy-1969-1970,22,1970-03-01,,,sunday,Inter,Juventus,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/serie-a-1969-1970-inter-juventus/
+italy-1969-1970,22,1970-03-01,,,sunday,Lazio Roma,AS Roma,1,1,2,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/serie-a-1969-1970-lazio-roma-as-roma/
+italy-1969-1970,22,1970-03-01,,,sunday,Hellas Verona,Lanerossi Vicenza,3,1,4,H,W,L,3,0,3,H,W,L,http://www.worldfootball.net/report/serie-a-1969-1970-hellas-verona-vicenza-calcio/
+italy-1969-1970,22,1970-03-01,,,sunday,Torino FC,ACF Fiorentina,1,0,1,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/serie-a-1969-1970-torino-fc-acf-fiorentina/
+italy-1969-1970,22,1970-03-01,,,sunday,Cagliari Calcio,SSC Napoli,2,0,2,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/serie-a-1969-1970-cagliari-calcio-ssc-napoli/
+italy-1969-1970,22,1970-03-01,,,sunday,Brescia Calcio,US Palermo,4,2,6,H,W,L,2,2,4,D,D,D,http://www.worldfootball.net/report/serie-a-1969-1970-brescia-calcio-us-palermo/
+italy-1969-1970,22,1970-03-01,,,sunday,Bologna FC,AC Milan,0,1,1,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/serie-a-1969-1970-bologna-fc-ac-milan/
+italy-1969-1970,22,1970-03-01,,,sunday,Sampdoria,AS Bari,1,0,1,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/serie-a-1969-1970-sampdoria-fc-bari-1908/
+italy-1969-1970,23,1970-03-08,,,sunday,Juventus,SSC Napoli,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/serie-a-1969-1970-juventus-ssc-napoli/
+italy-1969-1970,23,1970-03-08,,,sunday,US Palermo,Hellas Verona,1,0,1,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/serie-a-1969-1970-us-palermo-hellas-verona/
+italy-1969-1970,23,1970-03-08,,,sunday,Lanerossi Vicenza,Lazio Roma,2,1,3,H,W,L,1,1,2,D,D,D,http://www.worldfootball.net/report/serie-a-1969-1970-vicenza-calcio-lazio-roma/
+italy-1969-1970,23,1970-03-08,,,sunday,AS Roma,Cagliari Calcio,1,1,2,D,D,D,1,1,2,D,D,D,http://www.worldfootball.net/report/serie-a-1969-1970-as-roma-cagliari-calcio/
+italy-1969-1970,23,1970-03-08,,,sunday,ACF Fiorentina,Bologna FC,0,1,1,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/serie-a-1969-1970-acf-fiorentina-bologna-fc/
+italy-1969-1970,23,1970-03-08,,,sunday,Brescia Calcio,Sampdoria,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/serie-a-1969-1970-brescia-calcio-sampdoria/
+italy-1969-1970,23,1970-03-08,,,sunday,AS Bari,Torino FC,0,1,1,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/serie-a-1969-1970-fc-bari-1908-torino-fc/
+italy-1969-1970,23,1970-03-08,,,sunday,AC Milan,Inter,0,1,1,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/serie-a-1969-1970-ac-milan-inter/
+italy-1969-1970,24,1970-03-15,,,sunday,Lazio Roma,US Palermo,4,0,4,H,W,L,3,0,3,H,W,L,http://www.worldfootball.net/report/serie-a-1969-1970-lazio-roma-us-palermo/
+italy-1969-1970,24,1970-03-15,,,sunday,Sampdoria,AS Roma,2,0,2,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/serie-a-1969-1970-sampdoria-as-roma/
+italy-1969-1970,24,1970-03-15,,,sunday,Hellas Verona,Torino FC,0,1,1,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/serie-a-1969-1970-hellas-verona-torino-fc/
+italy-1969-1970,24,1970-03-15,,,sunday,SSC Napoli,AC Milan,1,1,2,D,D,D,1,1,2,D,D,D,http://www.worldfootball.net/report/serie-a-1969-1970-ssc-napoli-ac-milan/
+italy-1969-1970,24,1970-03-15,,,sunday,Inter,Lanerossi Vicenza,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/serie-a-1969-1970-inter-vicenza-calcio/
+italy-1969-1970,24,1970-03-15,,,sunday,AS Bari,ACF Fiorentina,1,1,2,D,D,D,1,1,2,D,D,D,http://www.worldfootball.net/report/serie-a-1969-1970-fc-bari-1908-acf-fiorentina/
+italy-1969-1970,24,1970-03-15,,,sunday,Bologna FC,Brescia Calcio,0,3,3,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/serie-a-1969-1970-bologna-fc-brescia-calcio/
+italy-1969-1970,24,1970-03-15,,,sunday,Juventus,Cagliari Calcio,2,2,4,D,D,D,1,1,2,D,D,D,http://www.worldfootball.net/report/serie-a-1969-1970-juventus-cagliari-calcio/
+italy-1969-1970,25,1970-03-22,,,sunday,Lanerossi Vicenza,Bologna FC,1,1,2,D,D,D,1,1,2,D,D,D,http://www.worldfootball.net/report/serie-a-1969-1970-vicenza-calcio-bologna-fc/
+italy-1969-1970,25,1970-03-22,,,sunday,Torino FC,AS Roma,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/serie-a-1969-1970-torino-fc-as-roma/
+italy-1969-1970,25,1970-03-22,,,sunday,US Palermo,AS Bari,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/serie-a-1969-1970-us-palermo-fc-bari-1908/
+italy-1969-1970,25,1970-03-22,,,sunday,Lazio Roma,Inter,3,1,4,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/serie-a-1969-1970-lazio-roma-inter/
+italy-1969-1970,25,1970-03-22,,,sunday,ACF Fiorentina,Juventus,2,0,2,H,W,L,2,0,2,H,W,L,http://www.worldfootball.net/report/serie-a-1969-1970-acf-fiorentina-juventus/
+italy-1969-1970,25,1970-03-22,,,sunday,Cagliari Calcio,Hellas Verona,1,0,1,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/serie-a-1969-1970-cagliari-calcio-hellas-verona/
+italy-1969-1970,25,1970-03-22,,,sunday,Brescia Calcio,SSC Napoli,1,2,3,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/serie-a-1969-1970-brescia-calcio-ssc-napoli/
+italy-1969-1970,25,1970-03-22,,,sunday,AC Milan,Sampdoria,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/serie-a-1969-1970-ac-milan-sampdoria/
+italy-1969-1970,26,1970-03-29,,,sunday,Inter,ACF Fiorentina,3,0,3,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/serie-a-1969-1970-inter-acf-fiorentina/
+italy-1969-1970,26,1970-03-29,,,sunday,Juventus,AC Milan,3,0,3,H,W,L,3,0,3,H,W,L,http://www.worldfootball.net/report/serie-a-1969-1970-juventus-ac-milan/
+italy-1969-1970,26,1970-03-29,,,sunday,Sampdoria,US Palermo,1,0,1,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/serie-a-1969-1970-sampdoria-us-palermo/
+italy-1969-1970,26,1970-03-29,,,sunday,AS Roma,Lanerossi Vicenza,1,0,1,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/serie-a-1969-1970-as-roma-vicenza-calcio/
+italy-1969-1970,26,1970-03-29,,,sunday,AS Bari,Hellas Verona,0,2,2,A,L,W,,,,,,,http://www.worldfootball.net/report/serie-a-1969-1970-fc-bari-1908-hellas-verona/
+italy-1969-1970,26,1970-03-29,,,sunday,Brescia Calcio,Torino FC,0,1,1,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/serie-a-1969-1970-brescia-calcio-torino-fc/
+italy-1969-1970,26,1970-03-29,,,sunday,Bologna FC,Cagliari Calcio,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/serie-a-1969-1970-bologna-fc-cagliari-calcio/
+italy-1969-1970,26,1970-03-29,,,sunday,SSC Napoli,Lazio Roma,1,1,2,D,D,D,1,1,2,D,D,D,http://www.worldfootball.net/report/serie-a-1969-1970-ssc-napoli-lazio-roma/
+italy-1969-1970,27,1970-04-05,,,sunday,Lanerossi Vicenza,Sampdoria,2,1,3,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/serie-a-1969-1970-vicenza-calcio-sampdoria/
+italy-1969-1970,27,1970-04-05,,,sunday,AS Roma,ACF Fiorentina,0,1,1,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/serie-a-1969-1970-as-roma-acf-fiorentina/
+italy-1969-1970,27,1970-04-05,,,sunday,AC Milan,Torino FC,3,0,3,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/serie-a-1969-1970-ac-milan-torino-fc/
+italy-1969-1970,27,1970-04-05,,,sunday,Hellas Verona,Lazio Roma,1,1,2,D,D,D,1,1,2,D,D,D,http://www.worldfootball.net/report/serie-a-1969-1970-hellas-verona-lazio-roma/
+italy-1969-1970,27,1970-04-05,,,sunday,Juventus,Brescia Calcio,1,0,1,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/serie-a-1969-1970-juventus-brescia-calcio/
+italy-1969-1970,27,1970-04-05,,,sunday,Cagliari Calcio,US Palermo,2,0,2,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/serie-a-1969-1970-cagliari-calcio-us-palermo/
+italy-1969-1970,27,1970-04-05,,,sunday,AS Bari,Inter,0,1,1,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/serie-a-1969-1970-fc-bari-1908-inter/
+italy-1969-1970,27,1970-04-05,,,sunday,SSC Napoli,Bologna FC,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/serie-a-1969-1970-ssc-napoli-bologna-fc/
+italy-1969-1970,28,1970-04-12,,,sunday,Lazio Roma,Juventus,2,0,2,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/serie-a-1969-1970-lazio-roma-juventus/
+italy-1969-1970,28,1970-04-12,,,sunday,Sampdoria,Hellas Verona,2,1,3,H,W,L,1,1,2,D,D,D,http://www.worldfootball.net/report/serie-a-1969-1970-sampdoria-hellas-verona/
+italy-1969-1970,28,1970-04-12,,,sunday,Torino FC,Bologna FC,1,1,2,D,D,D,0,1,1,A,L,W,http://www.worldfootball.net/report/serie-a-1969-1970-torino-fc-bologna-fc/
+italy-1969-1970,28,1970-04-12,,,sunday,US Palermo,AS Roma,2,2,4,D,D,D,2,2,4,D,D,D,http://www.worldfootball.net/report/serie-a-1969-1970-us-palermo-as-roma/
+italy-1969-1970,28,1970-04-12,,,sunday,ACF Fiorentina,AC Milan,4,2,6,H,W,L,1,2,3,A,L,W,http://www.worldfootball.net/report/serie-a-1969-1970-acf-fiorentina-ac-milan/
+italy-1969-1970,28,1970-04-12,,,sunday,Brescia Calcio,Lanerossi Vicenza,1,1,2,D,D,D,1,0,1,H,W,L,http://www.worldfootball.net/report/serie-a-1969-1970-brescia-calcio-vicenza-calcio/
+italy-1969-1970,28,1970-04-12,,,sunday,Inter,SSC Napoli,1,0,1,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/serie-a-1969-1970-inter-ssc-napoli/
+italy-1969-1970,28,1970-04-12,,,sunday,Cagliari Calcio,AS Bari,2,0,2,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/serie-a-1969-1970-cagliari-calcio-fc-bari-1908/
+italy-1969-1970,29,1970-04-19,,,sunday,Hellas Verona,Inter,1,3,4,A,L,W,1,2,3,A,L,W,http://www.worldfootball.net/report/serie-a-1969-1970-hellas-verona-inter/
+italy-1969-1970,29,1970-04-19,,,sunday,Bologna FC,Sampdoria,1,1,2,D,D,D,1,0,1,H,W,L,http://www.worldfootball.net/report/serie-a-1969-1970-bologna-fc-sampdoria/
+italy-1969-1970,29,1970-04-19,,,sunday,ACF Fiorentina,Brescia Calcio,0,1,1,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/serie-a-1969-1970-acf-fiorentina-brescia-calcio/
+italy-1969-1970,29,1970-04-19,,,sunday,Juventus,AS Roma,1,1,2,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/serie-a-1969-1970-juventus-as-roma/
+italy-1969-1970,29,1970-04-19,,,sunday,Lanerossi Vicenza,Torino FC,1,0,1,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/serie-a-1969-1970-vicenza-calcio-torino-fc/
+italy-1969-1970,29,1970-04-19,,,sunday,Lazio Roma,AS Bari,4,1,5,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/serie-a-1969-1970-lazio-roma-fc-bari-1908/
+italy-1969-1970,29,1970-04-19,,,sunday,AC Milan,Cagliari Calcio,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/serie-a-1969-1970-ac-milan-cagliari-calcio/
+italy-1969-1970,29,1970-04-19,,,sunday,SSC Napoli,US Palermo,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/serie-a-1969-1970-ssc-napoli-us-palermo/
+italy-1969-1970,30,1970-04-26,,,sunday,Torino FC,Cagliari Calcio,0,4,4,A,L,W,0,3,3,A,L,W,http://www.worldfootball.net/report/serie-a-1969-1970-torino-fc-cagliari-calcio/
+italy-1969-1970,30,1970-04-26,,,sunday,Sampdoria,Inter,0,5,5,A,L,W,0,3,3,A,L,W,http://www.worldfootball.net/report/serie-a-1969-1970-sampdoria-inter/
+italy-1969-1970,30,1970-04-26,,,sunday,AS Roma,Bologna FC,1,2,3,A,L,W,1,1,2,D,D,D,http://www.worldfootball.net/report/serie-a-1969-1970-as-roma-bologna-fc/
+italy-1969-1970,30,1970-04-26,,,sunday,US Palermo,ACF Fiorentina,1,1,2,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/serie-a-1969-1970-us-palermo-acf-fiorentina/
+italy-1969-1970,30,1970-04-26,,,sunday,AC Milan,Lanerossi Vicenza,1,0,1,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/serie-a-1969-1970-ac-milan-vicenza-calcio/
+italy-1969-1970,30,1970-04-26,,,sunday,AS Bari,Juventus,2,1,3,H,W,L,0,1,1,A,L,W,http://www.worldfootball.net/report/serie-a-1969-1970-fc-bari-1908-juventus/
+italy-1969-1970,30,1970-04-26,,,sunday,Hellas Verona,SSC Napoli,1,0,1,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/serie-a-1969-1970-hellas-verona-ssc-napoli/
+italy-1969-1970,30,1970-04-26,,,sunday,Brescia Calcio,Lazio Roma,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/serie-a-1969-1970-brescia-calcio-lazio-roma/

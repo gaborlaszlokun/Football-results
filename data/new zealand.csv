@@ -1,0 +1,928 @@
+Div,Round,Date,Time,Weekday,HomeTeam,AwayTeam,FTHG,FTAG,FTG,FTR,FTHR,FTAW,HTHG,HTAG,HTG,HTR,HTHR,HTAR,Report_url
+new zealand-2006-2007,1,2006-10-14,,saturday,Canterbury United,Hawke’s Bay United FC,2,1,3,H,W,L,,,,,,,
+new zealand-2006-2007,1,2006-10-14,,saturday,Auckland City FC,Otago United,2,2,4,D,D,D,,,,,,,
+new zealand-2006-2007,1,2006-10-15,,sunday,Team Wellington,YoungHeart Manawatu,1,2,3,A,L,W,,,,,,,
+new zealand-2006-2007,1,2006-10-15,,sunday,Waikato FC,Waitakere United,1,3,4,A,L,W,,,,,,,
+new zealand-2006-2007,2,2006-10-21,,saturday,YoungHeart Manawatu,Auckland City FC,1,0,1,H,W,L,,,,,,,
+new zealand-2006-2007,2,2006-10-21,,saturday,Waitakere United,Canterbury United,2,1,3,H,W,L,,,,,,,
+new zealand-2006-2007,2,2006-10-21,,saturday,Otago United,Waikato FC,1,1,2,D,D,D,,,,,,,
+new zealand-2006-2007,2,2006-10-21,,saturday,Hawke’s Bay United FC,Team Wellington,0,0,0,D,D,D,0,0,0,D,D,D,
+new zealand-2006-2007,3,2006-10-23,,monday,YoungHeart Manawatu,Otago United,4,1,5,H,W,L,,,,,,,
+new zealand-2006-2007,3,2006-10-23,,monday,Canterbury United,Waikato FC,1,1,2,D,D,D,,,,,,,
+new zealand-2006-2007,3,2006-10-23,,monday,Auckland City FC,Hawke’s Bay United FC,6,2,8,H,W,L,,,,,,,
+new zealand-2006-2007,3,2006-10-23,,monday,Team Wellington,Waitakere United,1,1,2,D,D,D,,,,,,,
+new zealand-2006-2007,4,2006-10-28,,saturday,Hawke’s Bay United FC,YoungHeart Manawatu,1,1,2,D,D,D,,,,,,,
+new zealand-2006-2007,4,2006-10-28,,saturday,Otago United,Canterbury United,2,1,3,H,W,L,,,,,,,
+new zealand-2006-2007,4,2006-10-29,,sunday,Waikato FC,Team Wellington,0,5,5,A,L,W,,,,,,,
+new zealand-2006-2007,4,2006-10-29,,sunday,Waitakere United,Auckland City FC,0,0,0,D,D,D,0,0,0,D,D,D,
+new zealand-2006-2007,5,2006-11-04,,saturday,Auckland City FC,Waikato FC,3,2,5,H,W,L,,,,,,,
+new zealand-2006-2007,5,2006-11-04,,saturday,Hawke’s Bay United FC,Otago United,0,2,2,A,L,W,,,,,,,
+new zealand-2006-2007,5,2006-11-04,,saturday,Team Wellington,Canterbury United,0,0,0,D,D,D,0,0,0,D,D,D,
+new zealand-2006-2007,5,2006-11-05,,sunday,YoungHeart Manawatu,Waitakere United,0,1,1,A,L,W,,,,,,,
+new zealand-2006-2007,6,2006-11-11,,saturday,Canterbury United,Auckland City FC,1,1,2,D,D,D,,,,,,,
+new zealand-2006-2007,6,2006-11-11,,saturday,Team Wellington,Otago United,2,1,3,H,W,L,,,,,,,
+new zealand-2006-2007,6,2006-11-11,,saturday,Waitakere United,Hawke’s Bay United FC,2,1,3,H,W,L,,,,,,,
+new zealand-2006-2007,6,2006-11-12,,sunday,Waikato FC,YoungHeart Manawatu,1,6,7,A,L,W,,,,,,,
+new zealand-2006-2007,7,2006-11-18,,saturday,Auckland City FC,Team Wellington,1,0,1,H,W,L,,,,,,,
+new zealand-2006-2007,7,2006-11-18,,saturday,Hawke’s Bay United FC,Waikato FC,2,1,3,H,W,L,,,,,,,
+new zealand-2006-2007,7,2006-11-19,,sunday,Otago United,Waitakere United,1,2,3,A,L,W,,,,,,,
+new zealand-2006-2007,7,2006-11-19,,sunday,YoungHeart Manawatu,Canterbury United,6,2,8,H,W,L,,,,,,,
+new zealand-2006-2007,8,2006-11-25,,saturday,Hawke’s Bay United FC,Canterbury United,1,2,3,A,L,W,,,,,,,
+new zealand-2006-2007,8,2006-11-26,,sunday,Otago United,Auckland City FC,1,5,6,A,L,W,,,,,,,
+new zealand-2006-2007,8,2006-11-26,,sunday,Waitakere United,Waikato FC,1,0,1,H,W,L,,,,,,,
+new zealand-2006-2007,8,2006-11-26,,sunday,YoungHeart Manawatu,Team Wellington,1,1,2,D,D,D,,,,,,,
+new zealand-2006-2007,9,2006-12-02,,saturday,Canterbury United,Waitakere United,1,0,1,H,W,L,,,,,,,
+new zealand-2006-2007,9,2006-12-02,,saturday,Team Wellington,Hawke’s Bay United FC,3,2,5,H,W,L,,,,,,,
+new zealand-2006-2007,9,2006-12-03,,sunday,Auckland City FC,YoungHeart Manawatu,2,2,4,D,D,D,,,,,,,
+new zealand-2006-2007,9,2006-12-03,,sunday,Waikato FC,Otago United,0,0,0,D,D,D,0,0,0,D,D,D,
+new zealand-2006-2007,10,2006-12-09,,saturday,Otago United,YoungHeart Manawatu,0,5,5,A,L,W,,,,,,,
+new zealand-2006-2007,10,2006-12-10,,sunday,Waikato FC,Canterbury United,0,4,4,A,L,W,,,,,,,
+new zealand-2006-2007,10,2006-12-10,,sunday,Waitakere United,Team Wellington,1,0,1,H,W,L,,,,,,,
+new zealand-2006-2007,11,2006-12-16,,saturday,Canterbury United,Otago United,1,0,1,H,W,L,,,,,,,
+new zealand-2006-2007,11,2006-12-16,,saturday,Team Wellington,Waikato FC,0,0,0,D,D,D,0,0,0,D,D,D,
+new zealand-2006-2007,11,2006-12-17,,sunday,YoungHeart Manawatu,Hawke’s Bay United FC,3,2,5,H,W,L,,,,,,,
+new zealand-2006-2007,11,2006-12-20,,wednesday,Auckland City FC,Waitakere United,4,3,7,H,W,L,,,,,,,
+new zealand-2006-2007,12,2007-01-06,,saturday,Canterbury United,Team Wellington,4,1,5,H,W,L,,,,,,,
+new zealand-2006-2007,12,2007-01-06,,saturday,Otago United,Hawke’s Bay United FC,1,1,2,D,D,D,,,,,,,
+new zealand-2006-2007,12,2007-01-06,,saturday,Waitakere United,YoungHeart Manawatu,2,0,2,H,W,L,,,,,,,
+new zealand-2006-2007,12,2007-01-07,,sunday,Waikato FC,Auckland City FC,1,1,2,D,D,D,,,,,,,
+new zealand-2006-2007,10,2007-01-10,,wednesday,Hawke’s Bay United FC,Auckland City FC,1,2,3,A,L,W,,,,,,,
+new zealand-2006-2007,13,2007-01-13,,saturday,Auckland City FC,Canterbury United,2,0,2,H,W,L,,,,,,,
+new zealand-2006-2007,13,2007-01-13,,saturday,Hawke’s Bay United FC,Waitakere United,1,3,4,A,L,W,,,,,,,
+new zealand-2006-2007,13,2007-01-13,,saturday,Otago United,Team Wellington,1,5,6,A,L,W,,,,,,,
+new zealand-2006-2007,13,2007-01-14,,sunday,YoungHeart Manawatu,Waikato FC,5,2,7,H,W,L,,,,,,,
+new zealand-2006-2007,14,2007-01-20,,saturday,Canterbury United,YoungHeart Manawatu,1,3,4,A,L,W,,,,,,,
+new zealand-2006-2007,14,2007-01-20,,saturday,Waitakere United,Otago United,5,1,6,H,W,L,,,,,,,
+new zealand-2006-2007,14,2007-01-21,,sunday,Waikato FC,Hawke’s Bay United FC,2,0,2,H,W,L,,,,,,,
+new zealand-2006-2007,15,2007-01-27,,saturday,Auckland City FC,YoungHeart Manawatu,5,3,8,H,W,L,,,,,,,
+new zealand-2006-2007,15,2007-01-27,,saturday,Canterbury United,Waitakere United,2,1,3,H,W,L,,,,,,,
+new zealand-2006-2007,15,2007-01-27,,saturday,Waikato FC,Otago United,1,0,1,H,W,L,,,,,,,
+new zealand-2006-2007,15,2007-01-28,,sunday,Team Wellington,Hawke’s Bay United FC,7,0,7,H,W,L,,,,,,,
+new zealand-2006-2007,16,2007-02-03,,saturday,Hawke’s Bay United FC,Canterbury United,2,1,3,H,W,L,,,,,,,
+new zealand-2006-2007,16,2007-02-03,,saturday,Otago United,Auckland City FC,1,2,3,A,L,W,,,,,,,
+new zealand-2006-2007,16,2007-02-03,,saturday,Waitakere United,Waikato FC,4,2,6,H,W,L,,,,,,,
+new zealand-2006-2007,16,2007-02-04,,sunday,YoungHeart Manawatu,Team Wellington,5,0,5,H,W,L,,,,,,,
+new zealand-2006-2007,17,2007-02-11,,sunday,Hawke’s Bay United FC,Auckland City FC,2,2,4,D,D,D,,,,,,,
+new zealand-2006-2007,17,2007-02-11,,sunday,Otago United,YoungHeart Manawatu,0,1,1,A,L,W,,,,,,,
+new zealand-2006-2007,17,2007-02-11,,sunday,Waikato FC,Canterbury United,0,1,1,A,L,W,,,,,,,
+new zealand-2006-2007,17,2007-02-11,,sunday,Waitakere United,Team Wellington,4,2,6,H,W,L,,,,,,,
+new zealand-2006-2007,18,2007-02-17,,saturday,Canterbury United,Otago United,2,2,4,D,D,D,,,,,,,
+new zealand-2006-2007,18,2007-02-18,,sunday,Auckland City FC,Waitakere United,1,1,2,D,D,D,,,,,,,
+new zealand-2006-2007,18,2007-02-18,,sunday,Team Wellington,Waikato FC,2,0,2,H,W,L,,,,,,,
+new zealand-2006-2007,18,2007-02-18,,sunday,YoungHeart Manawatu,Hawke’s Bay United FC,4,3,7,H,W,L,,,,,,,
+new zealand-2006-2007,19,2007-02-24,,saturday,Canterbury United,Team Wellington,1,2,3,A,L,W,,,,,,,
+new zealand-2006-2007,19,2007-02-24,,saturday,Otago United,Hawke’s Bay United FC,1,2,3,A,L,W,,,,,,,
+new zealand-2006-2007,19,2007-02-25,,sunday,Waikato FC,Auckland City FC,0,2,2,A,L,W,,,,,,,
+new zealand-2006-2007,19,2007-02-25,,sunday,Waitakere United,YoungHeart Manawatu,3,1,4,H,W,L,,,,,,,
+new zealand-2006-2007,20,2007-03-03,,saturday,Auckland City FC,Canterbury United,0,3,3,A,L,W,,,,,,,
+new zealand-2006-2007,20,2007-03-03,,saturday,Hawke’s Bay United FC,Waitakere United,3,0,3,H,W,L,,,,,,,
+new zealand-2006-2007,20,2007-03-03,,saturday,Otago United,Team Wellington,1,1,2,D,D,D,,,,,,,
+new zealand-2006-2007,20,2007-03-04,,sunday,YoungHeart Manawatu,Waikato FC,2,0,2,H,W,L,,,,,,,
+new zealand-2006-2007,14,2007-03-07,,wednesday,Team Wellington,Auckland City FC,2,6,8,A,L,W,,,,,,,
+new zealand-2006-2007,21,2007-03-10,,saturday,Canterbury United,YoungHeart Manawatu,2,3,5,A,L,W,,,,,,,
+new zealand-2006-2007,21,2007-03-10,,saturday,Team Wellington,Auckland City FC,2,3,5,A,L,W,,,,,,,
+new zealand-2006-2007,21,2007-03-10,,saturday,Waikato FC,Hawke’s Bay United FC,4,2,6,H,W,L,,,,,,,
+new zealand-2006-2007,21,2007-03-10,,saturday,Waitakere United,Otago United,8,0,8,H,W,L,,,,,,,
+new zealand-2006-2007-playoffs,Semi-finals,2007-03-25,,sunday,YoungHeart Manawatu,Auckland City FC,1,3,4,A,L,W,,,,,,,
+new zealand-2006-2007-playoffs,Final,2007-04-16,,monday,Waitakere United,Auckland City FC,2,3,5,A,L,W,,,,,,,
+new zealand-2007-2008,1,2007-11-03,02:00,saturday,Waitakere United,Team Wellington,1,2,3,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/nz-football-championship-2007-2008-waitakere-united-team-wellington/
+new zealand-2007-2008,1,2007-11-03,03:00,saturday,Otago United,Waikato FC,0,2,2,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/nz-football-championship-2007-2008-otago-united-fc-waikato-fc/
+new zealand-2007-2008,1,2007-11-04,02:00,sunday,Canterbury United,Hawke’s Bay United FC,1,3,4,A,L,W,1,0,1,H,W,L,http://www.worldfootball.net/report/nz-football-championship-2007-2008-canterbury-united-hawkes-bay-united-fc/
+new zealand-2007-2008,1,2007-11-04,02:00,sunday,YoungHeart Manawatu,Auckland City FC,1,3,4,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/nz-football-championship-2007-2008-youngheart-manawatu-auckland-city-fc/
+new zealand-2007-2008,2,2007-11-10,02:00,saturday,Auckland City FC,Hawke’s Bay United FC,2,0,2,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/nz-football-championship-2007-2008-auckland-city-fc-hawkes-bay-united-fc/
+new zealand-2007-2008,2,2007-11-11,01:00,sunday,Waikato FC,Waitakere United,0,1,1,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/nz-football-championship-2007-2008-waikato-fc-waitakere-united/
+new zealand-2007-2008,2,2007-11-11,03:00,sunday,Team Wellington,YoungHeart Manawatu,3,1,4,H,W,L,2,1,3,H,W,L,http://www.worldfootball.net/report/nz-football-championship-2007-2008-team-wellington-youngheart-manawatu/
+new zealand-2007-2008,2,2007-11-11,03:00,sunday,Otago United,Canterbury United,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/nz-football-championship-2007-2008-otago-united-fc-canterbury-united/
+new zealand-2007-2008,3,2007-11-17,04:00,saturday,Hawke’s Bay United FC,YoungHeart Manawatu,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/nz-football-championship-2007-2008-hawkes-bay-united-fc-youngheart-manawatu/
+new zealand-2007-2008,3,2007-11-18,01:00,sunday,Waikato FC,Team Wellington,1,2,3,A,L,W,0,2,2,A,L,W,http://www.worldfootball.net/report/nz-football-championship-2007-2008-waikato-fc-team-wellington/
+new zealand-2007-2008,3,2007-11-18,03:00,sunday,Otago United,Auckland City FC,0,2,2,A,L,W,0,2,2,A,L,W,http://www.worldfootball.net/report/nz-football-championship-2007-2008-otago-united-fc-auckland-city-fc/
+new zealand-2007-2008,3,2007-11-18,03:00,sunday,Canterbury United,Waitakere United,1,3,4,A,L,W,1,3,4,A,L,W,http://www.worldfootball.net/report/nz-football-championship-2007-2008-canterbury-united-waitakere-united/
+new zealand-2007-2008,4,2007-11-25,02:00,sunday,YoungHeart Manawatu,Otago United,6,0,6,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/nz-football-championship-2007-2008-youngheart-manawatu-otago-united-fc/
+new zealand-2007-2008,4,2007-11-25,02:00,sunday,Auckland City FC,Waitakere United,1,1,2,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/nz-football-championship-2007-2008-auckland-city-fc-waitakere-united/
+new zealand-2007-2008,4,2007-11-25,03:00,sunday,Team Wellington,Hawke’s Bay United FC,4,3,7,H,W,L,3,1,4,H,W,L,http://www.worldfootball.net/report/nz-football-championship-2007-2008-team-wellington-hawkes-bay-united-fc/
+new zealand-2007-2008,4,2007-11-25,03:00,sunday,Canterbury United,Waikato FC,1,1,2,D,D,D,1,0,1,H,W,L,http://www.worldfootball.net/report/nz-football-championship-2007-2008-canterbury-united-waikato-fc/
+new zealand-2007-2008,5,2007-12-01,02:00,saturday,Waitakere United,YoungHeart Manawatu,3,1,4,H,W,L,1,1,2,D,D,D,http://www.worldfootball.net/report/nz-football-championship-2007-2008-waitakere-united-youngheart-manawatu/
+new zealand-2007-2008,5,2007-12-01,03:00,saturday,Otago United,Hawke’s Bay United FC,1,2,3,A,L,W,1,1,2,D,D,D,http://www.worldfootball.net/report/nz-football-championship-2007-2008-otago-united-fc-hawkes-bay-united-fc/
+new zealand-2007-2008,5,2007-12-02,01:00,sunday,Waikato FC,Auckland City FC,2,3,5,A,L,W,0,2,2,A,L,W,http://www.worldfootball.net/report/nz-football-championship-2007-2008-waikato-fc-auckland-city-fc/
+new zealand-2007-2008,5,2007-12-02,03:00,sunday,Canterbury United,Team Wellington,0,1,1,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/nz-football-championship-2007-2008-canterbury-united-team-wellington/
+new zealand-2007-2008,6,2007-12-08,01:10,saturday,Auckland City FC,YoungHeart Manawatu,4,1,5,H,W,L,0,1,1,A,L,W,http://www.worldfootball.net/report/nz-football-championship-2007-2008-auckland-city-fc-youngheart-manawatu/
+new zealand-2007-2008,6,2007-12-08,04:00,saturday,Hawke’s Bay United FC,Canterbury United,2,1,3,H,W,L,2,1,3,H,W,L,http://www.worldfootball.net/report/nz-football-championship-2007-2008-hawkes-bay-united-fc-canterbury-united/
+new zealand-2007-2008,6,2007-12-09,01:00,sunday,Waikato FC,Otago United,3,1,4,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/nz-football-championship-2007-2008-waikato-fc-otago-united-fc/
+new zealand-2007-2008,7,2007-12-15,02:00,saturday,Waitakere United,Otago United,4,0,4,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/nz-football-championship-2007-2008-waitakere-united-otago-united-fc/
+new zealand-2007-2008,7,2007-12-15,05:00,saturday,Team Wellington,Auckland City FC,1,1,2,D,D,D,1,0,1,H,W,L,http://www.worldfootball.net/report/nz-football-championship-2007-2008-team-wellington-auckland-city-fc/
+new zealand-2007-2008,7,2007-12-16,01:00,sunday,Waikato FC,Hawke’s Bay United FC,1,1,2,D,D,D,0,1,1,A,L,W,http://www.worldfootball.net/report/nz-football-championship-2007-2008-waikato-fc-hawkes-bay-united-fc/
+new zealand-2007-2008,7,2007-12-16,03:00,sunday,YoungHeart Manawatu,Canterbury United,3,2,5,H,W,L,1,1,2,D,D,D,http://www.worldfootball.net/report/nz-football-championship-2007-2008-youngheart-manawatu-canterbury-united/
+new zealand-2007-2008,6,2007-12-23,03:00,sunday,Team Wellington,Waitakere United,1,5,6,A,L,W,1,3,4,A,L,W,http://www.worldfootball.net/report/nz-football-championship-2007-2008-team-wellington-waitakere-united/
+new zealand-2007-2008,8,2008-01-05,02:00,saturday,Otago United,Canterbury United,2,0,2,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/nz-football-championship-2007-2008-otago-united-fc-canterbury-united_2/
+new zealand-2007-2008,8,2008-01-05,03:00,saturday,Waitakere United,Waikato FC,2,0,2,H,W,L,2,0,2,H,W,L,http://www.worldfootball.net/report/nz-football-championship-2007-2008-waitakere-united-waikato-fc/
+new zealand-2007-2008,8,2008-01-05,04:00,saturday,Hawke’s Bay United FC,Auckland City FC,0,1,1,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/nz-football-championship-2007-2008-hawkes-bay-united-fc-auckland-city-fc/
+new zealand-2007-2008,8,2008-01-06,02:00,sunday,YoungHeart Manawatu,Team Wellington,0,8,8,A,L,W,0,3,3,A,L,W,http://www.worldfootball.net/report/nz-football-championship-2007-2008-youngheart-manawatu-team-wellington/
+new zealand-2007-2008,14,2008-01-13,03:00,sunday,Team Wellington,Waitakere United,0,1,1,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/nz-football-championship-2007-2008-team-wellington-waitakere-united_2/
+new zealand-2007-2008,20,2008-01-13,03:00,sunday,Canterbury United,Auckland City FC,0,3,3,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/nz-football-championship-2007-2008-canterbury-united-auckland-city-fc/
+new zealand-2007-2008,9,2008-01-19,03:00,saturday,Auckland City FC,Otago United,3,0,3,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/nz-football-championship-2007-2008-auckland-city-fc-otago-united-fc/
+new zealand-2007-2008,9,2008-01-20,02:00,sunday,YoungHeart Manawatu,Hawke’s Bay United FC,1,3,4,A,L,W,1,0,1,H,W,L,http://www.worldfootball.net/report/nz-football-championship-2007-2008-youngheart-manawatu-hawkes-bay-united-fc/
+new zealand-2007-2008,9,2008-01-20,03:00,sunday,Team Wellington,Waikato FC,2,0,2,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/nz-football-championship-2007-2008-team-wellington-waikato-fc/
+new zealand-2007-2008,9,2008-01-20,03:00,sunday,Canterbury United,Waitakere United,1,9,10,A,L,W,0,3,3,A,L,W,http://www.worldfootball.net/report/nz-football-championship-2007-2008-canterbury-united-waitakere-united_2/
+new zealand-2007-2008,10,2008-01-26,00:00,saturday,Waikato FC,Canterbury United,3,1,4,H,W,L,3,0,3,H,W,L,http://www.worldfootball.net/report/nz-football-championship-2007-2008-waikato-fc-canterbury-united/
+new zealand-2007-2008,10,2008-01-26,03:00,saturday,Waitakere United,Auckland City FC,2,0,2,H,W,L,2,0,2,H,W,L,http://www.worldfootball.net/report/nz-football-championship-2007-2008-waitakere-united-auckland-city-fc/
+new zealand-2007-2008,10,2008-01-26,03:00,saturday,Otago United,YoungHeart Manawatu,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/nz-football-championship-2007-2008-otago-united-fc-youngheart-manawatu/
+new zealand-2007-2008,10,2008-01-26,04:00,saturday,Hawke’s Bay United FC,Team Wellington,2,2,4,D,D,D,1,1,2,D,D,D,http://www.worldfootball.net/report/nz-football-championship-2007-2008-hawkes-bay-united-fc-team-wellington/
+new zealand-2007-2008,11,2008-02-02,02:00,saturday,Team Wellington,Canterbury United,3,0,3,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/nz-football-championship-2007-2008-team-wellington-canterbury-united/
+new zealand-2007-2008,11,2008-02-02,04:00,saturday,Hawke’s Bay United FC,Otago United,3,1,4,H,W,L,1,1,2,D,D,D,http://www.worldfootball.net/report/nz-football-championship-2007-2008-hawkes-bay-united-fc-otago-united-fc/
+new zealand-2007-2008,11,2008-02-03,02:00,sunday,YoungHeart Manawatu,Waitakere United,3,2,5,H,W,L,0,1,1,A,L,W,http://www.worldfootball.net/report/nz-football-championship-2007-2008-youngheart-manawatu-waitakere-united/
+new zealand-2007-2008,11,2008-02-03,03:00,sunday,Auckland City FC,Waikato FC,2,0,2,H,W,L,2,0,2,H,W,L,http://www.worldfootball.net/report/nz-football-championship-2007-2008-auckland-city-fc-waikato-fc/
+new zealand-2007-2008,12,2008-02-06,01:00,wednesday,Otago United,Waitakere United,1,1,2,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/nz-football-championship-2007-2008-otago-united-fc-waitakere-united/
+new zealand-2007-2008,12,2008-02-06,02:00,wednesday,Auckland City FC,Team Wellington,2,0,2,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/nz-football-championship-2007-2008-auckland-city-fc-team-wellington/
+new zealand-2007-2008,12,2008-02-06,02:00,wednesday,Canterbury United,YoungHeart Manawatu,2,3,5,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/nz-football-championship-2007-2008-canterbury-united-youngheart-manawatu/
+new zealand-2007-2008,12,2008-02-06,04:00,wednesday,Hawke’s Bay United FC,Waikato FC,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/nz-football-championship-2007-2008-hawkes-bay-united-fc-waikato-fc/
+new zealand-2007-2008,13,2008-02-09,03:00,saturday,Waitakere United,Hawke’s Bay United FC,5,0,5,H,W,L,3,0,3,H,W,L,http://www.worldfootball.net/report/nz-football-championship-2007-2008-waitakere-united-hawkes-bay-united-fc/
+new zealand-2007-2008,13,2008-02-10,01:00,sunday,Waikato FC,YoungHeart Manawatu,3,2,5,H,W,L,2,1,3,H,W,L,http://www.worldfootball.net/report/nz-football-championship-2007-2008-waikato-fc-youngheart-manawatu/
+new zealand-2007-2008,13,2008-02-10,02:00,sunday,Team Wellington,Otago United,1,0,1,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/nz-football-championship-2007-2008-team-wellington-otago-united-fc/
+new zealand-2007-2008,13,2008-02-10,03:00,sunday,Canterbury United,Auckland City FC,1,2,3,A,L,W,0,2,2,A,L,W,http://www.worldfootball.net/report/nz-football-championship-2007-2008-canterbury-united-auckland-city-fc_2/
+new zealand-2007-2008,14,2008-02-16,02:00,saturday,Auckland City FC,YoungHeart Manawatu,4,1,5,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/nz-football-championship-2007-2008-auckland-city-fc-youngheart-manawatu_2/
+new zealand-2007-2008,14,2008-02-17,01:00,sunday,Waikato FC,Otago United,0,2,2,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/nz-football-championship-2007-2008-waikato-fc-otago-united-fc_2/
+new zealand-2007-2008,15,2008-02-23,03:00,saturday,Auckland City FC,Canterbury United,4,1,5,H,W,L,3,1,4,H,W,L,http://www.worldfootball.net/report/nz-football-championship-2007-2008-auckland-city-fc-canterbury-united/
+new zealand-2007-2008,15,2008-02-23,04:00,saturday,Hawke’s Bay United FC,Waitakere United,0,1,1,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/nz-football-championship-2007-2008-hawkes-bay-united-fc-waitakere-united/
+new zealand-2007-2008,15,2008-02-24,01:00,sunday,Otago United,Team Wellington,0,5,5,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/nz-football-championship-2007-2008-otago-united-fc-team-wellington/
+new zealand-2007-2008,15,2008-02-24,02:00,sunday,YoungHeart Manawatu,Waikato FC,0,1,1,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/nz-football-championship-2007-2008-youngheart-manawatu-waikato-fc/
+new zealand-2007-2008,16,2008-03-01,03:00,saturday,Waitakere United,Waikato FC,2,0,2,H,W,L,2,0,2,H,W,L,http://www.worldfootball.net/report/nz-football-championship-2007-2008-waitakere-united-waikato-fc_2/
+new zealand-2007-2008,16,2008-03-02,02:00,sunday,YoungHeart Manawatu,Team Wellington,0,4,4,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/nz-football-championship-2007-2008-youngheart-manawatu-team-wellington_2/
+new zealand-2007-2008,16,2008-03-02,03:00,sunday,Canterbury United,Otago United,2,0,2,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/nz-football-championship-2007-2008-canterbury-united-otago-united-fc/
+new zealand-2007-2008,16,2008-03-02,04:00,sunday,Hawke’s Bay United FC,Auckland City FC,2,0,2,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/nz-football-championship-2007-2008-hawkes-bay-united-fc-auckland-city-fc_2/
+new zealand-2007-2008,17,2008-03-08,03:00,saturday,Waitakere United,Canterbury United,1,0,1,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/nz-football-championship-2007-2008-waitakere-united-canterbury-united/
+new zealand-2007-2008,17,2008-03-08,03:00,saturday,Team Wellington,Waikato FC,2,0,2,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/nz-football-championship-2007-2008-team-wellington-waikato-fc_2/
+new zealand-2007-2008,17,2008-03-09,02:00,sunday,YoungHeart Manawatu,Hawke’s Bay United FC,2,3,5,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/nz-football-championship-2007-2008-youngheart-manawatu-hawkes-bay-united-fc_2/
+new zealand-2007-2008,17,2008-03-09,02:00,sunday,Auckland City FC,Otago United,2,0,2,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/nz-football-championship-2007-2008-auckland-city-fc-otago-united-fc_2/
+new zealand-2007-2008,18,2008-03-15,03:00,saturday,Otago United,YoungHeart Manawatu,1,0,1,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/nz-football-championship-2007-2008-otago-united-fc-youngheart-manawatu_2/
+new zealand-2007-2008,18,2008-03-15,04:00,saturday,Hawke’s Bay United FC,Team Wellington,0,3,3,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/nz-football-championship-2007-2008-hawkes-bay-united-fc-team-wellington_2/
+new zealand-2007-2008,18,2008-03-16,00:00,sunday,Waikato FC,Canterbury United,1,1,2,D,D,D,0,1,1,A,L,W,http://www.worldfootball.net/report/nz-football-championship-2007-2008-waikato-fc-canterbury-united_2/
+new zealand-2007-2008,18,2008-03-16,03:00,sunday,Waitakere United,Auckland City FC,1,0,1,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/nz-football-championship-2007-2008-waitakere-united-auckland-city-fc_2/
+new zealand-2007-2008,19,2008-03-22,03:00,saturday,Auckland City FC,Waikato FC,2,0,2,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/nz-football-championship-2007-2008-auckland-city-fc-waikato-fc_2/
+new zealand-2007-2008,19,2008-03-22,04:00,saturday,Hawke’s Bay United FC,Otago United,2,1,3,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/nz-football-championship-2007-2008-hawkes-bay-united-fc-otago-united-fc_2/
+new zealand-2007-2008,19,2008-03-23,03:00,sunday,YoungHeart Manawatu,Waitakere United,1,2,3,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/nz-football-championship-2007-2008-youngheart-manawatu-waitakere-united_2/
+new zealand-2007-2008,19,2008-03-23,03:00,sunday,Team Wellington,Canterbury United,2,0,2,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/nz-football-championship-2007-2008-team-wellington-canterbury-united_2/
+new zealand-2007-2008,20,2008-03-29,03:00,saturday,Waitakere United,Hawke’s Bay United FC,2,0,2,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/nz-football-championship-2007-2008-waitakere-united-hawkes-bay-united-fc_2/
+new zealand-2007-2008,20,2008-03-30,02:00,sunday,Waikato FC,YoungHeart Manawatu,4,5,9,A,L,W,2,3,5,A,L,W,http://www.worldfootball.net/report/nz-football-championship-2007-2008-waikato-fc-youngheart-manawatu_2/
+new zealand-2007-2008,20,2008-03-30,03:00,sunday,Team Wellington,Otago United,3,1,4,H,W,L,1,1,2,D,D,D,http://www.worldfootball.net/report/nz-football-championship-2007-2008-team-wellington-otago-united-fc_2/
+new zealand-2007-2008,21,2008-04-06,03:00,sunday,Auckland City FC,Team Wellington,3,2,5,H,W,L,2,1,3,H,W,L,http://www.worldfootball.net/report/nz-football-championship-2007-2008-auckland-city-fc-team-wellington_2/
+new zealand-2007-2008,21,2008-04-06,03:00,sunday,YoungHeart Manawatu,Canterbury United,1,5,6,A,L,W,0,2,2,A,L,W,http://www.worldfootball.net/report/nz-football-championship-2007-2008-youngheart-manawatu-canterbury-united_2/
+new zealand-2007-2008,21,2008-04-06,03:00,sunday,Hawke’s Bay United FC,Waikato FC,2,2,4,D,D,D,0,1,1,A,L,W,http://www.worldfootball.net/report/nz-football-championship-2007-2008-hawkes-bay-united-fc-waikato-fc_2/
+new zealand-2007-2008,21,2008-04-06,03:00,sunday,Otago United,Waitakere United,2,2,4,D,D,D,1,1,2,D,D,D,http://www.worldfootball.net/report/nz-football-championship-2007-2008-otago-united-fc-waitakere-united_2/
+new zealand-2007-2008-playoffs,Semi-finals,2008-04-12,03:30,saturday,Auckland City FC,Team Wellington,2,2,4,D,D,D,0,1,1,A,L,W,http://www.worldfootball.net/report/nz-football-championship-2007-2008-playoffs-halbfinale-auckland-city-fc-team-wellington/
+new zealand-2007-2008,14,2008-04-13,04:00,sunday,Canterbury United,Hawke’s Bay United FC,2,1,3,H,W,L,2,0,2,H,W,L,http://www.worldfootball.net/report/nz-football-championship-2007-2008-canterbury-united-hawkes-bay-united-fc_2/
+new zealand-2007-2008-playoffs,Final,2008-04-20,03:00,sunday,Waitakere United,Team Wellington,2,0,2,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/nz-football-championship-2007-2008-playoffs-finale-waitakere-united-team-wellington/
+new zealand-2008-2009,1,2008-11-08,02:00,saturday,Canterbury United,YoungHeart Manawatu,0,1,1,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/nz-football-championship-2008-2009-canterbury-united-youngheart-manawatu/
+new zealand-2008-2009,1,2008-11-09,02:00,sunday,Auckland City FC,Otago United,2,0,2,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/nz-football-championship-2008-2009-auckland-city-fc-otago-united-fc/
+new zealand-2008-2009,1,2008-11-09,02:00,sunday,Hawke’s Bay United FC,Waikato FC,2,1,3,H,W,L,2,0,2,H,W,L,http://www.worldfootball.net/report/nz-football-championship-2008-2009-hawkes-bay-united-fc-waikato-fc/
+new zealand-2008-2009,1,2008-11-09,03:00,sunday,Team Wellington,Waitakere United,2,4,6,A,L,W,2,2,4,D,D,D,http://www.worldfootball.net/report/nz-football-championship-2008-2009-team-wellington-waitakere-united/
+new zealand-2008-2009,2,2008-11-15,01:00,saturday,Waikato FC,Auckland City FC,1,3,4,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/nz-football-championship-2008-2009-waikato-fc-auckland-city-fc/
+new zealand-2008-2009,2,2008-11-15,01:00,saturday,YoungHeart Manawatu,Team Wellington,3,0,3,H,W,L,2,0,2,H,W,L,http://www.worldfootball.net/report/nz-football-championship-2008-2009-youngheart-manawatu-team-wellington/
+new zealand-2008-2009,2,2008-11-16,02:00,sunday,Otago United,Canterbury United,2,1,3,H,W,L,0,1,1,A,L,W,http://www.worldfootball.net/report/nz-football-championship-2008-2009-otago-united-fc-canterbury-united/
+new zealand-2008-2009,3,2008-11-23,01:30,sunday,Canterbury United,Waikato FC,0,1,1,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/nz-football-championship-2008-2009-canterbury-united-waikato-fc/
+new zealand-2008-2009,3,2008-11-23,02:00,sunday,Hawke’s Bay United FC,Team Wellington,1,2,3,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/nz-football-championship-2008-2009-hawkes-bay-united-fc-team-wellington/
+new zealand-2008-2009,3,2008-11-23,03:00,sunday,Otago United,YoungHeart Manawatu,2,3,5,A,L,W,1,0,1,H,W,L,http://www.worldfootball.net/report/nz-football-championship-2008-2009-otago-united-fc-youngheart-manawatu/
+new zealand-2008-2009,3,2008-11-26,04:45,wednesday,Auckland City FC,Waitakere United,1,2,3,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/nz-football-championship-2008-2009-auckland-city-fc-waitakere-united/
+new zealand-2008-2009,4,2008-11-29,01:00,saturday,YoungHeart Manawatu,Hawke’s Bay United FC,1,2,3,A,L,W,1,1,2,D,D,D,http://www.worldfootball.net/report/nz-football-championship-2008-2009-youngheart-manawatu-hawkes-bay-united-fc/
+new zealand-2008-2009,4,2008-11-29,02:00,saturday,Team Wellington,Auckland City FC,2,1,3,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/nz-football-championship-2008-2009-team-wellington-auckland-city-fc/
+new zealand-2008-2009,4,2008-11-29,02:00,saturday,Waitakere United,Canterbury United,1,1,2,D,D,D,1,0,1,H,W,L,http://www.worldfootball.net/report/nz-football-championship-2008-2009-waitakere-united-canterbury-united/
+new zealand-2008-2009,4,2008-11-30,00:00,sunday,Waikato FC,Otago United,3,1,4,H,W,L,2,1,3,H,W,L,http://www.worldfootball.net/report/nz-football-championship-2008-2009-waikato-fc-otago-united-fc/
+new zealand-2008-2009,5,2008-12-07,01:00,sunday,Waikato FC,YoungHeart Manawatu,2,0,2,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/nz-football-championship-2008-2009-waikato-fc-youngheart-manawatu/
+new zealand-2008-2009,5,2008-12-07,02:00,sunday,Auckland City FC,Hawke’s Bay United FC,3,1,4,H,W,L,0,1,1,A,L,W,http://www.worldfootball.net/report/nz-football-championship-2008-2009-auckland-city-fc-hawkes-bay-united-fc/
+new zealand-2008-2009,5,2008-12-07,02:00,sunday,Canterbury United,Team Wellington,2,2,4,D,D,D,1,0,1,H,W,L,http://www.worldfootball.net/report/nz-football-championship-2008-2009-canterbury-united-team-wellington/
+new zealand-2008-2009,6,2008-12-14,02:00,sunday,Hawke’s Bay United FC,Canterbury United,1,2,3,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/nz-football-championship-2008-2009-hawkes-bay-united-fc-canterbury-united/
+new zealand-2008-2009,6,2008-12-14,03:00,sunday,Team Wellington,Otago United,1,1,2,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/nz-football-championship-2008-2009-team-wellington-otago-united-fc/
+new zealand-2008-2009,7,2008-12-21,00:00,sunday,Waikato FC,Team Wellington,2,0,2,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/nz-football-championship-2008-2009-waikato-fc-team-wellington/
+new zealand-2008-2009,7,2008-12-21,00:00,sunday,Otago United,Hawke’s Bay United FC,1,3,4,A,L,W,1,0,1,H,W,L,http://www.worldfootball.net/report/nz-football-championship-2008-2009-otago-united-fc-hawkes-bay-united-fc/
+new zealand-2008-2009,7,2008-12-21,02:00,sunday,Canterbury United,Auckland City FC,2,1,3,H,W,L,0,1,1,A,L,W,http://www.worldfootball.net/report/nz-football-championship-2008-2009-canterbury-united-auckland-city-fc/
+new zealand-2008-2009,7,2008-12-21,02:00,sunday,Waitakere United,YoungHeart Manawatu,3,0,3,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/nz-football-championship-2008-2009-waitakere-united-youngheart-manawatu/
+new zealand-2008-2009,8,2009-01-10,00:00,saturday,YoungHeart Manawatu,Canterbury United,4,0,4,H,W,L,3,0,3,H,W,L,http://www.worldfootball.net/report/nz-football-championship-2008-2009-youngheart-manawatu-canterbury-united/
+new zealand-2008-2009,8,2009-01-11,01:00,sunday,Waikato FC,Hawke’s Bay United FC,0,1,1,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/nz-football-championship-2008-2009-waikato-fc-hawkes-bay-united-fc/
+new zealand-2008-2009,8,2009-01-11,02:00,sunday,Waitakere United,Team Wellington,2,0,2,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/nz-football-championship-2008-2009-waitakere-united-team-wellington/
+new zealand-2008-2009,8,2009-01-11,02:00,sunday,Otago United,Auckland City FC,0,1,1,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/nz-football-championship-2008-2009-otago-united-fc-auckland-city-fc/
+new zealand-2008-2009,9,2009-01-17,02:00,saturday,Auckland City FC,Waikato FC,3,0,3,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/nz-football-championship-2008-2009-auckland-city-fc-waikato-fc/
+new zealand-2008-2009,9,2009-01-18,00:00,sunday,Team Wellington,YoungHeart Manawatu,3,2,5,H,W,L,0,2,2,A,L,W,http://www.worldfootball.net/report/nz-football-championship-2008-2009-team-wellington-youngheart-manawatu/
+new zealand-2008-2009,9,2009-01-18,02:00,sunday,Canterbury United,Otago United,1,2,3,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/nz-football-championship-2008-2009-canterbury-united-otago-united-fc/
+new zealand-2008-2009,9,2009-01-18,02:00,sunday,Waitakere United,Hawke’s Bay United FC,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/nz-football-championship-2008-2009-waitakere-united-hawkes-bay-united-fc/
+new zealand-2008-2009,10,2009-01-23,23:30,friday,Waikato FC,Canterbury United,3,1,4,H,W,L,1,1,2,D,D,D,http://www.worldfootball.net/report/nz-football-championship-2008-2009-waikato-fc-canterbury-united/
+new zealand-2008-2009,10,2009-01-24,00:00,saturday,YoungHeart Manawatu,Otago United,2,0,2,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/nz-football-championship-2008-2009-youngheart-manawatu-otago-united-fc/
+new zealand-2008-2009,10,2009-01-24,02:00,saturday,Waitakere United,Auckland City FC,4,2,6,H,W,L,2,0,2,H,W,L,http://www.worldfootball.net/report/nz-football-championship-2008-2009-waitakere-united-auckland-city-fc/
+new zealand-2008-2009,10,2009-01-25,02:00,sunday,Team Wellington,Hawke’s Bay United FC,2,5,7,A,L,W,0,2,2,A,L,W,http://www.worldfootball.net/report/nz-football-championship-2008-2009-team-wellington-hawkes-bay-united-fc/
+new zealand-2008-2009,6,2009-01-26,02:00,monday,Waitakere United,Waikato FC,2,0,2,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/nz-football-championship-2008-2009-waitakere-united-waikato-fc/
+new zealand-2008-2009,11,2009-01-31,02:00,saturday,Auckland City FC,Team Wellington,1,3,4,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/nz-football-championship-2008-2009-auckland-city-fc-team-wellington/
+new zealand-2008-2009,11,2009-02-01,00:00,sunday,Otago United,Waikato FC,3,3,6,D,D,D,2,0,2,H,W,L,http://www.worldfootball.net/report/nz-football-championship-2008-2009-otago-united-fc-waikato-fc/
+new zealand-2008-2009,11,2009-02-01,02:00,sunday,Hawke’s Bay United FC,YoungHeart Manawatu,2,3,5,A,L,W,2,1,3,H,W,L,http://www.worldfootball.net/report/nz-football-championship-2008-2009-hawkes-bay-united-fc-youngheart-manawatu/
+new zealand-2008-2009,11,2009-02-01,02:00,sunday,Canterbury United,Waitakere United,0,2,2,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/nz-football-championship-2008-2009-canterbury-united-waitakere-united/
+new zealand-2008-2009,12,2009-02-06,00:00,friday,Waitakere United,Otago United,3,0,3,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/nz-football-championship-2008-2009-waitakere-united-otago-united-fc/
+new zealand-2008-2009,12,2009-02-06,02:00,friday,Hawke’s Bay United FC,Auckland City FC,0,1,1,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/nz-football-championship-2008-2009-hawkes-bay-united-fc-auckland-city-fc/
+new zealand-2008-2009,13,2009-02-08,01:00,sunday,Waikato FC,Waitakere United,2,1,3,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/nz-football-championship-2008-2009-waikato-fc-waitakere-united/
+new zealand-2008-2009,13,2009-02-08,02:00,sunday,Canterbury United,Hawke’s Bay United FC,0,4,4,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/nz-football-championship-2008-2009-canterbury-united-hawkes-bay-united-fc/
+new zealand-2008-2009,13,2009-02-08,02:00,sunday,Auckland City FC,YoungHeart Manawatu,3,0,3,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/nz-football-championship-2008-2009-auckland-city-fc-youngheart-manawatu/
+new zealand-2008-2009,13,2009-02-08,02:00,sunday,Otago United,Team Wellington,2,4,6,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/nz-football-championship-2008-2009-otago-united-fc-team-wellington/
+new zealand-2008-2009,12,2009-02-14,01:00,saturday,YoungHeart Manawatu,Waikato FC,1,0,1,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/nz-football-championship-2008-2009-youngheart-manawatu-waikato-fc/
+new zealand-2008-2009,2,2009-02-15,02:00,sunday,Hawke’s Bay United FC,Waitakere United,0,1,1,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/nz-football-championship-2008-2009-hawkes-bay-united-fc-waitakere-united/
+new zealand-2008-2009,6,2009-02-21,01:00,saturday,YoungHeart Manawatu,Auckland City FC,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/nz-football-championship-2008-2009-youngheart-manawatu-auckland-city-fc/
+new zealand-2008-2009,5,2009-02-22,02:00,sunday,Otago United,Waitakere United,2,3,5,A,L,W,1,1,2,D,D,D,http://www.worldfootball.net/report/nz-football-championship-2008-2009-otago-united-fc-waitakere-united/
+new zealand-2008-2009,12,2009-02-22,02:00,sunday,Team Wellington,Canterbury United,3,1,4,H,W,L,0,1,1,A,L,W,http://www.worldfootball.net/report/nz-football-championship-2008-2009-team-wellington-canterbury-united/
+new zealand-2008-2009,14,2009-03-01,00:00,sunday,Hawke’s Bay United FC,Otago United,2,0,2,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/nz-football-championship-2008-2009-hawkes-bay-united-fc-otago-united-fc/
+new zealand-2008-2009,14,2009-03-01,01:00,sunday,YoungHeart Manawatu,Waitakere United,2,2,4,D,D,D,1,0,1,H,W,L,http://www.worldfootball.net/report/nz-football-championship-2008-2009-youngheart-manawatu-waitakere-united/
+new zealand-2008-2009,14,2009-03-01,01:00,sunday,Team Wellington,Waikato FC,4,1,5,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/nz-football-championship-2008-2009-team-wellington-waikato-fc/
+new zealand-2008-2009,14,2009-03-01,01:00,sunday,Auckland City FC,Canterbury United,5,0,5,H,W,L,5,0,5,H,W,L,http://www.worldfootball.net/report/nz-football-championship-2008-2009-auckland-city-fc-canterbury-united/
+new zealand-2008-2009-playoffs,Semi-finals,2009-03-14,04:00,saturday,Team Wellington,Waitakere United,0,1,1,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/nz-football-championship-2008-2009-playoffs-halbfinale-team-wellington-waitakere-united/
+new zealand-2008-2009-playoffs,Semi-finals,2009-03-15,01:30,sunday,YoungHeart Manawatu,Auckland City FC,3,1,4,H,W,L,2,0,2,H,W,L,http://www.worldfootball.net/report/nz-football-championship-2008-2009-playoffs-halbfinale-youngheart-manawatu-auckland-city-fc/
+new zealand-2008-2009-playoffs,Semi-finals,2009-03-21,02:00,saturday,Waitakere United,Team Wellington,5,0,5,H,W,L,2,0,2,H,W,L,http://www.worldfootball.net/report/nz-football-championship-2008-2009-playoffs-halbfinale-waitakere-united-team-wellington/
+new zealand-2008-2009-playoffs,Semi-finals,2009-03-22,01:00,sunday,Auckland City FC,YoungHeart Manawatu,3,0,3,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/nz-football-championship-2008-2009-playoffs-halbfinale-auckland-city-fc-youngheart-manawatu/
+new zealand-2008-2009-playoffs,Final,2009-03-29,02:05,sunday,Waitakere United,Auckland City FC,1,2,3,A,L,W,1,0,1,H,W,L,http://www.worldfootball.net/report/nz-football-championship-2008-2009-playoffs-finale-waitakere-united-auckland-city-fc/
+new zealand-2009-2010,4,2009-10-25,01:00,sunday,Auckland City FC,Waikato FC,5,0,5,H,W,L,2,0,2,H,W,L,http://www.worldfootball.net/report/nz-football-championship-2009-2010-auckland-city-fc-waikato-fc/
+new zealand-2009-2010,1,2009-11-01,01:00,sunday,Otago United,Auckland City FC,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/nz-football-championship-2009-2010-otago-united-fc-auckland-city-fc/
+new zealand-2009-2010,1,2009-11-01,01:00,sunday,Team Wellington,YoungHeart Manawatu,0,4,4,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/nz-football-championship-2009-2010-team-wellington-youngheart-manawatu/
+new zealand-2009-2010,1,2009-11-01,01:00,sunday,Waikato FC,Hawke’s Bay United FC,4,2,6,H,W,L,3,1,4,H,W,L,http://www.worldfootball.net/report/nz-football-championship-2009-2010-waikato-fc-hawkes-bay-united-fc/
+new zealand-2009-2010,1,2009-11-01,01:00,sunday,Waitakere United,Canterbury United,1,0,1,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/nz-football-championship-2009-2010-waitakere-united-canterbury-united/
+new zealand-2009-2010,2,2009-11-08,00:00,sunday,Hawke’s Bay United FC,Otago United,2,1,3,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/nz-football-championship-2009-2010-hawkes-bay-united-fc-otago-united-fc/
+new zealand-2009-2010,2,2009-11-08,01:30,sunday,Canterbury United,Waikato FC,2,0,2,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/nz-football-championship-2009-2010-canterbury-united-waikato-fc/
+new zealand-2009-2010,2,2009-11-14,03:15,saturday,Team Wellington,Auckland City FC,0,1,1,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/nz-football-championship-2009-2010-team-wellington-auckland-city-fc/
+new zealand-2009-2010,2,2009-11-15,01:00,sunday,YoungHeart Manawatu,Waitakere United,0,1,1,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/nz-football-championship-2009-2010-youngheart-manawatu-waitakere-united/
+new zealand-2009-2010,3,2009-11-22,01:00,sunday,Auckland City FC,Waitakere United,2,1,3,H,W,L,1,1,2,D,D,D,http://www.worldfootball.net/report/nz-football-championship-2009-2010-auckland-city-fc-waitakere-united/
+new zealand-2009-2010,3,2009-11-22,01:00,sunday,Canterbury United,Hawke’s Bay United FC,1,1,2,D,D,D,1,1,2,D,D,D,http://www.worldfootball.net/report/nz-football-championship-2009-2010-canterbury-united-hawkes-bay-united-fc/
+new zealand-2009-2010,3,2009-11-22,01:00,sunday,Team Wellington,Otago United,0,2,2,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/nz-football-championship-2009-2010-team-wellington-otago-united-fc/
+new zealand-2009-2010,3,2009-11-22,01:30,sunday,Waikato FC,YoungHeart Manawatu,1,2,3,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/nz-football-championship-2009-2010-waikato-fc-youngheart-manawatu/
+new zealand-2009-2010,4,2009-12-06,00:00,sunday,YoungHeart Manawatu,Canterbury United,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/nz-football-championship-2009-2010-youngheart-manawatu-canterbury-united/
+new zealand-2009-2010,4,2009-12-06,01:00,sunday,Hawke’s Bay United FC,Team Wellington,0,2,2,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/nz-football-championship-2009-2010-hawkes-bay-united-fc-team-wellington/
+new zealand-2009-2010,4,2009-12-06,01:00,sunday,Otago United,Waitakere United,1,2,3,A,L,W,1,1,2,D,D,D,http://www.worldfootball.net/report/nz-football-championship-2009-2010-otago-united-fc-waitakere-united/
+new zealand-2009-2010,5,2009-12-13,01:00,sunday,Waikato FC,Otago United,0,1,1,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/nz-football-championship-2009-2010-waikato-fc-otago-united-fc/
+new zealand-2009-2010,5,2009-12-13,01:00,sunday,Waitakere United,Team Wellington,2,1,3,H,W,L,2,0,2,H,W,L,http://www.worldfootball.net/report/nz-football-championship-2009-2010-waitakere-united-team-wellington/
+new zealand-2009-2010,5,2009-12-13,01:00,sunday,YoungHeart Manawatu,Hawke’s Bay United FC,1,0,1,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/nz-football-championship-2009-2010-youngheart-manawatu-hawkes-bay-united-fc/
+new zealand-2009-2010,6,2009-12-20,01:00,sunday,Hawke’s Bay United FC,Waitakere United,2,2,4,D,D,D,1,2,3,A,L,W,http://www.worldfootball.net/report/nz-football-championship-2009-2010-hawkes-bay-united-fc-waitakere-united/
+new zealand-2009-2010,6,2009-12-20,01:00,sunday,Otago United,Canterbury United,1,3,4,A,L,W,1,3,4,A,L,W,http://www.worldfootball.net/report/nz-football-championship-2009-2010-otago-united-fc-canterbury-united/
+new zealand-2009-2010,6,2009-12-20,01:00,sunday,Team Wellington,Waikato FC,2,1,3,H,W,L,1,1,2,D,D,D,http://www.worldfootball.net/report/nz-football-championship-2009-2010-team-wellington-waikato-fc/
+new zealand-2009-2010,7,2010-01-09,00:00,saturday,YoungHeart Manawatu,Otago United,0,3,3,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/nz-football-championship-2009-2010-youngheart-manawatu-otago-united-fc/
+new zealand-2009-2010,7,2010-01-10,01:00,sunday,Auckland City FC,Hawke’s Bay United FC,2,1,3,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/nz-football-championship-2009-2010-auckland-city-fc-hawkes-bay-united-fc/
+new zealand-2009-2010,7,2010-01-10,01:00,sunday,Canterbury United,Team Wellington,1,4,5,A,L,W,0,3,3,A,L,W,http://www.worldfootball.net/report/nz-football-championship-2009-2010-canterbury-united-team-wellington/
+new zealand-2009-2010,7,2010-01-10,01:00,sunday,Waikato FC,Waitakere United,2,3,5,A,L,W,1,1,2,D,D,D,http://www.worldfootball.net/report/nz-football-championship-2009-2010-waikato-fc-waitakere-united/
+new zealand-2009-2010,8,2010-01-17,01:00,sunday,Auckland City FC,Otago United,5,0,5,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/nz-football-championship-2009-2010-auckland-city-fc-otago-united-fc/
+new zealand-2009-2010,8,2010-01-17,01:00,sunday,Canterbury United,Waitakere United,4,0,4,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/nz-football-championship-2009-2010-canterbury-united-waitakere-united/
+new zealand-2009-2010,8,2010-01-17,01:00,sunday,Hawke’s Bay United FC,Waikato FC,3,0,3,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/nz-football-championship-2009-2010-hawkes-bay-united-fc-waikato-fc/
+new zealand-2009-2010,8,2010-01-17,01:00,sunday,YoungHeart Manawatu,Team Wellington,0,2,2,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/nz-football-championship-2009-2010-youngheart-manawatu-team-wellington/
+new zealand-2009-2010,9,2010-01-23,01:00,saturday,Waitakere United,YoungHeart Manawatu,3,2,5,H,W,L,1,1,2,D,D,D,http://www.worldfootball.net/report/nz-football-championship-2009-2010-waitakere-united-youngheart-manawatu/
+new zealand-2009-2010,9,2010-01-23,05:00,saturday,Otago United,Hawke’s Bay United FC,1,0,1,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/nz-football-championship-2009-2010-otago-united-fc-hawkes-bay-united-fc/
+new zealand-2009-2010,9,2010-01-24,00:00,sunday,Waikato FC,Canterbury United,1,0,1,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/nz-football-championship-2009-2010-waikato-fc-canterbury-united/
+new zealand-2009-2010,9,2010-01-24,01:00,sunday,Auckland City FC,Team Wellington,3,1,4,H,W,L,1,1,2,D,D,D,http://www.worldfootball.net/report/nz-football-championship-2009-2010-auckland-city-fc-team-wellington/
+new zealand-2009-2010,10,2010-01-30,01:00,saturday,Waitakere United,Auckland City FC,1,1,2,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/nz-football-championship-2009-2010-waitakere-united-auckland-city-fc/
+new zealand-2009-2010,10,2010-01-31,01:00,sunday,Otago United,Team Wellington,3,1,4,H,W,L,2,1,3,H,W,L,http://www.worldfootball.net/report/nz-football-championship-2009-2010-otago-united-fc-team-wellington/
+new zealand-2009-2010,10,2010-01-31,01:00,sunday,YoungHeart Manawatu,Waikato FC,2,3,5,A,L,W,2,1,3,H,W,L,http://www.worldfootball.net/report/nz-football-championship-2009-2010-youngheart-manawatu-waikato-fc/
+new zealand-2009-2010,11,2010-02-07,01:00,sunday,Canterbury United,YoungHeart Manawatu,6,0,6,H,W,L,3,0,3,H,W,L,http://www.worldfootball.net/report/nz-football-championship-2009-2010-canterbury-united-youngheart-manawatu/
+new zealand-2009-2010,11,2010-02-07,01:00,sunday,Team Wellington,Hawke’s Bay United FC,0,1,1,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/nz-football-championship-2009-2010-team-wellington-hawkes-bay-united-fc/
+new zealand-2009-2010,11,2010-02-07,01:00,sunday,Waikato FC,Auckland City FC,1,2,3,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/nz-football-championship-2009-2010-waikato-fc-auckland-city-fc/
+new zealand-2009-2010,11,2010-02-07,01:00,sunday,Waitakere United,Otago United,4,0,4,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/nz-football-championship-2009-2010-waitakere-united-otago-united-fc/
+new zealand-2009-2010,12,2010-02-14,04:00,sunday,Team Wellington,Waitakere United,4,3,7,H,W,L,2,1,3,H,W,L,http://www.worldfootball.net/report/nz-football-championship-2009-2010-team-wellington-waitakere-united/
+new zealand-2009-2010,12,2010-02-21,00:00,sunday,Otago United,Waikato FC,2,2,4,D,D,D,2,2,4,D,D,D,http://www.worldfootball.net/report/nz-football-championship-2009-2010-otago-united-fc-waikato-fc/
+new zealand-2009-2010,12,2010-02-21,01:00,sunday,Auckland City FC,Canterbury United,1,1,2,D,D,D,0,1,1,A,L,W,http://www.worldfootball.net/report/nz-football-championship-2009-2010-auckland-city-fc-canterbury-united/
+new zealand-2009-2010,12,2010-02-21,01:00,sunday,Hawke’s Bay United FC,YoungHeart Manawatu,2,2,4,D,D,D,1,1,2,D,D,D,http://www.worldfootball.net/report/nz-football-championship-2009-2010-hawkes-bay-united-fc-youngheart-manawatu/
+new zealand-2009-2010,13,2010-02-28,00:00,sunday,Waikato FC,Team Wellington,2,3,5,A,L,W,2,2,4,D,D,D,http://www.worldfootball.net/report/nz-football-championship-2009-2010-waikato-fc-team-wellington/
+new zealand-2009-2010,13,2010-02-28,01:00,sunday,Canterbury United,Otago United,2,0,2,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/nz-football-championship-2009-2010-canterbury-united-otago-united-fc/
+new zealand-2009-2010,13,2010-02-28,01:00,sunday,Waitakere United,Hawke’s Bay United FC,4,1,5,H,W,L,3,0,3,H,W,L,http://www.worldfootball.net/report/nz-football-championship-2009-2010-waitakere-united-hawkes-bay-united-fc/
+new zealand-2009-2010,13,2010-02-28,01:00,sunday,YoungHeart Manawatu,Auckland City FC,1,1,2,D,D,D,1,1,2,D,D,D,http://www.worldfootball.net/report/nz-football-championship-2009-2010-youngheart-manawatu-auckland-city-fc/
+new zealand-2009-2010,10,2010-03-05,23:00,friday,Hawke’s Bay United FC,Canterbury United,2,1,3,H,W,L,2,0,2,H,W,L,http://www.worldfootball.net/report/nz-football-championship-2009-2010-hawkes-bay-united-fc-canterbury-united/
+new zealand-2009-2010,14,2010-03-13,03:00,saturday,Otago United,YoungHeart Manawatu,1,1,2,D,D,D,1,1,2,D,D,D,http://www.worldfootball.net/report/nz-football-championship-2009-2010-otago-united-fc-youngheart-manawatu/
+new zealand-2009-2010,14,2010-03-14,01:00,sunday,Hawke’s Bay United FC,Auckland City FC,1,6,7,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/nz-football-championship-2009-2010-hawkes-bay-united-fc-auckland-city-fc/
+new zealand-2009-2010,14,2010-03-14,01:00,sunday,Team Wellington,Canterbury United,2,1,3,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/nz-football-championship-2009-2010-team-wellington-canterbury-united/
+new zealand-2009-2010,14,2010-03-14,01:00,sunday,Waitakere United,Waikato FC,4,2,6,H,W,L,2,0,2,H,W,L,http://www.worldfootball.net/report/nz-football-championship-2009-2010-waitakere-united-waikato-fc/
+new zealand-2009-2010,5,2010-03-21,01:00,sunday,Canterbury United,Auckland City FC,1,3,4,A,L,W,1,1,2,D,D,D,http://www.worldfootball.net/report/nz-football-championship-2009-2010-canterbury-united-auckland-city-fc/
+new zealand-2009-2010,6,2010-04-02,02:00,friday,Auckland City FC,YoungHeart Manawatu,1,4,5,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/nz-football-championship-2009-2010-auckland-city-fc-youngheart-manawatu/
+new zealand-2009-2010-playoffs,Semi-finals,2010-04-04,03:00,sunday,Team Wellington,Waitakere United,3,2,5,H,W,L,2,1,3,H,W,L,http://www.worldfootball.net/report/nz-football-championship-2009-2010-playoffs-halbfinale-team-wellington-waitakere-united/
+new zealand-2009-2010-playoffs,Semi-finals,2010-04-04,04:00,sunday,Canterbury United,Auckland City FC,1,2,3,A,L,W,1,2,3,A,L,W,http://www.worldfootball.net/report/nz-football-championship-2009-2010-playoffs-halbfinale-canterbury-united-auckland-city-fc/
+new zealand-2009-2010-playoffs,Semi-finals,2010-04-11,02:00,sunday,Auckland City FC,Canterbury United,0,3,3,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/nz-football-championship-2009-2010-playoffs-halbfinale-auckland-city-fc-canterbury-united/
+new zealand-2009-2010-playoffs,Semi-finals,2010-04-11,02:00,sunday,Waitakere United,Team Wellington,2,1,3,H,W,L,0,1,1,A,L,W,http://www.worldfootball.net/report/nz-football-championship-2009-2010-playoffs-halbfinale-waitakere-united-team-wellington/
+new zealand-2009-2010-playoffs,Final,2010-04-24,03:00,saturday,Waitakere United,Canterbury United,3,1,4,H,W,L,1,1,2,D,D,D,http://www.worldfootball.net/report/nz-football-championship-2009-2010-playoffs-finale-waitakere-united-canterbury-united/
+new zealand-2010-2011,2,2010-10-16,03:00,saturday,Waikato FC,Auckland City FC,2,3,5,A,L,W,2,1,3,H,W,L,http://www.worldfootball.net/report/nz-football-championship-2010-2011-waikato-fc-auckland-city-fc/
+new zealand-2010-2011,2,2010-10-17,03:00,sunday,Waitakere United,Team Wellington,2,0,2,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/nz-football-championship-2010-2011-waitakere-united-team-wellington/
+new zealand-2010-2011,5,2010-10-30,02:00,saturday,Team Wellington,Auckland City FC,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/nz-football-championship-2010-2011-team-wellington-auckland-city-fc/
+new zealand-2010-2011,5,2010-10-31,01:00,sunday,Hawke’s Bay United FC,Waitakere United,1,3,4,A,L,W,0,2,2,A,L,W,http://www.worldfootball.net/report/nz-football-championship-2010-2011-hawkes-bay-united-fc-waitakere-united/
+new zealand-2010-2011,1,2010-11-06,23:30,saturday,Otago United,Waikato FC,0,1,1,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/nz-football-championship-2010-2011-otago-united-fc-waikato-fc/
+new zealand-2010-2011,1,2010-11-07,01:00,sunday,Team Wellington,Canterbury United,2,4,6,A,L,W,1,2,3,A,L,W,http://www.worldfootball.net/report/nz-football-championship-2010-2011-team-wellington-canterbury-united/
+new zealand-2010-2011,1,2010-11-07,01:00,sunday,YoungHeart Manawatu,Hawke’s Bay United FC,0,1,1,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/nz-football-championship-2010-2011-youngheart-manawatu-hawkes-bay-united-fc/
+new zealand-2010-2011,1,2010-11-07,02:00,sunday,Auckland City FC,Waitakere United,1,3,4,A,L,W,1,2,3,A,L,W,http://www.worldfootball.net/report/nz-football-championship-2010-2011-auckland-city-fc-waitakere-united/
+new zealand-2010-2011,2,2010-11-14,01:00,sunday,Canterbury United,YoungHeart Manawatu,1,0,1,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/nz-football-championship-2010-2011-canterbury-united-youngheart-manawatu/
+new zealand-2010-2011,2,2010-11-14,01:00,sunday,Hawke’s Bay United FC,Otago United,3,2,5,H,W,L,1,1,2,D,D,D,http://www.worldfootball.net/report/nz-football-championship-2010-2011-hawkes-bay-united-fc-otago-united-fc/
+new zealand-2010-2011,3,2010-11-21,01:00,sunday,Team Wellington,Waikato FC,3,1,4,H,W,L,0,1,1,A,L,W,http://www.worldfootball.net/report/nz-football-championship-2010-2011-team-wellington-waikato-fc/
+new zealand-2010-2011,3,2010-11-21,01:00,sunday,Canterbury United,Hawke’s Bay United FC,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/nz-football-championship-2010-2011-canterbury-united-hawkes-bay-united-fc/
+new zealand-2010-2011,3,2010-11-21,01:00,sunday,YoungHeart Manawatu,Waitakere United,0,4,4,A,L,W,0,2,2,A,L,W,http://www.worldfootball.net/report/nz-football-championship-2010-2011-youngheart-manawatu-waitakere-united/
+new zealand-2010-2011,3,2010-11-21,02:00,sunday,Auckland City FC,Otago United,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/nz-football-championship-2010-2011-auckland-city-fc-otago-united-fc/
+new zealand-2010-2011,4,2010-11-27,01:00,saturday,Waikato FC,YoungHeart Manawatu,3,0,3,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/nz-football-championship-2010-2011-waikato-fc-youngheart-manawatu/
+new zealand-2010-2011,4,2010-11-27,01:00,saturday,Waitakere United,Canterbury United,2,1,3,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/nz-football-championship-2010-2011-waitakere-united-canterbury-united/
+new zealand-2010-2011,4,2010-11-28,00:30,sunday,Otago United,Team Wellington,0,3,3,A,L,W,0,3,3,A,L,W,http://www.worldfootball.net/report/nz-football-championship-2010-2011-otago-united-fc-team-wellington/
+new zealand-2010-2011,4,2010-11-28,01:00,sunday,Hawke’s Bay United FC,Auckland City FC,2,2,4,D,D,D,0,2,2,A,L,W,http://www.worldfootball.net/report/nz-football-championship-2010-2011-hawkes-bay-united-fc-auckland-city-fc/
+new zealand-2010-2011,5,2010-12-04,23:00,saturday,YoungHeart Manawatu,Otago United,1,2,3,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/nz-football-championship-2010-2011-youngheart-manawatu-otago-united-fc/
+new zealand-2010-2011,5,2010-12-05,01:00,sunday,Canterbury United,Waikato FC,2,2,4,D,D,D,1,1,2,D,D,D,http://www.worldfootball.net/report/nz-football-championship-2010-2011-canterbury-united-waikato-fc/
+new zealand-2010-2011,6,2010-12-11,01:00,saturday,Auckland City FC,YoungHeart Manawatu,3,1,4,H,W,L,3,0,3,H,W,L,http://www.worldfootball.net/report/nz-football-championship-2010-2011-auckland-city-fc-youngheart-manawatu/
+new zealand-2010-2011,6,2010-12-11,02:00,saturday,Waikato FC,Waitakere United,1,3,4,A,L,W,1,2,3,A,L,W,http://www.worldfootball.net/report/nz-football-championship-2010-2011-waikato-fc-waitakere-united/
+new zealand-2010-2011,6,2010-12-12,00:00,sunday,Hawke’s Bay United FC,Team Wellington,2,3,5,A,L,W,2,0,2,H,W,L,http://www.worldfootball.net/report/nz-football-championship-2010-2011-hawkes-bay-united-fc-team-wellington/
+new zealand-2010-2011,6,2010-12-12,01:00,sunday,Otago United,Canterbury United,2,1,3,H,W,L,0,1,1,A,L,W,http://www.worldfootball.net/report/nz-football-championship-2010-2011-otago-united-fc-canterbury-united/
+new zealand-2010-2011,7,2010-12-18,01:30,saturday,Auckland City FC,Hawke’s Bay United FC,5,0,5,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/nz-football-championship-2010-2011-auckland-city-fc-hawkes-bay-united-fc/
+new zealand-2010-2011,7,2010-12-19,01:00,sunday,YoungHeart Manawatu,Waikato FC,5,2,7,H,W,L,2,1,3,H,W,L,http://www.worldfootball.net/report/nz-football-championship-2010-2011-youngheart-manawatu-waikato-fc/
+new zealand-2010-2011,7,2010-12-19,02:00,sunday,Canterbury United,Waitakere United,0,2,2,A,L,W,0,2,2,A,L,W,http://www.worldfootball.net/report/nz-football-championship-2010-2011-canterbury-united-waitakere-united/
+new zealand-2010-2011,7,2010-12-19,02:00,sunday,Team Wellington,Otago United,5,0,5,H,W,L,2,0,2,H,W,L,http://www.worldfootball.net/report/nz-football-championship-2010-2011-team-wellington-otago-united-fc/
+new zealand-2010-2011,8,2011-01-08,02:00,saturday,Waikato FC,Hawke’s Bay United FC,1,0,1,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/nz-football-championship-2010-2011-waikato-fc-hawkes-bay-united-fc/
+new zealand-2010-2011,8,2011-01-08,03:00,saturday,Waitakere United,Otago United,3,1,4,H,W,L,1,1,2,D,D,D,http://www.worldfootball.net/report/nz-football-championship-2010-2011-waitakere-united-otago-united-fc/
+new zealand-2010-2011,8,2011-01-09,01:00,sunday,Canterbury United,Auckland City FC,1,2,3,A,L,W,1,2,3,A,L,W,http://www.worldfootball.net/report/nz-football-championship-2010-2011-canterbury-united-auckland-city-fc/
+new zealand-2010-2011,8,2011-01-09,01:00,sunday,YoungHeart Manawatu,Team Wellington,2,3,5,A,L,W,0,2,2,A,L,W,http://www.worldfootball.net/report/nz-football-championship-2010-2011-youngheart-manawatu-team-wellington/
+new zealand-2010-2011,9,2011-01-15,02:00,saturday,Waikato FC,Otago United,2,2,4,D,D,D,1,0,1,H,W,L,http://www.worldfootball.net/report/nz-football-championship-2010-2011-waikato-fc-otago-united-fc/
+new zealand-2010-2011,9,2011-01-16,01:00,sunday,Canterbury United,Team Wellington,1,2,3,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/nz-football-championship-2010-2011-canterbury-united-team-wellington/
+new zealand-2010-2011,9,2011-01-16,01:00,sunday,Hawke’s Bay United FC,YoungHeart Manawatu,2,1,3,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/nz-football-championship-2010-2011-hawkes-bay-united-fc-youngheart-manawatu/
+new zealand-2010-2011,9,2011-01-16,03:00,sunday,Waitakere United,Auckland City FC,0,1,1,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/nz-football-championship-2010-2011-waitakere-united-auckland-city-fc/
+new zealand-2010-2011,10,2011-01-22,02:00,saturday,Auckland City FC,Waikato FC,5,1,6,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/nz-football-championship-2010-2011-auckland-city-fc-waikato-fc/
+new zealand-2010-2011,10,2011-01-22,02:30,saturday,Team Wellington,Waitakere United,1,2,3,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/nz-football-championship-2010-2011-team-wellington-waitakere-united/
+new zealand-2010-2011,10,2011-01-22,23:00,saturday,YoungHeart Manawatu,Canterbury United,2,3,5,A,L,W,0,2,2,A,L,W,http://www.worldfootball.net/report/nz-football-championship-2010-2011-youngheart-manawatu-canterbury-united/
+new zealand-2010-2011,10,2011-01-22,23:00,saturday,Otago United,Hawke’s Bay United FC,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/nz-football-championship-2010-2011-otago-united-fc-hawkes-bay-united-fc/
+new zealand-2010-2011,11,2011-01-28,23:30,friday,Waikato FC,Team Wellington,2,3,5,A,L,W,2,1,3,H,W,L,http://www.worldfootball.net/report/nz-football-championship-2010-2011-waikato-fc-team-wellington/
+new zealand-2010-2011,11,2011-01-29,01:00,saturday,Waitakere United,YoungHeart Manawatu,6,1,7,H,W,L,2,1,3,H,W,L,http://www.worldfootball.net/report/nz-football-championship-2010-2011-waitakere-united-youngheart-manawatu/
+new zealand-2010-2011,11,2011-01-30,01:00,sunday,Hawke’s Bay United FC,Canterbury United,1,2,3,A,L,W,1,2,3,A,L,W,http://www.worldfootball.net/report/nz-football-championship-2010-2011-hawkes-bay-united-fc-canterbury-united/
+new zealand-2010-2011,11,2011-01-30,01:00,sunday,Otago United,Auckland City FC,0,3,3,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/nz-football-championship-2010-2011-otago-united-fc-auckland-city-fc/
+new zealand-2010-2011,12,2011-02-11,23:30,friday,Waikato FC,Canterbury United,1,0,1,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/nz-football-championship-2010-2011-waikato-fc-canterbury-united/
+new zealand-2010-2011,12,2011-02-12,01:00,saturday,Waitakere United,Hawke’s Bay United FC,1,2,3,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/nz-football-championship-2010-2011-waitakere-united-hawkes-bay-united-fc/
+new zealand-2010-2011,12,2011-02-12,23:00,saturday,Otago United,YoungHeart Manawatu,4,3,7,H,W,L,2,1,3,H,W,L,http://www.worldfootball.net/report/nz-football-championship-2010-2011-otago-united-fc-youngheart-manawatu/
+new zealand-2010-2011,12,2011-02-13,01:00,sunday,Auckland City FC,Team Wellington,2,0,2,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/nz-football-championship-2010-2011-auckland-city-fc-team-wellington/
+new zealand-2010-2011,13,2011-02-19,01:00,saturday,Waitakere United,Waikato FC,6,1,7,H,W,L,2,0,2,H,W,L,http://www.worldfootball.net/report/nz-football-championship-2010-2011-waitakere-united-waikato-fc/
+new zealand-2010-2011,13,2011-02-20,01:00,sunday,Canterbury United,Otago United,3,1,4,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/nz-football-championship-2010-2011-canterbury-united-otago-united-fc/
+new zealand-2010-2011,13,2011-02-20,02:00,sunday,Team Wellington,Hawke’s Bay United FC,1,3,4,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/nz-football-championship-2010-2011-team-wellington-hawkes-bay-united-fc/
+new zealand-2010-2011,13,2011-03-02,05:00,wednesday,YoungHeart Manawatu,Auckland City FC,1,2,3,A,L,W,1,1,2,D,D,D,http://www.worldfootball.net/report/nz-football-championship-2010-2011-youngheart-manawatu-auckland-city-fc/
+new zealand-2010-2011,14,2011-03-06,01:00,sunday,Otago United,Waitakere United,1,2,3,A,L,W,0,2,2,A,L,W,http://www.worldfootball.net/report/nz-football-championship-2010-2011-otago-united-fc-waitakere-united/
+new zealand-2010-2011,14,2011-03-06,01:00,sunday,Hawke’s Bay United FC,Waikato FC,1,1,2,D,D,D,1,1,2,D,D,D,http://www.worldfootball.net/report/nz-football-championship-2010-2011-hawkes-bay-united-fc-waikato-fc/
+new zealand-2010-2011,14,2011-03-06,03:00,sunday,Team Wellington,YoungHeart Manawatu,2,2,4,D,D,D,2,0,2,H,W,L,http://www.worldfootball.net/report/nz-football-championship-2010-2011-team-wellington-youngheart-manawatu/
+new zealand-2010-2011,14,2011-03-10,04:30,thursday,Auckland City FC,Canterbury United,0,1,1,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/nz-football-championship-2010-2011-auckland-city-fc-canterbury-united/
+new zealand-2010-2011-playoffs,Semi-finals,2011-03-13,00:30,sunday,Team Wellington,Auckland City FC,0,2,2,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/nz-football-championship-2010-2011-playoffs-halbfinale-team-wellington-auckland-city-fc/
+new zealand-2010-2011-playoffs,Semi-finals,2011-03-13,01:00,sunday,Waitakere United,Canterbury United,6,2,8,H,W,L,5,0,5,H,W,L,http://www.worldfootball.net/report/nz-football-championship-2010-2011-playoffs-halbfinale-waitakere-united-canterbury-united/
+new zealand-2010-2011-playoffs,Semi-finals,2011-03-27,02:00,sunday,Auckland City FC,Team Wellington,5,1,6,H,W,L,2,1,3,H,W,L,http://www.worldfootball.net/report/nz-football-championship-2010-2011-playoffs-halbfinale-auckland-city-fc-team-wellington/
+new zealand-2010-2011-playoffs,Semi-finals,2011-04-03,03:00,sunday,Canterbury United,Waitakere United,1,0,1,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/nz-football-championship-2010-2011-playoffs-halbfinale-canterbury-united-waitakere-united/
+new zealand-2010-2011-playoffs,Final,2011-04-10,03:00,sunday,Waitakere United,Auckland City FC,3,2,5,H,W,L,2,1,3,H,W,L,http://www.worldfootball.net/report/nz-football-championship-2010-2011-playoffs-finale-waitakere-united-auckland-city-fc/
+new zealand-2011-2012,1,2011-10-22,02:00,saturday,Waitakere United,Hawke’s Bay United FC,3,0,3,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/nz-football-championship-2011-2012-waitakere-united-hawkes-bay-united-fc/
+new zealand-2011-2012,1,2011-10-23,01:00,sunday,YoungHeart Manawatu,Canterbury United,0,4,4,A,L,W,0,3,3,A,L,W,http://www.worldfootball.net/report/nz-football-championship-2011-2012-youngheart-manawatu-canterbury-united/
+new zealand-2011-2012,1,2011-10-23,02:00,sunday,Waikato FC,Auckland City FC,1,5,6,A,L,W,1,1,2,D,D,D,http://www.worldfootball.net/report/nz-football-championship-2011-2012-waikato-fc-auckland-city-fc/
+new zealand-2011-2012,1,2011-10-23,03:30,sunday,Team Wellington,Otago United,2,2,4,D,D,D,1,2,3,A,L,W,http://www.worldfootball.net/report/nz-football-championship-2011-2012-team-wellington-otago-united-fc/
+new zealand-2011-2012,2,2011-11-06,01:00,sunday,Otago United,Waitakere United,0,6,6,A,L,W,0,3,3,A,L,W,http://www.worldfootball.net/report/nz-football-championship-2011-2012-otago-united-fc-waitakere-united/
+new zealand-2011-2012,2,2011-11-06,01:00,sunday,Hawke’s Bay United FC,YoungHeart Manawatu,2,2,4,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/nz-football-championship-2011-2012-hawkes-bay-united-fc-youngheart-manawatu/
+new zealand-2011-2012,2,2011-11-06,01:00,sunday,Canterbury United,Waikato FC,5,0,5,H,W,L,3,0,3,H,W,L,http://www.worldfootball.net/report/nz-football-championship-2011-2012-canterbury-united-waikato-fc/
+new zealand-2011-2012,2,2011-11-06,01:00,sunday,Auckland City FC,Team Wellington,4,2,6,H,W,L,2,0,2,H,W,L,http://www.worldfootball.net/report/nz-football-championship-2011-2012-auckland-city-fc-team-wellington/
+new zealand-2011-2012,3,2011-11-12,23:00,saturday,YoungHeart Manawatu,Otago United,2,3,5,A,L,W,2,0,2,H,W,L,http://www.worldfootball.net/report/nz-football-championship-2011-2012-youngheart-manawatu-otago-united-fc/
+new zealand-2011-2012,3,2011-11-13,01:00,sunday,Waitakere United,Auckland City FC,1,3,4,A,L,W,1,2,3,A,L,W,http://www.worldfootball.net/report/nz-football-championship-2011-2012-waitakere-united-auckland-city-fc/
+new zealand-2011-2012,3,2011-11-13,01:00,sunday,Team Wellington,Waikato FC,3,0,3,H,W,L,2,0,2,H,W,L,http://www.worldfootball.net/report/nz-football-championship-2011-2012-team-wellington-waikato-fc/
+new zealand-2011-2012,3,2011-11-13,01:00,sunday,Hawke’s Bay United FC,Canterbury United,3,0,3,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/nz-football-championship-2011-2012-hawkes-bay-united-fc-canterbury-united/
+new zealand-2011-2012,4,2011-11-26,23:00,saturday,Otago United,Hawke’s Bay United FC,2,0,2,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/nz-football-championship-2011-2012-otago-united-fc-hawkes-bay-united-fc/
+new zealand-2011-2012,4,2011-11-27,01:00,sunday,Auckland City FC,YoungHeart Manawatu,5,0,5,H,W,L,2,0,2,H,W,L,http://www.worldfootball.net/report/nz-football-championship-2011-2012-auckland-city-fc-youngheart-manawatu/
+new zealand-2011-2012,4,2011-11-27,01:00,sunday,Waikato FC,Waitakere United,1,4,5,A,L,W,0,2,2,A,L,W,http://www.worldfootball.net/report/nz-football-championship-2011-2012-waikato-fc-waitakere-united/
+new zealand-2011-2012,4,2011-11-27,01:00,sunday,Canterbury United,Team Wellington,1,0,1,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/nz-football-championship-2011-2012-canterbury-united-team-wellington/
+new zealand-2011-2012,5,2011-12-11,01:00,sunday,Team Wellington,Waitakere United,1,2,3,A,L,W,1,0,1,H,W,L,http://www.worldfootball.net/report/nz-football-championship-2011-2012-team-wellington-waitakere-united/
+new zealand-2011-2012,5,2011-12-11,01:00,sunday,Otago United,Canterbury United,1,0,1,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/nz-football-championship-2011-2012-otago-united-fc-canterbury-united/
+new zealand-2011-2012,5,2011-12-11,01:00,sunday,YoungHeart Manawatu,Waikato FC,1,3,4,A,L,W,0,2,2,A,L,W,http://www.worldfootball.net/report/nz-football-championship-2011-2012-youngheart-manawatu-waikato-fc/
+new zealand-2011-2012,6,2011-12-18,01:00,sunday,Auckland City FC,Otago United,3,0,3,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/nz-football-championship-2011-2012-auckland-city-fc-otago-united-fc/
+new zealand-2011-2012,6,2011-12-18,01:00,sunday,Team Wellington,YoungHeart Manawatu,2,0,2,H,W,L,2,0,2,H,W,L,http://www.worldfootball.net/report/nz-football-championship-2011-2012-team-wellington-youngheart-manawatu/
+new zealand-2011-2012,6,2011-12-18,01:00,sunday,Canterbury United,Waitakere United,2,1,3,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/nz-football-championship-2011-2012-canterbury-united-waitakere-united/
+new zealand-2011-2012,7,2012-01-14,01:00,saturday,Auckland City FC,Canterbury United,3,0,3,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/nz-football-championship-2011-2012-auckland-city-fc-canterbury-united/
+new zealand-2011-2012,7,2012-01-14,23:00,saturday,Otago United,Waikato FC,0,2,2,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/nz-football-championship-2011-2012-otago-united-fc-waikato-fc/
+new zealand-2011-2012,7,2012-01-15,00:00,sunday,Hawke’s Bay United FC,Team Wellington,2,6,8,A,L,W,2,2,4,D,D,D,http://www.worldfootball.net/report/nz-football-championship-2011-2012-hawkes-bay-united-fc-team-wellington/
+new zealand-2011-2012,7,2012-01-15,01:00,sunday,YoungHeart Manawatu,Waitakere United,2,7,9,A,L,W,1,3,4,A,L,W,http://www.worldfootball.net/report/nz-football-championship-2011-2012-youngheart-manawatu-waitakere-united/
+new zealand-2011-2012,8,2012-01-22,01:00,sunday,Hawke’s Bay United FC,Waitakere United,1,0,1,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/nz-football-championship-2011-2012-hawkes-bay-united-fc-waitakere-united/
+new zealand-2011-2012,8,2012-01-22,01:00,sunday,Canterbury United,YoungHeart Manawatu,9,1,10,H,W,L,3,1,4,H,W,L,http://www.worldfootball.net/report/nz-football-championship-2011-2012-canterbury-united-youngheart-manawatu/
+new zealand-2011-2012,8,2012-01-22,01:00,sunday,Auckland City FC,Waikato FC,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/nz-football-championship-2011-2012-auckland-city-fc-waikato-fc/
+new zealand-2011-2012,8,2012-01-22,01:00,sunday,Otago United,Team Wellington,1,2,3,A,L,W,1,1,2,D,D,D,http://www.worldfootball.net/report/nz-football-championship-2011-2012-otago-united-fc-team-wellington/
+new zealand-2011-2012,9,2012-01-28,23:30,saturday,Waikato FC,Canterbury United,0,3,3,A,L,W,0,2,2,A,L,W,http://www.worldfootball.net/report/nz-football-championship-2011-2012-waikato-fc-canterbury-united/
+new zealand-2011-2012,9,2012-01-29,00:00,sunday,Team Wellington,Auckland City FC,1,1,2,D,D,D,1,1,2,D,D,D,http://www.worldfootball.net/report/nz-football-championship-2011-2012-team-wellington-auckland-city-fc/
+new zealand-2011-2012,9,2012-01-29,01:00,sunday,Waitakere United,Otago United,5,0,5,H,W,L,3,0,3,H,W,L,http://www.worldfootball.net/report/nz-football-championship-2011-2012-waitakere-united-otago-united-fc/
+new zealand-2011-2012,9,2012-01-29,01:00,sunday,YoungHeart Manawatu,Hawke’s Bay United FC,0,5,5,A,L,W,0,2,2,A,L,W,http://www.worldfootball.net/report/nz-football-championship-2011-2012-youngheart-manawatu-hawkes-bay-united-fc/
+new zealand-2011-2012,10,2012-02-04,01:00,saturday,Auckland City FC,Waitakere United,3,1,4,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/nz-football-championship-2011-2012-auckland-city-fc-waitakere-united/
+new zealand-2011-2012,10,2012-02-04,02:00,saturday,Canterbury United,Hawke’s Bay United FC,7,0,7,H,W,L,5,0,5,H,W,L,http://www.worldfootball.net/report/nz-football-championship-2011-2012-canterbury-united-hawkes-bay-united-fc/
+new zealand-2011-2012,10,2012-02-04,23:00,saturday,Otago United,YoungHeart Manawatu,2,2,4,D,D,D,1,2,3,A,L,W,http://www.worldfootball.net/report/nz-football-championship-2011-2012-otago-united-fc-youngheart-manawatu/
+new zealand-2011-2012,10,2012-02-05,00:00,sunday,Waikato FC,Team Wellington,2,3,5,A,L,W,2,2,4,D,D,D,http://www.worldfootball.net/report/nz-football-championship-2011-2012-waikato-fc-team-wellington/
+new zealand-2011-2012,5,2012-02-06,01:00,monday,Hawke’s Bay United FC,Auckland City FC,1,3,4,A,L,W,1,1,2,D,D,D,http://www.worldfootball.net/report/nz-football-championship-2011-2012-hawkes-bay-united-fc-auckland-city-fc/
+new zealand-2011-2012,11,2012-02-12,00:00,sunday,Hawke’s Bay United FC,Otago United,4,2,6,H,W,L,0,2,2,A,L,W,http://www.worldfootball.net/report/nz-football-championship-2011-2012-hawkes-bay-united-fc-otago-united-fc/
+new zealand-2011-2012,11,2012-02-12,00:00,sunday,Team Wellington,Canterbury United,1,1,2,D,D,D,0,1,1,A,L,W,http://www.worldfootball.net/report/nz-football-championship-2011-2012-team-wellington-canterbury-united/
+new zealand-2011-2012,11,2012-02-12,01:00,sunday,YoungHeart Manawatu,Auckland City FC,0,6,6,A,L,W,0,6,6,A,L,W,http://www.worldfootball.net/report/nz-football-championship-2011-2012-youngheart-manawatu-auckland-city-fc/
+new zealand-2011-2012,11,2012-02-12,01:00,sunday,Waitakere United,Waikato FC,4,0,4,H,W,L,2,0,2,H,W,L,http://www.worldfootball.net/report/nz-football-championship-2011-2012-waitakere-united-waikato-fc/
+new zealand-2011-2012,6,2012-02-18,01:00,saturday,Waikato FC,Hawke’s Bay United FC,2,4,6,A,L,W,0,2,2,A,L,W,http://www.worldfootball.net/report/nz-football-championship-2011-2012-waikato-fc-hawkes-bay-united-fc/
+new zealand-2011-2012,12,2012-02-26,01:00,sunday,Canterbury United,Otago United,3,0,3,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/nz-football-championship-2011-2012-canterbury-united-otago-united-fc/
+new zealand-2011-2012,12,2012-02-26,01:00,sunday,Auckland City FC,Hawke’s Bay United FC,3,2,5,H,W,L,0,1,1,A,L,W,http://www.worldfootball.net/report/nz-football-championship-2011-2012-auckland-city-fc-hawkes-bay-united-fc/
+new zealand-2011-2012,12,2012-02-26,01:00,sunday,Waikato FC,YoungHeart Manawatu,1,1,2,D,D,D,1,1,2,D,D,D,http://www.worldfootball.net/report/nz-football-championship-2011-2012-waikato-fc-youngheart-manawatu/
+new zealand-2011-2012,12,2012-02-26,03:00,sunday,Waitakere United,Team Wellington,3,1,4,H,W,L,2,1,3,H,W,L,http://www.worldfootball.net/report/nz-football-championship-2011-2012-waitakere-united-team-wellington/
+new zealand-2011-2012,13,2012-03-11,01:00,sunday,Otago United,Auckland City FC,1,3,4,A,L,W,0,2,2,A,L,W,http://www.worldfootball.net/report/nz-football-championship-2011-2012-otago-united-fc-auckland-city-fc/
+new zealand-2011-2012,13,2012-03-11,01:00,sunday,YoungHeart Manawatu,Team Wellington,0,6,6,A,L,W,0,2,2,A,L,W,http://www.worldfootball.net/report/nz-football-championship-2011-2012-youngheart-manawatu-team-wellington/
+new zealand-2011-2012,13,2012-03-11,01:00,sunday,Hawke’s Bay United FC,Waikato FC,3,2,5,H,W,L,1,2,3,A,L,W,http://www.worldfootball.net/report/nz-football-championship-2011-2012-hawkes-bay-united-fc-waikato-fc/
+new zealand-2011-2012,13,2012-03-11,01:00,sunday,Waitakere United,Canterbury United,1,2,3,A,L,W,1,1,2,D,D,D,http://www.worldfootball.net/report/nz-football-championship-2011-2012-waitakere-united-canterbury-united/
+new zealand-2011-2012,14,2012-03-25,00:00,sunday,Waikato FC,Otago United,3,3,6,D,D,D,0,1,1,A,L,W,http://www.worldfootball.net/report/nz-football-championship-2011-2012-waikato-fc-otago-united-fc/
+new zealand-2011-2012,14,2012-04-06,03:00,friday,Waitakere United,YoungHeart Manawatu,6,1,7,H,W,L,5,1,6,H,W,L,http://www.worldfootball.net/report/nz-football-championship-2011-2012-waitakere-united-youngheart-manawatu/
+new zealand-2011-2012,14,2012-04-08,02:00,sunday,Team Wellington,Hawke’s Bay United FC,3,1,4,H,W,L,1,1,2,D,D,D,http://www.worldfootball.net/report/nz-football-championship-2011-2012-team-wellington-hawkes-bay-united-fc/
+new zealand-2011-2012,14,2012-04-08,03:00,sunday,Canterbury United,Auckland City FC,1,1,2,D,D,D,1,1,2,D,D,D,http://www.worldfootball.net/report/nz-football-championship-2011-2012-canterbury-united-auckland-city-fc/
+new zealand-2011-2012-playoffs,Semi-finals,2012-04-15,01:00,sunday,Team Wellington,Auckland City FC,1,0,1,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/nz-football-championship-2011-2012-playoffs-halbfinale-team-wellington-auckland-city-fc/
+new zealand-2011-2012-playoffs,Semi-finals,2012-04-15,03:00,sunday,Waitakere United,Canterbury United,0,1,1,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/nz-football-championship-2011-2012-playoffs-halbfinale-waitakere-united-canterbury-united/
+new zealand-2011-2012-playoffs,Semi-finals,2012-04-22,03:00,sunday,Auckland City FC,Team Wellington,1,3,4,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/nz-football-championship-2011-2012-playoffs-halbfinale-auckland-city-fc-team-wellington/
+new zealand-2011-2012-playoffs,Semi-finals,2012-04-22,03:00,sunday,Canterbury United,Waitakere United,2,5,7,A,L,W,2,1,3,H,W,L,http://www.worldfootball.net/report/nz-football-championship-2011-2012-playoffs-halbfinale-canterbury-united-waitakere-united/
+new zealand-2011-2012-playoffs,Final,2012-04-29,03:00,sunday,Waitakere United,Team Wellington,4,1,5,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/nz-football-championship-2011-2012-playoffs-finale-waitakere-united-team-wellington/
+new zealand-2012-2013,1,2012-11-03,01:00,saturday,Auckland City FC,Canterbury United,5,2,7,H,W,L,3,1,4,H,W,L,http://www.worldfootball.net/report/nz-football-championship-2012-2013-auckland-city-fc-canterbury-united/
+new zealand-2012-2013,1,2012-11-03,23:00,saturday,Otago United,YoungHeart Manawatu,0,3,3,A,L,W,0,2,2,A,L,W,http://www.worldfootball.net/report/nz-football-championship-2012-2013-otago-united-fc-youngheart-manawatu/
+new zealand-2012-2013,1,2012-11-03,23:00,saturday,Waikato FC,Hawke’s Bay United FC,0,2,2,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/nz-football-championship-2012-2013-waikato-fc-hawkes-bay-united-fc/
+new zealand-2012-2013,1,2012-11-04,01:00,sunday,Waitakere United,Team Wellington,3,0,3,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/nz-football-championship-2012-2013-waitakere-united-team-wellington/
+new zealand-2012-2013,2,2012-11-11,00:45,sunday,Team Wellington,Canterbury United,0,1,1,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/nz-football-championship-2012-2013-team-wellington-canterbury-united/
+new zealand-2012-2013,2,2012-11-11,01:00,sunday,Hawke’s Bay United FC,YoungHeart Manawatu,4,2,6,H,W,L,3,0,3,H,W,L,http://www.worldfootball.net/report/nz-football-championship-2012-2013-hawkes-bay-united-fc-youngheart-manawatu/
+new zealand-2012-2013,2,2012-11-11,01:00,sunday,Otago United,Auckland City FC,1,3,4,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/nz-football-championship-2012-2013-otago-united-fc-auckland-city-fc/
+new zealand-2012-2013,2,2012-11-11,01:00,sunday,Waitakere United,Waikato FC,1,0,1,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/nz-football-championship-2012-2013-waitakere-united-waikato-fc/
+new zealand-2012-2013,3,2012-11-18,00:00,sunday,Waikato FC,Team Wellington,1,4,5,A,L,W,1,1,2,D,D,D,http://www.worldfootball.net/report/nz-football-championship-2012-2013-waikato-fc-team-wellington/
+new zealand-2012-2013,3,2012-11-18,01:00,sunday,Canterbury United,Otago United,2,1,3,H,W,L,2,1,3,H,W,L,http://www.worldfootball.net/report/nz-football-championship-2012-2013-canterbury-united-otago-united-fc/
+new zealand-2012-2013,3,2012-11-18,01:00,sunday,Auckland City FC,Hawke’s Bay United FC,1,1,2,D,D,D,0,1,1,A,L,W,http://www.worldfootball.net/report/nz-football-championship-2012-2013-auckland-city-fc-hawkes-bay-united-fc/
+new zealand-2012-2013,3,2012-11-18,01:00,sunday,YoungHeart Manawatu,Waitakere United,0,5,5,A,L,W,0,3,3,A,L,W,http://www.worldfootball.net/report/nz-football-championship-2012-2013-youngheart-manawatu-waitakere-united/
+new zealand-2012-2013,4,2012-11-25,00:00,sunday,Waikato FC,Canterbury United,0,5,5,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/nz-football-championship-2012-2013-waikato-fc-canterbury-united/
+new zealand-2012-2013,4,2012-11-25,01:00,sunday,Hawke’s Bay United FC,Otago United,2,0,2,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/nz-football-championship-2012-2013-hawkes-bay-united-fc-otago-united-fc/
+new zealand-2012-2013,4,2012-11-25,01:00,sunday,Team Wellington,YoungHeart Manawatu,3,1,4,H,W,L,1,1,2,D,D,D,http://www.worldfootball.net/report/nz-football-championship-2012-2013-team-wellington-youngheart-manawatu/
+new zealand-2012-2013,4,2012-11-25,01:00,sunday,Waitakere United,Auckland City FC,1,1,2,D,D,D,1,1,2,D,D,D,http://www.worldfootball.net/report/nz-football-championship-2012-2013-waitakere-united-auckland-city-fc/
+new zealand-2012-2013,5,2012-12-02,00:45,sunday,YoungHeart Manawatu,Waikato FC,2,3,5,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/nz-football-championship-2012-2013-youngheart-manawatu-waikato-fc/
+new zealand-2012-2013,5,2012-12-02,01:00,sunday,Waitakere United,Otago United,4,1,5,H,W,L,1,1,2,D,D,D,http://www.worldfootball.net/report/nz-football-championship-2012-2013-waitakere-united-otago-united-fc/
+new zealand-2012-2013,5,2012-12-02,01:30,sunday,Canterbury United,Hawke’s Bay United FC,4,0,4,H,W,L,2,0,2,H,W,L,http://www.worldfootball.net/report/nz-football-championship-2012-2013-canterbury-united-hawkes-bay-united-fc/
+new zealand-2012-2013,6,2012-12-09,01:00,sunday,Waitakere United,Hawke’s Bay United FC,3,1,4,H,W,L,2,1,3,H,W,L,http://www.worldfootball.net/report/nz-football-championship-2012-2013-waitakere-united-hawkes-bay-united-fc/
+new zealand-2012-2013,6,2012-12-09,01:00,sunday,YoungHeart Manawatu,Canterbury United,0,2,2,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/nz-football-championship-2012-2013-youngheart-manawatu-canterbury-united/
+new zealand-2012-2013,6,2012-12-09,01:00,sunday,Team Wellington,Otago United,0,1,1,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/nz-football-championship-2012-2013-team-wellington-otago-united-fc/
+new zealand-2012-2013,7,2012-12-16,00:00,sunday,Otago United,Waikato FC,1,6,7,A,L,W,0,2,2,A,L,W,http://www.worldfootball.net/report/nz-football-championship-2012-2013-otago-united-fc-waikato-fc/
+new zealand-2012-2013,7,2012-12-16,01:00,sunday,Canterbury United,Waitakere United,1,3,4,A,L,W,1,1,2,D,D,D,http://www.worldfootball.net/report/nz-football-championship-2012-2013-canterbury-united-waitakere-united/
+new zealand-2012-2013,7,2012-12-16,01:00,sunday,Hawke’s Bay United FC,Team Wellington,3,0,3,H,W,L,2,0,2,H,W,L,http://www.worldfootball.net/report/nz-football-championship-2012-2013-hawkes-bay-united-fc-team-wellington/
+new zealand-2012-2013,7,2012-12-16,01:00,sunday,Auckland City FC,YoungHeart Manawatu,4,0,4,H,W,L,3,0,3,H,W,L,http://www.worldfootball.net/report/nz-football-championship-2012-2013-auckland-city-fc-youngheart-manawatu/
+new zealand-2012-2013,6,2013-01-09,04:30,wednesday,Waikato FC,Auckland City FC,1,4,5,A,L,W,1,1,2,D,D,D,http://www.worldfootball.net/report/nz-football-championship-2012-2013-waikato-fc-auckland-city-fc/
+new zealand-2012-2013,8,2013-01-12,01:00,saturday,Team Wellington,Waitakere United,1,3,4,A,L,W,1,1,2,D,D,D,http://www.worldfootball.net/report/nz-football-championship-2012-2013-team-wellington-waitakere-united/
+new zealand-2012-2013,8,2013-01-13,01:00,sunday,YoungHeart Manawatu,Otago United,1,4,5,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/nz-football-championship-2012-2013-youngheart-manawatu-otago-united-fc/
+new zealand-2012-2013,8,2013-01-13,01:00,sunday,Hawke’s Bay United FC,Waikato FC,4,0,4,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/nz-football-championship-2012-2013-hawkes-bay-united-fc-waikato-fc/
+new zealand-2012-2013,8,2013-01-13,01:00,sunday,Canterbury United,Auckland City FC,1,3,4,A,L,W,1,1,2,D,D,D,http://www.worldfootball.net/report/nz-football-championship-2012-2013-canterbury-united-auckland-city-fc/
+new zealand-2012-2013,9,2013-01-20,01:00,sunday,YoungHeart Manawatu,Hawke’s Bay United FC,1,5,6,A,L,W,0,5,5,A,L,W,http://www.worldfootball.net/report/nz-football-championship-2012-2013-youngheart-manawatu-hawkes-bay-united-fc/
+new zealand-2012-2013,9,2013-01-20,01:00,sunday,Auckland City FC,Otago United,3,1,4,H,W,L,2,1,3,H,W,L,http://www.worldfootball.net/report/nz-football-championship-2012-2013-auckland-city-fc-otago-united-fc/
+new zealand-2012-2013,9,2013-01-20,01:00,sunday,Waikato FC,Waitakere United,1,9,10,A,L,W,0,6,6,A,L,W,http://www.worldfootball.net/report/nz-football-championship-2012-2013-waikato-fc-waitakere-united/
+new zealand-2012-2013,9,2013-01-20,01:00,sunday,Canterbury United,Team Wellington,0,2,2,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/nz-football-championship-2012-2013-canterbury-united-team-wellington/
+new zealand-2012-2013,10,2013-01-26,01:00,saturday,Team Wellington,Waikato FC,1,0,1,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/nz-football-championship-2012-2013-team-wellington-waikato-fc/
+new zealand-2012-2013,10,2013-01-26,01:00,saturday,Waitakere United,YoungHeart Manawatu,4,0,4,H,W,L,2,0,2,H,W,L,http://www.worldfootball.net/report/nz-football-championship-2012-2013-waitakere-united-youngheart-manawatu/
+new zealand-2012-2013,10,2013-01-27,01:00,sunday,Hawke’s Bay United FC,Auckland City FC,1,1,2,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/nz-football-championship-2012-2013-hawkes-bay-united-fc-auckland-city-fc/
+new zealand-2012-2013,10,2013-01-27,02:00,sunday,Otago United,Canterbury United,1,4,5,A,L,W,0,2,2,A,L,W,http://www.worldfootball.net/report/nz-football-championship-2012-2013-otago-united-fc-canterbury-united/
+new zealand-2012-2013,11,2013-02-02,00:00,saturday,Auckland City FC,Waitakere United,2,3,5,A,L,W,1,2,3,A,L,W,http://www.worldfootball.net/report/nz-football-championship-2012-2013-auckland-city-fc-waitakere-united/
+new zealand-2012-2013,11,2013-02-02,23:00,saturday,Otago United,Hawke’s Bay United FC,1,3,4,A,L,W,0,2,2,A,L,W,http://www.worldfootball.net/report/nz-football-championship-2012-2013-otago-united-fc-hawkes-bay-united-fc/
+new zealand-2012-2013,11,2013-02-03,01:00,sunday,Canterbury United,Waikato FC,4,0,4,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/nz-football-championship-2012-2013-canterbury-united-waikato-fc/
+new zealand-2012-2013,11,2013-02-03,01:00,sunday,YoungHeart Manawatu,Team Wellington,0,6,6,A,L,W,0,4,4,A,L,W,http://www.worldfootball.net/report/nz-football-championship-2012-2013-youngheart-manawatu-team-wellington/
+new zealand-2012-2013,5,2013-02-06,01:00,wednesday,Auckland City FC,Team Wellington,3,2,5,H,W,L,1,1,2,D,D,D,http://www.worldfootball.net/report/nz-football-championship-2012-2013-auckland-city-fc-team-wellington_2/
+new zealand-2012-2013,12,2013-02-10,00:00,sunday,Otago United,Waitakere United,1,4,5,A,L,W,0,2,2,A,L,W,http://www.worldfootball.net/report/nz-football-championship-2012-2013-otago-united-fc-waitakere-united/
+new zealand-2012-2013,12,2013-02-10,01:00,sunday,Hawke’s Bay United FC,Canterbury United,1,1,2,D,D,D,1,1,2,D,D,D,http://www.worldfootball.net/report/nz-football-championship-2012-2013-hawkes-bay-united-fc-canterbury-united/
+new zealand-2012-2013,12,2013-02-10,01:30,sunday,Waikato FC,YoungHeart Manawatu,2,3,5,A,L,W,1,2,3,A,L,W,http://www.worldfootball.net/report/nz-football-championship-2012-2013-waikato-fc-youngheart-manawatu/
+new zealand-2012-2013,12,2013-02-10,03:00,sunday,Team Wellington,Auckland City FC,2,3,5,A,L,W,1,0,1,H,W,L,http://www.worldfootball.net/report/nz-football-championship-2012-2013-team-wellington-auckland-city-fc/
+new zealand-2012-2013,13,2013-02-17,01:00,sunday,Hawke’s Bay United FC,Waitakere United,0,3,3,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/nz-football-championship-2012-2013-hawkes-bay-united-fc-waitakere-united/
+new zealand-2012-2013,13,2013-02-17,01:00,sunday,Canterbury United,YoungHeart Manawatu,4,1,5,H,W,L,1,1,2,D,D,D,http://www.worldfootball.net/report/nz-football-championship-2012-2013-canterbury-united-youngheart-manawatu/
+new zealand-2012-2013,13,2013-02-17,01:00,sunday,Otago United,Team Wellington,0,2,2,A,L,W,0,2,2,A,L,W,http://www.worldfootball.net/report/nz-football-championship-2012-2013-otago-united-fc-team-wellington/
+new zealand-2012-2013,13,2013-02-17,01:00,sunday,Auckland City FC,Waikato FC,7,1,8,H,W,L,4,0,4,H,W,L,http://www.worldfootball.net/report/nz-football-championship-2012-2013-auckland-city-fc-waikato-fc/
+new zealand-2012-2013,14,2013-02-23,00:30,saturday,Team Wellington,Hawke’s Bay United FC,4,2,6,H,W,L,3,2,5,H,W,L,http://www.worldfootball.net/report/nz-football-championship-2012-2013-team-wellington-hawkes-bay-united-fc/
+new zealand-2012-2013,14,2013-02-24,00:00,sunday,Waikato FC,Otago United,3,1,4,H,W,L,2,0,2,H,W,L,http://www.worldfootball.net/report/nz-football-championship-2012-2013-waikato-fc-otago-united-fc/
+new zealand-2012-2013,14,2013-02-24,00:00,sunday,Waitakere United,Canterbury United,2,3,5,A,L,W,1,1,2,D,D,D,http://www.worldfootball.net/report/nz-football-championship-2012-2013-waitakere-united-canterbury-united/
+new zealand-2012-2013,14,2013-02-24,01:00,sunday,YoungHeart Manawatu,Auckland City FC,1,4,5,A,L,W,1,1,2,D,D,D,http://www.worldfootball.net/report/nz-football-championship-2012-2013-youngheart-manawatu-auckland-city-fc/
+new zealand-2012-2013-playoffs,Semi-finals,2013-03-03,01:00,sunday,Hawke’s Bay United FC,Waitakere United,1,4,5,A,L,W,0,2,2,A,L,W,http://www.worldfootball.net/report/nz-football-championship-2012-2013-playoffs-halbfinale-hawkes-bay-united-fc-waitakere-united/
+new zealand-2012-2013-playoffs,Semi-finals,2013-03-03,01:00,sunday,Canterbury United,Auckland City FC,1,2,3,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/nz-football-championship-2012-2013-playoffs-halbfinale-canterbury-united-auckland-city-fc/
+new zealand-2012-2013-playoffs,Semi-finals,2013-03-09,01:00,saturday,Waitakere United,Hawke’s Bay United FC,6,4,10,H,W,L,2,2,4,D,D,D,http://www.worldfootball.net/report/nz-football-championship-2012-2013-playoffs-halbfinale-waitakere-united-hawkes-bay-united-fc/
+new zealand-2012-2013-playoffs,Semi-finals,2013-03-10,01:00,sunday,Auckland City FC,Canterbury United,3,1,4,H,W,L,2,0,2,H,W,L,http://www.worldfootball.net/report/nz-football-championship-2012-2013-playoffs-halbfinale-auckland-city-fc-canterbury-united/
+new zealand-2012-2013-playoffs,Final,2013-03-17,01:00,sunday,Waitakere United,Auckland City FC,3,3,6,D,D,D,2,1,3,H,W,L,http://www.worldfootball.net/report/nz-football-championship-2012-2013-playoffs-finale-waitakere-united-auckland-city-fc/
+new zealand-2013-2014,1,2013-11-10,00:00,sunday,WaiBOP United,Canterbury United,2,1,3,H,W,L,1,1,2,D,D,D,http://www.worldfootball.net/report/nz-football-championship-2013-2014-waibop-united-canterbury-united/
+new zealand-2013-2014,1,2013-11-10,00:00,sunday,Otago United,Waitakere United,0,3,3,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/nz-football-championship-2013-2014-southern-united-waitakere-united/
+new zealand-2013-2014,1,2013-11-10,01:00,sunday,Team Wellington,Auckland City FC,1,4,5,A,L,W,1,1,2,D,D,D,http://www.worldfootball.net/report/nz-football-championship-2013-2014-team-wellington-auckland-city-fc/
+new zealand-2013-2014,2,2013-11-16,01:00,saturday,Wanderers SC,Canterbury United,2,2,4,D,D,D,1,1,2,D,D,D,http://www.worldfootball.net/report/nz-football-championship-2013-2014-wanderers-sc-canterbury-united/
+new zealand-2013-2014,2,2013-11-16,04:00,saturday,Hawke’s Bay United FC,Otago United,3,2,5,H,W,L,1,2,3,A,L,W,http://www.worldfootball.net/report/nz-football-championship-2013-2014-hawkes-bay-united-fc-southern-united/
+new zealand-2013-2014,2,2013-11-17,01:00,sunday,Auckland City FC,WaiBOP United,3,1,4,H,W,L,1,1,2,D,D,D,http://www.worldfootball.net/report/nz-football-championship-2013-2014-auckland-city-fc-waibop-united/
+new zealand-2013-2014,2,2013-11-17,03:00,sunday,Waitakere United,Team Wellington,2,0,2,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/nz-football-championship-2013-2014-waitakere-united-team-wellington/
+new zealand-2013-2014,3,2013-11-23,04:00,saturday,WaiBOP United,Hawke’s Bay United FC,0,2,2,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/nz-football-championship-2013-2014-waibop-united-hawkes-bay-united-fc/
+new zealand-2013-2014,3,2013-11-24,01:00,sunday,Canterbury United,Auckland City FC,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/nz-football-championship-2013-2014-canterbury-united-auckland-city-fc/
+new zealand-2013-2014,3,2013-11-24,01:00,sunday,Team Wellington,Otago United,3,1,4,H,W,L,2,1,3,H,W,L,http://www.worldfootball.net/report/nz-football-championship-2013-2014-team-wellington-southern-united/
+new zealand-2013-2014,3,2013-11-24,03:00,sunday,Waitakere United,Wanderers SC,4,1,5,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/nz-football-championship-2013-2014-waitakere-united-wanderers-sc/
+new zealand-2013-2014,4,2013-11-30,01:00,saturday,Auckland City FC,Waitakere United,2,0,2,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/nz-football-championship-2013-2014-auckland-city-fc-waitakere-united/
+new zealand-2013-2014,4,2013-11-30,23:00,saturday,Hawke’s Bay United FC,Team Wellington,1,2,3,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/nz-football-championship-2013-2014-hawkes-bay-united-fc-team-wellington/
+new zealand-2013-2014,4,2013-12-01,01:00,sunday,Otago United,Canterbury United,0,3,3,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/nz-football-championship-2013-2014-southern-united-canterbury-united/
+new zealand-2013-2014,4,2013-12-01,01:00,sunday,Wanderers SC,WaiBOP United,3,3,6,D,D,D,1,2,3,A,L,W,http://www.worldfootball.net/report/nz-football-championship-2013-2014-wanderers-sc-waibop-united/
+new zealand-2013-2014,5,2013-12-07,04:00,saturday,WaiBOP United,Otago United,4,2,6,H,W,L,2,0,2,H,W,L,http://www.worldfootball.net/report/nz-football-championship-2013-2014-waibop-united-southern-united/
+new zealand-2013-2014,5,2013-12-08,01:00,sunday,Canterbury United,Team Wellington,2,0,2,H,W,L,2,0,2,H,W,L,http://www.worldfootball.net/report/nz-football-championship-2013-2014-canterbury-united-team-wellington/
+new zealand-2013-2014,5,2013-12-08,03:00,sunday,Waitakere United,Hawke’s Bay United FC,2,2,4,D,D,D,2,1,3,H,W,L,http://www.worldfootball.net/report/nz-football-championship-2013-2014-waitakere-united-hawkes-bay-united-fc/
+new zealand-2013-2014,6,2013-12-14,01:45,saturday,Team Wellington,Wanderers SC,3,2,5,H,W,L,2,1,3,H,W,L,http://www.worldfootball.net/report/nz-football-championship-2013-2014-team-wellington-wanderers-sc/
+new zealand-2013-2014,6,2013-12-14,03:00,saturday,Waitakere United,WaiBOP United,3,0,3,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/nz-football-championship-2013-2014-waitakere-united-waibop-united/
+new zealand-2013-2014,6,2013-12-14,04:00,saturday,Hawke’s Bay United FC,Canterbury United,1,0,1,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/nz-football-championship-2013-2014-hawkes-bay-united-fc-canterbury-united/
+new zealand-2013-2014,7,2013-12-22,01:00,sunday,Wanderers SC,Otago United,1,2,3,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/nz-football-championship-2013-2014-wanderers-sc-southern-united/
+new zealand-2013-2014,7,2013-12-22,01:00,sunday,Canterbury United,Waitakere United,3,2,5,H,W,L,2,0,2,H,W,L,http://www.worldfootball.net/report/nz-football-championship-2013-2014-canterbury-united-waitakere-united/
+new zealand-2013-2014,7,2013-12-22,01:00,sunday,Auckland City FC,Hawke’s Bay United FC,4,4,8,D,D,D,1,3,4,A,L,W,http://www.worldfootball.net/report/nz-football-championship-2013-2014-auckland-city-fc-hawkes-bay-united-fc/
+new zealand-2013-2014,7,2013-12-22,03:15,sunday,Team Wellington,WaiBOP United,3,2,5,H,W,L,2,2,4,D,D,D,http://www.worldfootball.net/report/nz-football-championship-2013-2014-team-wellington-waibop-united/
+new zealand-2013-2014,8,2014-01-12,00:00,sunday,Waitakere United,Otago United,1,3,4,A,L,W,1,2,3,A,L,W,http://www.worldfootball.net/report/nz-football-championship-2013-2014-waitakere-united-southern-united/
+new zealand-2013-2014,8,2014-01-12,01:00,sunday,Canterbury United,WaiBOP United,1,0,1,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/nz-football-championship-2013-2014-canterbury-united-waibop-united/
+new zealand-2013-2014,8,2014-01-12,01:00,sunday,Auckland City FC,Team Wellington,3,2,5,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/nz-football-championship-2013-2014-auckland-city-fc-team-wellington/
+new zealand-2013-2014,8,2014-01-12,02:00,sunday,Wanderers SC,Hawke’s Bay United FC,3,0,3,H,W,L,,,,,,,http://www.worldfootball.net/report/nz-football-championship-2013-2014-wanderers-sc-hawkes-bay-united-fc/
+new zealand-2013-2014,9,2014-01-18,04:00,saturday,Otago United,Hawke’s Bay United FC,1,6,7,A,L,W,0,2,2,A,L,W,http://www.worldfootball.net/report/nz-football-championship-2013-2014-southern-united-hawkes-bay-united-fc/
+new zealand-2013-2014,9,2014-01-18,04:00,saturday,WaiBOP United,Auckland City FC,0,2,2,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/nz-football-championship-2013-2014-waibop-united-auckland-city-fc/
+new zealand-2013-2014,9,2014-01-19,01:00,sunday,Canterbury United,Wanderers SC,2,0,2,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/nz-football-championship-2013-2014-canterbury-united-wanderers-sc/
+new zealand-2013-2014,9,2014-01-19,01:00,sunday,Team Wellington,Waitakere United,3,1,4,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/nz-football-championship-2013-2014-team-wellington-waitakere-united/
+new zealand-2013-2014,5,2014-01-22,05:00,wednesday,Wanderers SC,Auckland City FC,0,2,2,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/nz-football-championship-2013-2014-wanderers-sc-auckland-city-fc/
+new zealand-2013-2014,10,2014-01-25,04:00,saturday,Hawke’s Bay United FC,WaiBOP United,3,2,5,H,W,L,3,1,4,H,W,L,http://www.worldfootball.net/report/nz-football-championship-2013-2014-hawkes-bay-united-fc-waibop-united/
+new zealand-2013-2014,10,2014-01-26,01:00,sunday,Auckland City FC,Canterbury United,1,1,2,D,D,D,1,0,1,H,W,L,http://www.worldfootball.net/report/nz-football-championship-2013-2014-auckland-city-fc-canterbury-united/
+new zealand-2013-2014,10,2014-01-26,01:00,sunday,Otago United,Team Wellington,2,2,4,D,D,D,1,1,2,D,D,D,http://www.worldfootball.net/report/nz-football-championship-2013-2014-southern-united-team-wellington/
+new zealand-2013-2014,10,2014-01-26,01:00,sunday,Wanderers SC,Waitakere United,1,6,7,A,L,W,0,2,2,A,L,W,http://www.worldfootball.net/report/nz-football-championship-2013-2014-wanderers-sc-waitakere-united/
+new zealand-2013-2014,11,2014-02-01,01:00,saturday,WaiBOP United,Wanderers SC,3,1,4,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/nz-football-championship-2013-2014-waibop-united-wanderers-sc/
+new zealand-2013-2014,11,2014-02-02,01:00,sunday,Team Wellington,Hawke’s Bay United FC,6,1,7,H,W,L,0,1,1,A,L,W,http://www.worldfootball.net/report/nz-football-championship-2013-2014-team-wellington-hawkes-bay-united-fc/
+new zealand-2013-2014,11,2014-02-02,01:00,sunday,Canterbury United,Otago United,2,0,2,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/nz-football-championship-2013-2014-canterbury-united-southern-united/
+new zealand-2013-2014,11,2014-02-02,03:00,sunday,Waitakere United,Auckland City FC,1,0,1,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/nz-football-championship-2013-2014-waitakere-united-auckland-city-fc/
+new zealand-2013-2014,1,2014-02-06,01:00,thursday,Hawke’s Bay United FC,Wanderers SC,1,0,1,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/nz-football-championship-2013-2014-hawkes-bay-united-fc-wanderers-sc/
+new zealand-2013-2014,6,2014-02-06,01:00,thursday,Auckland City FC,Otago United,3,0,3,H,W,L,2,0,2,H,W,L,http://www.worldfootball.net/report/nz-football-championship-2013-2014-auckland-city-fc-southern-united/
+new zealand-2013-2014,12,2014-02-09,00:00,sunday,Otago United,WaiBOP United,1,6,7,A,L,W,0,3,3,A,L,W,http://www.worldfootball.net/report/nz-football-championship-2013-2014-southern-united-waibop-united/
+new zealand-2013-2014,12,2014-02-09,01:00,sunday,Team Wellington,Canterbury United,3,3,6,D,D,D,2,2,4,D,D,D,http://www.worldfootball.net/report/nz-football-championship-2013-2014-team-wellington-canterbury-united/
+new zealand-2013-2014,12,2014-02-09,01:00,sunday,Hawke’s Bay United FC,Waitakere United,2,1,3,H,W,L,2,0,2,H,W,L,http://www.worldfootball.net/report/nz-football-championship-2013-2014-hawkes-bay-united-fc-waitakere-united/
+new zealand-2013-2014,12,2014-02-09,01:00,sunday,Auckland City FC,Wanderers SC,2,1,3,H,W,L,2,0,2,H,W,L,http://www.worldfootball.net/report/nz-football-championship-2013-2014-auckland-city-fc-wanderers-sc/
+new zealand-2013-2014,13,2014-02-15,04:00,saturday,WaiBOP United,Waitakere United,1,1,2,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/nz-football-championship-2013-2014-waibop-united-waitakere-united/
+new zealand-2013-2014,13,2014-02-16,00:00,sunday,Otago United,Auckland City FC,0,10,10,A,L,W,0,2,2,A,L,W,http://www.worldfootball.net/report/nz-football-championship-2013-2014-southern-united-auckland-city-fc/
+new zealand-2013-2014,13,2014-02-16,01:00,sunday,Canterbury United,Hawke’s Bay United FC,1,2,3,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/nz-football-championship-2013-2014-canterbury-united-hawkes-bay-united-fc/
+new zealand-2013-2014,13,2014-02-16,02:00,sunday,Wanderers SC,Team Wellington,1,4,5,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/nz-football-championship-2013-2014-wanderers-sc-team-wellington/
+new zealand-2013-2014,14,2014-02-21,23:30,friday,WaiBOP United,Team Wellington,0,5,5,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/nz-football-championship-2013-2014-waibop-united-team-wellington/
+new zealand-2013-2014,14,2014-02-22,04:00,saturday,Hawke’s Bay United FC,Auckland City FC,1,4,5,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/nz-football-championship-2013-2014-hawkes-bay-united-fc-auckland-city-fc/
+new zealand-2013-2014,14,2014-02-23,01:00,sunday,Otago United,Wanderers SC,5,3,8,H,W,L,4,1,5,H,W,L,http://www.worldfootball.net/report/nz-football-championship-2013-2014-southern-united-wanderers-sc/
+new zealand-2013-2014,14,2014-02-23,03:00,sunday,Waitakere United,Canterbury United,3,1,4,H,W,L,2,0,2,H,W,L,http://www.worldfootball.net/report/nz-football-championship-2013-2014-waitakere-united-canterbury-united/
+new zealand-2013-2014-playoffs,Semi-finals,2014-03-01,01:00,saturday,Waitakere United,Auckland City FC,0,4,4,A,L,W,0,2,2,A,L,W,http://www.worldfootball.net/report/nz-football-championship-2013-2014-playoffs-halbfinale-waitakere-united-auckland-city-fc/
+new zealand-2013-2014-playoffs,Semi-finals,2014-03-02,01:00,sunday,Hawke’s Bay United FC,Team Wellington,1,2,3,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/nz-football-championship-2013-2014-playoffs-halbfinale-hawkes-bay-united-fc-team-wellington/
+new zealand-2013-2014-playoffs,Semi-finals,2014-03-08,00:00,saturday,Team Wellington,Hawke’s Bay United FC,1,0,1,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/nz-football-championship-2013-2014-playoffs-halbfinale-team-wellington-hawkes-bay-united-fc/
+new zealand-2013-2014-playoffs,Semi-finals,2014-03-09,01:00,sunday,Auckland City FC,Waitakere United,4,1,5,H,W,L,3,0,3,H,W,L,http://www.worldfootball.net/report/nz-football-championship-2013-2014-playoffs-halbfinale-auckland-city-fc-waitakere-united/
+new zealand-2013-2014-playoffs,Final,2014-03-16,01:35,sunday,Auckland City FC,Team Wellington,1,0,1,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/nz-football-championship-2013-2014-playoffs-finale-auckland-city-fc-team-wellington/
+new zealand-2014-2015,4,2014-10-25,01:00,saturday,Southern United,Auckland City FC,0,3,3,A,L,W,0,2,2,A,L,W,http://www.worldfootball.net/report/nz-football-championship-2014-2015-southern-united-auckland-city-fc/
+new zealand-2014-2015,1,2014-11-01,01:00,saturday,Waitakere United,Wanderers SC,3,2,5,H,W,L,2,2,4,D,D,D,http://www.worldfootball.net/report/nz-football-championship-2014-2015-waitakere-united-wanderers-sc/
+new zealand-2014-2015,1,2014-11-01,01:00,saturday,Canterbury United,WaiBOP United,2,0,2,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/nz-football-championship-2014-2015-canterbury-united-waibop-united/
+new zealand-2014-2015,1,2014-11-02,01:00,sunday,Auckland City FC,Hawke’s Bay United FC,3,2,5,H,W,L,2,1,3,H,W,L,http://www.worldfootball.net/report/nz-football-championship-2014-2015-auckland-city-fc-hawkes-bay-united-fc/
+new zealand-2014-2015,1,2014-11-02,02:00,sunday,Team Wellington,Wellington Phoenix (R),2,1,3,H,W,L,1,1,2,D,D,D,http://www.worldfootball.net/report/nz-football-championship-2014-2015-team-wellington-wellington-phoenix-r/
+new zealand-2014-2015,8,2014-11-08,00:00,saturday,Waitakere United,Auckland City FC,0,1,1,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/nz-football-championship-2014-2015-waitakere-united-auckland-city-fc/
+new zealand-2014-2015,2,2014-11-08,01:00,saturday,Canterbury United,Southern United,0,1,1,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/nz-football-championship-2014-2015-canterbury-united-southern-united/
+new zealand-2014-2015,2,2014-11-09,01:00,sunday,Hawke’s Bay United FC,Team Wellington,2,2,4,D,D,D,1,1,2,D,D,D,http://www.worldfootball.net/report/nz-football-championship-2014-2015-hawkes-bay-united-fc-team-wellington/
+new zealand-2014-2015,2,2014-11-09,02:00,sunday,Wellington Phoenix (R),Wanderers SC,3,0,3,H,W,L,2,0,2,H,W,L,http://www.worldfootball.net/report/nz-football-championship-2014-2015-wellington-phoenix-r-wanderers-sc/
+new zealand-2014-2015,6,2014-11-12,05:00,wednesday,Auckland City FC,Wanderers SC,3,0,3,H,W,L,2,0,2,H,W,L,http://www.worldfootball.net/report/nz-football-championship-2014-2015-auckland-city-fc-wanderers-sc/
+new zealand-2014-2015,3,2014-11-15,00:00,saturday,Southern United,Waitakere United,2,1,3,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/nz-football-championship-2014-2015-southern-united-waitakere-united/
+new zealand-2014-2015,3,2014-11-16,02:00,sunday,Team Wellington,WaiBOP United,3,2,5,H,W,L,1,2,3,A,L,W,http://www.worldfootball.net/report/nz-football-championship-2014-2015-team-wellington-waibop-united/
+new zealand-2014-2015,3,2014-11-16,02:00,sunday,Wanderers SC,Hawke’s Bay United FC,1,2,3,A,L,W,1,2,3,A,L,W,http://www.worldfootball.net/report/nz-football-championship-2014-2015-wanderers-sc-hawkes-bay-united-fc/
+new zealand-2014-2015,4,2014-11-22,02:00,saturday,WaiBOP United,Wanderers SC,0,3,3,A,L,W,,,,,,,http://www.worldfootball.net/report/nz-football-championship-2014-2015-waibop-united-wanderers-sc/
+new zealand-2014-2015,4,2014-11-23,02:00,sunday,Wellington Phoenix (R),Waitakere United,1,2,3,A,L,W,1,0,1,H,W,L,http://www.worldfootball.net/report/nz-football-championship-2014-2015-wellington-phoenix-r-waitakere-united/
+new zealand-2014-2015,4,2014-11-23,02:30,sunday,Canterbury United,Team Wellington,2,2,4,D,D,D,1,0,1,H,W,L,http://www.worldfootball.net/report/nz-football-championship-2014-2015-canterbury-united-team-wellington/
+new zealand-2014-2015,5,2014-11-29,01:00,saturday,Waitakere United,Hawke’s Bay United FC,1,1,2,D,D,D,1,1,2,D,D,D,http://www.worldfootball.net/report/nz-football-championship-2014-2015-waitakere-united-hawkes-bay-united-fc/
+new zealand-2014-2015,5,2014-11-29,02:00,saturday,Team Wellington,Auckland City FC,4,0,4,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/nz-football-championship-2014-2015-team-wellington-auckland-city-fc/
+new zealand-2014-2015,5,2014-11-30,01:00,sunday,Southern United,Wellington Phoenix (R),3,4,7,A,L,W,2,2,4,D,D,D,http://www.worldfootball.net/report/nz-football-championship-2014-2015-southern-united-wellington-phoenix-r/
+new zealand-2014-2015,5,2014-11-30,02:00,sunday,Wanderers SC,Canterbury United,3,1,4,H,W,L,1,1,2,D,D,D,http://www.worldfootball.net/report/nz-football-championship-2014-2015-wanderers-sc-canterbury-united/
+new zealand-2014-2015,6,2014-12-06,02:00,saturday,WaiBOP United,Waitakere United,1,1,2,D,D,D,0,1,1,A,L,W,http://www.worldfootball.net/report/nz-football-championship-2014-2015-waibop-united-waitakere-united/
+new zealand-2014-2015,6,2014-12-07,01:00,sunday,Hawke’s Bay United FC,Wellington Phoenix (R),2,5,7,A,L,W,1,3,4,A,L,W,http://www.worldfootball.net/report/nz-football-championship-2014-2015-hawkes-bay-united-fc-wellington-phoenix-r/
+new zealand-2014-2015,6,2014-12-07,02:00,sunday,Team Wellington,Southern United,2,0,2,H,W,L,2,0,2,H,W,L,http://www.worldfootball.net/report/nz-football-championship-2014-2015-team-wellington-southern-united/
+new zealand-2014-2015,7,2014-12-13,01:00,saturday,Waitakere United,Canterbury United,0,2,2,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/nz-football-championship-2014-2015-waitakere-united-canterbury-united/
+new zealand-2014-2015,7,2014-12-13,01:00,saturday,Wellington Phoenix (R),WaiBOP United,0,2,2,A,L,W,0,2,2,A,L,W,http://www.worldfootball.net/report/nz-football-championship-2014-2015-wellington-phoenix-r-waibop-united/
+new zealand-2014-2015,7,2014-12-14,01:00,sunday,Hawke’s Bay United FC,Southern United,3,1,4,H,W,L,2,1,3,H,W,L,http://www.worldfootball.net/report/nz-football-championship-2014-2015-hawkes-bay-united-fc-southern-united/
+new zealand-2014-2015,7,2014-12-14,02:00,sunday,Wanderers SC,Team Wellington,1,4,5,A,L,W,1,1,2,D,D,D,http://www.worldfootball.net/report/nz-football-championship-2014-2015-wanderers-sc-team-wellington/
+new zealand-2014-2015,8,2014-12-20,01:00,saturday,Canterbury United,Wellington Phoenix (R),2,0,2,H,W,L,2,0,2,H,W,L,http://www.worldfootball.net/report/nz-football-championship-2014-2015-canterbury-united-wellington-phoenix-r/
+new zealand-2014-2015,8,2014-12-20,03:00,saturday,WaiBOP United,Hawke’s Bay United FC,2,4,6,A,L,W,1,2,3,A,L,W,http://www.worldfootball.net/report/nz-football-championship-2014-2015-waibop-united-hawkes-bay-united-fc/
+new zealand-2014-2015,8,2014-12-21,01:00,sunday,Wanderers SC,Southern United,3,3,6,D,D,D,2,1,3,H,W,L,http://www.worldfootball.net/report/nz-football-championship-2014-2015-wanderers-sc-southern-united/
+new zealand-2014-2015,9,2015-01-10,01:00,saturday,Canterbury United,Hawke’s Bay United FC,1,1,2,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/nz-football-championship-2014-2015-canterbury-united-hawkes-bay-united-fc/
+new zealand-2014-2015,9,2015-01-11,01:00,sunday,Auckland City FC,Wellington Phoenix (R),1,3,4,A,L,W,1,3,4,A,L,W,http://www.worldfootball.net/report/nz-football-championship-2014-2015-auckland-city-fc-wellington-phoenix-r/
+new zealand-2014-2015,9,2015-01-11,01:00,sunday,Southern United,WaiBOP United,0,1,1,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/nz-football-championship-2014-2015-southern-united-waibop-united/
+new zealand-2014-2015,9,2015-01-11,02:00,sunday,Team Wellington,Waitakere United,1,2,3,A,L,W,1,0,1,H,W,L,http://www.worldfootball.net/report/nz-football-championship-2014-2015-team-wellington-waitakere-united/
+new zealand-2014-2015,15,2015-01-14,05:00,wednesday,Wanderers SC,Auckland City FC,0,1,1,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/nz-football-championship-2014-2015-wanderers-sc-auckland-city-fc/
+new zealand-2014-2015,10,2015-01-17,02:00,saturday,WaiBOP United,Canterbury United,4,3,7,H,W,L,0,1,1,A,L,W,http://www.worldfootball.net/report/nz-football-championship-2014-2015-waibop-united-canterbury-united/
+new zealand-2014-2015,10,2015-01-17,02:00,saturday,Wanderers SC,Waitakere United,2,0,2,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/nz-football-championship-2014-2015-wanderers-sc-waitakere-united/
+new zealand-2014-2015,10,2015-01-17,04:00,saturday,Wellington Phoenix (R),Team Wellington,3,4,7,A,L,W,2,1,3,H,W,L,http://www.worldfootball.net/report/nz-football-championship-2014-2015-wellington-phoenix-r-team-wellington/
+new zealand-2014-2015,10,2015-01-18,01:00,sunday,Hawke’s Bay United FC,Auckland City FC,0,3,3,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/nz-football-championship-2014-2015-hawkes-bay-united-fc-auckland-city-fc/
+new zealand-2014-2015,11,2015-01-25,00:00,sunday,Wanderers SC,Wellington Phoenix (R),2,1,3,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/nz-football-championship-2014-2015-wanderers-sc-wellington-phoenix-r/
+new zealand-2014-2015,11,2015-01-25,01:00,sunday,Auckland City FC,WaiBOP United,3,2,5,H,W,L,2,1,3,H,W,L,http://www.worldfootball.net/report/nz-football-championship-2014-2015-auckland-city-fc-waibop-united/
+new zealand-2014-2015,11,2015-01-25,01:00,sunday,Southern United,Canterbury United,1,3,4,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/nz-football-championship-2014-2015-southern-united-canterbury-united/
+new zealand-2014-2015,11,2015-01-25,02:00,sunday,Team Wellington,Hawke’s Bay United FC,1,0,1,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/nz-football-championship-2014-2015-team-wellington-hawkes-bay-united-fc/
+new zealand-2014-2015,12,2015-01-31,01:00,saturday,Canterbury United,Auckland City FC,0,1,1,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/nz-football-championship-2014-2015-canterbury-united-auckland-city-fc/
+new zealand-2014-2015,12,2015-01-31,02:00,saturday,WaiBOP United,Team Wellington,2,1,3,H,W,L,2,1,3,H,W,L,http://www.worldfootball.net/report/nz-football-championship-2014-2015-waibop-united-team-wellington/
+new zealand-2014-2015,12,2015-02-01,00:00,sunday,Waitakere United,Southern United,3,1,4,H,W,L,2,0,2,H,W,L,http://www.worldfootball.net/report/nz-football-championship-2014-2015-waitakere-united-southern-united/
+new zealand-2014-2015,12,2015-02-01,01:00,sunday,Hawke’s Bay United FC,Wanderers SC,3,1,4,H,W,L,2,0,2,H,W,L,http://www.worldfootball.net/report/nz-football-championship-2014-2015-hawkes-bay-united-fc-wanderers-sc/
+new zealand-2014-2015,13,2015-02-08,01:00,sunday,Auckland City FC,Southern United,4,2,6,H,W,L,2,1,3,H,W,L,http://www.worldfootball.net/report/nz-football-championship-2014-2015-auckland-city-fc-southern-united/
+new zealand-2014-2015,13,2015-02-08,01:00,sunday,Waitakere United,Wellington Phoenix (R),6,3,9,H,W,L,3,1,4,H,W,L,http://www.worldfootball.net/report/nz-football-championship-2014-2015-waitakere-united-wellington-phoenix-r/
+new zealand-2014-2015,13,2015-02-08,02:00,sunday,Wanderers SC,WaiBOP United,1,2,3,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/nz-football-championship-2014-2015-wanderers-sc-waibop-united/
+new zealand-2014-2015,13,2015-02-08,02:00,sunday,Team Wellington,Canterbury United,3,0,3,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/nz-football-championship-2014-2015-team-wellington-canterbury-united/
+new zealand-2014-2015,14,2015-02-14,01:00,saturday,Wellington Phoenix (R),Southern United,6,2,8,H,W,L,0,2,2,A,L,W,http://www.worldfootball.net/report/nz-football-championship-2014-2015-wellington-phoenix-r-southern-united/
+new zealand-2014-2015,14,2015-02-15,01:00,sunday,Hawke’s Bay United FC,Waitakere United,3,2,5,H,W,L,1,1,2,D,D,D,http://www.worldfootball.net/report/nz-football-championship-2014-2015-hawkes-bay-united-fc-waitakere-united/
+new zealand-2014-2015,14,2015-02-15,01:00,sunday,Canterbury United,Wanderers SC,1,4,5,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/nz-football-championship-2014-2015-canterbury-united-wanderers-sc/
+new zealand-2014-2015,14,2015-02-15,01:00,sunday,Auckland City FC,Team Wellington,3,0,3,H,W,L,2,0,2,H,W,L,http://www.worldfootball.net/report/nz-football-championship-2014-2015-auckland-city-fc-team-wellington/
+new zealand-2014-2015,2,2015-02-18,05:00,wednesday,WaiBOP United,Auckland City FC,0,2,2,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/nz-football-championship-2014-2015-waibop-united-auckland-city-fc/
+new zealand-2014-2015,15,2015-02-21,01:00,saturday,Wellington Phoenix (R),Hawke’s Bay United FC,2,4,6,A,L,W,1,0,1,H,W,L,http://www.worldfootball.net/report/nz-football-championship-2014-2015-wellington-phoenix-r-hawkes-bay-united-fc/
+new zealand-2014-2015,15,2015-02-21,01:00,saturday,Waitakere United,WaiBOP United,2,1,3,H,W,L,1,1,2,D,D,D,http://www.worldfootball.net/report/nz-football-championship-2014-2015-waitakere-united-waibop-united/
+new zealand-2014-2015,3,2015-02-22,01:00,sunday,Auckland City FC,Canterbury United,3,1,4,H,W,L,1,1,2,D,D,D,http://www.worldfootball.net/report/nz-football-championship-2014-2015-auckland-city-fc-canterbury-united/
+new zealand-2014-2015,15,2015-02-22,01:00,sunday,Southern United,Team Wellington,1,2,3,A,L,W,1,1,2,D,D,D,http://www.worldfootball.net/report/nz-football-championship-2014-2015-southern-united-team-wellington/
+new zealand-2014-2015,16,2015-02-28,01:00,saturday,Canterbury United,Waitakere United,1,2,3,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/nz-football-championship-2014-2015-canterbury-united-waitakere-united/
+new zealand-2014-2015,16,2015-02-28,02:00,saturday,WaiBOP United,Wellington Phoenix (R),2,3,5,A,L,W,2,1,3,H,W,L,http://www.worldfootball.net/report/nz-football-championship-2014-2015-waibop-united-wellington-phoenix-r/
+new zealand-2014-2015,16,2015-03-01,00:00,sunday,Southern United,Hawke’s Bay United FC,1,2,3,A,L,W,1,1,2,D,D,D,http://www.worldfootball.net/report/nz-football-championship-2014-2015-southern-united-hawkes-bay-united-fc/
+new zealand-2014-2015,16,2015-03-01,02:00,sunday,Team Wellington,Wanderers SC,1,1,2,D,D,D,1,1,2,D,D,D,http://www.worldfootball.net/report/nz-football-championship-2014-2015-team-wellington-wanderers-sc/
+new zealand-2014-2015,17,2015-03-07,01:00,saturday,Wellington Phoenix (R),Canterbury United,2,1,3,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/nz-football-championship-2014-2015-wellington-phoenix-r-canterbury-united/
+new zealand-2014-2015,17,2015-03-08,01:00,sunday,Southern United,Wanderers SC,1,0,1,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/nz-football-championship-2014-2015-southern-united-wanderers-sc/
+new zealand-2014-2015,17,2015-03-08,01:00,sunday,Auckland City FC,Waitakere United,1,0,1,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/nz-football-championship-2014-2015-auckland-city-fc-waitakere-united/
+new zealand-2014-2015,17,2015-03-08,02:00,sunday,Hawke’s Bay United FC,WaiBOP United,0,1,1,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/nz-football-championship-2014-2015-hawkes-bay-united-fc-waibop-united/
+new zealand-2014-2015,18,2015-03-14,01:00,saturday,Wellington Phoenix (R),Auckland City FC,0,7,7,A,L,W,0,4,4,A,L,W,http://www.worldfootball.net/report/nz-football-championship-2014-2015-wellington-phoenix-r-auckland-city-fc/
+new zealand-2014-2015,18,2015-03-14,01:00,saturday,Waitakere United,Team Wellington,4,0,4,H,W,L,3,0,3,H,W,L,http://www.worldfootball.net/report/nz-football-championship-2014-2015-waitakere-united-team-wellington/
+new zealand-2014-2015,18,2015-03-14,04:00,saturday,WaiBOP United,Southern United,2,1,3,H,W,L,0,1,1,A,L,W,http://www.worldfootball.net/report/nz-football-championship-2014-2015-waibop-united-southern-united/
+new zealand-2014-2015,18,2015-03-15,01:00,sunday,Hawke’s Bay United FC,Canterbury United,5,2,7,H,W,L,3,2,5,H,W,L,http://www.worldfootball.net/report/nz-football-championship-2014-2015-hawkes-bay-united-fc-canterbury-united/
+new zealand-2014-2015-playoffs,Semi-Final,2015-03-21,01:00,saturday,Waitakere United,Auckland City FC,0,2,2,A,L,W,0,2,2,A,L,W,http://www.worldfootball.net/report/nz-football-championship-2014-2015-playoffs-semi-final-waitakere-united-auckland-city-fc/
+new zealand-2014-2015-playoffs,Semi-Final,2015-03-21,04:00,saturday,Hawke’s Bay United FC,Team Wellington,1,2,3,A,L,W,1,1,2,D,D,D,http://www.worldfootball.net/report/nz-football-championship-2014-2015-playoffs-semi-final-hawkes-bay-united-fc-team-wellington/
+new zealand-2014-2015-playoffs,Semi-Final,2015-03-29,01:00,sunday,Auckland City FC,Waitakere United,5,1,6,H,W,L,3,0,3,H,W,L,http://www.worldfootball.net/report/nz-football-championship-2014-2015-playoffs-semi-final-auckland-city-fc-waitakere-united/
+new zealand-2014-2015-playoffs,Semi-Final,2015-03-29,01:00,sunday,Team Wellington,Hawke’s Bay United FC,3,4,7,A,L,W,2,2,4,D,D,D,http://www.worldfootball.net/report/nz-football-championship-2014-2015-playoffs-semi-final-team-wellington-hawkes-bay-united-fc/
+new zealand-2014-2015-playoffs,Final,2015-04-05,03:00,sunday,Auckland City FC,Hawke’s Bay United FC,2,1,3,H,W,L,1,1,2,D,D,D,http://www.worldfootball.net/report/nz-football-championship-2014-2015-playoffs-finale-auckland-city-fc-hawkes-bay-united-fc/
+new zealand-2015-2016,5,2015-11-08,03:35,sunday,Waitakere United,Auckland City FC,0,4,4,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/nz-football-championship-2015-2016-waitakere-united-auckland-city-fc/
+new zealand-2015-2016,1,2015-11-12,06:35,thursday,Auckland City FC,Hawke’s Bay United FC,1,1,2,D,D,D,1,0,1,H,W,L,http://www.worldfootball.net/report/nz-football-championship-2015-2016-auckland-city-fc-hawkes-bay-united-fc/
+new zealand-2015-2016,1,2015-11-15,01:00,sunday,Southern United,Waitakere United,0,2,2,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/nz-football-championship-2015-2016-southern-united-waitakere-united/
+new zealand-2015-2016,1,2015-11-15,01:00,sunday,Wellington Phoenix (R),Canterbury United,0,3,3,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/nz-football-championship-2015-2016-wellington-phoenix-r-canterbury-united/
+new zealand-2015-2016,1,2015-11-15,03:35,sunday,WaiBOP United,Team Wellington,2,3,5,A,L,W,1,1,2,D,D,D,http://www.worldfootball.net/report/nz-football-championship-2015-2016-waibop-united-team-wellington/
+new zealand-2015-2016,2,2015-11-19,06:35,thursday,Waitakere United,WaiBOP United,1,5,6,A,L,W,1,4,5,A,L,W,http://www.worldfootball.net/report/nz-football-championship-2015-2016-waitakere-united-waibop-united/
+new zealand-2015-2016,2,2015-11-22,00:00,sunday,Hawke’s Bay United FC,Southern United,3,0,3,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/nz-football-championship-2015-2016-hawkes-bay-united-fc-southern-united/
+new zealand-2015-2016,2,2015-11-22,01:00,sunday,Wellington Phoenix (R),Auckland City FC,1,3,4,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/nz-football-championship-2015-2016-wellington-phoenix-r-auckland-city-fc/
+new zealand-2015-2016,2,2015-11-22,03:35,sunday,Canterbury United,Team Wellington,2,1,3,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/nz-football-championship-2015-2016-canterbury-united-team-wellington/
+new zealand-2015-2016,3,2015-11-26,06:35,thursday,WaiBOP United,Hawke’s Bay United FC,0,1,1,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/nz-football-championship-2015-2016-waibop-united-hawkes-bay-united-fc/
+new zealand-2015-2016,3,2015-11-29,01:00,sunday,Southern United,Wellington Phoenix (R),1,0,1,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/nz-football-championship-2015-2016-southern-united-wellington-phoenix-r/
+new zealand-2015-2016,3,2015-11-29,01:00,sunday,Team Wellington,Waitakere United,3,1,4,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/nz-football-championship-2015-2016-team-wellington-waitakere-united/
+new zealand-2015-2016,3,2015-11-29,03:35,sunday,Auckland City FC,Canterbury United,4,1,5,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/nz-football-championship-2015-2016-auckland-city-fc-canterbury-united/
+new zealand-2015-2016,4,2015-12-03,06:35,thursday,Wellington Phoenix (R),Waitakere United,2,1,3,H,W,L,2,1,3,H,W,L,http://www.worldfootball.net/report/nz-football-championship-2015-2016-wellington-phoenix-r-waitakere-united/
+new zealand-2015-2016,4,2015-12-06,00:00,sunday,Hawke’s Bay United FC,Canterbury United,2,0,2,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/nz-football-championship-2015-2016-hawkes-bay-united-fc-canterbury-united/
+new zealand-2015-2016,4,2015-12-06,03:35,sunday,Southern United,WaiBOP United,1,2,3,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/nz-football-championship-2015-2016-southern-united-waibop-united/
+new zealand-2015-2016,5,2015-12-10,06:35,thursday,Canterbury United,WaiBOP United,2,0,2,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/nz-football-championship-2015-2016-canterbury-united-waibop-united/
+new zealand-2015-2016,5,2015-12-13,00:00,sunday,Hawke’s Bay United FC,Wellington Phoenix (R),5,5,10,D,D,D,0,4,4,A,L,W,http://www.worldfootball.net/report/nz-football-championship-2015-2016-hawkes-bay-united-fc-wellington-phoenix-r/
+new zealand-2015-2016,5,2015-12-13,03:35,sunday,Team Wellington,Southern United,4,1,5,H,W,L,0,1,1,A,L,W,http://www.worldfootball.net/report/nz-football-championship-2015-2016-team-wellington-southern-united/
+new zealand-2015-2016,6,2015-12-17,06:35,thursday,Waitakere United,Hawke’s Bay United FC,2,1,3,H,W,L,2,1,3,H,W,L,http://www.worldfootball.net/report/nz-football-championship-2015-2016-waitakere-united-hawkes-bay-united-fc/
+new zealand-2015-2016,6,2015-12-20,01:00,sunday,Team Wellington,Wellington Phoenix (R),3,2,5,H,W,L,2,0,2,H,W,L,http://www.worldfootball.net/report/nz-football-championship-2015-2016-team-wellington-wellington-phoenix-r/
+new zealand-2015-2016,6,2015-12-20,01:00,sunday,Southern United,Canterbury United,1,3,4,A,L,W,1,1,2,D,D,D,http://www.worldfootball.net/report/nz-football-championship-2015-2016-southern-united-canterbury-united/
+new zealand-2015-2016,6,2015-12-20,03:35,sunday,WaiBOP United,Auckland City FC,0,2,2,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/nz-football-championship-2015-2016-waibop-united-auckland-city-fc/
+new zealand-2015-2016,7,2016-01-09,01:00,saturday,Wellington Phoenix (R),WaiBOP United,3,4,7,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/nz-football-championship-2015-2016-wellington-phoenix-r-waibop-united/
+new zealand-2015-2016,7,2016-01-10,00:00,sunday,Hawke’s Bay United FC,Team Wellington,2,2,4,D,D,D,0,1,1,A,L,W,http://www.worldfootball.net/report/nz-football-championship-2015-2016-hawkes-bay-united-fc-team-wellington/
+new zealand-2015-2016,7,2016-01-10,01:00,sunday,Canterbury United,Waitakere United,2,0,2,H,W,L,2,0,2,H,W,L,http://www.worldfootball.net/report/nz-football-championship-2015-2016-canterbury-united-waitakere-united/
+new zealand-2015-2016,7,2016-01-10,03:35,sunday,Auckland City FC,Southern United,3,1,4,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/nz-football-championship-2015-2016-auckland-city-fc-southern-united/
+new zealand-2015-2016,8,2016-01-14,06:35,thursday,WaiBOP United,Southern United,3,0,3,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/nz-football-championship-2015-2016-waibop-united-southern-united/
+new zealand-2015-2016,8,2016-01-17,00:00,sunday,Canterbury United,Hawke’s Bay United FC,1,3,4,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/nz-football-championship-2015-2016-canterbury-united-hawkes-bay-united-fc/
+new zealand-2015-2016,8,2016-01-17,01:00,sunday,Team Wellington,Auckland City FC,2,2,4,D,D,D,2,2,4,D,D,D,http://www.worldfootball.net/report/nz-football-championship-2015-2016-team-wellington-auckland-city-fc/
+new zealand-2015-2016,8,2016-01-17,03:35,sunday,Waitakere United,Wellington Phoenix (R),4,1,5,H,W,L,2,1,3,H,W,L,http://www.worldfootball.net/report/nz-football-championship-2015-2016-waitakere-united-wellington-phoenix-r/
+new zealand-2015-2016,9,2016-01-21,06:35,thursday,WaiBOP United,Waitakere United,5,0,5,H,W,L,3,0,3,H,W,L,http://www.worldfootball.net/report/nz-football-championship-2015-2016-waibop-united-waitakere-united/
+new zealand-2015-2016,9,2016-01-23,23:00,saturday,Southern United,Hawke’s Bay United FC,1,2,3,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/nz-football-championship-2015-2016-southern-united-hawkes-bay-united-fc/
+new zealand-2015-2016,9,2016-01-24,01:00,sunday,Team Wellington,Canterbury United,2,2,4,D,D,D,0,1,1,A,L,W,http://www.worldfootball.net/report/nz-football-championship-2015-2016-team-wellington-canterbury-united/
+new zealand-2015-2016,9,2016-01-24,03:35,sunday,Auckland City FC,Wellington Phoenix (R),4,2,6,H,W,L,4,1,5,H,W,L,http://www.worldfootball.net/report/nz-football-championship-2015-2016-auckland-city-fc-wellington-phoenix-r/
+new zealand-2015-2016,4,2016-01-28,06:35,thursday,Auckland City FC,Team Wellington,1,0,1,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/nz-football-championship-2015-2016-auckland-city-fc-team-wellington/
+new zealand-2015-2016,10,2016-01-30,03:15,saturday,Canterbury United,Wellington Phoenix (R),3,1,4,H,W,L,2,1,3,H,W,L,http://www.worldfootball.net/report/nz-football-championship-2015-2016-canterbury-united-wellington-phoenix-r/
+new zealand-2015-2016,10,2016-01-31,01:00,sunday,Team Wellington,WaiBOP United,3,1,4,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/nz-football-championship-2015-2016-team-wellington-waibop-united/
+new zealand-2015-2016,10,2016-01-31,02:00,sunday,Hawke’s Bay United FC,Auckland City FC,1,3,4,A,L,W,1,3,4,A,L,W,http://www.worldfootball.net/report/nz-football-championship-2015-2016-hawkes-bay-united-fc-auckland-city-fc/
+new zealand-2015-2016,10,2016-01-31,03:35,sunday,Waitakere United,Southern United,6,0,6,H,W,L,3,0,3,H,W,L,http://www.worldfootball.net/report/nz-football-championship-2015-2016-waitakere-united-southern-united/
+new zealand-2015-2016,11,2016-02-04,06:35,thursday,Auckland City FC,Waitakere United,5,1,6,H,W,L,2,1,3,H,W,L,http://www.worldfootball.net/report/nz-football-championship-2015-2016-auckland-city-fc-waitakere-united/
+new zealand-2015-2016,11,2016-02-06,00:00,saturday,Wellington Phoenix (R),Hawke’s Bay United FC,0,2,2,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/nz-football-championship-2015-2016-wellington-phoenix-r-hawkes-bay-united-fc/
+new zealand-2015-2016,11,2016-02-07,01:00,sunday,Southern United,Team Wellington,0,3,3,A,L,W,0,2,2,A,L,W,http://www.worldfootball.net/report/nz-football-championship-2015-2016-southern-united-team-wellington/
+new zealand-2015-2016,11,2016-02-07,03:35,sunday,WaiBOP United,Canterbury United,2,3,5,A,L,W,0,2,2,A,L,W,http://www.worldfootball.net/report/nz-football-championship-2015-2016-waibop-united-canterbury-united/
+new zealand-2015-2016,12,2016-02-11,06:35,thursday,Waitakere United,Team Wellington,2,4,6,A,L,W,1,3,4,A,L,W,http://www.worldfootball.net/report/nz-football-championship-2015-2016-waitakere-united-team-wellington/
+new zealand-2015-2016,12,2016-02-13,00:00,saturday,Wellington Phoenix (R),Southern United,4,3,7,H,W,L,4,1,5,H,W,L,http://www.worldfootball.net/report/nz-football-championship-2015-2016-wellington-phoenix-r-southern-united/
+new zealand-2015-2016,12,2016-02-14,02:00,sunday,Hawke’s Bay United FC,WaiBOP United,2,0,2,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/nz-football-championship-2015-2016-hawkes-bay-united-fc-waibop-united/
+new zealand-2015-2016,13,2016-02-18,06:35,thursday,Southern United,Auckland City FC,0,4,4,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/nz-football-championship-2015-2016-southern-united-auckland-city-fc/
+new zealand-2015-2016,13,2016-02-20,00:00,saturday,WaiBOP United,Wellington Phoenix (R),4,2,6,H,W,L,3,0,3,H,W,L,http://www.worldfootball.net/report/nz-football-championship-2015-2016-waibop-united-wellington-phoenix-r/
+new zealand-2015-2016,13,2016-02-21,02:00,sunday,Team Wellington,Hawke’s Bay United FC,0,2,2,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/nz-football-championship-2015-2016-team-wellington-hawkes-bay-united-fc/
+new zealand-2015-2016,13,2016-02-21,03:35,sunday,Waitakere United,Canterbury United,2,2,4,D,D,D,1,0,1,H,W,L,http://www.worldfootball.net/report/nz-football-championship-2015-2016-waitakere-united-canterbury-united/
+new zealand-2015-2016,12,2016-02-24,05:00,wednesday,Canterbury United,Auckland City FC,1,3,4,A,L,W,1,0,1,H,W,L,http://www.worldfootball.net/report/nz-football-championship-2015-2016-canterbury-united-auckland-city-fc/
+new zealand-2015-2016,14,2016-02-26,03:15,friday,Wellington Phoenix (R),Team Wellington,1,6,7,A,L,W,0,3,3,A,L,W,http://www.worldfootball.net/report/nz-football-championship-2015-2016-wellington-phoenix-r-team-wellington/
+new zealand-2015-2016,14,2016-02-28,01:00,sunday,Canterbury United,Southern United,3,2,5,H,W,L,0,1,1,A,L,W,http://www.worldfootball.net/report/nz-football-championship-2015-2016-canterbury-united-southern-united/
+new zealand-2015-2016,14,2016-02-28,01:00,sunday,Hawke’s Bay United FC,Waitakere United,2,1,3,H,W,L,1,1,2,D,D,D,http://www.worldfootball.net/report/nz-football-championship-2015-2016-hawkes-bay-united-fc-waitakere-united/
+new zealand-2015-2016,14,2016-02-28,03:35,sunday,Auckland City FC,WaiBOP United,4,1,5,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/nz-football-championship-2015-2016-auckland-city-fc-waibop-united/
+new zealand-2015-2016-playoffs,Semi-Final,2016-03-06,01:35,sunday,Auckland City FC,Canterbury United,2,1,3,H,W,L,1,1,2,D,D,D,http://www.worldfootball.net/report/nz-football-championship-2015-2016-playoffs-semi-final-auckland-city-fc-canterbury-united/
+new zealand-2015-2016-playoffs,Semi-Final,2016-03-06,03:35,sunday,Hawke’s Bay United FC,Team Wellington,1,3,4,A,L,W,1,1,2,D,D,D,http://www.worldfootball.net/report/nz-football-championship-2015-2016-playoffs-semi-final-hawkes-bay-united-fc-team-wellington/
+new zealand-2015-2016-playoffs,Final,2016-03-10,06:35,thursday,Auckland City FC,Team Wellington,2,2,4,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/nz-football-championship-2015-2016-playoffs-finale-auckland-city-fc-team-wellington/
+new zealand-2016-2017,8,2016-10-16,03:00,sunday,Auckland City FC,Waitakere United,0,1,1,A,L,W,0,1,1,A,L,W,
+new zealand-2016-2017,1,2016-10-23,02:00,sunday,Canterbury United,Tasman United,2,2,4,D,D,D,1,1,2,D,D,D,
+new zealand-2016-2017,1,2016-10-23,02:00,sunday,Hamilton Wanderers,Southern United,1,0,1,H,W,L,0,0,0,D,D,D,
+new zealand-2016-2017,1,2016-10-23,02:00,sunday,Wellington Phoenix (R),Eastern Suburbs AFC,1,2,3,A,L,W,0,0,0,D,D,D,
+new zealand-2016-2017,1,2016-10-23,04:35,sunday,Auckland City FC,Team Wellington,4,0,4,H,W,L,2,0,2,H,W,L,
+new zealand-2016-2017,1,2016-10-24,04:30,monday,Hawke’s Bay United FC,Waitakere United,3,1,4,H,W,L,3,0,3,H,W,L,
+new zealand-2016-2017,2,2016-10-29,02:00,saturday,Auckland City FC,Tasman United,4,0,4,H,W,L,2,0,2,H,W,L,
+new zealand-2016-2017,2,2016-10-30,01:00,sunday,Eastern Suburbs AFC,Hawke’s Bay United FC,1,0,1,H,W,L,1,0,1,H,W,L,
+new zealand-2016-2017,2,2016-10-30,01:00,sunday,Hamilton Wanderers,Waitakere United,0,2,2,A,L,W,0,0,0,D,D,D,
+new zealand-2016-2017,2,2016-10-30,01:00,sunday,Team Wellington,Wellington Phoenix (R),1,2,3,A,L,W,1,0,1,H,W,L,
+new zealand-2016-2017,2,2016-10-30,03:35,sunday,Southern United,Canterbury United,1,3,4,A,L,W,0,2,2,A,L,W,
+new zealand-2016-2017,3,2016-11-05,03:15,saturday,Wellington Phoenix (R),Tasman United,1,1,2,D,D,D,0,1,1,A,L,W,
+new zealand-2016-2017,3,2016-11-06,00:00,sunday,Hawke’s Bay United FC,Team Wellington,2,4,6,A,L,W,0,1,1,A,L,W,
+new zealand-2016-2017,3,2016-11-06,00:00,sunday,Waitakere United,Southern United,2,2,4,D,D,D,1,1,2,D,D,D,
+new zealand-2016-2017,3,2016-11-06,01:00,sunday,Hamilton Wanderers,Eastern Suburbs AFC,4,0,4,H,W,L,2,0,2,H,W,L,
+new zealand-2016-2017,3,2016-11-06,02:00,sunday,Auckland City FC,Canterbury United,0,0,0,D,D,D,0,0,0,D,D,D,
+new zealand-2016-2017,4,2016-11-13,01:00,sunday,Canterbury United,Wellington Phoenix (R),4,1,5,H,W,L,1,1,2,D,D,D,
+new zealand-2016-2017,4,2016-11-13,01:00,sunday,Eastern Suburbs AFC,Waitakere United,1,0,1,H,W,L,0,0,0,D,D,D,
+new zealand-2016-2017,4,2016-11-13,01:00,sunday,Southern United,Auckland City FC,0,1,1,A,L,W,0,0,0,D,D,D,
+new zealand-2016-2017,4,2016-11-13,01:00,sunday,Tasman United,Hawke’s Bay United FC,1,3,4,A,L,W,1,2,3,A,L,W,
+new zealand-2016-2017,4,2016-11-13,03:35,sunday,Team Wellington,Hamilton Wanderers,5,2,7,H,W,L,2,2,4,D,D,D,
+new zealand-2016-2017,5,2016-11-20,00:00,sunday,Hawke’s Bay United FC,Canterbury United,1,1,2,D,D,D,0,0,0,D,D,D,
+new zealand-2016-2017,5,2016-11-20,01:00,sunday,Hamilton Wanderers,Tasman United,2,3,5,A,L,W,1,1,2,D,D,D,
+new zealand-2016-2017,5,2016-11-20,01:00,sunday,Waitakere United,Team Wellington,0,2,2,A,L,W,0,0,0,D,D,D,
+new zealand-2016-2017,5,2016-11-20,01:00,sunday,Wellington Phoenix (R),Auckland City FC,1,0,1,H,W,L,0,0,0,D,D,D,
+new zealand-2016-2017,5,2016-11-20,03:35,sunday,Eastern Suburbs AFC,Southern United,4,0,4,H,W,L,2,0,2,H,W,L,
+new zealand-2016-2017,6,2016-11-25,05:35,friday,Southern United,Wellington Phoenix (R),0,1,1,A,L,W,0,1,1,A,L,W,
+new zealand-2016-2017,6,2016-11-26,01:00,saturday,Team Wellington,Eastern Suburbs AFC,0,0,0,D,D,D,0,0,0,D,D,D,
+new zealand-2016-2017,6,2016-11-26,03:35,saturday,Auckland City FC,Hawke’s Bay United FC,1,0,1,H,W,L,1,0,1,H,W,L,
+new zealand-2016-2017,6,2016-11-27,01:00,sunday,Tasman United,Waitakere United,1,3,4,A,L,W,0,2,2,A,L,W,
+new zealand-2016-2017,6,2016-11-27,02:00,sunday,Canterbury United,Hamilton Wanderers,1,2,3,A,L,W,1,1,2,D,D,D,
+new zealand-2016-2017,7,2016-12-04,00:00,sunday,Hawke’s Bay United FC,Wellington Phoenix (R),2,0,2,H,W,L,1,0,1,H,W,L,
+new zealand-2016-2017,7,2016-12-04,01:00,sunday,Team Wellington,Southern United,4,1,5,H,W,L,1,0,1,H,W,L,
+new zealand-2016-2017,7,2016-12-04,01:00,sunday,Waitakere United,Canterbury United,1,0,1,H,W,L,,,,,,,
+new zealand-2016-2017,7,2016-12-04,03:35,sunday,Eastern Suburbs AFC,Tasman United,4,2,6,H,W,L,1,1,2,D,D,D,
+new zealand-2016-2017,8,2016-12-10,01:00,saturday,Southern United,Hawke’s Bay United FC,0,3,3,A,L,W,0,2,2,A,L,W,
+new zealand-2016-2017,8,2016-12-10,03:15,saturday,Wellington Phoenix (R),Hamilton Wanderers,4,0,4,H,W,L,0,0,0,D,D,D,
+new zealand-2016-2017,8,2016-12-11,01:00,sunday,Canterbury United,Eastern Suburbs AFC,2,0,2,H,W,L,0,0,0,D,D,D,
+new zealand-2016-2017,8,2016-12-11,01:00,sunday,Tasman United,Team Wellington,1,2,3,A,L,W,0,0,0,D,D,D,
+new zealand-2016-2017,9,2016-12-17,01:00,saturday,Waitakere United,Wellington Phoenix (R),2,2,4,D,D,D,1,0,1,H,W,L,
+new zealand-2016-2017,9,2016-12-17,01:00,saturday,Southern United,Tasman United,3,1,4,H,W,L,0,0,0,D,D,D,
+new zealand-2016-2017,9,2016-12-18,01:00,sunday,Eastern Suburbs AFC,Auckland City FC,0,1,1,A,L,W,0,0,0,D,D,D,
+new zealand-2016-2017,9,2016-12-18,01:00,sunday,Team Wellington,Canterbury United,3,3,6,D,D,D,2,1,3,H,W,L,
+new zealand-2016-2017,9,2016-12-18,03:35,sunday,Hamilton Wanderers,Hawke’s Bay United FC,6,4,10,H,W,L,1,1,2,D,D,D,
+new zealand-2016-2017,10,2017-01-07,00:00,saturday,Southern United,Hamilton Wanderers,4,0,4,H,W,L,2,0,2,H,W,L,
+new zealand-2016-2017,10,2017-01-08,01:00,sunday,Eastern Suburbs AFC,Wellington Phoenix (R),1,1,2,D,D,D,0,0,0,D,D,D,
+new zealand-2016-2017,10,2017-01-08,01:00,sunday,Team Wellington,Auckland City FC,1,3,4,A,L,W,0,1,1,A,L,W,
+new zealand-2016-2017,10,2017-01-08,01:00,sunday,Waitakere United,Hawke’s Bay United FC,1,0,1,H,W,L,0,0,0,D,D,D,
+new zealand-2016-2017,10,2017-01-08,03:35,sunday,Tasman United,Canterbury United,2,3,5,A,L,W,1,2,3,A,L,W,
+new zealand-2016-2017,11,2017-01-14,03:15,saturday,Wellington Phoenix (R),Team Wellington,1,3,4,A,L,W,0,1,1,A,L,W,
+new zealand-2016-2017,11,2017-01-15,01:00,sunday,Canterbury United,Southern United,1,3,4,A,L,W,1,0,1,H,W,L,
+new zealand-2016-2017,11,2017-01-15,01:00,sunday,Hawke’s Bay United FC,Eastern Suburbs AFC,6,3,9,H,W,L,3,2,5,H,W,L,
+new zealand-2016-2017,11,2017-01-15,01:00,sunday,Tasman United,Auckland City FC,1,1,2,D,D,D,0,0,0,D,D,D,
+new zealand-2016-2017,11,2017-01-15,01:00,sunday,Waitakere United,Hamilton Wanderers,2,1,3,H,W,L,1,1,2,D,D,D,
+new zealand-2016-2017,12,2017-01-21,00:00,saturday,Southern United,Waitakere United,1,3,4,A,L,W,0,2,2,A,L,W,
+new zealand-2016-2017,12,2017-01-22,01:00,sunday,Eastern Suburbs AFC,Hamilton Wanderers,3,1,4,H,W,L,1,1,2,D,D,D,
+new zealand-2016-2017,12,2017-01-22,01:00,sunday,Tasman United,Wellington Phoenix (R),1,1,2,D,D,D,0,1,1,A,L,W,
+new zealand-2016-2017,12,2017-01-22,01:00,sunday,Team Wellington,Hawke’s Bay United FC,3,3,6,D,D,D,2,2,4,D,D,D,
+new zealand-2016-2017,12,2017-01-22,03:35,sunday,Canterbury United,Auckland City FC,2,2,4,D,D,D,0,0,0,D,D,D,
+new zealand-2016-2017,13,2017-01-29,00:00,sunday,Hawke’s Bay United FC,Tasman United,3,2,5,H,W,L,3,1,4,H,W,L,
+new zealand-2016-2017,13,2017-01-29,01:00,sunday,Hamilton Wanderers,Team Wellington,2,4,6,A,L,W,0,1,1,A,L,W,
+new zealand-2016-2017,13,2017-01-29,01:00,sunday,Wellington Phoenix (R),Canterbury United,1,4,5,A,L,W,0,2,2,A,L,W,
+new zealand-2016-2017,13,2017-01-29,03:35,sunday,Waitakere United,Eastern Suburbs AFC,1,1,2,D,D,D,0,1,1,A,L,W,
+new zealand-2016-2017,14,2017-02-05,01:00,sunday,Eastern Suburbs AFC,Team Wellington,3,1,4,H,W,L,2,0,2,H,W,L,
+new zealand-2016-2017,14,2017-02-05,01:00,sunday,Hamilton Wanderers,Canterbury United,1,1,2,D,D,D,0,0,0,D,D,D,
+new zealand-2016-2017,14,2017-02-05,01:00,sunday,Waitakere United,Tasman United,2,2,4,D,D,D,0,1,1,A,L,W,
+new zealand-2016-2017,14,2017-02-05,03:35,sunday,Hawke’s Bay United FC,Auckland City FC,2,1,3,H,W,L,0,1,1,A,L,W,
+new zealand-2016-2017,14,2017-02-06,01:00,monday,Wellington Phoenix (R),Southern United,3,0,3,H,W,L,0,0,0,D,D,D,
+new zealand-2016-2017,15,2017-02-11,00:00,saturday,Southern United,Eastern Suburbs AFC,0,1,1,A,L,W,0,0,0,D,D,D,
+new zealand-2016-2017,15,2017-02-12,01:00,sunday,Canterbury United,Hawke’s Bay United FC,2,1,3,H,W,L,0,1,1,A,L,W,
+new zealand-2016-2017,15,2017-02-12,01:00,sunday,Tasman United,Hamilton Wanderers,1,0,1,H,W,L,1,0,1,H,W,L,
+new zealand-2016-2017,15,2017-02-12,01:00,sunday,Team Wellington,Waitakere United,7,2,9,H,W,L,1,2,3,A,L,W,
+new zealand-2016-2017,15,2017-02-12,03:35,sunday,Auckland City FC,Wellington Phoenix (R),2,0,2,H,W,L,1,0,1,H,W,L,
+new zealand-2016-2017,7,2017-02-15,04:30,wednesday,Hamilton Wanderers,Auckland City FC,0,5,5,A,L,W,0,4,4,A,L,W,
+new zealand-2016-2017,16,2017-02-19,01:00,sunday,Canterbury United,Waitakere United,1,2,3,A,L,W,1,2,3,A,L,W,
+new zealand-2016-2017,16,2017-02-19,01:00,sunday,Tasman United,Eastern Suburbs AFC,2,1,3,H,W,L,1,0,1,H,W,L,
+new zealand-2016-2017,16,2017-02-19,01:00,sunday,Wellington Phoenix (R),Hawke’s Bay United FC,2,7,9,A,L,W,1,4,5,A,L,W,
+new zealand-2016-2017,16,2017-02-19,02:00,sunday,Southern United,Team Wellington,1,3,4,A,L,W,1,3,4,A,L,W,
+new zealand-2016-2017,16,2017-02-19,03:35,sunday,Auckland City FC,Hamilton Wanderers,4,1,5,H,W,L,2,0,2,H,W,L,
+new zealand-2016-2017,13,2017-02-22,00:00,wednesday,Auckland City FC,Southern United,3,1,4,H,W,L,2,0,2,H,W,L,
+new zealand-2016-2017,17,2017-02-26,01:00,sunday,Eastern Suburbs AFC,Canterbury United,2,1,3,H,W,L,1,0,1,H,W,L,
+new zealand-2016-2017,17,2017-02-26,03:35,sunday,Waitakere United,Auckland City FC,4,1,5,H,W,L,2,1,3,H,W,L,
+new zealand-2016-2017,17,2017-03-03,23:00,friday,Hawke’s Bay United FC,Southern United,2,1,3,H,W,L,1,1,2,D,D,D,
+new zealand-2016-2017,18,2017-03-04,03:15,saturday,Wellington Phoenix (R),Waitakere United,0,2,2,A,L,W,0,0,0,D,D,D,
+new zealand-2016-2017,18,2017-03-05,02:00,sunday,Auckland City FC,Eastern Suburbs AFC,2,1,3,H,W,L,0,0,0,D,D,D,
+new zealand-2016-2017,17,2017-03-12,01:00,sunday,Team Wellington,Tasman United,5,1,6,H,W,L,3,0,3,H,W,L,
+new zealand-2016-2017,17,2017-03-12,03:35,sunday,Hamilton Wanderers,Wellington Phoenix (R),1,3,4,A,L,W,0,1,1,A,L,W,
+new zealand-2016-2017,18,2017-03-18,00:00,saturday,Tasman United,Southern United,5,2,7,H,W,L,2,1,3,H,W,L,
+new zealand-2016-2017,18,2017-03-19,01:00,sunday,Hawke’s Bay United FC,Hamilton Wanderers,4,0,4,H,W,L,1,0,1,H,W,L,
+new zealand-2016-2017,18,2017-03-19,03:35,sunday,Canterbury United,Team Wellington,1,3,4,A,L,W,0,1,1,A,L,W,
+new zealand-2016-2017-playoffs,Semi-finals,2017-03-25,03:35,saturday,Auckland City FC,Hawke’s Bay United FC,1,0,1,H,W,L,0,0,0,D,D,D,
+new zealand-2016-2017-playoffs,Semi-finals,2017-03-26,04:35,sunday,Team Wellington,Waitakere United,4,4,8,D,D,D,1,1,2,D,D,D,
+new zealand-2016-2017-playoffs,Final,2017-04-02,05:35,sunday,Auckland City FC,Team Wellington,1,2,3,A,L,W,,,,,,,
+new zealand-2017-2018,8,2017-10-15,02:00,sunday,Team Wellington,Auckland City FC,3,1,4,H,W,L,1,1,2,D,D,D,
+new zealand-2017-2018,8,2017-10-15,02:00,sunday,Team Wellington,Auckland City FC,3,1,4,H,W,L,1,1,2,D,D,D,
+new zealand-2017-2018,1,2017-10-22,01:00,sunday,Hamilton Wanderers,Tasman United,1,4,5,A,L,W,1,3,4,A,L,W,
+new zealand-2017-2018,1,2017-10-22,01:00,sunday,Hamilton Wanderers,Tasman United,1,4,5,A,L,W,1,3,4,A,L,W,
+new zealand-2017-2018,1,2017-10-22,02:00,sunday,Southern United,Auckland City FC,2,2,4,D,D,D,1,1,2,D,D,D,
+new zealand-2017-2018,1,2017-10-22,02:00,sunday,Team Wellington,Eastern Suburbs AFC,1,3,4,A,L,W,0,1,1,A,L,W,
+new zealand-2017-2018,1,2017-10-22,02:00,sunday,Southern United,Auckland City FC,2,2,4,D,D,D,1,1,2,D,D,D,
+new zealand-2017-2018,1,2017-10-22,02:00,sunday,Team Wellington,Eastern Suburbs AFC,1,3,4,A,L,W,0,1,1,A,L,W,
+new zealand-2017-2018,1,2017-10-22,04:35,sunday,Canterbury United,Waitakere United,1,1,2,D,D,D,1,0,1,H,W,L,
+new zealand-2017-2018,1,2017-10-22,04:35,sunday,Canterbury United,Waitakere United,1,1,2,D,D,D,1,0,1,H,W,L,
+new zealand-2017-2018,1,2017-10-23,04:35,monday,Hawke’s Bay United FC,Wellington Phoenix (R),0,0,0,D,D,D,0,0,0,D,D,D,
+new zealand-2017-2018,1,2017-10-23,04:35,monday,Hawke’s Bay United FC,Wellington Phoenix (R),0,0,0,D,D,D,0,0,0,D,D,D,
+new zealand-2017-2018,2,2017-10-28,02:00,saturday,Wellington Phoenix (R),Team Wellington,2,5,7,A,L,W,1,2,3,A,L,W,
+new zealand-2017-2018,2,2017-10-28,02:00,saturday,Wellington Phoenix (R),Team Wellington,2,5,7,A,L,W,1,2,3,A,L,W,
+new zealand-2017-2018,2,2017-10-29,01:00,sunday,Hamilton Wanderers,Hawke’s Bay United FC,0,1,1,A,L,W,0,1,1,A,L,W,
+new zealand-2017-2018,2,2017-10-29,01:00,sunday,Southern United,Eastern Suburbs AFC,0,1,1,A,L,W,0,0,0,D,D,D,
+new zealand-2017-2018,2,2017-10-29,01:00,sunday,Canterbury United,Tasman United,0,1,1,A,L,W,0,0,0,D,D,D,
+new zealand-2017-2018,2,2017-10-29,01:00,sunday,Hamilton Wanderers,Hawke’s Bay United FC,0,1,1,A,L,W,0,1,1,A,L,W,
+new zealand-2017-2018,2,2017-10-29,01:00,sunday,Southern United,Eastern Suburbs AFC,0,1,1,A,L,W,0,0,0,D,D,D,
+new zealand-2017-2018,2,2017-10-29,01:00,sunday,Canterbury United,Tasman United,0,1,1,A,L,W,0,0,0,D,D,D,
+new zealand-2017-2018,2,2017-10-29,03:35,sunday,Waitakere United,Auckland City FC,0,5,5,A,L,W,0,2,2,A,L,W,
+new zealand-2017-2018,2,2017-10-29,03:35,sunday,Waitakere United,Auckland City FC,0,5,5,A,L,W,0,2,2,A,L,W,
+new zealand-2017-2018,3,2017-11-04,01:00,saturday,Eastern Suburbs AFC,Hamilton Wanderers,2,1,3,H,W,L,0,0,0,D,D,D,
+new zealand-2017-2018,3,2017-11-04,01:00,saturday,Eastern Suburbs AFC,Hamilton Wanderers,2,1,3,H,W,L,0,0,0,D,D,D,
+new zealand-2017-2018,3,2017-11-05,00:00,sunday,Hawke’s Bay United FC,Team Wellington,1,1,2,D,D,D,1,1,2,D,D,D,
+new zealand-2017-2018,3,2017-11-05,00:00,sunday,Hawke’s Bay United FC,Team Wellington,1,1,2,D,D,D,1,1,2,D,D,D,
+new zealand-2017-2018,3,2017-11-05,01:00,sunday,Wellington Phoenix (R),Waitakere United,0,5,5,A,L,W,0,3,3,A,L,W,
+new zealand-2017-2018,3,2017-11-05,01:00,sunday,Tasman United,Southern United,2,2,4,D,D,D,1,1,2,D,D,D,
+new zealand-2017-2018,3,2017-11-05,01:00,sunday,Wellington Phoenix (R),Waitakere United,0,5,5,A,L,W,0,3,3,A,L,W,
+new zealand-2017-2018,3,2017-11-05,01:00,sunday,Tasman United,Southern United,2,2,4,D,D,D,1,1,2,D,D,D,
+new zealand-2017-2018,3,2017-11-05,03:35,sunday,Auckland City FC,Canterbury United,3,1,4,H,W,L,2,0,2,H,W,L,
+new zealand-2017-2018,3,2017-11-05,03:35,sunday,Auckland City FC,Canterbury United,3,1,4,H,W,L,2,0,2,H,W,L,
+new zealand-2017-2018,4,2017-11-12,00:15,sunday,Auckland City FC,Hamilton Wanderers,6,0,6,H,W,L,3,0,3,H,W,L,
+new zealand-2017-2018,4,2017-11-12,00:15,sunday,Auckland City FC,Hamilton Wanderers,6,0,6,H,W,L,3,0,3,H,W,L,
+new zealand-2017-2018,4,2017-11-12,01:00,sunday,Team Wellington,Tasman United,2,1,3,H,W,L,1,0,1,H,W,L,
+new zealand-2017-2018,4,2017-11-12,01:00,sunday,Eastern Suburbs AFC,Hawke’s Bay United FC,1,2,3,A,L,W,0,1,1,A,L,W,
+new zealand-2017-2018,4,2017-11-12,01:00,sunday,Waitakere United,Southern United,1,2,3,A,L,W,0,0,0,D,D,D,
+new zealand-2017-2018,4,2017-11-12,01:00,sunday,Team Wellington,Tasman United,2,1,3,H,W,L,1,0,1,H,W,L,
+new zealand-2017-2018,4,2017-11-12,01:00,sunday,Eastern Suburbs AFC,Hawke’s Bay United FC,1,2,3,A,L,W,0,1,1,A,L,W,
+new zealand-2017-2018,4,2017-11-12,01:00,sunday,Waitakere United,Southern United,1,2,3,A,L,W,0,0,0,D,D,D,
+new zealand-2017-2018,5,2017-11-18,00:00,saturday,Tasman United,Waitakere United,0,0,0,D,D,D,0,0,0,D,D,D,
+new zealand-2017-2018,5,2017-11-18,00:00,saturday,Tasman United,Waitakere United,0,0,0,D,D,D,0,0,0,D,D,D,
+new zealand-2017-2018,5,2017-11-18,22:00,saturday,Southern United,Hawke’s Bay United FC,2,1,3,H,W,L,0,1,1,A,L,W,
+new zealand-2017-2018,5,2017-11-18,22:00,saturday,Southern United,Hawke’s Bay United FC,2,1,3,H,W,L,0,1,1,A,L,W,
+new zealand-2017-2018,5,2017-11-19,01:00,sunday,Canterbury United,Eastern Suburbs AFC,3,2,5,H,W,L,0,2,2,A,L,W,
+new zealand-2017-2018,5,2017-11-19,01:00,sunday,Auckland City FC,Wellington Phoenix (R),4,0,4,H,W,L,1,0,1,H,W,L,
+new zealand-2017-2018,5,2017-11-19,01:00,sunday,Canterbury United,Eastern Suburbs AFC,3,2,5,H,W,L,0,2,2,A,L,W,
+new zealand-2017-2018,5,2017-11-19,01:00,sunday,Auckland City FC,Wellington Phoenix (R),4,0,4,H,W,L,1,0,1,H,W,L,
+new zealand-2017-2018,5,2017-11-19,03:35,sunday,Hamilton Wanderers,Team Wellington,1,3,4,A,L,W,1,3,4,A,L,W,
+new zealand-2017-2018,5,2017-11-19,03:35,sunday,Hamilton Wanderers,Team Wellington,1,3,4,A,L,W,1,3,4,A,L,W,
+new zealand-2017-2018,6,2017-11-25,00:00,saturday,Tasman United,Eastern Suburbs AFC,2,2,4,D,D,D,1,2,3,A,L,W,
+new zealand-2017-2018,6,2017-11-25,00:00,saturday,Tasman United,Eastern Suburbs AFC,2,2,4,D,D,D,1,2,3,A,L,W,
+new zealand-2017-2018,6,2017-11-25,01:00,saturday,Auckland City FC,Hawke’s Bay United FC,5,0,5,H,W,L,1,0,1,H,W,L,
+new zealand-2017-2018,6,2017-11-25,01:00,saturday,Auckland City FC,Hawke’s Bay United FC,5,0,5,H,W,L,1,0,1,H,W,L,
+new zealand-2017-2018,6,2017-11-25,03:45,saturday,Wellington Phoenix (R),Southern United,2,2,4,D,D,D,1,0,1,H,W,L,
+new zealand-2017-2018,6,2017-11-25,03:45,saturday,Wellington Phoenix (R),Southern United,2,2,4,D,D,D,1,0,1,H,W,L,
+new zealand-2017-2018,6,2017-11-26,01:00,sunday,Canterbury United,Hamilton Wanderers,3,0,3,H,W,L,1,0,1,H,W,L,
+new zealand-2017-2018,6,2017-11-26,01:00,sunday,Waitakere United,Team Wellington,2,1,3,H,W,L,2,0,2,H,W,L,
+new zealand-2017-2018,6,2017-11-26,01:00,sunday,Canterbury United,Hamilton Wanderers,3,0,3,H,W,L,1,0,1,H,W,L,
+new zealand-2017-2018,6,2017-11-26,01:00,sunday,Waitakere United,Team Wellington,2,1,3,H,W,L,2,0,2,H,W,L,
+new zealand-2017-2018,7,2017-12-03,01:00,sunday,Tasman United,Wellington Phoenix (R),0,2,2,A,L,W,0,1,1,A,L,W,
+new zealand-2017-2018,7,2017-12-03,01:00,sunday,Hawke’s Bay United FC,Waitakere United,1,3,4,A,L,W,1,2,3,A,L,W,
+new zealand-2017-2018,7,2017-12-03,01:00,sunday,Team Wellington,Canterbury United,2,0,2,H,W,L,1,0,1,H,W,L,
+new zealand-2017-2018,7,2017-12-03,01:00,sunday,Tasman United,Wellington Phoenix (R),0,2,2,A,L,W,0,1,1,A,L,W,
+new zealand-2017-2018,7,2017-12-03,01:00,sunday,Hawke’s Bay United FC,Waitakere United,1,3,4,A,L,W,1,2,3,A,L,W,
+new zealand-2017-2018,7,2017-12-03,01:00,sunday,Team Wellington,Canterbury United,2,0,2,H,W,L,1,0,1,H,W,L,
+new zealand-2017-2018,7,2017-12-03,03:35,sunday,Hamilton Wanderers,Southern United,2,2,4,D,D,D,1,2,3,A,L,W,
+new zealand-2017-2018,7,2017-12-03,03:35,sunday,Hamilton Wanderers,Southern United,2,2,4,D,D,D,1,2,3,A,L,W,
+new zealand-2017-2018,8,2017-12-09,01:00,saturday,Eastern Suburbs AFC,Wellington Phoenix (R),2,2,4,D,D,D,0,1,1,A,L,W,
+new zealand-2017-2018,8,2017-12-09,01:00,saturday,Eastern Suburbs AFC,Wellington Phoenix (R),2,2,4,D,D,D,0,1,1,A,L,W,
+new zealand-2017-2018,8,2017-12-10,01:00,sunday,Southern United,Canterbury United,0,2,2,A,L,W,0,0,0,D,D,D,
+new zealand-2017-2018,8,2017-12-10,01:00,sunday,Hawke’s Bay United FC,Tasman United,1,1,2,D,D,D,1,0,1,H,W,L,
+new zealand-2017-2018,8,2017-12-10,01:00,sunday,Southern United,Canterbury United,0,2,2,A,L,W,0,0,0,D,D,D,
+new zealand-2017-2018,8,2017-12-10,01:00,sunday,Hawke’s Bay United FC,Tasman United,1,1,2,D,D,D,1,0,1,H,W,L,
+new zealand-2017-2018,8,2017-12-10,03:35,sunday,Hamilton Wanderers,Waitakere United,2,4,6,A,L,W,2,1,3,H,W,L,
+new zealand-2017-2018,8,2017-12-10,03:35,sunday,Hamilton Wanderers,Waitakere United,2,4,6,A,L,W,2,1,3,H,W,L,
+new zealand-2017-2018,9,2017-12-16,00:00,saturday,Wellington Phoenix (R),Hamilton Wanderers,3,1,4,H,W,L,0,0,0,D,D,D,
+new zealand-2017-2018,9,2017-12-16,00:00,saturday,Wellington Phoenix (R),Hamilton Wanderers,3,1,4,H,W,L,0,0,0,D,D,D,
+new zealand-2017-2018,9,2017-12-17,01:00,sunday,Auckland City FC,Tasman United,3,1,4,H,W,L,2,1,3,H,W,L,
+new zealand-2017-2018,9,2017-12-17,01:00,sunday,Team Wellington,Southern United,0,0,0,D,D,D,0,0,0,D,D,D,
+new zealand-2017-2018,9,2017-12-17,01:00,sunday,Canterbury United,Hawke’s Bay United FC,3,0,3,H,W,L,3,0,3,H,W,L,
+new zealand-2017-2018,9,2017-12-17,01:00,sunday,Auckland City FC,Tasman United,3,1,4,H,W,L,2,1,3,H,W,L,
+new zealand-2017-2018,9,2017-12-17,01:00,sunday,Team Wellington,Southern United,0,0,0,D,D,D,0,0,0,D,D,D,
+new zealand-2017-2018,9,2017-12-17,01:00,sunday,Canterbury United,Hawke’s Bay United FC,3,0,3,H,W,L,3,0,3,H,W,L,
+new zealand-2017-2018,9,2017-12-17,03:35,sunday,Waitakere United,Eastern Suburbs AFC,0,2,2,A,L,W,0,2,2,A,L,W,
+new zealand-2017-2018,9,2017-12-17,03:35,sunday,Waitakere United,Eastern Suburbs AFC,0,2,2,A,L,W,0,2,2,A,L,W,
+new zealand-2017-2018,10,2018-01-06,01:00,saturday,Eastern Suburbs AFC,Southern United,2,0,2,H,W,L,1,0,1,H,W,L,
+new zealand-2017-2018,10,2018-01-06,01:00,saturday,Eastern Suburbs AFC,Southern United,2,0,2,H,W,L,1,0,1,H,W,L,
+new zealand-2017-2018,10,2018-01-07,01:00,sunday,Hawke’s Bay United FC,Hamilton Wanderers,2,2,4,D,D,D,1,0,1,H,W,L,
+new zealand-2017-2018,10,2018-01-07,01:00,sunday,Auckland City FC,Waitakere United,2,2,4,D,D,D,1,0,1,H,W,L,
+new zealand-2017-2018,10,2018-01-07,01:00,sunday,Team Wellington,Wellington Phoenix (R),4,1,5,H,W,L,4,1,5,H,W,L,
+new zealand-2017-2018,10,2018-01-07,01:00,sunday,Hawke’s Bay United FC,Hamilton Wanderers,2,2,4,D,D,D,1,0,1,H,W,L,
+new zealand-2017-2018,10,2018-01-07,01:00,sunday,Auckland City FC,Waitakere United,2,2,4,D,D,D,1,0,1,H,W,L,
+new zealand-2017-2018,10,2018-01-07,01:00,sunday,Team Wellington,Wellington Phoenix (R),4,1,5,H,W,L,4,1,5,H,W,L,
+new zealand-2017-2018,10,2018-01-07,03:35,sunday,Tasman United,Canterbury United,0,6,6,A,L,W,0,3,3,A,L,W,
+new zealand-2017-2018,10,2018-01-07,03:35,sunday,Tasman United,Canterbury United,0,6,6,A,L,W,0,3,3,A,L,W,
+new zealand-2017-2018,11,2018-01-13,01:00,saturday,Auckland City FC,Southern United,1,1,2,D,D,D,0,0,0,D,D,D,
+new zealand-2017-2018,11,2018-01-13,01:00,saturday,Eastern Suburbs AFC,Team Wellington,2,1,3,H,W,L,0,1,1,A,L,W,
+new zealand-2017-2018,11,2018-01-13,01:00,saturday,Auckland City FC,Southern United,1,1,2,D,D,D,0,0,0,D,D,D,
+new zealand-2017-2018,11,2018-01-13,01:00,saturday,Eastern Suburbs AFC,Team Wellington,2,1,3,H,W,L,0,1,1,A,L,W,
+new zealand-2017-2018,11,2018-01-13,03:45,saturday,Wellington Phoenix (R),Hawke’s Bay United FC,2,3,5,A,L,W,0,1,1,A,L,W,
+new zealand-2017-2018,11,2018-01-13,03:45,saturday,Wellington Phoenix (R),Hawke’s Bay United FC,2,3,5,A,L,W,0,1,1,A,L,W,
+new zealand-2017-2018,11,2018-01-14,01:00,sunday,Tasman United,Hamilton Wanderers,4,4,8,D,D,D,2,2,4,D,D,D,
+new zealand-2017-2018,11,2018-01-14,01:00,sunday,Waitakere United,Canterbury United,1,1,2,D,D,D,0,1,1,A,L,W,
+new zealand-2017-2018,11,2018-01-14,01:00,sunday,Tasman United,Hamilton Wanderers,4,4,8,D,D,D,2,2,4,D,D,D,
+new zealand-2017-2018,11,2018-01-14,01:00,sunday,Waitakere United,Canterbury United,1,1,2,D,D,D,0,1,1,A,L,W,
+new zealand-2017-2018,12,2018-01-21,01:00,sunday,Hamilton Wanderers,Eastern Suburbs AFC,3,5,8,A,L,W,0,2,2,A,L,W,
+new zealand-2017-2018,12,2018-01-21,01:00,sunday,Southern United,Tasman United,2,4,6,A,L,W,1,2,3,A,L,W,
+new zealand-2017-2018,12,2018-01-21,01:00,sunday,Canterbury United,Auckland City FC,0,2,2,A,L,W,0,2,2,A,L,W,
+new zealand-2017-2018,12,2018-01-21,01:00,sunday,Waitakere United,Wellington Phoenix (R),2,3,5,A,L,W,2,1,3,H,W,L,
+new zealand-2017-2018,12,2018-01-21,01:00,sunday,Hamilton Wanderers,Eastern Suburbs AFC,3,5,8,A,L,W,0,2,2,A,L,W,
+new zealand-2017-2018,12,2018-01-21,01:00,sunday,Southern United,Tasman United,2,4,6,A,L,W,1,2,3,A,L,W,
+new zealand-2017-2018,12,2018-01-21,01:00,sunday,Canterbury United,Auckland City FC,0,2,2,A,L,W,0,2,2,A,L,W,
+new zealand-2017-2018,12,2018-01-21,01:00,sunday,Waitakere United,Wellington Phoenix (R),2,3,5,A,L,W,2,1,3,H,W,L,
+new zealand-2017-2018,12,2018-01-21,03:35,sunday,Team Wellington,Hawke’s Bay United FC,2,1,3,H,W,L,0,0,0,D,D,D,
+new zealand-2017-2018,12,2018-01-21,03:35,sunday,Team Wellington,Hawke’s Bay United FC,2,1,3,H,W,L,0,0,0,D,D,D,
+new zealand-2017-2018,7,2018-01-24,05:00,wednesday,Eastern Suburbs AFC,Auckland City FC,0,2,2,A,L,W,0,1,1,A,L,W,
+new zealand-2017-2018,7,2018-01-24,05:00,wednesday,Eastern Suburbs AFC,Auckland City FC,0,2,2,A,L,W,0,1,1,A,L,W,
+new zealand-2017-2018,13,2018-01-27,01:00,saturday,Tasman United,Team Wellington,1,4,5,A,L,W,0,2,2,A,L,W,
+new zealand-2017-2018,13,2018-01-27,01:00,saturday,Tasman United,Team Wellington,1,4,5,A,L,W,0,2,2,A,L,W,
+new zealand-2017-2018,13,2018-01-28,00:00,sunday,Hawke’s Bay United FC,Eastern Suburbs AFC,2,0,2,H,W,L,0,0,0,D,D,D,
+new zealand-2017-2018,13,2018-01-28,00:00,sunday,Hawke’s Bay United FC,Eastern Suburbs AFC,2,0,2,H,W,L,0,0,0,D,D,D,
+new zealand-2017-2018,13,2018-01-28,01:00,sunday,Southern United,Waitakere United,1,0,1,H,W,L,0,0,0,D,D,D,
+new zealand-2017-2018,13,2018-01-28,01:00,sunday,Canterbury United,Wellington Phoenix (R),3,2,5,H,W,L,1,1,2,D,D,D,
+new zealand-2017-2018,13,2018-01-28,01:00,sunday,Southern United,Waitakere United,1,0,1,H,W,L,0,0,0,D,D,D,
+new zealand-2017-2018,13,2018-01-28,01:00,sunday,Canterbury United,Wellington Phoenix (R),3,2,5,H,W,L,1,1,2,D,D,D,
+new zealand-2017-2018,13,2018-01-28,03:35,sunday,Hamilton Wanderers,Auckland City FC,0,1,1,A,L,W,0,1,1,A,L,W,
+new zealand-2017-2018,13,2018-01-28,03:35,sunday,Hamilton Wanderers,Auckland City FC,0,1,1,A,L,W,0,1,1,A,L,W,
+new zealand-2017-2018,14,2018-02-04,01:00,sunday,Wellington Phoenix (R),Eastern Suburbs AFC,1,7,8,A,L,W,1,2,3,A,L,W,
+new zealand-2017-2018,14,2018-02-04,01:00,sunday,Tasman United,Hawke’s Bay United FC,5,2,7,H,W,L,2,0,2,H,W,L,
+new zealand-2017-2018,14,2018-02-04,01:00,sunday,Canterbury United,Southern United,2,1,3,H,W,L,1,1,2,D,D,D,
+new zealand-2017-2018,14,2018-02-04,01:00,sunday,Waitakere United,Hamilton Wanderers,1,2,3,A,L,W,1,1,2,D,D,D,
+new zealand-2017-2018,14,2018-02-04,01:00,sunday,Wellington Phoenix (R),Eastern Suburbs AFC,1,7,8,A,L,W,1,2,3,A,L,W,
+new zealand-2017-2018,14,2018-02-04,01:00,sunday,Tasman United,Hawke’s Bay United FC,5,2,7,H,W,L,2,0,2,H,W,L,
+new zealand-2017-2018,14,2018-02-04,01:00,sunday,Canterbury United,Southern United,2,1,3,H,W,L,1,1,2,D,D,D,
+new zealand-2017-2018,14,2018-02-04,01:00,sunday,Waitakere United,Hamilton Wanderers,1,2,3,A,L,W,1,1,2,D,D,D,
+new zealand-2017-2018,14,2018-02-04,03:35,sunday,Auckland City FC,Team Wellington,0,0,0,D,D,D,0,0,0,D,D,D,
+new zealand-2017-2018,14,2018-02-04,03:35,sunday,Auckland City FC,Team Wellington,0,0,0,D,D,D,0,0,0,D,D,D,
+new zealand-2017-2018,4,2018-02-11,01:00,sunday,Wellington Phoenix (R),Canterbury United,3,5,8,A,L,W,2,1,3,H,W,L,
+new zealand-2017-2018,15,2018-02-11,01:00,sunday,Hawke’s Bay United FC,Auckland City FC,0,3,3,A,L,W,0,2,2,A,L,W,
+new zealand-2017-2018,16,2018-02-11,01:00,sunday,Southern United,Team Wellington,1,3,4,A,L,W,1,1,2,D,D,D,
+new zealand-2017-2018,4,2018-02-11,01:00,sunday,Wellington Phoenix (R),Canterbury United,3,5,8,A,L,W,2,1,3,H,W,L,
+new zealand-2017-2018,15,2018-02-11,01:00,sunday,Hawke’s Bay United FC,Auckland City FC,0,3,3,A,L,W,0,2,2,A,L,W,
+new zealand-2017-2018,16,2018-02-11,01:00,sunday,Southern United,Team Wellington,1,3,4,A,L,W,1,1,2,D,D,D,
+new zealand-2017-2018,15,2018-02-11,03:35,sunday,Eastern Suburbs AFC,Tasman United,3,0,3,H,W,L,0,0,0,D,D,D,
+new zealand-2017-2018,15,2018-02-11,03:35,sunday,Eastern Suburbs AFC,Tasman United,3,0,3,H,W,L,0,0,0,D,D,D,
+new zealand-2017-2018,16,2018-02-17,01:00,saturday,Tasman United,Auckland City FC,0,1,1,A,L,W,0,1,1,A,L,W,
+new zealand-2017-2018,16,2018-02-17,01:00,saturday,Tasman United,Auckland City FC,0,1,1,A,L,W,0,1,1,A,L,W,
+new zealand-2017-2018,15,2018-02-18,01:00,sunday,Southern United,Wellington Phoenix (R),4,0,4,H,W,L,2,0,2,H,W,L,
+new zealand-2017-2018,15,2018-02-18,01:00,sunday,Team Wellington,Waitakere United,4,1,5,H,W,L,2,1,3,H,W,L,
+new zealand-2017-2018,15,2018-02-18,01:00,sunday,Southern United,Wellington Phoenix (R),4,0,4,H,W,L,2,0,2,H,W,L,
+new zealand-2017-2018,15,2018-02-18,01:00,sunday,Team Wellington,Waitakere United,4,1,5,H,W,L,2,1,3,H,W,L,
+new zealand-2017-2018,15,2018-02-18,03:35,sunday,Hamilton Wanderers,Canterbury United,0,1,1,A,L,W,0,0,0,D,D,D,
+new zealand-2017-2018,15,2018-02-18,03:35,sunday,Hamilton Wanderers,Canterbury United,0,1,1,A,L,W,0,0,0,D,D,D,
+new zealand-2017-2018,16,2018-02-24,01:00,saturday,Hamilton Wanderers,Wellington Phoenix (R),1,2,3,A,L,W,0,1,1,A,L,W,
+new zealand-2017-2018,16,2018-02-24,01:00,saturday,Hamilton Wanderers,Wellington Phoenix (R),1,2,3,A,L,W,0,1,1,A,L,W,
+new zealand-2017-2018,16,2018-02-25,03:35,sunday,Hawke’s Bay United FC,Canterbury United,1,2,3,A,L,W,0,0,0,D,D,D,
+new zealand-2017-2018,16,2018-02-25,03:35,sunday,Hawke’s Bay United FC,Canterbury United,1,2,3,A,L,W,0,0,0,D,D,D,
+new zealand-2017-2018,16,2018-03-04,03:35,sunday,Eastern Suburbs AFC,Waitakere United,2,1,3,H,W,L,2,1,3,H,W,L,
+new zealand-2017-2018,16,2018-03-04,03:35,sunday,Eastern Suburbs AFC,Waitakere United,2,1,3,H,W,L,2,1,3,H,W,L,

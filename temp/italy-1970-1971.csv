@@ -1,0 +1,241 @@
+Div,Round,Date,Time,timestamp,Weekday,HomeTeam,AwayTeam,FTHG,FTAG,FTG,FTR,FTHR,FTAW,HTHG,HTAG,HTG,HTR,HTHR,HTAR,Report_url
+italy-1970-1971,1,1970-09-27,,,sunday,SSC Napoli,AS Varese 1910,1,0,1,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/serie-a-1970-1971-ssc-napoli-as-varese-1910/
+italy-1970-1971,1,1970-09-27,,,sunday,Hellas Verona,Inter,1,2,3,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/serie-a-1970-1971-hellas-verona-inter/
+italy-1970-1971,1,1970-09-27,,,sunday,Torino FC,US Foggia,1,1,2,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/serie-a-1970-1971-torino-fc-us-foggia/
+italy-1970-1971,1,1970-09-27,,,sunday,AS Roma,ACF Fiorentina,0,1,1,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/serie-a-1970-1971-as-roma-acf-fiorentina/
+italy-1970-1971,1,1970-09-27,,,sunday,Calcio Catania,Juventus,0,1,1,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/serie-a-1970-1971-calcio-catania-juventus/
+italy-1970-1971,1,1970-09-27,,,sunday,AC Milan,Lazio Roma,1,1,2,D,D,D,1,0,1,H,W,L,http://www.worldfootball.net/report/serie-a-1970-1971-ac-milan-lazio-roma/
+italy-1970-1971,1,1970-09-27,,,sunday,Bologna FC,Lanerossi Vicenza,3,0,3,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/serie-a-1970-1971-bologna-fc-vicenza-calcio/
+italy-1970-1971,1,1970-09-27,,,sunday,Cagliari Calcio,Sampdoria,2,1,3,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/serie-a-1970-1971-cagliari-calcio-sampdoria/
+italy-1970-1971,2,1970-10-07,,,wednesday,Juventus,Bologna FC,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/serie-a-1970-1971-juventus-bologna-fc/
+italy-1970-1971,2,1970-10-07,,,wednesday,AS Varese 1910,Torino FC,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/serie-a-1970-1971-as-varese-1910-torino-fc/
+italy-1970-1971,2,1970-10-07,,,wednesday,Sampdoria,SSC Napoli,0,1,1,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/serie-a-1970-1971-sampdoria-ssc-napoli/
+italy-1970-1971,2,1970-10-07,,,wednesday,Lanerossi Vicenza,Calcio Catania,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/serie-a-1970-1971-vicenza-calcio-calcio-catania/
+italy-1970-1971,2,1970-10-07,,,wednesday,Inter,AS Roma,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/serie-a-1970-1971-inter-as-roma/
+italy-1970-1971,2,1970-10-07,,,wednesday,US Foggia,AC Milan,1,1,2,D,D,D,0,1,1,A,L,W,http://www.worldfootball.net/report/serie-a-1970-1971-us-foggia-ac-milan/
+italy-1970-1971,2,1970-10-07,,,wednesday,ACF Fiorentina,Hellas Verona,1,1,2,D,D,D,0,1,1,A,L,W,http://www.worldfootball.net/report/serie-a-1970-1971-acf-fiorentina-hellas-verona/
+italy-1970-1971,2,1970-10-07,,,wednesday,Lazio Roma,Cagliari Calcio,2,4,6,A,L,W,1,2,3,A,L,W,http://www.worldfootball.net/report/serie-a-1970-1971-lazio-roma-cagliari-calcio/
+italy-1970-1971,3,1970-10-11,,,sunday,AC Milan,Sampdoria,3,1,4,H,W,L,2,0,2,H,W,L,http://www.worldfootball.net/report/serie-a-1970-1971-ac-milan-sampdoria/
+italy-1970-1971,3,1970-10-11,,,sunday,SSC Napoli,US Foggia,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/serie-a-1970-1971-ssc-napoli-us-foggia/
+italy-1970-1971,3,1970-10-11,,,sunday,Hellas Verona,Juventus,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/serie-a-1970-1971-hellas-verona-juventus/
+italy-1970-1971,3,1970-10-11,,,sunday,Torino FC,Lazio Roma,1,1,2,D,D,D,0,1,1,A,L,W,http://www.worldfootball.net/report/serie-a-1970-1971-torino-fc-lazio-roma/
+italy-1970-1971,3,1970-10-11,,,sunday,Bologna FC,Inter,2,2,4,D,D,D,1,0,1,H,W,L,http://www.worldfootball.net/report/serie-a-1970-1971-bologna-fc-inter/
+italy-1970-1971,3,1970-10-11,,,sunday,Calcio Catania,ACF Fiorentina,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/serie-a-1970-1971-calcio-catania-acf-fiorentina/
+italy-1970-1971,3,1970-10-11,,,sunday,Cagliari Calcio,AS Varese 1910,1,1,2,D,D,D,1,1,2,D,D,D,http://www.worldfootball.net/report/serie-a-1970-1971-cagliari-calcio-as-varese-1910/
+italy-1970-1971,3,1970-10-11,,,sunday,AS Roma,Lanerossi Vicenza,4,1,5,H,W,L,3,0,3,H,W,L,http://www.worldfootball.net/report/serie-a-1970-1971-as-roma-vicenza-calcio/
+italy-1970-1971,4,1970-10-25,,,sunday,Juventus,AC Milan,0,2,2,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/serie-a-1970-1971-juventus-ac-milan/
+italy-1970-1971,4,1970-10-25,,,sunday,AS Varese 1910,AS Roma,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/serie-a-1970-1971-as-varese-1910-as-roma/
+italy-1970-1971,4,1970-10-25,,,sunday,Sampdoria,Calcio Catania,2,0,2,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/serie-a-1970-1971-sampdoria-calcio-catania/
+italy-1970-1971,4,1970-10-25,,,sunday,Lanerossi Vicenza,Torino FC,1,1,2,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/serie-a-1970-1971-vicenza-calcio-torino-fc/
+italy-1970-1971,4,1970-10-25,,,sunday,Inter,Cagliari Calcio,1,3,4,A,L,W,0,2,2,A,L,W,http://www.worldfootball.net/report/serie-a-1970-1971-inter-cagliari-calcio/
+italy-1970-1971,4,1970-10-25,,,sunday,US Foggia,Bologna FC,1,1,2,D,D,D,0,1,1,A,L,W,http://www.worldfootball.net/report/serie-a-1970-1971-us-foggia-bologna-fc/
+italy-1970-1971,4,1970-10-25,,,sunday,ACF Fiorentina,SSC Napoli,0,1,1,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/serie-a-1970-1971-acf-fiorentina-ssc-napoli/
+italy-1970-1971,4,1970-10-25,,,sunday,Lazio Roma,Hellas Verona,1,1,2,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/serie-a-1970-1971-lazio-roma-hellas-verona/
+italy-1970-1971,5,1970-11-08,,,sunday,AC Milan,Inter,3,0,3,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/serie-a-1970-1971-ac-milan-inter/
+italy-1970-1971,5,1970-11-08,,,sunday,SSC Napoli,Juventus,1,0,1,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/serie-a-1970-1971-ssc-napoli-juventus/
+italy-1970-1971,5,1970-11-08,,,sunday,Hellas Verona,Lanerossi Vicenza,1,0,1,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/serie-a-1970-1971-hellas-verona-vicenza-calcio/
+italy-1970-1971,5,1970-11-08,,,sunday,Torino FC,ACF Fiorentina,1,1,2,D,D,D,0,1,1,A,L,W,http://www.worldfootball.net/report/serie-a-1970-1971-torino-fc-acf-fiorentina/
+italy-1970-1971,5,1970-11-08,,,sunday,Bologna FC,Lazio Roma,2,0,2,H,W,L,2,0,2,H,W,L,http://www.worldfootball.net/report/serie-a-1970-1971-bologna-fc-lazio-roma/
+italy-1970-1971,5,1970-11-08,,,sunday,Calcio Catania,AS Varese 1910,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/serie-a-1970-1971-calcio-catania-as-varese-1910/
+italy-1970-1971,5,1970-11-08,,,sunday,Cagliari Calcio,US Foggia,1,1,2,D,D,D,1,1,2,D,D,D,http://www.worldfootball.net/report/serie-a-1970-1971-cagliari-calcio-us-foggia/
+italy-1970-1971,5,1970-11-08,,,sunday,AS Roma,Sampdoria,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/serie-a-1970-1971-as-roma-sampdoria/
+italy-1970-1971,6,1970-11-15,,,sunday,Juventus,Cagliari Calcio,2,1,3,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/serie-a-1970-1971-juventus-cagliari-calcio/
+italy-1970-1971,6,1970-11-15,,,sunday,AS Varese 1910,Bologna FC,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/serie-a-1970-1971-as-varese-1910-bologna-fc/
+italy-1970-1971,6,1970-11-15,,,sunday,Sampdoria,Hellas Verona,3,0,3,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/serie-a-1970-1971-sampdoria-hellas-verona/
+italy-1970-1971,6,1970-11-15,,,sunday,Lanerossi Vicenza,SSC Napoli,0,1,1,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/serie-a-1970-1971-vicenza-calcio-ssc-napoli/
+italy-1970-1971,6,1970-11-15,,,sunday,Inter,Torino FC,2,0,2,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/serie-a-1970-1971-inter-torino-fc/
+italy-1970-1971,6,1970-11-15,,,sunday,US Foggia,Calcio Catania,1,0,1,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/serie-a-1970-1971-us-foggia-calcio-catania/
+italy-1970-1971,6,1970-11-15,,,sunday,ACF Fiorentina,AC Milan,2,5,7,A,L,W,0,3,3,A,L,W,http://www.worldfootball.net/report/serie-a-1970-1971-acf-fiorentina-ac-milan/
+italy-1970-1971,6,1970-11-15,,,sunday,Lazio Roma,AS Roma,1,1,2,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/serie-a-1970-1971-lazio-roma-as-roma/
+italy-1970-1971,7,1970-11-22,,,sunday,AC Milan,Lanerossi Vicenza,3,1,4,H,W,L,2,1,3,H,W,L,http://www.worldfootball.net/report/serie-a-1970-1971-ac-milan-vicenza-calcio/
+italy-1970-1971,7,1970-11-22,,,sunday,SSC Napoli,Inter,2,1,3,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/serie-a-1970-1971-ssc-napoli-inter/
+italy-1970-1971,7,1970-11-22,,,sunday,Hellas Verona,AS Varese 1910,1,1,2,D,D,D,1,0,1,H,W,L,http://www.worldfootball.net/report/serie-a-1970-1971-hellas-verona-as-varese-1910/
+italy-1970-1971,7,1970-11-22,,,sunday,Torino FC,Juventus,2,1,3,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/serie-a-1970-1971-torino-fc-juventus/
+italy-1970-1971,7,1970-11-22,,,sunday,Calcio Catania,Lazio Roma,3,1,4,H,W,L,1,1,2,D,D,D,http://www.worldfootball.net/report/serie-a-1970-1971-calcio-catania-lazio-roma/
+italy-1970-1971,7,1970-11-22,,,sunday,Cagliari Calcio,ACF Fiorentina,2,0,2,H,W,L,2,0,2,H,W,L,http://www.worldfootball.net/report/serie-a-1970-1971-cagliari-calcio-acf-fiorentina/
+italy-1970-1971,7,1970-11-22,,,sunday,Bologna FC,Sampdoria,1,1,2,D,D,D,0,1,1,A,L,W,http://www.worldfootball.net/report/serie-a-1970-1971-bologna-fc-sampdoria/
+italy-1970-1971,7,1970-11-22,,,sunday,AS Roma,US Foggia,3,1,4,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/serie-a-1970-1971-as-roma-us-foggia/
+italy-1970-1971,8,1970-11-29,,,sunday,Juventus,AS Roma,2,0,2,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/serie-a-1970-1971-juventus-as-roma/
+italy-1970-1971,8,1970-11-29,,,sunday,Sampdoria,Torino FC,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/serie-a-1970-1971-sampdoria-torino-fc/
+italy-1970-1971,8,1970-11-29,,,sunday,Lanerossi Vicenza,Cagliari Calcio,1,1,2,D,D,D,0,1,1,A,L,W,http://www.worldfootball.net/report/serie-a-1970-1971-vicenza-calcio-cagliari-calcio/
+italy-1970-1971,8,1970-11-29,,,sunday,AS Varese 1910,AC Milan,1,1,2,D,D,D,1,1,2,D,D,D,http://www.worldfootball.net/report/serie-a-1970-1971-as-varese-1910-ac-milan/
+italy-1970-1971,8,1970-11-29,,,sunday,Inter,Calcio Catania,3,2,5,H,W,L,1,1,2,D,D,D,http://www.worldfootball.net/report/serie-a-1970-1971-inter-calcio-catania/
+italy-1970-1971,8,1970-11-29,,,sunday,US Foggia,Hellas Verona,3,0,3,H,W,L,3,0,3,H,W,L,http://www.worldfootball.net/report/serie-a-1970-1971-us-foggia-hellas-verona/
+italy-1970-1971,8,1970-11-29,,,sunday,ACF Fiorentina,Bologna FC,1,2,3,A,L,W,1,1,2,D,D,D,http://www.worldfootball.net/report/serie-a-1970-1971-acf-fiorentina-bologna-fc/
+italy-1970-1971,8,1970-11-29,,,sunday,Lazio Roma,SSC Napoli,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/serie-a-1970-1971-lazio-roma-ssc-napoli/
+italy-1970-1971,9,1970-12-13,,,sunday,AS Varese 1910,Juventus,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/serie-a-1970-1971-as-varese-1910-juventus/
+italy-1970-1971,9,1970-12-13,,,sunday,Torino FC,SSC Napoli,1,1,2,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/serie-a-1970-1971-torino-fc-ssc-napoli/
+italy-1970-1971,9,1970-12-13,,,sunday,AS Roma,Cagliari Calcio,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/serie-a-1970-1971-as-roma-cagliari-calcio/
+italy-1970-1971,9,1970-12-13,,,sunday,Sampdoria,ACF Fiorentina,2,2,4,D,D,D,0,2,2,A,L,W,http://www.worldfootball.net/report/serie-a-1970-1971-sampdoria-acf-fiorentina/
+italy-1970-1971,9,1970-12-13,,,sunday,Lanerossi Vicenza,Inter,1,2,3,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/serie-a-1970-1971-vicenza-calcio-inter/
+italy-1970-1971,9,1970-12-13,,,sunday,Bologna FC,Calcio Catania,2,0,2,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/serie-a-1970-1971-bologna-fc-calcio-catania/
+italy-1970-1971,9,1970-12-13,,,sunday,US Foggia,Lazio Roma,5,2,7,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/serie-a-1970-1971-us-foggia-lazio-roma/
+italy-1970-1971,9,1970-12-13,,,sunday,AC Milan,Hellas Verona,1,1,2,D,D,D,1,0,1,H,W,L,http://www.worldfootball.net/report/serie-a-1970-1971-ac-milan-hellas-verona/
+italy-1970-1971,10,1970-12-20,,,sunday,Inter,AS Varese 1910,3,2,5,H,W,L,2,0,2,H,W,L,http://www.worldfootball.net/report/serie-a-1970-1971-inter-as-varese-1910/
+italy-1970-1971,10,1970-12-20,,,sunday,Hellas Verona,Torino FC,1,0,1,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/serie-a-1970-1971-hellas-verona-torino-fc/
+italy-1970-1971,10,1970-12-20,,,sunday,SSC Napoli,AC Milan,0,2,2,A,L,W,,,,,,,http://www.worldfootball.net/report/serie-a-1970-1971-ssc-napoli-ac-milan/
+italy-1970-1971,10,1970-12-20,,,sunday,Juventus,Lanerossi Vicenza,2,1,3,H,W,L,1,1,2,D,D,D,http://www.worldfootball.net/report/serie-a-1970-1971-juventus-vicenza-calcio/
+italy-1970-1971,10,1970-12-20,,,sunday,ACF Fiorentina,US Foggia,3,0,3,H,W,L,2,0,2,H,W,L,http://www.worldfootball.net/report/serie-a-1970-1971-acf-fiorentina-us-foggia/
+italy-1970-1971,10,1970-12-20,,,sunday,Calcio Catania,AS Roma,1,2,3,A,L,W,1,1,2,D,D,D,http://www.worldfootball.net/report/serie-a-1970-1971-calcio-catania-as-roma/
+italy-1970-1971,10,1970-12-20,,,sunday,Cagliari Calcio,Bologna FC,2,1,3,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/serie-a-1970-1971-cagliari-calcio-bologna-fc/
+italy-1970-1971,10,1970-12-20,,,sunday,Lazio Roma,Sampdoria,1,0,1,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/serie-a-1970-1971-lazio-roma-sampdoria/
+italy-1970-1971,11,1970-12-27,,,sunday,Inter,Juventus,2,0,2,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/serie-a-1970-1971-inter-juventus/
+italy-1970-1971,11,1970-12-27,,,sunday,Lanerossi Vicenza,AS Varese 1910,3,1,4,H,W,L,3,1,4,H,W,L,http://www.worldfootball.net/report/serie-a-1970-1971-vicenza-calcio-as-varese-1910/
+italy-1970-1971,11,1970-12-27,,,sunday,Torino FC,AC Milan,1,1,2,D,D,D,0,1,1,A,L,W,http://www.worldfootball.net/report/serie-a-1970-1971-torino-fc-ac-milan/
+italy-1970-1971,11,1970-12-27,,,sunday,AS Roma,Bologna FC,1,1,2,D,D,D,0,1,1,A,L,W,http://www.worldfootball.net/report/serie-a-1970-1971-as-roma-bologna-fc/
+italy-1970-1971,11,1970-12-27,,,sunday,Calcio Catania,Cagliari Calcio,1,1,2,D,D,D,1,0,1,H,W,L,http://www.worldfootball.net/report/serie-a-1970-1971-calcio-catania-cagliari-calcio/
+italy-1970-1971,11,1970-12-27,,,sunday,US Foggia,Sampdoria,2,2,4,D,D,D,1,0,1,H,W,L,http://www.worldfootball.net/report/serie-a-1970-1971-us-foggia-sampdoria/
+italy-1970-1971,11,1970-12-27,,,sunday,ACF Fiorentina,Lazio Roma,1,1,2,D,D,D,1,0,1,H,W,L,http://www.worldfootball.net/report/serie-a-1970-1971-acf-fiorentina-lazio-roma/
+italy-1970-1971,11,1970-12-27,,,sunday,SSC Napoli,Hellas Verona,2,0,2,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/serie-a-1970-1971-ssc-napoli-hellas-verona/
+italy-1970-1971,12,1971-01-03,,,sunday,Lanerossi Vicenza,US Foggia,1,0,1,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/serie-a-1970-1971-vicenza-calcio-us-foggia/
+italy-1970-1971,12,1971-01-03,,,sunday,Sampdoria,Inter,0,2,2,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/serie-a-1970-1971-sampdoria-inter/
+italy-1970-1971,12,1971-01-03,,,sunday,AC Milan,Calcio Catania,4,0,4,H,W,L,4,0,4,H,W,L,http://www.worldfootball.net/report/serie-a-1970-1971-ac-milan-calcio-catania/
+italy-1970-1971,12,1971-01-03,,,sunday,AS Varese 1910,ACF Fiorentina,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/serie-a-1970-1971-as-varese-1910-acf-fiorentina/
+italy-1970-1971,12,1971-01-03,,,sunday,Juventus,Lazio Roma,3,1,4,H,W,L,2,0,2,H,W,L,http://www.worldfootball.net/report/serie-a-1970-1971-juventus-lazio-roma/
+italy-1970-1971,12,1971-01-03,,,sunday,Cagliari Calcio,Torino FC,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/serie-a-1970-1971-cagliari-calcio-torino-fc/
+italy-1970-1971,12,1971-01-03,,,sunday,Bologna FC,Hellas Verona,2,2,4,D,D,D,1,2,3,A,L,W,http://www.worldfootball.net/report/serie-a-1970-1971-bologna-fc-hellas-verona/
+italy-1970-1971,12,1971-01-03,,,sunday,AS Roma,SSC Napoli,2,2,4,D,D,D,0,2,2,A,L,W,http://www.worldfootball.net/report/serie-a-1970-1971-as-roma-ssc-napoli/
+italy-1970-1971,13,1971-01-10,,,sunday,SSC Napoli,Cagliari Calcio,1,0,1,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/serie-a-1970-1971-ssc-napoli-cagliari-calcio/
+italy-1970-1971,13,1971-01-10,,,sunday,Torino FC,AS Roma,4,0,4,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/serie-a-1970-1971-torino-fc-as-roma/
+italy-1970-1971,13,1971-01-10,,,sunday,Hellas Verona,Calcio Catania,1,1,2,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/serie-a-1970-1971-hellas-verona-calcio-catania/
+italy-1970-1971,13,1971-01-10,,,sunday,Sampdoria,Juventus,2,0,2,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/serie-a-1970-1971-sampdoria-juventus/
+italy-1970-1971,13,1971-01-10,,,sunday,Lazio Roma,AS Varese 1910,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/serie-a-1970-1971-lazio-roma-as-varese-1910/
+italy-1970-1971,13,1971-01-10,,,sunday,ACF Fiorentina,Lanerossi Vicenza,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/serie-a-1970-1971-acf-fiorentina-vicenza-calcio/
+italy-1970-1971,13,1971-01-10,,,sunday,US Foggia,Inter,1,1,2,D,D,D,1,1,2,D,D,D,http://www.worldfootball.net/report/serie-a-1970-1971-us-foggia-inter/
+italy-1970-1971,13,1971-01-10,,,sunday,AC Milan,Bologna FC,2,1,3,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/serie-a-1970-1971-ac-milan-bologna-fc/
+italy-1970-1971,14,1971-01-17,,,sunday,Inter,ACF Fiorentina,2,1,3,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/serie-a-1970-1971-inter-acf-fiorentina/
+italy-1970-1971,14,1971-01-17,,,sunday,AS Roma,Hellas Verona,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/serie-a-1970-1971-as-roma-hellas-verona/
+italy-1970-1971,14,1971-01-17,,,sunday,Juventus,US Foggia,2,1,3,H,W,L,2,0,2,H,W,L,http://www.worldfootball.net/report/serie-a-1970-1971-juventus-us-foggia/
+italy-1970-1971,14,1971-01-17,,,sunday,AS Varese 1910,Sampdoria,1,1,2,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/serie-a-1970-1971-as-varese-1910-sampdoria/
+italy-1970-1971,14,1971-01-17,,,sunday,Calcio Catania,Torino FC,1,0,1,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/serie-a-1970-1971-calcio-catania-torino-fc/
+italy-1970-1971,14,1971-01-17,,,sunday,Cagliari Calcio,AC Milan,0,4,4,A,L,W,0,3,3,A,L,W,http://www.worldfootball.net/report/serie-a-1970-1971-cagliari-calcio-ac-milan/
+italy-1970-1971,14,1971-01-17,,,sunday,Bologna FC,SSC Napoli,1,0,1,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/serie-a-1970-1971-bologna-fc-ssc-napoli/
+italy-1970-1971,14,1971-01-17,,,sunday,Lanerossi Vicenza,Lazio Roma,1,0,1,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/serie-a-1970-1971-vicenza-calcio-lazio-roma/
+italy-1970-1971,15,1971-01-24,,,sunday,SSC Napoli,Calcio Catania,1,0,1,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/serie-a-1970-1971-ssc-napoli-calcio-catania/
+italy-1970-1971,15,1971-01-24,,,sunday,Torino FC,Bologna FC,1,0,1,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/serie-a-1970-1971-torino-fc-bologna-fc/
+italy-1970-1971,15,1971-01-24,,,sunday,Hellas Verona,Cagliari Calcio,2,0,2,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/serie-a-1970-1971-hellas-verona-cagliari-calcio/
+italy-1970-1971,15,1971-01-24,,,sunday,Sampdoria,Lanerossi Vicenza,1,2,3,A,L,W,1,1,2,D,D,D,http://www.worldfootball.net/report/serie-a-1970-1971-sampdoria-vicenza-calcio/
+italy-1970-1971,15,1971-01-24,,,sunday,AC Milan,AS Roma,2,2,4,D,D,D,1,1,2,D,D,D,http://www.worldfootball.net/report/serie-a-1970-1971-ac-milan-as-roma/
+italy-1970-1971,15,1971-01-24,,,sunday,Lazio Roma,Inter,0,1,1,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/serie-a-1970-1971-lazio-roma-inter/
+italy-1970-1971,15,1971-01-24,,,sunday,ACF Fiorentina,Juventus,1,2,3,A,L,W,1,1,2,D,D,D,http://www.worldfootball.net/report/serie-a-1970-1971-acf-fiorentina-juventus/
+italy-1970-1971,15,1971-01-24,,,sunday,US Foggia,AS Varese 1910,2,2,4,D,D,D,0,1,1,A,L,W,http://www.worldfootball.net/report/serie-a-1970-1971-us-foggia-as-varese-1910/
+italy-1970-1971,16,1971-01-31,,,sunday,US Foggia,Torino FC,1,0,1,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/serie-a-1970-1971-us-foggia-torino-fc/
+italy-1970-1971,16,1971-01-31,,,sunday,Sampdoria,Cagliari Calcio,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/serie-a-1970-1971-sampdoria-cagliari-calcio/
+italy-1970-1971,16,1971-01-31,,,sunday,AS Varese 1910,SSC Napoli,1,1,2,D,D,D,1,0,1,H,W,L,http://www.worldfootball.net/report/serie-a-1970-1971-as-varese-1910-ssc-napoli/
+italy-1970-1971,16,1971-01-31,,,sunday,Lazio Roma,AC Milan,0,1,1,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/serie-a-1970-1971-lazio-roma-ac-milan/
+italy-1970-1971,16,1971-01-31,,,sunday,Inter,Hellas Verona,1,0,1,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/serie-a-1970-1971-inter-hellas-verona/
+italy-1970-1971,16,1971-01-31,,,sunday,ACF Fiorentina,AS Roma,2,2,4,D,D,D,1,1,2,D,D,D,http://www.worldfootball.net/report/serie-a-1970-1971-acf-fiorentina-as-roma/
+italy-1970-1971,16,1971-01-31,,,sunday,Juventus,Calcio Catania,5,0,5,H,W,L,2,0,2,H,W,L,http://www.worldfootball.net/report/serie-a-1970-1971-juventus-calcio-catania/
+italy-1970-1971,16,1971-01-31,,,sunday,Lanerossi Vicenza,Bologna FC,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/serie-a-1970-1971-vicenza-calcio-bologna-fc/
+italy-1970-1971,17,1971-02-07,,,sunday,AC Milan,US Foggia,2,0,2,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/serie-a-1970-1971-ac-milan-us-foggia/
+italy-1970-1971,17,1971-02-07,,,sunday,Torino FC,AS Varese 1910,3,1,4,H,W,L,2,1,3,H,W,L,http://www.worldfootball.net/report/serie-a-1970-1971-torino-fc-as-varese-1910/
+italy-1970-1971,17,1971-02-07,,,sunday,SSC Napoli,Sampdoria,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/serie-a-1970-1971-ssc-napoli-sampdoria/
+italy-1970-1971,17,1971-02-07,,,sunday,Hellas Verona,ACF Fiorentina,1,1,2,D,D,D,1,1,2,D,D,D,http://www.worldfootball.net/report/serie-a-1970-1971-hellas-verona-acf-fiorentina/
+italy-1970-1971,17,1971-02-07,,,sunday,Calcio Catania,Lanerossi Vicenza,1,1,2,D,D,D,1,1,2,D,D,D,http://www.worldfootball.net/report/serie-a-1970-1971-calcio-catania-vicenza-calcio/
+italy-1970-1971,17,1971-02-07,,,sunday,Cagliari Calcio,Lazio Roma,2,1,3,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/serie-a-1970-1971-cagliari-calcio-lazio-roma/
+italy-1970-1971,17,1971-02-07,,,sunday,Bologna FC,Juventus,1,0,1,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/serie-a-1970-1971-bologna-fc-juventus/
+italy-1970-1971,17,1971-02-07,,,sunday,AS Roma,Inter,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/serie-a-1970-1971-as-roma-inter/
+italy-1970-1971,18,1971-02-14,,,sunday,Lanerossi Vicenza,AS Roma,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/serie-a-1970-1971-vicenza-calcio-as-roma/
+italy-1970-1971,18,1971-02-14,,,sunday,AS Varese 1910,Cagliari Calcio,4,1,5,H,W,L,2,0,2,H,W,L,http://www.worldfootball.net/report/serie-a-1970-1971-as-varese-1910-cagliari-calcio/
+italy-1970-1971,18,1971-02-14,,,sunday,Sampdoria,AC Milan,1,1,2,D,D,D,1,1,2,D,D,D,http://www.worldfootball.net/report/serie-a-1970-1971-sampdoria-ac-milan/
+italy-1970-1971,18,1971-02-14,,,sunday,Lazio Roma,Torino FC,1,0,1,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/serie-a-1970-1971-lazio-roma-torino-fc/
+italy-1970-1971,18,1971-02-14,,,sunday,Juventus,Hellas Verona,2,1,3,H,W,L,1,1,2,D,D,D,http://www.worldfootball.net/report/serie-a-1970-1971-juventus-hellas-verona/
+italy-1970-1971,18,1971-02-14,,,sunday,Inter,Bologna FC,1,0,1,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/serie-a-1970-1971-inter-bologna-fc/
+italy-1970-1971,18,1971-02-14,,,sunday,ACF Fiorentina,Calcio Catania,1,1,2,D,D,D,1,1,2,D,D,D,http://www.worldfootball.net/report/serie-a-1970-1971-acf-fiorentina-calcio-catania/
+italy-1970-1971,18,1971-02-14,,,sunday,US Foggia,SSC Napoli,0,3,3,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/serie-a-1970-1971-us-foggia-ssc-napoli/
+italy-1970-1971,19,1971-02-28,,,sunday,SSC Napoli,ACF Fiorentina,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/serie-a-1970-1971-ssc-napoli-acf-fiorentina/
+italy-1970-1971,19,1971-02-28,,,sunday,Torino FC,Lanerossi Vicenza,2,3,5,A,L,W,1,0,1,H,W,L,http://www.worldfootball.net/report/serie-a-1970-1971-torino-fc-vicenza-calcio/
+italy-1970-1971,19,1971-02-28,,,sunday,Hellas Verona,Lazio Roma,1,0,1,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/serie-a-1970-1971-hellas-verona-lazio-roma/
+italy-1970-1971,19,1971-02-28,,,sunday,AS Roma,AS Varese 1910,3,0,3,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/serie-a-1970-1971-as-roma-as-varese-1910/
+italy-1970-1971,19,1971-02-28,,,sunday,Calcio Catania,Sampdoria,1,3,4,A,L,W,1,2,3,A,L,W,http://www.worldfootball.net/report/serie-a-1970-1971-calcio-catania-sampdoria/
+italy-1970-1971,19,1971-02-28,,,sunday,Bologna FC,US Foggia,1,2,3,A,L,W,1,2,3,A,L,W,http://www.worldfootball.net/report/serie-a-1970-1971-bologna-fc-us-foggia/
+italy-1970-1971,19,1971-02-28,,,sunday,Cagliari Calcio,Inter,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/serie-a-1970-1971-cagliari-calcio-inter/
+italy-1970-1971,19,1971-02-28,,,sunday,AC Milan,Juventus,1,1,2,D,D,D,0,1,1,A,L,W,http://www.worldfootball.net/report/serie-a-1970-1971-ac-milan-juventus/
+italy-1970-1971,20,1971-03-07,,,sunday,Juventus,SSC Napoli,4,1,5,H,W,L,3,0,3,H,W,L,http://www.worldfootball.net/report/serie-a-1970-1971-juventus-ssc-napoli/
+italy-1970-1971,20,1971-03-07,,,sunday,AS Varese 1910,Calcio Catania,0,1,1,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/serie-a-1970-1971-as-varese-1910-calcio-catania/
+italy-1970-1971,20,1971-03-07,,,sunday,Sampdoria,AS Roma,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/serie-a-1970-1971-sampdoria-as-roma/
+italy-1970-1971,20,1971-03-07,,,sunday,ACF Fiorentina,Torino FC,1,1,2,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/serie-a-1970-1971-acf-fiorentina-torino-fc/
+italy-1970-1971,20,1971-03-07,,,sunday,Lanerossi Vicenza,Hellas Verona,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/serie-a-1970-1971-vicenza-calcio-hellas-verona/
+italy-1970-1971,20,1971-03-07,,,sunday,Inter,AC Milan,2,0,2,H,W,L,2,0,2,H,W,L,http://www.worldfootball.net/report/serie-a-1970-1971-inter-ac-milan/
+italy-1970-1971,20,1971-03-07,,,sunday,US Foggia,Cagliari Calcio,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/serie-a-1970-1971-us-foggia-cagliari-calcio/
+italy-1970-1971,20,1971-03-07,,,sunday,Lazio Roma,Bologna FC,2,2,4,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/serie-a-1970-1971-lazio-roma-bologna-fc/
+italy-1970-1971,21,1971-03-14,,,sunday,Calcio Catania,US Foggia,2,0,2,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/serie-a-1970-1971-calcio-catania-us-foggia/
+italy-1970-1971,21,1971-03-14,,,sunday,Torino FC,Inter,0,2,2,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/serie-a-1970-1971-torino-fc-inter/
+italy-1970-1971,21,1971-03-14,,,sunday,AS Roma,Lazio Roma,2,2,4,D,D,D,1,1,2,D,D,D,http://www.worldfootball.net/report/serie-a-1970-1971-as-roma-lazio-roma/
+italy-1970-1971,21,1971-03-14,,,sunday,Hellas Verona,Sampdoria,3,1,4,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/serie-a-1970-1971-hellas-verona-sampdoria/
+italy-1970-1971,21,1971-03-14,,,sunday,AC Milan,ACF Fiorentina,1,0,1,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/serie-a-1970-1971-ac-milan-acf-fiorentina/
+italy-1970-1971,21,1971-03-14,,,sunday,Cagliari Calcio,Juventus,1,1,2,D,D,D,1,0,1,H,W,L,http://www.worldfootball.net/report/serie-a-1970-1971-cagliari-calcio-juventus/
+italy-1970-1971,21,1971-03-14,,,sunday,Bologna FC,AS Varese 1910,1,0,1,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/serie-a-1970-1971-bologna-fc-as-varese-1910/
+italy-1970-1971,21,1971-03-14,,,sunday,SSC Napoli,Lanerossi Vicenza,1,0,1,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/serie-a-1970-1971-ssc-napoli-vicenza-calcio/
+italy-1970-1971,22,1971-03-21,,,sunday,ACF Fiorentina,Cagliari Calcio,1,2,3,A,L,W,1,1,2,D,D,D,http://www.worldfootball.net/report/serie-a-1970-1971-acf-fiorentina-cagliari-calcio/
+italy-1970-1971,22,1971-03-21,,,sunday,US Foggia,AS Roma,1,0,1,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/serie-a-1970-1971-us-foggia-as-roma/
+italy-1970-1971,22,1971-03-21,,,sunday,Inter,SSC Napoli,2,1,3,H,W,L,0,1,1,A,L,W,http://www.worldfootball.net/report/serie-a-1970-1971-inter-ssc-napoli/
+italy-1970-1971,22,1971-03-21,,,sunday,Juventus,Torino FC,3,3,6,D,D,D,1,2,3,A,L,W,http://www.worldfootball.net/report/serie-a-1970-1971-juventus-torino-fc/
+italy-1970-1971,22,1971-03-21,,,sunday,Lanerossi Vicenza,AC Milan,1,1,2,D,D,D,1,0,1,H,W,L,http://www.worldfootball.net/report/serie-a-1970-1971-vicenza-calcio-ac-milan/
+italy-1970-1971,22,1971-03-21,,,sunday,Lazio Roma,Calcio Catania,1,0,1,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/serie-a-1970-1971-lazio-roma-calcio-catania/
+italy-1970-1971,22,1971-03-21,,,sunday,Sampdoria,Bologna FC,1,2,3,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/serie-a-1970-1971-sampdoria-bologna-fc/
+italy-1970-1971,22,1971-03-21,,,sunday,AS Varese 1910,Hellas Verona,2,0,2,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/serie-a-1970-1971-as-varese-1910-hellas-verona/
+italy-1970-1971,23,1971-03-28,,,sunday,SSC Napoli,Lazio Roma,2,0,2,H,W,L,2,0,2,H,W,L,http://www.worldfootball.net/report/serie-a-1970-1971-ssc-napoli-lazio-roma/
+italy-1970-1971,23,1971-03-28,,,sunday,Torino FC,Sampdoria,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/serie-a-1970-1971-torino-fc-sampdoria/
+italy-1970-1971,23,1971-03-28,,,sunday,AS Roma,Juventus,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/serie-a-1970-1971-as-roma-juventus/
+italy-1970-1971,23,1971-03-28,,,sunday,Calcio Catania,Inter,0,1,1,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/serie-a-1970-1971-calcio-catania-inter/
+italy-1970-1971,23,1971-03-28,,,sunday,Cagliari Calcio,Lanerossi Vicenza,1,1,2,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/serie-a-1970-1971-cagliari-calcio-vicenza-calcio/
+italy-1970-1971,23,1971-03-28,,,sunday,Bologna FC,ACF Fiorentina,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/serie-a-1970-1971-bologna-fc-acf-fiorentina/
+italy-1970-1971,23,1971-03-28,,,sunday,Hellas Verona,US Foggia,1,1,2,D,D,D,0,1,1,A,L,W,http://www.worldfootball.net/report/serie-a-1970-1971-hellas-verona-us-foggia/
+italy-1970-1971,23,1971-03-28,,,sunday,AC Milan,AS Varese 1910,1,2,3,A,L,W,1,1,2,D,D,D,http://www.worldfootball.net/report/serie-a-1970-1971-ac-milan-as-varese-1910/
+italy-1970-1971,24,1971-04-04,,,sunday,ACF Fiorentina,Sampdoria,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/serie-a-1970-1971-acf-fiorentina-sampdoria/
+italy-1970-1971,24,1971-04-04,,,sunday,Hellas Verona,AC Milan,1,3,4,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/serie-a-1970-1971-hellas-verona-ac-milan/
+italy-1970-1971,24,1971-04-04,,,sunday,SSC Napoli,Torino FC,2,0,2,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/serie-a-1970-1971-ssc-napoli-torino-fc/
+italy-1970-1971,24,1971-04-04,,,sunday,Lazio Roma,US Foggia,2,1,3,H,W,L,1,1,2,D,D,D,http://www.worldfootball.net/report/serie-a-1970-1971-lazio-roma-us-foggia/
+italy-1970-1971,24,1971-04-04,,,sunday,Inter,Lanerossi Vicenza,2,1,3,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/serie-a-1970-1971-inter-vicenza-calcio/
+italy-1970-1971,24,1971-04-04,,,sunday,Calcio Catania,Bologna FC,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/serie-a-1970-1971-calcio-catania-bologna-fc/
+italy-1970-1971,24,1971-04-04,,,sunday,Cagliari Calcio,AS Roma,0,1,1,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/serie-a-1970-1971-cagliari-calcio-as-roma/
+italy-1970-1971,24,1971-04-04,,,sunday,Juventus,AS Varese 1910,2,2,4,D,D,D,1,0,1,H,W,L,http://www.worldfootball.net/report/serie-a-1970-1971-juventus-as-varese-1910/
+italy-1970-1971,25,1971-04-11,,,sunday,Sampdoria,Lazio Roma,2,3,5,A,L,W,1,2,3,A,L,W,http://www.worldfootball.net/report/serie-a-1970-1971-sampdoria-lazio-roma/
+italy-1970-1971,25,1971-04-11,,,sunday,Lanerossi Vicenza,Juventus,1,1,2,D,D,D,0,1,1,A,L,W,http://www.worldfootball.net/report/serie-a-1970-1971-vicenza-calcio-juventus/
+italy-1970-1971,25,1971-04-11,,,sunday,AS Varese 1910,Inter,1,3,4,A,L,W,0,2,2,A,L,W,http://www.worldfootball.net/report/serie-a-1970-1971-as-varese-1910-inter/
+italy-1970-1971,25,1971-04-11,,,sunday,Torino FC,Hellas Verona,1,0,1,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/serie-a-1970-1971-torino-fc-hellas-verona/
+italy-1970-1971,25,1971-04-11,,,sunday,AC Milan,SSC Napoli,1,1,2,D,D,D,1,1,2,D,D,D,http://www.worldfootball.net/report/serie-a-1970-1971-ac-milan-ssc-napoli/
+italy-1970-1971,25,1971-04-11,,,sunday,Bologna FC,Cagliari Calcio,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/serie-a-1970-1971-bologna-fc-cagliari-calcio/
+italy-1970-1971,25,1971-04-11,,,sunday,US Foggia,ACF Fiorentina,1,1,2,D,D,D,1,0,1,H,W,L,http://www.worldfootball.net/report/serie-a-1970-1971-us-foggia-acf-fiorentina/
+italy-1970-1971,25,1971-04-11,,,sunday,AS Roma,Calcio Catania,5,0,5,H,W,L,2,0,2,H,W,L,http://www.worldfootball.net/report/serie-a-1970-1971-as-roma-calcio-catania/
+italy-1970-1971,26,1971-04-18,,,sunday,Lazio Roma,ACF Fiorentina,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/serie-a-1970-1971-lazio-roma-acf-fiorentina/
+italy-1970-1971,26,1971-04-18,,,sunday,Hellas Verona,SSC Napoli,0,2,2,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/serie-a-1970-1971-hellas-verona-ssc-napoli/
+italy-1970-1971,26,1971-04-18,,,sunday,AS Varese 1910,Lanerossi Vicenza,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/serie-a-1970-1971-as-varese-1910-vicenza-calcio/
+italy-1970-1971,26,1971-04-18,,,sunday,AC Milan,Torino FC,1,0,1,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/serie-a-1970-1971-ac-milan-torino-fc/
+italy-1970-1971,26,1971-04-18,,,sunday,Juventus,Inter,1,1,2,D,D,D,1,0,1,H,W,L,http://www.worldfootball.net/report/serie-a-1970-1971-juventus-inter/
+italy-1970-1971,26,1971-04-18,,,sunday,Cagliari Calcio,Calcio Catania,1,1,2,D,D,D,0,1,1,A,L,W,http://www.worldfootball.net/report/serie-a-1970-1971-cagliari-calcio-calcio-catania/
+italy-1970-1971,26,1971-04-18,,,sunday,Bologna FC,AS Roma,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/serie-a-1970-1971-bologna-fc-as-roma/
+italy-1970-1971,26,1971-04-18,,,sunday,Sampdoria,US Foggia,2,0,2,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/serie-a-1970-1971-sampdoria-us-foggia/
+italy-1970-1971,27,1971-04-25,,,sunday,SSC Napoli,AS Roma,1,2,3,A,L,W,1,1,2,D,D,D,http://www.worldfootball.net/report/serie-a-1970-1971-ssc-napoli-as-roma/
+italy-1970-1971,27,1971-04-25,,,sunday,Calcio Catania,AC Milan,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/serie-a-1970-1971-calcio-catania-ac-milan/
+italy-1970-1971,27,1971-04-25,,,sunday,Torino FC,Cagliari Calcio,2,1,3,H,W,L,1,1,2,D,D,D,http://www.worldfootball.net/report/serie-a-1970-1971-torino-fc-cagliari-calcio/
+italy-1970-1971,27,1971-04-25,,,sunday,Hellas Verona,Bologna FC,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/serie-a-1970-1971-hellas-verona-bologna-fc/
+italy-1970-1971,27,1971-04-25,,,sunday,Inter,Sampdoria,3,1,4,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/serie-a-1970-1971-inter-sampdoria/
+italy-1970-1971,27,1971-04-25,,,sunday,ACF Fiorentina,AS Varese 1910,1,1,2,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/serie-a-1970-1971-acf-fiorentina-as-varese-1910/
+italy-1970-1971,27,1971-04-25,,,sunday,Lazio Roma,Juventus,2,2,4,D,D,D,1,1,2,D,D,D,http://www.worldfootball.net/report/serie-a-1970-1971-lazio-roma-juventus/
+italy-1970-1971,27,1971-04-25,,,sunday,US Foggia,Lanerossi Vicenza,1,1,2,D,D,D,0,1,1,A,L,W,http://www.worldfootball.net/report/serie-a-1970-1971-us-foggia-vicenza-calcio/
+italy-1970-1971,28,1971-05-02,,,sunday,Inter,US Foggia,5,0,5,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/serie-a-1970-1971-inter-us-foggia/
+italy-1970-1971,28,1971-05-02,,,sunday,AS Varese 1910,Lazio Roma,2,1,3,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/serie-a-1970-1971-as-varese-1910-lazio-roma/
+italy-1970-1971,28,1971-05-02,,,sunday,AS Roma,Torino FC,1,1,2,D,D,D,1,0,1,H,W,L,http://www.worldfootball.net/report/serie-a-1970-1971-as-roma-torino-fc/
+italy-1970-1971,28,1971-05-02,,,sunday,Juventus,Sampdoria,3,1,4,H,W,L,2,0,2,H,W,L,http://www.worldfootball.net/report/serie-a-1970-1971-juventus-sampdoria/
+italy-1970-1971,28,1971-05-02,,,sunday,Calcio Catania,Hellas Verona,0,1,1,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/serie-a-1970-1971-calcio-catania-hellas-verona/
+italy-1970-1971,28,1971-05-02,,,sunday,Cagliari Calcio,SSC Napoli,1,1,2,D,D,D,0,1,1,A,L,W,http://www.worldfootball.net/report/serie-a-1970-1971-cagliari-calcio-ssc-napoli/
+italy-1970-1971,28,1971-05-02,,,sunday,Bologna FC,AC Milan,3,2,5,H,W,L,1,2,3,A,L,W,http://www.worldfootball.net/report/serie-a-1970-1971-bologna-fc-ac-milan/
+italy-1970-1971,28,1971-05-02,,,sunday,Lanerossi Vicenza,ACF Fiorentina,0,1,1,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/serie-a-1970-1971-vicenza-calcio-acf-fiorentina/
+italy-1970-1971,29,1971-05-16,,,sunday,US Foggia,Juventus,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/serie-a-1970-1971-us-foggia-juventus/
+italy-1970-1971,29,1971-05-16,,,sunday,Torino FC,Calcio Catania,1,1,2,D,D,D,1,1,2,D,D,D,http://www.worldfootball.net/report/serie-a-1970-1971-torino-fc-calcio-catania/
+italy-1970-1971,29,1971-05-16,,,sunday,Hellas Verona,AS Roma,1,0,1,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/serie-a-1970-1971-hellas-verona-as-roma/
+italy-1970-1971,29,1971-05-16,,,sunday,Sampdoria,AS Varese 1910,2,1,3,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/serie-a-1970-1971-sampdoria-as-varese-1910/
+italy-1970-1971,29,1971-05-16,,,sunday,SSC Napoli,Bologna FC,3,0,3,H,W,L,2,0,2,H,W,L,http://www.worldfootball.net/report/serie-a-1970-1971-ssc-napoli-bologna-fc/
+italy-1970-1971,29,1971-05-16,,,sunday,Lazio Roma,Lanerossi Vicenza,0,1,1,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/serie-a-1970-1971-lazio-roma-vicenza-calcio/
+italy-1970-1971,29,1971-05-16,,,sunday,ACF Fiorentina,Inter,2,2,4,D,D,D,1,0,1,H,W,L,http://www.worldfootball.net/report/serie-a-1970-1971-acf-fiorentina-inter/
+italy-1970-1971,29,1971-05-16,,,sunday,AC Milan,Cagliari Calcio,3,1,4,H,W,L,0,1,1,A,L,W,http://www.worldfootball.net/report/serie-a-1970-1971-ac-milan-cagliari-calcio/
+italy-1970-1971,30,1971-05-23,,,sunday,AS Roma,AC Milan,1,1,2,D,D,D,1,1,2,D,D,D,http://www.worldfootball.net/report/serie-a-1970-1971-as-roma-ac-milan/
+italy-1970-1971,30,1971-05-23,,,sunday,Bologna FC,Torino FC,1,0,1,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/serie-a-1970-1971-bologna-fc-torino-fc/
+italy-1970-1971,30,1971-05-23,,,sunday,Cagliari Calcio,Hellas Verona,4,1,5,H,W,L,2,0,2,H,W,L,http://www.worldfootball.net/report/serie-a-1970-1971-cagliari-calcio-hellas-verona/
+italy-1970-1971,30,1971-05-23,,,sunday,Calcio Catania,SSC Napoli,1,0,1,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/serie-a-1970-1971-calcio-catania-ssc-napoli/
+italy-1970-1971,30,1971-05-23,,,sunday,Inter,Lazio Roma,1,1,2,D,D,D,0,1,1,A,L,W,http://www.worldfootball.net/report/serie-a-1970-1971-inter-lazio-roma/
+italy-1970-1971,30,1971-05-23,,,sunday,Juventus,ACF Fiorentina,1,1,2,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/serie-a-1970-1971-juventus-acf-fiorentina/
+italy-1970-1971,30,1971-05-23,,,sunday,Lanerossi Vicenza,Sampdoria,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/serie-a-1970-1971-vicenza-calcio-sampdoria/
+italy-1970-1971,30,1971-05-23,,,sunday,AS Varese 1910,US Foggia,3,0,3,H,W,L,3,0,3,H,W,L,http://www.worldfootball.net/report/serie-a-1970-1971-as-varese-1910-us-foggia/
