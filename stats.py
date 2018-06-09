@@ -49,7 +49,7 @@ def get_active_stats():
     stats_df = pd.DataFrame(columns=columns)
     
     #TODO: add csv generator and graph(s)
-    for folder in os.listdir("active"):
+    for folder in os.listdir("data"):
         for file in os.listdir("active/" + str(folder)):
             filename = "active/" + str(folder) + "/" + str(file)
             

@@ -11,16 +11,13 @@ Created on Wed May 31 11:37:39 2017
 from result_collector import get_results
 from league_link_collector import get_new_results
 from time import gmtime, strftime, sleep
-from test_fv import merge_all
 import time
 
-
-
-get_new_results()
-
+if __name__ == "__main__":
+    while(True):
+        get_new_results()
 
 """
-
 
 startTime = time.time()
 
@@ -34,12 +31,9 @@ links = links.split("\n")
 error_num = 0
 for i in range(idx,len(links)):
     if get_results(links[i],"data") == 1:
-        #HINT: print the bad links
         error_num += 1
+        #TODO: strore it to somewhere
         print(links[i])
-#    if i % 10 == 0 and i != 0:
-#        merge_all(10)
-#    print(i)
 
 date = strftime("%Y-%m-%d %H:%M:%S", gmtime())
 if error_num == len(links):
@@ -47,6 +41,5 @@ if error_num == len(links):
     sleep(60)
 else:
     print(date, error_num, "errors occured")
-print ('The script took {0} minutes !'.format(time.time() - startTime))
-merge_all(150)
+print ('The script took {0} seconds !'.format(time.time() - startTime))
 """
