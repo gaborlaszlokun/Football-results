@@ -5364,8 +5364,46 @@ usa-2018,4,2018-06-03,00:30,201806030030,sunday,Atlanta United FC,Philadelphia U
 usa-2018,4,2018-06-03,00:30,201806030030,sunday,Columbus Crew,Toronto FC,3,3,6,D,D,D,0,2,2,A,L,W,http://www.worldfootball.net/report/major-league-soccer-2018-columbus-crew-toronto-fc/
 usa-2018,4,2018-06-03,00:30,201806030030,sunday,Impact de Montréal,Houston Dynamo,1,0,1,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/major-league-soccer-2018-impact-de-montreal-houston-dynamo/
 usa-2018,4,2018-06-03,00:30,201806030030,sunday,New England Revolution,New York RB,2,1,3,H,W,L,1,1,2,D,D,D,http://www.worldfootball.net/report/major-league-soccer-2018-new-england-revolution-new-york-rb/
-usa-2018,4,2018-06-03,00:30,201806030030,sunday,New York City FC,Orlando City,3,0,3,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/major-league-soccer-2018-new-york-city-fc-orlando-city-spiel/
+usa-2018,4,2018-06-03,00:30,201806030030,sunday,New York City FC,Orlando City,3,0,3,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/major-league-soccer-2018-new-york-city-fc-orlando-city_2/
 usa-2018,4,2018-06-03,01:00,201806030100,sunday,FC Dallas,Los Angeles FC,2,1,3,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/major-league-soccer-2018-fc-dallas-los-angeles-fc/
 usa-2018,4,2018-06-03,01:30,201806030130,sunday,Chicago Fire,San Jose Earthquakes,2,1,3,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/major-league-soccer-2018-chicago-fire-san-jose-earthquakes/
 usa-2018,4,2018-06-03,02:30,201806030230,sunday,Real Salt Lake,Seattle Sounders,2,0,2,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/major-league-soccer-2018-real-salt-lake-seattle-sounders/
 usa-2018,4,2018-06-04,01:30,201806040130,monday,Sporting Kansas City,Minnesota United FC,4,1,5,H,W,L,3,1,4,H,W,L,http://www.worldfootball.net/report/major-league-soccer-2018-sporting-kansas-city-minnesota-united-fc/
+usa-2018,4,2018-06-09,01:00,201806090100,saturday,Philadelphia Union,Toronto FC,0,2,2,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/major-league-soccer-2018-philadelphia-union-toronto-fc/
+usa-2018,4,2018-06-09,17:30,201806091730,saturday,New York City FC,Atlanta United FC,1,1,2,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/major-league-soccer-2018-new-york-city-fc-atlanta-united-fc/
+usa-2018,4,2018-06-09,22:00,201806092200,saturday,Columbus Crew,New York RB,1,1,2,D,D,D,1,0,1,H,W,L,http://www.worldfootball.net/report/major-league-soccer-2018-columbus-crew-new-york-rb/
+usa-2018,4,2018-06-10,00:00,201806100000,sunday,Vancouver Whitecaps,Orlando City,5,2,7,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/major-league-soccer-2018-vancouver-whitecaps-orlando-city/
+usa-2018,4,2018-06-10,01:00,201806100100,sunday,FC Dallas,Impact de Montréal,2,0,2,H,W,L,2,0,2,H,W,L,http://www.worldfootball.net/report/major-league-soccer-2018-fc-dallas-impact-de-montreal/
+usa-2018,4,2018-06-10,01:30,201806100130,sunday,Chicago Fire,New England Revolution,1,1,2,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/major-league-soccer-2018-chicago-fire-new-england-revolution/
+usa-2018,4,2018-06-10,02:00,201806100200,sunday,Houston Dynamo,Colorado Rapids,2,0,2,H,W,L,2,0,2,H,W,L,http://www.worldfootball.net/report/major-league-soccer-2018-houston-dynamo-colorado-rapids/
+usa-2018,4,2018-06-10,03:00,201806100300,sunday,Seattle Sounders,D.C. United,2,1,3,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/major-league-soccer-2018-seattle-sounders-d-c-united/
+usa-2018,4,2018-06-10,03:30,201806100330,sunday,Los Angeles Galaxy,Real Salt Lake,3,0,3,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/major-league-soccer-2018-los-angeles-galaxy-real-salt-lake/
+usa-2018,4,2018-06-10,03:30,201806100330,sunday,Portland Timbers,Sporting Kansas City,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/major-league-soccer-2018-portland-timbers-sporting-kansas-city/
+usa-2018,4,2018-06-10,03:30,201806100330,sunday,San Jose Earthquakes,Los Angeles FC,3,4,7,A,L,W,1,2,3,A,L,W,http://www.worldfootball.net/report/major-league-soccer-2018-san-jose-earthquakes-los-angeles-fc/
+usa-2018,4,2018-06-14,00:30,201806140030,thursday,Columbus Crew,Atlanta United FC,0,2,2,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/major-league-soccer-2018-columbus-crew-atlanta-united-fc/
+usa-2018,4,2018-06-14,00:30,201806140030,thursday,Impact de Montréal,Orlando City,3,0,3,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/major-league-soccer-2018-impact-de-montreal-orlando-city/
+usa-2018,4,2018-06-14,01:00,201806140100,thursday,Toronto FC,D.C. United,4,4,8,D,D,D,0,3,3,A,L,W,http://www.worldfootball.net/report/major-league-soccer-2018-toronto-fc-d-c-united/
+usa-2018,4,2018-06-14,01:00,201806140100,thursday,New York RB,Seattle Sounders,2,1,3,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/major-league-soccer-2018-new-york-rb-seattle-sounders/
+usa-2018,4,2018-06-14,02:00,201806140200,thursday,Colorado Rapids,Chicago Fire,2,2,4,D,D,D,2,2,4,D,D,D,http://www.worldfootball.net/report/major-league-soccer-2018-colorado-rapids-chicago-fire/
+usa-2018,4,2018-06-14,03:30,201806140330,thursday,San Jose Earthquakes,New England Revolution,2,2,4,D,D,D,1,2,3,A,L,W,http://www.worldfootball.net/report/major-league-soccer-2018-san-jose-earthquakes-new-england-revolution/
+usa-2018,4,2018-06-23,22:00,201806232200,saturday,Philadelphia Union,Vancouver Whitecaps,4,0,4,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/major-league-soccer-2018-philadelphia-union-vancouver-whitecaps/
+usa-2018,4,2018-06-23,23:00,201806232300,saturday,New York RB,FC Dallas,3,0,3,H,W,L,2,0,2,H,W,L,http://www.worldfootball.net/report/major-league-soccer-2018-new-york-rb-fc-dallas/
+usa-2018,4,2018-06-24,00:50,201806240050,sunday,Orlando City,Impact de Montréal,0,2,2,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/major-league-soccer-2018-orlando-city-impact-de-montreal/
+usa-2018,4,2018-06-24,01:30,201806240130,sunday,Sporting Kansas City,Houston Dynamo,3,2,5,H,W,L,0,2,2,A,L,W,http://www.worldfootball.net/report/major-league-soccer-2018-sporting-kansas-city-houston-dynamo/
+usa-2018,4,2018-06-24,02:00,201806240200,sunday,Colorado Rapids,Minnesota United FC,3,2,5,H,W,L,0,1,1,A,L,W,http://www.worldfootball.net/report/major-league-soccer-2018-colorado-rapids-minnesota-united-fc/
+usa-2018,4,2018-06-24,03:00,201806240300,sunday,Real Salt Lake,San Jose Earthquakes,1,1,2,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/major-league-soccer-2018-real-salt-lake-san-jose-earthquakes/
+usa-2018,4,2018-06-24,03:00,201806240300,sunday,Seattle Sounders,Chicago Fire,1,1,2,D,D,D,1,1,2,D,D,D,http://www.worldfootball.net/report/major-league-soccer-2018-seattle-sounders-chicago-fire/
+usa-2018,4,2018-06-24,03:30,201806240330,sunday,Los Angeles FC,Columbus Crew,2,0,2,H,W,L,2,0,2,H,W,L,http://www.worldfootball.net/report/major-league-soccer-2018-los-angeles-fc-columbus-crew/
+usa-2018,4,2018-06-24,21:30,201806242130,sunday,Atlanta United FC,Portland Timbers,1,1,2,D,D,D,0,1,1,A,L,W,http://www.worldfootball.net/report/major-league-soccer-2018-atlanta-united-fc-portland-timbers/
+usa-2018,4,2018-06-24,22:00,201806242200,sunday,New York City FC,Toronto FC,2,1,3,H,W,L,0,1,1,A,L,W,http://www.worldfootball.net/report/major-league-soccer-2018-new-york-city-fc-toronto-fc/
+usa-2018,4,2018-06-30,01:00,201806300100,saturday,Minnesota United FC,FC Dallas,0,1,1,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/major-league-soccer-2018-minnesota-united-fc-fc-dallas/
+usa-2018,4,2018-06-30,21:30,201806302130,saturday,Seattle Sounders,Portland Timbers,2,3,5,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/major-league-soccer-2018-seattle-sounders-portland-timbers/
+usa-2018,5,2018-07-01,00:00,201807010000,sunday,Atlanta United FC,Orlando City,4,0,4,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/major-league-soccer-2018-atlanta-united-fc-orlando-city/
+usa-2018,5,2018-07-01,00:00,201807010000,sunday,Impact de Montréal,Sporting Kansas City,2,0,2,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/major-league-soccer-2018-impact-de-montreal-sporting-kansas-city/
+usa-2018,5,2018-07-01,00:30,201807010030,sunday,Columbus Crew,Real Salt Lake,2,1,3,H,W,L,2,0,2,H,W,L,http://www.worldfootball.net/report/major-league-soccer-2018-columbus-crew-real-salt-lake/
+usa-2018,5,2018-07-01,00:30,201807010030,sunday,New England Revolution,D.C. United,3,2,5,H,W,L,2,1,3,H,W,L,http://www.worldfootball.net/report/major-league-soccer-2018-new-england-revolution-d-c-united/
+usa-2018,5,2018-07-01,01:00,201807010100,sunday,Chicago Fire,New York City FC,3,2,5,H,W,L,1,2,3,A,L,W,http://www.worldfootball.net/report/major-league-soccer-2018-chicago-fire-new-york-city-fc/
+usa-2018,5,2018-07-01,01:00,201807010100,sunday,Los Angeles FC,Philadelphia Union,4,1,5,H,W,L,2,1,3,H,W,L,http://www.worldfootball.net/report/major-league-soccer-2018-los-angeles-fc-philadelphia-union/
+usa-2018,5,2018-07-01,03:00,201807010300,sunday,San Jose Earthquakes,Los Angeles Galaxy,3,3,6,D,D,D,2,3,5,A,L,W,http://www.worldfootball.net/report/major-league-soccer-2018-san-jose-earthquakes-los-angeles-galaxy/
+usa-2018,5,2018-07-01,22:05,201807012205,sunday,Toronto FC,New York RB,0,1,1,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/major-league-soccer-2018-toronto-fc-new-york-rb/
+usa-2018,5,2018-07-02,00:00,201807020000,monday,Vancouver Whitecaps,Colorado Rapids,0,1,1,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/major-league-soccer-2018-vancouver-whitecaps-colorado-rapids/

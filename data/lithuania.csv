@@ -19,7 +19,7 @@ lithuania-2002,4,2002-04-25,,200204250000,thursday,FK Zalgiris,FK Ekranas,1,0,1,
 lithuania-2002,5,2002-04-30,,200204300000,tuesday,Inkaras Kaunas,FBK Kaunas,0,1,1,A,L,W,,,,,,,
 lithuania-2002,5,2002-04-30,,200204300000,tuesday,FK Ekranas,FK Atlantas,3,1,4,H,W,L,,,,,,,
 lithuania-2002,5,2002-04-30,,200204300000,tuesday,Gelezinis Vilkas,FK Sūduva,1,1,2,D,D,D,,,,,,,
-lithuania-2002,6,2002-05-04,,200205040000,saturday,Gelezinis Vilkas,Sakalas Siauliai,0,0,0,D,D,D,0,0,0,D,D,D,
+lithuania-2002,6,2002-05-04,,200205040000,saturday,Gelezinis Vilkas,Sakalas Siauliai,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
 lithuania-2002,6,2002-05-04,,200205040000,saturday,FK Sūduva,Inkaras Kaunas,1,1,2,D,D,D,,,,,,,
 lithuania-2002,6,2002-05-04,,200205040000,saturday,FBK Kaunas,FK Ekranas,1,0,1,H,W,L,,,,,,,
 lithuania-2002,6,2002-05-04,,200205040000,saturday,FK Atlantas,FK Zalgiris,1,3,4,A,L,W,,,,,,,
@@ -38,7 +38,7 @@ lithuania-2002,9,2002-05-21,,200205210000,tuesday,FK Atlantas,FK Sūduva,3,1,4,H
 lithuania-2002,9,2002-05-21,,200205210000,tuesday,FK Zalgiris,Sakalas Siauliai,3,1,4,H,W,L,,,,,,,
 lithuania-2002,9,2002-05-21,,200205210000,tuesday,FK Ekranas,FK Nevėžis,4,1,5,H,W,L,,,,,,,
 lithuania-2002,10,2002-05-25,,200205250000,saturday,Gelezinis Vilkas,FK Ekranas,0,2,2,A,L,W,,,,,,,
-lithuania-2002,10,2002-05-25,,200205250000,saturday,FK Nevėžis,FK Zalgiris,0,0,0,D,D,D,0,0,0,D,D,D,
+lithuania-2002,10,2002-05-25,,200205250000,saturday,FK Nevėžis,FK Zalgiris,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
 lithuania-2002,10,2002-05-25,,200205250000,saturday,FK Atlantas,Sakalas Siauliai,4,1,5,H,W,L,,,,,,,
 lithuania-2002,10,2002-05-25,,200205250000,saturday,FBK Kaunas,FK Sūduva,5,0,5,H,W,L,,,,,,,
 lithuania-2002,11,2002-05-28,,200205280000,tuesday,Inkaras Kaunas,FK Ekranas,1,0,1,H,W,L,,,,,,,
@@ -50,7 +50,7 @@ lithuania-2002,12,2002-06-01,,200206010000,saturday,FBK Kaunas,FK Nevėžis,10,0
 lithuania-2002,12,2002-06-01,,200206010000,saturday,FK Sūduva,Sakalas Siauliai,1,1,2,D,D,D,,,,,,,
 lithuania-2002,13,2002-06-04,,200206040000,tuesday,Inkaras Kaunas,FK Atlantas,0,2,2,A,L,W,,,,,,,
 lithuania-2002,13,2002-06-04,,200206040000,tuesday,FK Nevėžis,FK Sūduva,0,2,2,A,L,W,,,,,,,
-lithuania-2002,13,2002-06-04,,200206040000,tuesday,FK Ekranas,FK Zalgiris,0,0,0,D,D,D,0,0,0,D,D,D,
+lithuania-2002,13,2002-06-04,,200206040000,tuesday,FK Ekranas,FK Zalgiris,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
 lithuania-2002,14,2002-06-08,,200206080000,saturday,FK Atlantas,FK Ekranas,2,1,3,H,W,L,,,,,,,
 lithuania-2002,14,2002-06-08,,200206080000,saturday,FBK Kaunas,Inkaras Kaunas,3,0,3,H,W,L,,,,,,,
 lithuania-2002,14,2002-06-08,,200206080000,saturday,FK Nevėžis,Sakalas Siauliai,0,2,2,A,L,W,,,,,,,
@@ -61,8 +61,8 @@ lithuania-2002,15,2002-06-12,,200206120000,wednesday,Sakalas Siauliai,Gelezinis 
 lithuania-2002,16,2002-06-15,,200206150000,saturday,Gelezinis Vilkas,FK Nevėžis,3,4,7,A,L,W,,,,,,,
 lithuania-2002,16,2002-06-15,,200206150000,saturday,FBK Kaunas,FK Zalgiris,2,0,2,H,W,L,,,,,,,
 lithuania-2002,16,2002-06-15,,200206150000,saturday,FK Sūduva,FK Ekranas,1,0,1,H,W,L,,,,,,,
-lithuania-2002,16,2002-06-15,,200206150000,saturday,Sakalas Siauliai,Inkaras Kaunas,0,0,0,D,D,D,0,0,0,D,D,D,
-lithuania-2002,17,2002-06-19,,200206190000,wednesday,FK Atlantas,FBK Kaunas,0,0,0,D,D,D,0,0,0,D,D,D,
+lithuania-2002,16,2002-06-15,,200206150000,saturday,Sakalas Siauliai,Inkaras Kaunas,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
+lithuania-2002,17,2002-06-19,,200206190000,wednesday,FK Atlantas,FBK Kaunas,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
 lithuania-2002,17,2002-06-19,,200206190000,wednesday,Inkaras Kaunas,FK Nevėžis,3,0,3,H,W,L,,,,,,,
 lithuania-2002,17,2002-06-19,,200206190000,wednesday,FK Ekranas,Sakalas Siauliai,3,1,4,H,W,L,,,,,,,
 lithuania-2002,18,2002-06-23,,200206230000,sunday,Gelezinis Vilkas,Inkaras Kaunas,0,1,1,A,L,W,,,,,,,
@@ -73,8 +73,8 @@ lithuania-2002,19,2002-06-27,,200206270000,thursday,Sakalas Siauliai,FK Atlantas
 lithuania-2002,19,2002-06-27,,200206270000,thursday,FK Sūduva,FBK Kaunas,1,1,2,D,D,D,,,,,,,
 lithuania-2002,14,2002-07-01,,200207010000,monday,FK Sūduva,Gelezinis Vilkas,1,0,1,H,W,L,,,,,,,
 lithuania-2002,20,2002-07-01,,200207010000,monday,FBK Kaunas,Sakalas Siauliai,4,1,5,H,W,L,,,,,,,
-lithuania-2002,20,2002-07-01,,200207010000,monday,FK Atlantas,FK Nevėžis,0,0,0,D,D,D,0,0,0,D,D,D,
-lithuania-2002,5,2002-07-05,,200207050000,friday,Sakalas Siauliai,FK Nevėžis,0,0,0,D,D,D,0,0,0,D,D,D,
+lithuania-2002,20,2002-07-01,,200207010000,monday,FK Atlantas,FK Nevėžis,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
+lithuania-2002,5,2002-07-05,,200207050000,friday,Sakalas Siauliai,FK Nevėžis,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
 lithuania-2002,13,2002-07-06,,200207060000,saturday,Gelezinis Vilkas,FBK Kaunas,1,4,5,A,L,W,,,,,,,
 lithuania-2002,21,2002-07-11,,200207110000,thursday,FK Nevėžis,FBK Kaunas,2,5,7,A,L,W,,,,,,,
 lithuania-2002,21,2002-07-20,,200207200000,saturday,Gelezinis Vilkas,FK Atlantas,1,0,1,H,W,L,,,,,,,
@@ -83,14 +83,14 @@ lithuania-2002,27,2002-07-23,,200207230000,tuesday,Sakalas Siauliai,FK Zalgiris,
 lithuania-2002,27,2002-07-23,,200207230000,tuesday,FK Sūduva,FK Atlantas,0,1,1,A,L,W,,,,,,,
 lithuania-2002,22,2002-07-27,,200207270000,saturday,FK Atlantas,Inkaras Kaunas,0,1,1,A,L,W,,,,,,,
 lithuania-2002,22,2002-07-27,,200207270000,saturday,FK Sūduva,FK Nevėžis,2,1,3,H,W,L,,,,,,,
-lithuania-2002,22,2002-07-27,,200207270000,saturday,FK Zalgiris,FK Ekranas,0,0,0,D,D,D,0,0,0,D,D,D,
+lithuania-2002,22,2002-07-27,,200207270000,saturday,FK Zalgiris,FK Ekranas,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
 lithuania-2002,22,2002-07-28,,200207280000,sunday,FBK Kaunas,Gelezinis Vilkas,4,1,5,H,W,L,,,,,,,
 lithuania-2002,25,2002-07-30,,200207300000,tuesday,FK Ekranas,FK Sūduva,4,1,5,H,W,L,,,,,,,
 lithuania-2002,23,2002-08-03,,200208030000,saturday,FK Ekranas,FK Atlantas,1,4,5,A,L,W,,,,,,,
 lithuania-2002,23,2002-08-03,,200208030000,saturday,Sakalas Siauliai,FK Nevėžis,3,0,3,H,W,L,,,,,,,
 lithuania-2002,23,2002-08-03,,200208030000,saturday,Gelezinis Vilkas,FK Sūduva,2,4,6,A,L,W,,,,,,,
 lithuania-2002,23,2002-08-04,,200208040000,sunday,Inkaras Kaunas,FBK Kaunas,0,1,1,A,L,W,,,,,,,
-lithuania-2002,24,2002-08-07,,200208070000,wednesday,FK Atlantas,FK Zalgiris,0,0,0,D,D,D,0,0,0,D,D,D,
+lithuania-2002,24,2002-08-07,,200208070000,wednesday,FK Atlantas,FK Zalgiris,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
 lithuania-2002,24,2002-08-08,,200208080000,thursday,FK Sūduva,Inkaras Kaunas,2,0,2,H,W,L,,,,,,,
 lithuania-2002,24,2002-08-10,,200208100000,saturday,Gelezinis Vilkas,Sakalas Siauliai,1,1,2,D,D,D,,,,,,,
 lithuania-2002,24,2002-08-10,,200208100000,saturday,FBK Kaunas,FK Ekranas,0,1,1,A,L,W,,,,,,,
@@ -99,18 +99,18 @@ lithuania-2002,25,2002-08-17,,200208170000,saturday,FK Nevėžis,Gelezinis Vilka
 lithuania-2002,25,2002-08-17,,200208170000,saturday,Inkaras Kaunas,Sakalas Siauliai,1,1,2,D,D,D,,,,,,,
 lithuania-2002,26,2002-08-23,,200208230000,friday,FK Zalgiris,FK Sūduva,2,2,4,D,D,D,,,,,,,
 lithuania-2002,30,2002-08-23,,200208230000,friday,FK Atlantas,Gelezinis Vilkas,5,2,7,H,W,L,,,,,,,
-lithuania-2002,26,2002-08-24,,200208240000,saturday,Sakalas Siauliai,FK Ekranas,0,0,0,D,D,D,0,0,0,D,D,D,
+lithuania-2002,26,2002-08-24,,200208240000,saturday,Sakalas Siauliai,FK Ekranas,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
 lithuania-2002,26,2002-08-24,,200208240000,saturday,Inkaras Kaunas,FK Nevėžis,1,0,1,H,W,L,,,,,,,
 lithuania-2002,27,2002-08-27,,200208270000,tuesday,FK Nevėžis,FK Ekranas,1,3,4,A,L,W,,,,,,,
 lithuania-2002,27,2002-08-27,,200208270000,tuesday,Gelezinis Vilkas,Inkaras Kaunas,0,8,8,A,L,W,,,,,,,
 lithuania-2002,28,2002-08-31,,200208310000,saturday,Gelezinis Vilkas,FK Ekranas,0,3,3,A,L,W,,,,,,,
-lithuania-2002,28,2002-08-31,,200208310000,saturday,FK Nevėžis,FK Zalgiris,0,0,0,D,D,D,0,0,0,D,D,D,
+lithuania-2002,28,2002-08-31,,200208310000,saturday,FK Nevėžis,FK Zalgiris,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
 lithuania-2002,28,2002-09-02,,200209020000,monday,Sakalas Siauliai,FK Atlantas,0,2,2,A,L,W,,,,,,,
 lithuania-2002,28,2002-09-02,,200209020000,monday,FBK Kaunas,FK Sūduva,4,1,5,H,W,L,,,,,,,
 lithuania-2002,29,2002-09-14,,200209140000,saturday,Sakalas Siauliai,FBK Kaunas,0,1,1,A,L,W,,,,,,,
 lithuania-2002,29,2002-09-14,,200209140000,saturday,FK Nevėžis,FK Atlantas,1,3,4,A,L,W,,,,,,,
 lithuania-2002,29,2002-09-14,,200209140000,saturday,FK Zalgiris,Gelezinis Vilkas,2,2,4,D,D,D,,,,,,,
-lithuania-2002,29,2002-09-14,,200209140000,saturday,Inkaras Kaunas,FK Ekranas,0,0,0,D,D,D,0,0,0,D,D,D,
+lithuania-2002,29,2002-09-14,,200209140000,saturday,Inkaras Kaunas,FK Ekranas,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
 lithuania-2002,18,2002-09-17,,200209170000,tuesday,Sakalas Siauliai,FK Zalgiris,0,3,3,A,L,W,,,,,,,
 lithuania-2002,26,2002-09-21,,200209210000,saturday,FK Atlantas,FBK Kaunas,1,1,2,D,D,D,,,,,,,
 lithuania-2002,30,2002-09-21,,200209210000,saturday,FK Zalgiris,Inkaras Kaunas,1,1,2,D,D,D,,,,,,,
@@ -120,12 +120,12 @@ lithuania-2002,31,2002-09-28,,200209280000,saturday,FK Nevėžis,FK Sūduva,1,0,
 lithuania-2002,31,2002-09-28,,200209280000,saturday,Gelezinis Vilkas,FBK Kaunas,0,2,2,A,L,W,,,,,,,
 lithuania-2002,31,2002-09-28,,200209280000,saturday,Inkaras Kaunas,FK Atlantas,1,2,3,A,L,W,,,,,,,
 lithuania-2002,31,2002-09-28,,200209280000,saturday,FK Zalgiris,FK Ekranas,2,3,5,A,L,W,,,,,,,
-lithuania-2002,32,2002-10-05,,200210050000,saturday,FK Atlantas,FK Ekranas,0,0,0,D,D,D,0,0,0,D,D,D,
+lithuania-2002,32,2002-10-05,,200210050000,saturday,FK Atlantas,FK Ekranas,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
 lithuania-2002,32,2002-10-05,,200210050000,saturday,FBK Kaunas,Inkaras Kaunas,3,0,3,H,W,L,,,,,,,
 lithuania-2002,32,2002-10-05,,200210050000,saturday,Sakalas Siauliai,FK Nevėžis,1,1,2,D,D,D,,,,,,,
 lithuania-2002,30,2002-10-08,,200210080000,tuesday,FK Nevėžis,FBK Kaunas,1,3,4,A,L,W,,,,,,,
 lithuania-2002,32,2002-10-08,,200210080000,tuesday,Gelezinis Vilkas,FK Sūduva,0,4,4,A,L,W,,,,,,,
-lithuania-2002,33,2002-10-20,,200210200000,sunday,Inkaras Kaunas,FK Sūduva,0,0,0,D,D,D,0,0,0,D,D,D,
+lithuania-2002,33,2002-10-20,,200210200000,sunday,Inkaras Kaunas,FK Sūduva,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
 lithuania-2002,33,2002-10-20,,200210200000,sunday,Sakalas Siauliai,Gelezinis Vilkas,3,2,5,H,W,L,,,,,,,
 lithuania-2002,34,2002-10-26,,200210260000,saturday,FBK Kaunas,FK Zalgiris,3,0,3,H,W,L,,,,,,,
 lithuania-2002,34,2002-10-26,,200210260000,saturday,FK Sūduva,FK Ekranas,0,1,1,A,L,W,,,,,,,
@@ -139,7 +139,7 @@ lithuania-2002,17,2002-11-03,,200211030000,sunday,FK Zalgiris,FK Sūduva,3,0,3,H
 lithuania-2002,33,2002-11-03,,200211030000,sunday,FK Ekranas,FBK Kaunas,2,2,4,D,D,D,,,,,,,
 lithuania-2002,21,2002-11-06,,200211060000,wednesday,Sakalas Siauliai,FK Sūduva,1,4,5,A,L,W,,,,,,,
 lithuania-2002,33,2002-11-06,,200211060000,wednesday,FK Zalgiris,FK Atlantas,1,3,4,A,L,W,,,,,,,
-lithuania-2002,36,2002-11-09,,200211090000,saturday,FK Atlantas,FK Sūduva,0,0,0,D,D,D,0,0,0,D,D,D,
+lithuania-2002,36,2002-11-09,,200211090000,saturday,FK Atlantas,FK Sūduva,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
 lithuania-2002,36,2002-11-09,,200211090000,saturday,FK Zalgiris,Sakalas Siauliai,3,0,3,H,W,L,,,,,,,
 lithuania-2002,36,2002-11-09,,200211090000,saturday,FK Ekranas,FK Nevėžis,1,0,1,H,W,L,,,,,,,
 lithuania-2002,36,2002-11-09,,200211090000,saturday,Inkaras Kaunas,Gelezinis Vilkas,1,0,1,H,W,L,,,,,,,
@@ -2374,64 +2374,74 @@ lithuania-2017-meisterschaft,4,2017-11-15,18:00,201711151800,wednesday,FK Žalgi
 lithuania-2017-meisterschaft,5,2017-11-19,11:00,201711191100,sunday,FK Lietava Jonava,FK Atlantas,2,2,4,D,D,D,1.0,2.0,3.0,A,L,W,http://www.worldfootball.net/report/a-lyga-2017-meisterschaft-fk-lietava-jonava-fk-atlantas/
 lithuania-2017-meisterschaft,5,2017-11-19,11:00,201711191100,sunday,FK Sūduva,FK Žalgiris,3,0,3,H,W,L,3.0,0.0,3.0,H,W,L,http://www.worldfootball.net/report/a-lyga-2017-meisterschaft-fk-suduva-fk-zalgiris/
 lithuania-2017-meisterschaft,5,2017-11-19,11:00,201711191100,sunday,Utenis Utena,FK Trakai,1,3,4,A,L,W,0.0,1.0,1.0,A,L,W,http://www.worldfootball.net/report/a-lyga-2017-meisterschaft-utenis-utena-fk-trakai/
-lithuania-2018,1,2018-02-24,11:00,201802241100,saturday,FK Sūduva,FC Stumbras,2,0,2,H,W,L,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/a-lyga-2018-fk-suduva-fc-stumbras/
-lithuania-2018,1,2018-02-24,13:00,201802241300,saturday,FK Trakai,FK Atlantas,0,1,1,A,L,W,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/a-lyga-2018-fk-trakai-fk-atlantas/
-lithuania-2018,1,2018-02-25,11:00,201802251100,sunday,FK Palanga,FK Lietava Jonava,1,1,2,D,D,D,1.0,0.0,1.0,H,W,L,http://www.worldfootball.net/report/a-lyga-2018-fk-palanga-fk-lietava-jonava/
-lithuania-2018,1,2018-02-25,16:00,201802251600,sunday,FK Žalgiris,Kauno Žalgiris,2,0,2,H,W,L,1.0,0.0,1.0,H,W,L,http://www.worldfootball.net/report/a-lyga-2018-fk-zalgiris-kauno-zalgiris/
-lithuania-2018,2,2018-03-03,11:00,201803031100,saturday,Kauno Žalgiris,FK Trakai,1,4,5,A,L,W,0.0,1.0,1.0,A,L,W,http://www.worldfootball.net/report/a-lyga-2018-kauno-zalgiris-fk-trakai/
-lithuania-2018,2,2018-03-03,13:00,201803031300,saturday,FK Sūduva,FK Palanga,2,0,2,H,W,L,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/a-lyga-2018-fk-suduva-fk-palanga/
-lithuania-2018,2,2018-03-04,11:00,201803041100,sunday,FK Lietava Jonava,FK Atlantas,1,1,2,D,D,D,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/a-lyga-2018-fk-lietava-jonava-fk-atlantas/
-lithuania-2018,2,2018-03-04,15:00,201803041500,sunday,FC Stumbras,FK Žalgiris,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/a-lyga-2018-fc-stumbras-fk-zalgiris/
-lithuania-2018,3,2018-03-07,16:00,201803071600,wednesday,FK Atlantas,Kauno Žalgiris,0,1,1,A,L,W,0.0,1.0,1.0,A,L,W,http://www.worldfootball.net/report/a-lyga-2018-fk-atlantas-kauno-zalgiris/
-lithuania-2018,3,2018-03-07,17:30,201803071730,wednesday,FK Trakai,FC Stumbras,1,1,2,D,D,D,1.0,0.0,1.0,H,W,L,http://www.worldfootball.net/report/a-lyga-2018-fk-trakai-fc-stumbras/
-lithuania-2018,3,2018-03-08,16:00,201803081600,thursday,FK Sūduva,FK Lietava Jonava,4,2,6,H,W,L,4.0,1.0,5.0,H,W,L,http://www.worldfootball.net/report/a-lyga-2018-fk-suduva-fk-lietava-jonava/
-lithuania-2018,3,2018-03-08,17:30,201803081730,thursday,FK Žalgiris,FK Palanga,4,0,4,H,W,L,2.0,0.0,2.0,H,W,L,http://www.worldfootball.net/report/a-lyga-2018-fk-zalgiris-fk-palanga/
-lithuania-2018,4,2018-03-13,16:00,201803131600,tuesday,FK Palanga,FK Trakai,1,1,2,D,D,D,1.0,0.0,1.0,H,W,L,http://www.worldfootball.net/report/a-lyga-2018-fk-palanga-fk-trakai/
-lithuania-2018,4,2018-03-14,16:00,201803141600,wednesday,FC Stumbras,FK Atlantas,0,2,2,A,L,W,0.0,1.0,1.0,A,L,W,http://www.worldfootball.net/report/a-lyga-2018-fc-stumbras-fk-atlantas/
-lithuania-2018,4,2018-03-14,18:00,201803141800,wednesday,FK Sūduva,FK Žalgiris,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/a-lyga-2018-fk-suduva-fk-zalgiris/
-lithuania-2018,4,2018-03-17,11:00,201803171100,saturday,FK Lietava Jonava,Kauno Žalgiris,0,1,1,A,L,W,0.0,1.0,1.0,A,L,W,http://www.worldfootball.net/report/a-lyga-2018-fk-lietava-jonava-kauno-zalgiris/
-lithuania-2018,18,2018-03-18,16:00,201803181600,sunday,FK Trakai,FK Palanga,3,1,4,H,W,L,2.0,1.0,3.0,H,W,L,http://www.worldfootball.net/report/a-lyga-2018-fk-trakai-fk-palanga/
-lithuania-2018,5,2018-03-30,16:00,201803301600,friday,FK Atlantas,FK Palanga,1,1,2,D,D,D,1.0,1.0,2.0,D,D,D,http://www.worldfootball.net/report/a-lyga-2018-fk-atlantas-fk-palanga/
-lithuania-2018,5,2018-03-30,17:30,201803301730,friday,FK Žalgiris,FK Lietava Jonava,1,2,3,A,L,W,1.0,0.0,1.0,H,W,L,http://www.worldfootball.net/report/a-lyga-2018-fk-zalgiris-fk-lietava-jonava/
-lithuania-2018,5,2018-03-31,11:00,201803311100,saturday,Kauno Žalgiris,FC Stumbras,0,1,1,A,L,W,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/a-lyga-2018-kauno-zalgiris-fc-stumbras/
-lithuania-2018,5,2018-03-31,11:00,201803311100,saturday,FK Trakai,FK Sūduva,1,4,5,A,L,W,1.0,1.0,2.0,D,D,D,http://www.worldfootball.net/report/a-lyga-2018-fk-trakai-fk-suduva/
-lithuania-2018,6,2018-04-04,16:00,201804041600,wednesday,FC Stumbras,FK Lietava Jonava,4,0,4,H,W,L,3.0,0.0,3.0,H,W,L,http://www.worldfootball.net/report/a-lyga-2018-fc-stumbras-fk-lietava-jonava/
-lithuania-2018,6,2018-04-05,16:00,201804051600,thursday,FK Palanga,Kauno Žalgiris,1,0,1,H,W,L,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/a-lyga-2018-fk-palanga-kauno-zalgiris/
-lithuania-2018,6,2018-04-05,18:00,201804051800,thursday,FK Sūduva,FK Atlantas,2,1,3,H,W,L,1.0,0.0,1.0,H,W,L,http://www.worldfootball.net/report/a-lyga-2018-fk-suduva-fk-atlantas/
-lithuania-2018,6,2018-04-07,11:00,201804071100,saturday,FK Žalgiris,FK Trakai,3,2,5,H,W,L,0.0,2.0,2.0,A,L,W,http://www.worldfootball.net/report/a-lyga-2018-fk-zalgiris-fk-trakai/
-lithuania-2018,7,2018-04-11,16:00,201804111600,wednesday,FK Atlantas,FK Žalgiris,2,5,7,A,L,W,2.0,2.0,4.0,D,D,D,http://www.worldfootball.net/report/a-lyga-2018-fk-atlantas-fk-zalgiris/
-lithuania-2018,7,2018-04-11,18:00,201804111800,wednesday,FC Stumbras,FK Palanga,0,1,1,A,L,W,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/a-lyga-2018-fc-stumbras-fk-palanga/
-lithuania-2018,7,2018-04-12,16:00,201804121600,thursday,FK Sūduva,Kauno Žalgiris,4,1,5,H,W,L,1.0,0.0,1.0,H,W,L,http://www.worldfootball.net/report/a-lyga-2018-fk-suduva-kauno-zalgiris/
-lithuania-2018,7,2018-04-12,18:00,201804121800,thursday,FK Trakai,FK Lietava Jonava,1,1,2,D,D,D,0.0,1.0,1.0,A,L,W,http://www.worldfootball.net/report/a-lyga-2018-fk-trakai-fk-lietava-jonava/
-lithuania-2018,8,2018-04-17,16:00,201804171600,tuesday,FK Lietava Jonava,FK Palanga,4,0,4,H,W,L,2.0,0.0,2.0,H,W,L,http://www.worldfootball.net/report/a-lyga-2018-fk-lietava-jonava-fk-palanga/
-lithuania-2018,8,2018-04-17,18:00,201804171800,tuesday,FC Stumbras,FK Sūduva,0,1,1,A,L,W,0.0,1.0,1.0,A,L,W,http://www.worldfootball.net/report/a-lyga-2018-fc-stumbras-fk-suduva/
-lithuania-2018,8,2018-04-18,16:00,201804181600,wednesday,FK Atlantas,FK Trakai,0,2,2,A,L,W,0.0,1.0,1.0,A,L,W,http://www.worldfootball.net/report/a-lyga-2018-fk-atlantas-fk-trakai/
-lithuania-2018,8,2018-04-18,18:00,201804181800,wednesday,Kauno Žalgiris,FK Žalgiris,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/a-lyga-2018-kauno-zalgiris-fk-zalgiris/
-lithuania-2018,9,2018-04-22,11:00,201804221100,sunday,FK Žalgiris,FC Stumbras,1,1,2,D,D,D,0.0,1.0,1.0,A,L,W,http://www.worldfootball.net/report/a-lyga-2018-fk-zalgiris-fc-stumbras/
+lithuania-2018,1,2018-02-24,11:00,201802241100,saturday,FK Sūduva,FC Stumbras,2,0,2,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/a-lyga-2018-fk-suduva-fc-stumbras/
+lithuania-2018,1,2018-02-24,13:00,201802241300,saturday,FK Trakai,FK Atlantas,0,1,1,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/a-lyga-2018-fk-trakai-fk-atlantas/
+lithuania-2018,1,2018-02-25,11:00,201802251100,sunday,FK Palanga,FK Lietava Jonava,1,1,2,D,D,D,1,0,1,H,W,L,http://www.worldfootball.net/report/a-lyga-2018-fk-palanga-fk-lietava-jonava/
+lithuania-2018,1,2018-02-25,16:00,201802251600,sunday,FK Žalgiris,Kauno Žalgiris,2,0,2,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/a-lyga-2018-fk-zalgiris-kauno-zalgiris/
+lithuania-2018,2,2018-03-03,11:00,201803031100,saturday,Kauno Žalgiris,FK Trakai,1,4,5,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/a-lyga-2018-kauno-zalgiris-fk-trakai/
+lithuania-2018,2,2018-03-03,13:00,201803031300,saturday,FK Sūduva,FK Palanga,2,0,2,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/a-lyga-2018-fk-suduva-fk-palanga/
+lithuania-2018,2,2018-03-04,11:00,201803041100,sunday,FK Lietava Jonava,FK Atlantas,1,1,2,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/a-lyga-2018-fk-lietava-jonava-fk-atlantas/
+lithuania-2018,2,2018-03-04,15:00,201803041500,sunday,FC Stumbras,FK Žalgiris,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/a-lyga-2018-fc-stumbras-fk-zalgiris/
+lithuania-2018,3,2018-03-07,16:00,201803071600,wednesday,FK Atlantas,Kauno Žalgiris,0,1,1,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/a-lyga-2018-fk-atlantas-kauno-zalgiris/
+lithuania-2018,3,2018-03-07,17:30,201803071730,wednesday,FK Trakai,FC Stumbras,1,1,2,D,D,D,1,0,1,H,W,L,http://www.worldfootball.net/report/a-lyga-2018-fk-trakai-fc-stumbras/
+lithuania-2018,3,2018-03-08,16:00,201803081600,thursday,FK Sūduva,FK Lietava Jonava,4,2,6,H,W,L,4,1,5,H,W,L,http://www.worldfootball.net/report/a-lyga-2018-fk-suduva-fk-lietava-jonava/
+lithuania-2018,3,2018-03-08,17:30,201803081730,thursday,FK Žalgiris,FK Palanga,4,0,4,H,W,L,2,0,2,H,W,L,http://www.worldfootball.net/report/a-lyga-2018-fk-zalgiris-fk-palanga/
+lithuania-2018,4,2018-03-13,16:00,201803131600,tuesday,FK Palanga,FK Trakai,1,1,2,D,D,D,1,0,1,H,W,L,http://www.worldfootball.net/report/a-lyga-2018-fk-palanga-fk-trakai/
+lithuania-2018,4,2018-03-14,16:00,201803141600,wednesday,FC Stumbras,FK Atlantas,0,2,2,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/a-lyga-2018-fc-stumbras-fk-atlantas/
+lithuania-2018,4,2018-03-14,18:00,201803141800,wednesday,FK Sūduva,FK Žalgiris,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/a-lyga-2018-fk-suduva-fk-zalgiris/
+lithuania-2018,4,2018-03-17,11:00,201803171100,saturday,FK Lietava Jonava,Kauno Žalgiris,0,1,1,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/a-lyga-2018-fk-lietava-jonava-kauno-zalgiris/
+lithuania-2018,18,2018-03-18,16:00,201803181600,sunday,FK Trakai,FK Palanga,3,1,4,H,W,L,2,1,3,H,W,L,http://www.worldfootball.net/report/a-lyga-2018-fk-trakai-fk-palanga/
+lithuania-2018,5,2018-03-30,16:00,201803301600,friday,FK Atlantas,FK Palanga,1,1,2,D,D,D,1,1,2,D,D,D,http://www.worldfootball.net/report/a-lyga-2018-fk-atlantas-fk-palanga/
+lithuania-2018,5,2018-03-30,17:30,201803301730,friday,FK Žalgiris,FK Lietava Jonava,1,2,3,A,L,W,1,0,1,H,W,L,http://www.worldfootball.net/report/a-lyga-2018-fk-zalgiris-fk-lietava-jonava/
+lithuania-2018,5,2018-03-31,11:00,201803311100,saturday,Kauno Žalgiris,FC Stumbras,0,1,1,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/a-lyga-2018-kauno-zalgiris-fc-stumbras/
+lithuania-2018,5,2018-03-31,11:00,201803311100,saturday,FK Trakai,FK Sūduva,1,4,5,A,L,W,1,1,2,D,D,D,http://www.worldfootball.net/report/a-lyga-2018-fk-trakai-fk-suduva/
+lithuania-2018,6,2018-04-04,16:00,201804041600,wednesday,FC Stumbras,FK Lietava Jonava,4,0,4,H,W,L,3,0,3,H,W,L,http://www.worldfootball.net/report/a-lyga-2018-fc-stumbras-fk-lietava-jonava/
+lithuania-2018,6,2018-04-05,16:00,201804051600,thursday,FK Palanga,Kauno Žalgiris,1,0,1,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/a-lyga-2018-fk-palanga-kauno-zalgiris/
+lithuania-2018,6,2018-04-05,18:00,201804051800,thursday,FK Sūduva,FK Atlantas,2,1,3,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/a-lyga-2018-fk-suduva-fk-atlantas/
+lithuania-2018,6,2018-04-07,11:00,201804071100,saturday,FK Žalgiris,FK Trakai,3,2,5,H,W,L,0,2,2,A,L,W,http://www.worldfootball.net/report/a-lyga-2018-fk-zalgiris-fk-trakai/
+lithuania-2018,7,2018-04-11,16:00,201804111600,wednesday,FK Atlantas,FK Žalgiris,2,5,7,A,L,W,2,2,4,D,D,D,http://www.worldfootball.net/report/a-lyga-2018-fk-atlantas-fk-zalgiris/
+lithuania-2018,7,2018-04-11,18:00,201804111800,wednesday,FC Stumbras,FK Palanga,0,1,1,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/a-lyga-2018-fc-stumbras-fk-palanga/
+lithuania-2018,7,2018-04-12,16:00,201804121600,thursday,FK Sūduva,Kauno Žalgiris,4,1,5,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/a-lyga-2018-fk-suduva-kauno-zalgiris/
+lithuania-2018,7,2018-04-12,18:00,201804121800,thursday,FK Trakai,FK Lietava Jonava,1,1,2,D,D,D,0,1,1,A,L,W,http://www.worldfootball.net/report/a-lyga-2018-fk-trakai-fk-lietava-jonava/
+lithuania-2018,8,2018-04-17,16:00,201804171600,tuesday,FK Lietava Jonava,FK Palanga,4,0,4,H,W,L,2,0,2,H,W,L,http://www.worldfootball.net/report/a-lyga-2018-fk-lietava-jonava-fk-palanga/
+lithuania-2018,8,2018-04-17,18:00,201804171800,tuesday,FC Stumbras,FK Sūduva,0,1,1,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/a-lyga-2018-fc-stumbras-fk-suduva/
+lithuania-2018,8,2018-04-18,16:00,201804181600,wednesday,FK Atlantas,FK Trakai,0,2,2,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/a-lyga-2018-fk-atlantas-fk-trakai/
+lithuania-2018,8,2018-04-18,18:00,201804181800,wednesday,Kauno Žalgiris,FK Žalgiris,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/a-lyga-2018-kauno-zalgiris-fk-zalgiris/
+lithuania-2018,9,2018-04-22,11:00,201804221100,sunday,FK Žalgiris,FC Stumbras,1,1,2,D,D,D,0,1,1,A,L,W,http://www.worldfootball.net/report/a-lyga-2018-fk-zalgiris-fc-stumbras/
 lithuania-2018,9,2018-04-24,16:00,201804241600,tuesday,FK Palanga,FK Sūduva,0,2,2,A,L,W,,,,,,,http://www.worldfootball.net/report/a-lyga-2018-fk-palanga-fk-suduva/
-lithuania-2018,9,2018-04-24,18:00,201804241800,tuesday,FK Trakai,Kauno Žalgiris,2,0,2,H,W,L,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/a-lyga-2018-fk-trakai-kauno-zalgiris/
-lithuania-2018,9,2018-04-25,16:00,201804251600,wednesday,FK Atlantas,FK Lietava Jonava,1,0,1,H,W,L,1.0,0.0,1.0,H,W,L,http://www.worldfootball.net/report/a-lyga-2018-fk-atlantas-fk-lietava-jonava/
-lithuania-2018,10,2018-04-28,11:00,201804281100,saturday,FK Lietava Jonava,FK Sūduva,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/a-lyga-2018-fk-lietava-jonava-fk-suduva/
-lithuania-2018,10,2018-04-28,11:00,201804281100,saturday,FK Palanga,FK Žalgiris,1,2,3,A,L,W,1.0,2.0,3.0,A,L,W,http://www.worldfootball.net/report/a-lyga-2018-fk-palanga-fk-zalgiris/
-lithuania-2018,10,2018-04-29,11:00,201804291100,sunday,Kauno Žalgiris,FK Atlantas,2,3,5,A,L,W,1.0,1.0,2.0,D,D,D,http://www.worldfootball.net/report/a-lyga-2018-kauno-zalgiris-fk-atlantas/
-lithuania-2018,10,2018-04-29,16:00,201804291600,sunday,FC Stumbras,FK Trakai,0,2,2,A,L,W,0.0,1.0,1.0,A,L,W,http://www.worldfootball.net/report/a-lyga-2018-fc-stumbras-fk-trakai/
-lithuania-2018,11,2018-05-02,16:00,201805021600,wednesday,FK Palanga,FK Trakai,1,0,1,H,W,L,1.0,0.0,1.0,H,W,L,http://www.worldfootball.net/report/a-lyga-2018-fk-palanga-fk-trakai_2/
-lithuania-2018,11,2018-05-02,18:00,201805021800,wednesday,FK Žalgiris,FK Sūduva,2,3,5,A,L,W,2.0,2.0,4.0,D,D,D,http://www.worldfootball.net/report/a-lyga-2018-fk-zalgiris-fk-suduva/
-lithuania-2018,11,2018-05-03,16:00,201805031600,thursday,Kauno Žalgiris,FK Lietava Jonava,1,0,1,H,W,L,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/a-lyga-2018-kauno-zalgiris-fk-lietava-jonava/
-lithuania-2018,11,2018-05-03,18:00,201805031800,thursday,FK Atlantas,FC Stumbras,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/a-lyga-2018-fk-atlantas-fc-stumbras/
-lithuania-2018,12,2018-05-06,17:00,201805061700,sunday,FK Sūduva,FK Trakai,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/a-lyga-2018-fk-suduva-fk-trakai/
-lithuania-2018,12,2018-05-08,16:00,201805081600,tuesday,FC Stumbras,Kauno Žalgiris,0,2,2,A,L,W,0.0,1.0,1.0,A,L,W,http://www.worldfootball.net/report/a-lyga-2018-fc-stumbras-kauno-zalgiris/
-lithuania-2018,12,2018-05-08,18:00,201805081800,tuesday,FK Lietava Jonava,FK Žalgiris,1,2,3,A,L,W,0.0,1.0,1.0,A,L,W,http://www.worldfootball.net/report/a-lyga-2018-fk-lietava-jonava-fk-zalgiris/
-lithuania-2018,12,2018-05-09,16:00,201805091600,wednesday,FK Palanga,FK Atlantas,0,2,2,A,L,W,0.0,1.0,1.0,A,L,W,http://www.worldfootball.net/report/a-lyga-2018-fk-palanga-fk-atlantas/
-lithuania-2018,13,2018-05-12,11:00,201805121100,saturday,FK Trakai,FK Žalgiris,0,1,1,A,L,W,0.0,1.0,1.0,A,L,W,http://www.worldfootball.net/report/a-lyga-2018-fk-trakai-fk-zalgiris/
-lithuania-2018,13,2018-05-12,11:00,201805121100,saturday,FK Atlantas,FK Sūduva,0,3,3,A,L,W,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/a-lyga-2018-fk-atlantas-fk-suduva/
-lithuania-2018,13,2018-05-13,11:00,201805131100,sunday,FK Lietava Jonava,FC Stumbras,0,2,2,A,L,W,0.0,1.0,1.0,A,L,W,http://www.worldfootball.net/report/a-lyga-2018-fk-lietava-jonava-fc-stumbras/
-lithuania-2018,13,2018-05-13,16:00,201805131600,sunday,Kauno Žalgiris,FK Palanga,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/a-lyga-2018-kauno-zalgiris-fk-palanga/
-lithuania-2018,14,2018-05-16,16:00,201805161600,wednesday,FK Palanga,FC Stumbras,0,2,2,A,L,W,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/a-lyga-2018-fk-palanga-fc-stumbras/
-lithuania-2018,14,2018-05-16,16:00,201805161600,wednesday,FK Lietava Jonava,FK Trakai,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/a-lyga-2018-fk-lietava-jonava-fk-trakai/
-lithuania-2018,14,2018-05-19,11:00,201805191100,saturday,FK Žalgiris,FK Atlantas,3,1,4,H,W,L,1.0,0.0,1.0,H,W,L,http://www.worldfootball.net/report/a-lyga-2018-fk-zalgiris-fk-atlantas/
-lithuania-2018,19,2018-05-20,11:00,201805201100,sunday,FK Trakai,FK Lietava Jonava,1,0,1,H,W,L,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/a-lyga-2018-fk-trakai-fk-lietava-jonava_2/
-lithuania-2018,15,2018-05-22,16:00,201805221600,tuesday,FK Sūduva,FC Stumbras,3,0,3,H,W,L,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/a-lyga-2018-fk-suduva-fc-stumbras_2/
-lithuania-2018,15,2018-05-23,16:00,201805231600,wednesday,Kauno Žalgiris,FK Žalgiris,0,1,1,A,L,W,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/a-lyga-2018-kauno-zalgiris-fk-zalgiris_2/
-lithuania-2018,15,2018-05-23,18:00,201805231800,wednesday,FK Trakai,FK Atlantas,1,2,3,A,L,W,0.0,1.0,1.0,A,L,W,http://www.worldfootball.net/report/a-lyga-2018-fk-trakai-fk-atlantas_2/
-lithuania-2018,15,2018-05-24,16:00,201805241600,thursday,FK Palanga,FK Lietava Jonava,3,1,4,H,W,L,2.0,0.0,2.0,H,W,L,http://www.worldfootball.net/report/a-lyga-2018-fk-palanga-fk-lietava-jonava_2/
+lithuania-2018,9,2018-04-24,18:00,201804241800,tuesday,FK Trakai,Kauno Žalgiris,2,0,2,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/a-lyga-2018-fk-trakai-kauno-zalgiris/
+lithuania-2018,9,2018-04-25,16:00,201804251600,wednesday,FK Atlantas,FK Lietava Jonava,1,0,1,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/a-lyga-2018-fk-atlantas-fk-lietava-jonava/
+lithuania-2018,10,2018-04-28,11:00,201804281100,saturday,FK Lietava Jonava,FK Sūduva,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/a-lyga-2018-fk-lietava-jonava-fk-suduva/
+lithuania-2018,10,2018-04-28,11:00,201804281100,saturday,FK Palanga,FK Žalgiris,1,2,3,A,L,W,1,2,3,A,L,W,http://www.worldfootball.net/report/a-lyga-2018-fk-palanga-fk-zalgiris/
+lithuania-2018,10,2018-04-29,11:00,201804291100,sunday,Kauno Žalgiris,FK Atlantas,2,3,5,A,L,W,1,1,2,D,D,D,http://www.worldfootball.net/report/a-lyga-2018-kauno-zalgiris-fk-atlantas/
+lithuania-2018,10,2018-04-29,16:00,201804291600,sunday,FC Stumbras,FK Trakai,0,2,2,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/a-lyga-2018-fc-stumbras-fk-trakai/
+lithuania-2018,11,2018-05-02,16:00,201805021600,wednesday,FK Palanga,FK Trakai,1,0,1,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/a-lyga-2018-fk-palanga-fk-trakai_2/
+lithuania-2018,11,2018-05-02,18:00,201805021800,wednesday,FK Žalgiris,FK Sūduva,2,3,5,A,L,W,2,2,4,D,D,D,http://www.worldfootball.net/report/a-lyga-2018-fk-zalgiris-fk-suduva/
+lithuania-2018,11,2018-05-03,16:00,201805031600,thursday,Kauno Žalgiris,FK Lietava Jonava,1,0,1,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/a-lyga-2018-kauno-zalgiris-fk-lietava-jonava/
+lithuania-2018,11,2018-05-03,18:00,201805031800,thursday,FK Atlantas,FC Stumbras,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/a-lyga-2018-fk-atlantas-fc-stumbras/
+lithuania-2018,12,2018-05-06,17:00,201805061700,sunday,FK Sūduva,FK Trakai,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/a-lyga-2018-fk-suduva-fk-trakai/
+lithuania-2018,12,2018-05-08,16:00,201805081600,tuesday,FC Stumbras,Kauno Žalgiris,0,2,2,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/a-lyga-2018-fc-stumbras-kauno-zalgiris/
+lithuania-2018,12,2018-05-08,18:00,201805081800,tuesday,FK Lietava Jonava,FK Žalgiris,1,2,3,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/a-lyga-2018-fk-lietava-jonava-fk-zalgiris/
+lithuania-2018,12,2018-05-09,16:00,201805091600,wednesday,FK Palanga,FK Atlantas,0,2,2,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/a-lyga-2018-fk-palanga-fk-atlantas/
+lithuania-2018,13,2018-05-12,11:00,201805121100,saturday,FK Trakai,FK Žalgiris,0,1,1,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/a-lyga-2018-fk-trakai-fk-zalgiris/
+lithuania-2018,13,2018-05-12,11:00,201805121100,saturday,FK Atlantas,FK Sūduva,0,3,3,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/a-lyga-2018-fk-atlantas-fk-suduva/
+lithuania-2018,13,2018-05-13,11:00,201805131100,sunday,FK Lietava Jonava,FC Stumbras,0,2,2,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/a-lyga-2018-fk-lietava-jonava-fc-stumbras/
+lithuania-2018,13,2018-05-13,16:00,201805131600,sunday,Kauno Žalgiris,FK Palanga,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/a-lyga-2018-kauno-zalgiris-fk-palanga/
+lithuania-2018,14,2018-05-16,16:00,201805161600,wednesday,FK Palanga,FC Stumbras,0,2,2,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/a-lyga-2018-fk-palanga-fc-stumbras/
+lithuania-2018,14,2018-05-16,16:00,201805161600,wednesday,FK Lietava Jonava,FK Trakai,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/a-lyga-2018-fk-lietava-jonava-fk-trakai/
+lithuania-2018,14,2018-05-19,11:00,201805191100,saturday,FK Žalgiris,FK Atlantas,3,1,4,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/a-lyga-2018-fk-zalgiris-fk-atlantas/
+lithuania-2018,19,2018-05-20,11:00,201805201100,sunday,FK Trakai,FK Lietava Jonava,1,0,1,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/a-lyga-2018-fk-trakai-fk-lietava-jonava_2/
+lithuania-2018,15,2018-05-22,16:00,201805221600,tuesday,FK Sūduva,FC Stumbras,3,0,3,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/a-lyga-2018-fk-suduva-fc-stumbras_2/
+lithuania-2018,15,2018-05-23,16:00,201805231600,wednesday,Kauno Žalgiris,FK Žalgiris,0,1,1,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/a-lyga-2018-kauno-zalgiris-fk-zalgiris_2/
+lithuania-2018,15,2018-05-23,18:00,201805231800,wednesday,FK Trakai,FK Atlantas,1,2,3,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/a-lyga-2018-fk-trakai-fk-atlantas_2/
+lithuania-2018,15,2018-05-24,16:00,201805241600,thursday,FK Palanga,FK Lietava Jonava,3,1,4,H,W,L,2,0,2,H,W,L,http://www.worldfootball.net/report/a-lyga-2018-fk-palanga-fk-lietava-jonava_2/
+lithuania-2018,16,2018-06-14,16:00,201806141600,thursday,Kauno Žalgiris,FK Trakai,1,1,2,D,D,D,0,1,1,A,L,W,http://www.worldfootball.net/report/a-lyga-2018-kauno-zalgiris-fk-trakai_2/
+lithuania-2018,16,2018-06-15,16:00,201806151600,friday,FK Lietava Jonava,FK Atlantas,2,1,3,H,W,L,1,1,2,D,D,D,http://www.worldfootball.net/report/a-lyga-2018-fk-lietava-jonava-fk-atlantas_2/
+lithuania-2018,16,2018-06-16,11:00,201806161100,saturday,FK Žalgiris,FC Stumbras,0,1,1,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/a-lyga-2018-fk-zalgiris-fc-stumbras_2/
+lithuania-2018,16,2018-06-16,11:00,201806161100,saturday,FK Palanga,FK Sūduva,1,4,5,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/a-lyga-2018-fk-palanga-fk-suduva_2/
+lithuania-2018,17,2018-06-19,16:00,201806191600,tuesday,FC Stumbras,FK Trakai,1,0,1,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/a-lyga-2018-fc-stumbras-fk-trakai_2/
+lithuania-2018,17,2018-06-20,16:00,201806201600,wednesday,FK Žalgiris,FK Palanga,2,0,2,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/a-lyga-2018-fk-zalgiris-fk-palanga_2/
+lithuania-2018,17,2018-06-20,18:00,201806201800,wednesday,FK Sūduva,FK Lietava Jonava,2,0,2,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/a-lyga-2018-fk-suduva-fk-lietava-jonava_2/
+lithuania-2018,18,2018-06-27,16:00,201806271600,wednesday,FK Lietava Jonava,Kauno Žalgiris,0,2,2,A,L,W,0,2,2,A,L,W,http://www.worldfootball.net/report/a-lyga-2018-fk-lietava-jonava-kauno-zalgiris-spiel/
+lithuania-2018,18,2018-06-27,18:00,201806271800,wednesday,FK Sūduva,FK Žalgiris,0,1,1,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/a-lyga-2018-fk-suduva-fk-zalgiris-spiel/
+lithuania-2018,14,2018-07-01,17:00,201807011700,sunday,Kauno Žalgiris,FK Sūduva,0,3,3,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/a-lyga-2018-kauno-zalgiris-fk-suduva/

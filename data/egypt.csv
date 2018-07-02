@@ -7,7 +7,7 @@ egypt-2006-2007,1,2006-08-03,,200608030000,thursday,Al-Ahly,Tanta,2,0,2,H,W,L,,,
 egypt-2006-2007,1,2006-08-04,,200608040000,friday,Suez Cement,Al-Tersana,2,1,3,H,W,L,,,,,,,
 egypt-2006-2007,1,2006-08-04,,200608040000,friday,Ismaily,Al-Masry Club,3,0,3,H,W,L,,,,,,,
 egypt-2006-2007,1,2006-08-04,,200608040000,friday,Zamalek,Ghazl Al-Mehalla,0,1,1,A,L,W,,,,,,,
-egypt-2006-2007,2,2006-08-07,,200608070000,monday,Al-Ahly,Al-Mokawloon,0,0,0,D,D,D,0,0,0,D,D,D,
+egypt-2006-2007,2,2006-08-07,,200608070000,monday,Al-Ahly,Al-Mokawloon,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
 egypt-2006-2007,2,2006-08-10,,200608100000,thursday,Ghazl Al-Mehalla,Ismaily,0,1,1,A,L,W,,,,,,,
 egypt-2006-2007,2,2006-08-10,,200608100000,thursday,Haras El Hodood,Suez Cement,1,1,2,D,D,D,,,,,,,
 egypt-2006-2007,2,2006-08-10,,200608100000,thursday,ENPPI,Zamalek,0,3,3,A,L,W,,,,,,,
@@ -25,9 +25,9 @@ egypt-2006-2007,3,2006-08-21,,200608210000,monday,Haras El Hodood,Al-Tersana,1,0
 egypt-2006-2007,3,2006-08-21,,200608210000,monday,Ismaily,ENPPI,1,1,2,D,D,D,,,,,,,
 egypt-2006-2007,4,2006-08-25,,200608250000,friday,Ittihad El-Iskandary,Haras El Hodood,3,2,5,H,W,L,,,,,,,
 egypt-2006-2007,4,2006-08-25,,200608250000,friday,Tala'ea El-Gaish SC,Zamalek,2,0,2,H,W,L,,,,,,,
-egypt-2006-2007,4,2006-08-26,,200608260000,saturday,Al-Tersana,Olympia Alexandria,0,0,0,D,D,D,0,0,0,D,D,D,
+egypt-2006-2007,4,2006-08-26,,200608260000,saturday,Al-Tersana,Olympia Alexandria,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
 egypt-2006-2007,4,2006-08-26,,200608260000,saturday,PetroJet Football Club,Ismaily,1,2,3,A,L,W,,,,,,,
-egypt-2006-2007,4,2006-08-26,,200608260000,saturday,ENPPI,Tanta,0,0,0,D,D,D,0,0,0,D,D,D,
+egypt-2006-2007,4,2006-08-26,,200608260000,saturday,ENPPI,Tanta,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
 egypt-2006-2007,4,2006-08-26,,200608260000,saturday,Ghazl Al-Mehalla,Al-Mokawloon,0,1,1,A,L,W,,,,,,,
 egypt-2006-2007,4,2006-08-26,,200608260000,saturday,Al-Masry Club,Asyut Petroleum,1,1,2,D,D,D,,,,,,,
 egypt-2006-2007,5,2006-09-08,,200609080000,friday,Asyut Petroleum,Ghazl Al-Mehalla,0,3,3,A,L,W,,,,,,,
@@ -40,7 +40,7 @@ egypt-2006-2007,5,2006-09-09,,200609090000,saturday,Al-Mokawloon,ENPPI,2,1,3,H,W
 egypt-2006-2007,6,2006-09-13,,200609130000,wednesday,ENPPI,Asyut Petroleum,4,1,5,H,W,L,,,,,,,
 egypt-2006-2007,6,2006-09-13,,200609130000,wednesday,Al-Tersana,Zamalek,1,4,5,A,L,W,,,,,,,
 egypt-2006-2007,6,2006-09-13,,200609130000,wednesday,Olympia Alexandria,Ismaily,1,3,4,A,L,W,,,,,,,
-egypt-2006-2007,6,2006-09-21,,200609210000,thursday,PetroJet Football Club,Al-Mokawloon,0,0,0,D,D,D,0,0,0,D,D,D,
+egypt-2006-2007,6,2006-09-21,,200609210000,thursday,PetroJet Football Club,Al-Mokawloon,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
 egypt-2006-2007,6,2006-09-21,,200609210000,thursday,Tala'ea El-Gaish SC,Tanta,1,1,2,D,D,D,,,,,,,
 egypt-2006-2007,6,2006-09-21,,200609210000,thursday,Al-Masry Club,Haras El Hodood,1,1,2,D,D,D,,,,,,,
 egypt-2006-2007,6,2006-09-21,,200609210000,thursday,Ghazl Al-Mehalla,Suez Cement,2,0,2,H,W,L,,,,,,,
@@ -61,7 +61,7 @@ egypt-2006-2007,8,2006-10-13,,200610130000,friday,Al-Tersana,Ismaily,1,1,2,D,D,D
 egypt-2006-2007,8,2006-10-13,,200610130000,friday,Zamalek,Tanta,4,0,4,H,W,L,,,,,,,
 egypt-2006-2007,8,2006-10-13,,200610130000,friday,ENPPI,Haras El Hodood,2,0,2,H,W,L,,,,,,,
 egypt-2006-2007,9,2006-10-17,,200610170000,tuesday,Al-Mokawloon,Zamalek,0,2,2,A,L,W,,,,,,,
-egypt-2006-2007,9,2006-10-17,,200610170000,tuesday,Ittihad El-Iskandary,ENPPI,0,0,0,D,D,D,0,0,0,D,D,D,
+egypt-2006-2007,9,2006-10-17,,200610170000,tuesday,Ittihad El-Iskandary,ENPPI,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
 egypt-2006-2007,9,2006-10-17,,200610170000,tuesday,Ismaily,Tanta,3,0,3,H,W,L,,,,,,,
 egypt-2006-2007,9,2006-10-19,,200610190000,thursday,Haras El Hodood,PetroJet Football Club,2,2,4,D,D,D,,,,,,,
 egypt-2006-2007,9,2006-10-19,,200610190000,thursday,Suez Cement,Tala'ea El-Gaish SC,0,1,1,A,L,W,,,,,,,
@@ -70,8 +70,8 @@ egypt-2006-2007,9,2006-10-19,,200610190000,thursday,Al-Masry Club,Al-Tersana,1,0
 egypt-2006-2007,9,2006-10-19,,200610190000,thursday,Al-Ahly,Ghazl Al-Mehalla,2,0,2,H,W,L,,,,,,,
 egypt-2006-2007,8,2006-11-02,,200611020000,thursday,Al-Masry Club,Al-Ahly,0,2,2,A,L,W,,,,,,,
 egypt-2006-2007,10,2006-11-05,,200611050000,sunday,Tala'ea El-Gaish SC,Haras El Hodood,2,2,4,D,D,D,,,,,,,
-egypt-2006-2007,10,2006-11-05,,200611050000,sunday,Olympia Alexandria,Suez Cement,0,0,0,D,D,D,0,0,0,D,D,D,
-egypt-2006-2007,10,2006-11-05,,200611050000,sunday,Ismaily,Al-Mokawloon,0,0,0,D,D,D,0,0,0,D,D,D,
+egypt-2006-2007,10,2006-11-05,,200611050000,sunday,Olympia Alexandria,Suez Cement,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
+egypt-2006-2007,10,2006-11-05,,200611050000,sunday,Ismaily,Al-Mokawloon,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
 egypt-2006-2007,10,2006-11-05,,200611050000,sunday,Zamalek,Asyut Petroleum,1,1,2,D,D,D,,,,,,,
 egypt-2006-2007,10,2006-11-06,,200611060000,monday,PetroJet Football Club,Ittihad El-Iskandary,1,1,2,D,D,D,,,,,,,
 egypt-2006-2007,10,2006-11-06,,200611060000,monday,Ghazl Al-Mehalla,Al-Masry Club,3,0,3,H,W,L,,,,,,,
@@ -93,22 +93,22 @@ egypt-2006-2007,12,2006-11-23,,200611230000,thursday,PetroJet Football Club,Al-M
 egypt-2006-2007,12,2006-11-23,,200611230000,thursday,ENPPI,Ghazl Al-Mehalla,1,1,2,D,D,D,,,,,,,
 egypt-2006-2007,4,2006-11-27,,200611270000,monday,Al-Ahly,Suez Cement,3,1,4,H,W,L,,,,,,,
 egypt-2006-2007,13,2006-12-01,,200612010000,friday,Ghazl Al-Mehalla,PetroJet Football Club,1,1,2,D,D,D,,,,,,,
-egypt-2006-2007,13,2006-12-01,,200612010000,friday,Al-Masry Club,Tala'ea El-Gaish SC,0,0,0,D,D,D,0,0,0,D,D,D,
+egypt-2006-2007,13,2006-12-01,,200612010000,friday,Al-Masry Club,Tala'ea El-Gaish SC,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
 egypt-2006-2007,13,2006-12-01,,200612010000,friday,Al-Ahly,Olympia Alexandria,5,1,6,H,W,L,,,,,,,
 egypt-2006-2007,13,2006-12-02,,200612020000,saturday,Haras El Hodood,Ismaily,2,2,4,D,D,D,,,,,,,
 egypt-2006-2007,13,2006-12-02,,200612020000,saturday,Suez Cement,Tanta,2,1,3,H,W,L,,,,,,,
 egypt-2006-2007,13,2006-12-02,,200612020000,saturday,Asyut Petroleum,Al-Mokawloon,0,1,1,A,L,W,,,,,,,
 egypt-2006-2007,13,2006-12-03,,200612030000,sunday,Ittihad El-Iskandary,Zamalek,1,2,3,A,L,W,,,,,,,
-egypt-2006-2007,13,2006-12-03,,200612030000,sunday,ENPPI,Al-Tersana,0,0,0,D,D,D,0,0,0,D,D,D,
+egypt-2006-2007,13,2006-12-03,,200612030000,sunday,ENPPI,Al-Tersana,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
 egypt-2006-2007,14,2006-12-07,,200612070000,thursday,PetroJet Football Club,ENPPI,2,1,3,H,W,L,,,,,,,
 egypt-2006-2007,14,2006-12-07,,200612070000,thursday,Ismaily,Ittihad El-Iskandary,5,0,5,H,W,L,,,,,,,
 egypt-2006-2007,14,2006-12-07,,200612070000,thursday,Tala'ea El-Gaish SC,Ghazl Al-Mehalla,1,0,1,H,W,L,,,,,,,
 egypt-2006-2007,14,2006-12-08,,200612080000,friday,Asyut Petroleum,Al-Tersana,1,1,2,D,D,D,,,,,,,
 egypt-2006-2007,14,2006-12-08,,200612080000,friday,Al-Mokawloon,Suez Cement,1,0,1,H,W,L,,,,,,,
-egypt-2006-2007,14,2006-12-08,,200612080000,friday,Tanta,Haras El Hodood,0,0,0,D,D,D,0,0,0,D,D,D,
+egypt-2006-2007,14,2006-12-08,,200612080000,friday,Tanta,Haras El Hodood,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
 egypt-2006-2007,14,2006-12-08,,200612080000,friday,Olympia Alexandria,Al-Masry Club,0,1,1,A,L,W,,,,,,,
 egypt-2006-2007,15,2006-12-14,,200612140000,thursday,Al-Tersana,PetroJet Football Club,3,3,6,D,D,D,,,,,,,
-egypt-2006-2007,15,2006-12-14,,200612140000,thursday,Haras El Hodood,Al-Mokawloon,0,0,0,D,D,D,0,0,0,D,D,D,
+egypt-2006-2007,15,2006-12-14,,200612140000,thursday,Haras El Hodood,Al-Mokawloon,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
 egypt-2006-2007,15,2006-12-14,,200612140000,thursday,Ghazl Al-Mehalla,Olympia Alexandria,1,0,1,H,W,L,,,,,,,
 egypt-2006-2007,15,2006-12-15,,200612150000,friday,Suez Cement,Asyut Petroleum,0,1,1,A,L,W,,,,,,,
 egypt-2006-2007,15,2006-12-15,,200612150000,friday,ENPPI,Tala'ea El-Gaish SC,1,1,2,D,D,D,,,,,,,
@@ -120,24 +120,24 @@ egypt-2006-2007,12,2006-12-26,,200612260000,tuesday,Zamalek,Haras El Hodood,3,2,
 egypt-2006-2007,14,2006-12-30,,200612300000,saturday,Zamalek,Al-Ahly,1,2,3,A,L,W,,,,,,,
 egypt-2006-2007,16,2007-01-02,,200701020000,tuesday,ENPPI,Olympia Alexandria,1,2,3,A,L,W,,,,,,,
 egypt-2006-2007,16,2007-01-02,,200701020000,tuesday,Al-Masry Club,Ismaily,1,1,2,D,D,D,,,,,,,
-egypt-2006-2007,16,2007-01-02,,200701020000,tuesday,Ittihad El-Iskandary,Al-Mokawloon,0,0,0,D,D,D,0,0,0,D,D,D,
+egypt-2006-2007,16,2007-01-02,,200701020000,tuesday,Ittihad El-Iskandary,Al-Mokawloon,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
 egypt-2006-2007,16,2007-01-02,,200701020000,tuesday,PetroJet Football Club,Tala'ea El-Gaish SC,1,0,1,H,W,L,,,,,,,
 egypt-2006-2007,16,2007-01-02,,200701020000,tuesday,Al-Tersana,Suez Cement,4,0,4,H,W,L,,,,,,,
 egypt-2006-2007,16,2007-01-03,,200701030000,wednesday,Tanta,Al-Ahly,0,1,1,A,L,W,,,,,,,
 egypt-2006-2007,16,2007-01-03,,200701030000,wednesday,Haras El Hodood,Asyut Petroleum,1,0,1,H,W,L,,,,,,,
-egypt-2006-2007,16,2007-01-03,,200701030000,wednesday,Ghazl Al-Mehalla,Zamalek,0,0,0,D,D,D,0,0,0,D,D,D,
+egypt-2006-2007,16,2007-01-03,,200701030000,wednesday,Ghazl Al-Mehalla,Zamalek,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
 egypt-2006-2007,15,2007-01-07,,200701070000,sunday,Al-Ahly,Ismaily,0,3,3,A,L,W,,,,,,,
-egypt-2006-2007,17,2007-01-10,,200701100000,wednesday,Tanta,Al-Masry Club,0,0,0,D,D,D,0,0,0,D,D,D,
-egypt-2006-2007,17,2007-01-10,,200701100000,wednesday,Olympia Alexandria,PetroJet Football Club,0,0,0,D,D,D,0,0,0,D,D,D,
-egypt-2006-2007,17,2007-01-10,,200701100000,wednesday,Asyut Petroleum,Ittihad El-Iskandary,0,0,0,D,D,D,0,0,0,D,D,D,
-egypt-2006-2007,17,2007-01-10,,200701100000,wednesday,Tala'ea El-Gaish SC,Al-Tersana,0,0,0,D,D,D,0,0,0,D,D,D,
+egypt-2006-2007,17,2007-01-10,,200701100000,wednesday,Tanta,Al-Masry Club,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
+egypt-2006-2007,17,2007-01-10,,200701100000,wednesday,Olympia Alexandria,PetroJet Football Club,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
+egypt-2006-2007,17,2007-01-10,,200701100000,wednesday,Asyut Petroleum,Ittihad El-Iskandary,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
+egypt-2006-2007,17,2007-01-10,,200701100000,wednesday,Tala'ea El-Gaish SC,Al-Tersana,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
 egypt-2006-2007,17,2007-01-10,,200701100000,wednesday,Suez Cement,Haras El Hodood,1,2,3,A,L,W,,,,,,,
 egypt-2006-2007,17,2007-01-11,,200701110000,thursday,Al-Mokawloon,Al-Ahly,1,5,6,A,L,W,,,,,,,
 egypt-2006-2007,17,2007-01-11,,200701110000,thursday,Ismaily,Ghazl Al-Mehalla,3,2,5,H,W,L,,,,,,,
 egypt-2006-2007,17,2007-01-11,,200701110000,thursday,Zamalek,ENPPI,2,0,2,H,W,L,,,,,,,
 egypt-2006-2007,18,2007-01-14,,200701140000,sunday,Al-Tersana,Haras El Hodood,1,0,1,H,W,L,,,,,,,
 egypt-2006-2007,18,2007-01-14,,200701140000,sunday,Tala'ea El-Gaish SC,Olympia Alexandria,1,0,1,H,W,L,,,,,,,
-egypt-2006-2007,18,2007-01-14,,200701140000,sunday,Ittihad El-Iskandary,Suez Cement,0,0,0,D,D,D,0,0,0,D,D,D,
+egypt-2006-2007,18,2007-01-14,,200701140000,sunday,Ittihad El-Iskandary,Suez Cement,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
 egypt-2006-2007,18,2007-01-15,,200701150000,monday,PetroJet Football Club,Zamalek,1,2,3,A,L,W,,,,,,,
 egypt-2006-2007,18,2007-01-15,,200701150000,monday,Al-Masry Club,Al-Mokawloon,1,0,1,H,W,L,,,,,,,
 egypt-2006-2007,18,2007-01-15,,200701150000,monday,ENPPI,Ismaily,1,0,1,H,W,L,,,,,,,
@@ -147,56 +147,56 @@ egypt-2006-2007,19,2007-01-18,,200701180000,thursday,Olympia Alexandria,Al-Tersa
 egypt-2006-2007,19,2007-01-18,,200701180000,thursday,Haras El Hodood,Ittihad El-Iskandary,2,1,3,H,W,L,,,,,,,
 egypt-2006-2007,19,2007-01-19,,200701190000,friday,Zamalek,Tala'ea El-Gaish SC,3,0,3,H,W,L,,,,,,,
 egypt-2006-2007,19,2007-01-19,,200701190000,friday,Ismaily,PetroJet Football Club,2,1,3,H,W,L,,,,,,,
-egypt-2006-2007,19,2007-01-19,,200701190000,friday,Tanta,ENPPI,0,0,0,D,D,D,0,0,0,D,D,D,
-egypt-2006-2007,19,2007-01-19,,200701190000,friday,Al-Mokawloon,Ghazl Al-Mehalla,0,0,0,D,D,D,0,0,0,D,D,D,
+egypt-2006-2007,19,2007-01-19,,200701190000,friday,Tanta,ENPPI,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
+egypt-2006-2007,19,2007-01-19,,200701190000,friday,Al-Mokawloon,Ghazl Al-Mehalla,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
 egypt-2006-2007,19,2007-01-19,,200701190000,friday,Asyut Petroleum,Al-Masry Club,1,0,1,H,W,L,,,,,,,
 egypt-2006-2007,19,2007-01-19,,200701190000,friday,Suez Cement,Al-Ahly,0,2,2,A,L,W,,,,,,,
-egypt-2006-2007,20,2007-02-01,,200702010000,thursday,PetroJet Football Club,Tanta,0,0,0,D,D,D,0,0,0,D,D,D,
+egypt-2006-2007,20,2007-02-01,,200702010000,thursday,PetroJet Football Club,Tanta,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
 egypt-2006-2007,20,2007-02-01,,200702010000,thursday,Al-Tersana,Ittihad El-Iskandary,0,1,1,A,L,W,,,,,,,
 egypt-2006-2007,20,2007-02-02,,200702020000,friday,Tala'ea El-Gaish SC,Ismaily,2,2,4,D,D,D,,,,,,,
 egypt-2006-2007,20,2007-02-02,,200702020000,friday,Al-Ahly,Haras El Hodood,4,0,4,H,W,L,,,,,,,
-egypt-2006-2007,20,2007-02-02,,200702020000,friday,Al-Masry Club,Suez Cement,0,0,0,D,D,D,0,0,0,D,D,D,
+egypt-2006-2007,20,2007-02-02,,200702020000,friday,Al-Masry Club,Suez Cement,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
 egypt-2006-2007,20,2007-02-02,,200702020000,friday,Ghazl Al-Mehalla,Asyut Petroleum,0,2,2,A,L,W,,,,,,,
 egypt-2006-2007,20,2007-02-02,,200702020000,friday,ENPPI,Al-Mokawloon,1,0,1,H,W,L,,,,,,,
 egypt-2006-2007,20,2007-02-02,,200702020000,friday,Olympia Alexandria,Zamalek,0,1,1,A,L,W,,,,,,,
-egypt-2006-2007,21,2007-02-11,,200702110000,sunday,Tanta,Tala'ea El-Gaish SC,0,0,0,D,D,D,0,0,0,D,D,D,
+egypt-2006-2007,21,2007-02-11,,200702110000,sunday,Tanta,Tala'ea El-Gaish SC,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
 egypt-2006-2007,21,2007-02-11,,200702110000,sunday,Ismaily,Olympia Alexandria,6,0,6,H,W,L,,,,,,,
 egypt-2006-2007,21,2007-02-11,,200702110000,sunday,Haras El Hodood,Al-Masry Club,1,0,1,H,W,L,,,,,,,
 egypt-2006-2007,21,2007-02-12,,200702120000,monday,Suez Cement,Ghazl Al-Mehalla,1,0,1,H,W,L,,,,,,,
-egypt-2006-2007,21,2007-02-12,,200702120000,monday,Asyut Petroleum,ENPPI,0,0,0,D,D,D,0,0,0,D,D,D,
+egypt-2006-2007,21,2007-02-12,,200702120000,monday,Asyut Petroleum,ENPPI,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
 egypt-2006-2007,21,2007-02-12,,200702120000,monday,Ittihad El-Iskandary,Al-Ahly,0,1,1,A,L,W,,,,,,,
-egypt-2006-2007,21,2007-02-12,,200702120000,monday,Al-Mokawloon,PetroJet Football Club,0,0,0,D,D,D,0,0,0,D,D,D,
+egypt-2006-2007,21,2007-02-12,,200702120000,monday,Al-Mokawloon,PetroJet Football Club,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
 egypt-2006-2007,22,2007-02-18,,200702180000,sunday,Al-Masry Club,Ittihad El-Iskandary,3,1,4,H,W,L,,,,,,,
-egypt-2006-2007,22,2007-02-18,,200702180000,sunday,Olympia Alexandria,Tanta,0,0,0,D,D,D,0,0,0,D,D,D,
+egypt-2006-2007,22,2007-02-18,,200702180000,sunday,Olympia Alexandria,Tanta,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
 egypt-2006-2007,22,2007-02-18,,200702180000,sunday,Ghazl Al-Mehalla,Haras El Hodood,1,0,1,H,W,L,,,,,,,
 egypt-2006-2007,22,2007-02-18,,200702180000,sunday,ENPPI,Suez Cement,1,0,1,H,W,L,,,,,,,
-egypt-2006-2007,21,2007-02-19,,200702190000,monday,Zamalek,Al-Tersana,0,0,0,D,D,D,0,0,0,D,D,D,
-egypt-2006-2007,22,2007-02-19,,200702190000,monday,Tala'ea El-Gaish SC,Al-Mokawloon,0,0,0,D,D,D,0,0,0,D,D,D,
+egypt-2006-2007,21,2007-02-19,,200702190000,monday,Zamalek,Al-Tersana,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
+egypt-2006-2007,22,2007-02-19,,200702190000,monday,Tala'ea El-Gaish SC,Al-Mokawloon,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
 egypt-2006-2007,22,2007-02-19,,200702190000,monday,PetroJet Football Club,Asyut Petroleum,2,2,4,D,D,D,,,,,,,
 egypt-2006-2007,22,2007-02-23,,200702230000,friday,Al-Tersana,Al-Ahly,2,3,5,A,L,W,,,,,,,
 egypt-2006-2007,23,2007-03-01,,200703010000,thursday,Al-Mokawloon,Olympia Alexandria,0,1,1,A,L,W,,,,,,,
-egypt-2006-2007,23,2007-03-01,,200703010000,thursday,Asyut Petroleum,Tala'ea El-Gaish SC,0,0,0,D,D,D,0,0,0,D,D,D,
+egypt-2006-2007,23,2007-03-01,,200703010000,thursday,Asyut Petroleum,Tala'ea El-Gaish SC,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
 egypt-2006-2007,23,2007-03-01,,200703010000,thursday,Suez Cement,PetroJet Football Club,1,0,1,H,W,L,,,,,,,
 egypt-2006-2007,23,2007-03-02,,200703020000,friday,Ittihad El-Iskandary,Ghazl Al-Mehalla,1,0,1,H,W,L,,,,,,,
 egypt-2006-2007,23,2007-03-14,,200703140000,wednesday,Ismaily,Al-Tersana,1,0,1,H,W,L,,,,,,,
 egypt-2006-2007,23,2007-03-14,,200703140000,wednesday,Al-Ahly,Al-Masry Club,2,0,2,H,W,L,,,,,,,
 egypt-2006-2007,23,2007-03-14,,200703140000,wednesday,Haras El Hodood,ENPPI,1,2,3,A,L,W,,,,,,,
 egypt-2006-2007,24,2007-03-28,,200703280000,wednesday,Tala'ea El-Gaish SC,Suez Cement,1,1,2,D,D,D,,,,,,,
-egypt-2006-2007,24,2007-03-28,,200703280000,wednesday,PetroJet Football Club,Haras El Hodood,0,0,0,D,D,D,0,0,0,D,D,D,
+egypt-2006-2007,24,2007-03-28,,200703280000,wednesday,PetroJet Football Club,Haras El Hodood,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
 egypt-2006-2007,24,2007-03-28,,200703280000,wednesday,Tanta,Ismaily,2,1,3,H,W,L,,,,,,,
 egypt-2006-2007,24,2007-03-28,,200703280000,wednesday,Zamalek,Al-Mokawloon,4,2,6,H,W,L,,,,,,,
 egypt-2006-2007,24,2007-03-29,,200703290000,thursday,Olympia Alexandria,Asyut Petroleum,2,1,3,H,W,L,,,,,,,
 egypt-2006-2007,24,2007-03-29,,200703290000,thursday,Al-Tersana,Al-Masry Club,2,0,2,H,W,L,,,,,,,
 egypt-2006-2007,24,2007-03-29,,200703290000,thursday,ENPPI,Ittihad El-Iskandary,1,0,1,H,W,L,,,,,,,
-egypt-2006-2007,24,2007-03-29,,200703290000,thursday,Ghazl Al-Mehalla,Al-Ahly,0,0,0,D,D,D,0,0,0,D,D,D,
+egypt-2006-2007,24,2007-03-29,,200703290000,thursday,Ghazl Al-Mehalla,Al-Ahly,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
 egypt-2006-2007,28,2007-04-02,,200704020000,monday,Ismaily,Haras El Hodood,4,2,6,H,W,L,,,,,,,
 egypt-2006-2007,23,2007-04-08,,200704080000,sunday,Tanta,Zamalek,0,2,2,A,L,W,,,,,,,
-egypt-2006-2007,25,2007-04-11,,200704110000,wednesday,Ittihad El-Iskandary,PetroJet Football Club,0,0,0,D,D,D,0,0,0,D,D,D,
+egypt-2006-2007,25,2007-04-11,,200704110000,wednesday,Ittihad El-Iskandary,PetroJet Football Club,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
 egypt-2006-2007,25,2007-04-11,,200704110000,wednesday,Al-Mokawloon,Ismaily,0,1,1,A,L,W,,,,,,,
 egypt-2006-2007,25,2007-04-12,,200704120000,thursday,Suez Cement,Olympia Alexandria,2,0,2,H,W,L,,,,,,,
 egypt-2006-2007,25,2007-04-12,,200704120000,thursday,Haras El Hodood,Tala'ea El-Gaish SC,1,0,1,H,W,L,,,,,,,
 egypt-2006-2007,25,2007-04-12,,200704120000,thursday,Asyut Petroleum,Zamalek,3,4,7,A,L,W,,,,,,,
-egypt-2006-2007,25,2007-04-13,,200704130000,friday,Tanta,Al-Tersana,0,0,0,D,D,D,0,0,0,D,D,D,
+egypt-2006-2007,25,2007-04-13,,200704130000,friday,Tanta,Al-Tersana,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
 egypt-2006-2007,25,2007-04-13,,200704130000,friday,Al-Masry Club,Ghazl Al-Mehalla,1,0,1,H,W,L,,,,,,,
 egypt-2006-2007,25,2007-04-13,,200704130000,friday,Al-Ahly,ENPPI,2,0,2,H,W,L,,,,,,,
 egypt-2006-2007,22,2007-04-26,,200704260000,thursday,Zamalek,Ismaily,2,2,4,D,D,D,,,,,,,
@@ -207,11 +207,11 @@ egypt-2006-2007,26,2007-04-30,,200704300000,monday,Al-Tersana,Ghazl Al-Mehalla,3
 egypt-2006-2007,26,2007-04-30,,200704300000,monday,PetroJet Football Club,Al-Ahly,2,2,4,D,D,D,,,,,,,
 egypt-2006-2007,26,2007-04-30,,200704300000,monday,Tala'ea El-Gaish SC,Ittihad El-Iskandary,1,0,1,H,W,L,,,,,,,
 egypt-2006-2007,26,2007-04-30,,200704300000,monday,Zamalek,Suez Cement,3,1,4,H,W,L,,,,,,,
-egypt-2006-2007,26,2007-04-30,,200704300000,monday,ENPPI,Al-Masry Club,0,0,0,D,D,D,0,0,0,D,D,D,
+egypt-2006-2007,26,2007-04-30,,200704300000,monday,ENPPI,Al-Masry Club,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
 egypt-2006-2007,27,2007-05-10,,200705100000,thursday,Suez Cement,Ismaily,1,3,4,A,L,W,,,,,,,
 egypt-2006-2007,27,2007-05-12,,200705120000,saturday,Haras El Hodood,Zamalek,0,3,3,A,L,W,,,,,,,
 egypt-2006-2007,27,2007-05-13,,200705130000,sunday,Al-Mokawloon,Al-Tersana,1,0,1,H,W,L,,,,,,,
-egypt-2006-2007,27,2007-05-13,,200705130000,sunday,Asyut Petroleum,Tanta,0,0,0,D,D,D,0,0,0,D,D,D,
+egypt-2006-2007,27,2007-05-13,,200705130000,sunday,Asyut Petroleum,Tanta,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
 egypt-2006-2007,27,2007-05-13,,200705130000,sunday,Ittihad El-Iskandary,Olympia Alexandria,1,1,2,D,D,D,,,,,,,
 egypt-2006-2007,27,2007-05-13,,200705130000,sunday,Al-Ahly,Tala'ea El-Gaish SC,2,0,2,H,W,L,,,,,,,
 egypt-2006-2007,27,2007-05-13,,200705130000,sunday,Al-Masry Club,PetroJet Football Club,4,1,5,H,W,L,,,,,,,
@@ -221,9 +221,9 @@ egypt-2006-2007,28,2007-05-17,,200705170000,thursday,Tala'ea El-Gaish SC,Al-Masr
 egypt-2006-2007,28,2007-05-17,,200705170000,thursday,Olympia Alexandria,Al-Ahly,0,3,3,A,L,W,,,,,,,
 egypt-2006-2007,28,2007-05-17,,200705170000,thursday,Zamalek,Ittihad El-Iskandary,1,0,1,H,W,L,,,,,,,
 egypt-2006-2007,28,2007-05-17,,200705170000,thursday,Tanta,Suez Cement,3,1,4,H,W,L,,,,,,,
-egypt-2006-2007,28,2007-05-17,,200705170000,thursday,Al-Tersana,ENPPI,0,0,0,D,D,D,0,0,0,D,D,D,
+egypt-2006-2007,28,2007-05-17,,200705170000,thursday,Al-Tersana,ENPPI,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
 egypt-2006-2007,28,2007-05-17,,200705170000,thursday,Al-Mokawloon,Asyut Petroleum,1,1,2,D,D,D,,,,,,,
-egypt-2006-2007,29,2007-05-21,,200705210000,monday,Al-Tersana,Asyut Petroleum,0,0,0,D,D,D,0,0,0,D,D,D,
+egypt-2006-2007,29,2007-05-21,,200705210000,monday,Al-Tersana,Asyut Petroleum,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
 egypt-2006-2007,29,2007-05-21,,200705210000,monday,Suez Cement,Al-Mokawloon,3,4,7,A,L,W,,,,,,,
 egypt-2006-2007,29,2007-05-21,,200705210000,monday,Haras El Hodood,Tanta,2,1,3,H,W,L,,,,,,,
 egypt-2006-2007,29,2007-05-21,,200705210000,monday,Ittihad El-Iskandary,Ismaily,1,2,3,A,L,W,,,,,,,
@@ -2693,309 +2693,343 @@ egypt-2016-2017,34,2017-07-10,16:00,201707101600,monday,Ittihad El-Iskandary,Ism
 egypt-2016-2017,34,2017-07-10,19:30,201707101930,monday,El-Entag El-Harby,Al-Masry Club,0,1,1,A,L,W,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/premiership-2016-2017-el-entag-el-harby-al-masry-club/
 egypt-2016-2017,34,2017-07-13,17:30,201707131730,thursday,Al Nasr Lel Taa'den SC,Smouha Sporting Club,0,1,1,A,L,W,0.0,1.0,1.0,A,L,W,http://www.worldfootball.net/report/premiership-2016-2017-al-nasr-lel-taaden-sc-smouha-sporting-club/
 egypt-2016-2017,34,2017-07-17,19:00,201707171900,monday,Al-Ahly,Zamalek,2,0,2,H,W,L,1.0,0.0,1.0,H,W,L,http://www.worldfootball.net/report/premiership-2016-2017-al-ahly-zamalek/
-egypt-2017-2018,1,2017-09-08,16:00,201709081600,friday,El Daklyeh,PetroJet Football Club,1,1,2,D,D,D,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/premiership-2017-2018-el-daklyeh-petrojet-football-club/
-egypt-2017-2018,1,2017-09-08,18:30,201709081830,friday,Al-Mokawloon,El Raja Sporting Club,3,0,3,H,W,L,3.0,0.0,3.0,H,W,L,http://www.worldfootball.net/report/premiership-2017-2018-al-mokawloon-el-raja-sporting-club/
-egypt-2017-2018,1,2017-09-09,14:00,201709091400,saturday,Tanta,Al Nasr FC,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/premiership-2017-2018-tanta-al-nasr-fc/
-egypt-2017-2018,1,2017-09-09,16:30,201709091630,saturday,Ittihad El-Iskandary,Ismaily,2,4,6,A,L,W,2.0,1.0,3.0,H,W,L,http://www.worldfootball.net/report/premiership-2017-2018-ittihad-el-iskandary-ismaily/
-egypt-2017-2018,1,2017-09-09,19:15,201709091915,saturday,El-Entag El-Harby,Zamalek,1,1,2,D,D,D,1.0,1.0,2.0,D,D,D,http://www.worldfootball.net/report/premiership-2017-2018-el-entag-el-harby-zamalek/
+egypt-2017-2018,1,2017-09-08,16:00,201709081600,friday,El Daklyeh,PetroJet Football Club,1,1,2,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/premiership-2017-2018-el-daklyeh-petrojet-football-club/
+egypt-2017-2018,1,2017-09-08,18:30,201709081830,friday,Al-Mokawloon,El Raja Sporting Club,3,0,3,H,W,L,3,0,3,H,W,L,http://www.worldfootball.net/report/premiership-2017-2018-al-mokawloon-el-raja-sporting-club/
+egypt-2017-2018,1,2017-09-09,14:00,201709091400,saturday,Tanta,Al Nasr FC,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/premiership-2017-2018-tanta-al-nasr-fc/
+egypt-2017-2018,1,2017-09-09,16:30,201709091630,saturday,Ittihad El-Iskandary,Ismaily,2,4,6,A,L,W,2,1,3,H,W,L,http://www.worldfootball.net/report/premiership-2017-2018-ittihad-el-iskandary-ismaily/
+egypt-2017-2018,1,2017-09-09,19:15,201709091915,saturday,El-Entag El-Harby,Zamalek,1,1,2,D,D,D,1,1,2,D,D,D,http://www.worldfootball.net/report/premiership-2017-2018-el-entag-el-harby-zamalek/
+egypt-2017-2018,1,2017-09-10,14:00,201709101400,sunday,El Assiouty Sport,Misr lel-Maqasah SC,1,1,2,D,D,D,1,0,1,H,W,L,http://www.worldfootball.net/report/premiership-2017-2018-alassiouty-sport-misr-el-maqasah-sc/
 egypt-2017-2018,1,2017-09-10,14:00,201709101400,sunday,Alassiouty Sport,Misr lel-Maqasah SC,1,1,2,D,D,D,1.0,0.0,1.0,H,W,L,http://www.worldfootball.net/report/premiership-2017-2018-alassiouty-sport-misr-el-maqasah-sc/
-egypt-2017-2018,1,2017-09-10,16:30,201709101630,sunday,Al-Masry Club,Wadi Degla FC,1,0,1,H,W,L,1.0,0.0,1.0,H,W,L,http://www.worldfootball.net/report/premiership-2017-2018-al-masry-club-wadi-degla-fc/
-egypt-2017-2018,1,2017-09-10,19:15,201709101915,sunday,Al-Ahly,Tala'ea El-Gaish SC,1,1,2,D,D,D,0.0,1.0,1.0,A,L,W,http://www.worldfootball.net/report/premiership-2017-2018-al-ahly-talaea-el-gaish-sc/
-egypt-2017-2018,1,2017-09-11,18:00,201709111800,monday,ENPPI,Smouha Sporting Club,1,1,2,D,D,D,0.0,1.0,1.0,A,L,W,http://www.worldfootball.net/report/premiership-2017-2018-enppi-smouha-sporting-club/
-egypt-2017-2018,2,2017-09-14,16:00,201709141600,thursday,PetroJet Football Club,Al-Masry Club,0,1,1,A,L,W,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/premiership-2017-2018-petrojet-football-club-al-masry-club/
-egypt-2017-2018,2,2017-09-14,18:30,201709141830,thursday,Tala'ea El-Gaish SC,El-Entag El-Harby,2,2,4,D,D,D,1.0,2.0,3.0,A,L,W,http://www.worldfootball.net/report/premiership-2017-2018-talaea-el-gaish-sc-el-entag-el-harby/
+egypt-2017-2018,1,2017-09-10,16:30,201709101630,sunday,Al-Masry Club,Wadi Degla FC,1,0,1,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/premiership-2017-2018-al-masry-club-wadi-degla-fc/
+egypt-2017-2018,1,2017-09-10,19:15,201709101915,sunday,Al-Ahly,Tala'ea El-Gaish SC,1,1,2,D,D,D,0,1,1,A,L,W,http://www.worldfootball.net/report/premiership-2017-2018-al-ahly-talaea-el-gaish-sc/
+egypt-2017-2018,1,2017-09-11,18:00,201709111800,monday,ENPPI,Smouha Sporting Club,1,1,2,D,D,D,0,1,1,A,L,W,http://www.worldfootball.net/report/premiership-2017-2018-enppi-smouha-sporting-club/
+egypt-2017-2018,2,2017-09-14,16:00,201709141600,thursday,PetroJet Football Club,Al-Masry Club,0,1,1,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/premiership-2017-2018-petrojet-football-club-al-masry-club/
+egypt-2017-2018,2,2017-09-14,18:30,201709141830,thursday,Tala'ea El-Gaish SC,El-Entag El-Harby,2,2,4,D,D,D,1,2,3,A,L,W,http://www.worldfootball.net/report/premiership-2017-2018-talaea-el-gaish-sc-el-entag-el-harby/
+egypt-2017-2018,2,2017-09-15,18:00,201709151800,friday,El Raja Sporting Club,El Assiouty Sport,0,2,2,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/premiership-2017-2018-el-raja-sporting-club-alassiouty-sport/
 egypt-2017-2018,2,2017-09-15,18:00,201709151800,friday,El Raja Sporting Club,Alassiouty Sport,0,2,2,A,L,W,0.0,1.0,1.0,A,L,W,http://www.worldfootball.net/report/premiership-2017-2018-el-raja-sporting-club-alassiouty-sport/
-egypt-2017-2018,2,2017-09-16,14:00,201709161400,saturday,Al Nasr FC,Ittihad El-Iskandary,2,3,5,A,L,W,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/premiership-2017-2018-al-nasr-fc-ittihad-el-iskandary/
-egypt-2017-2018,2,2017-09-16,16:00,201709161600,saturday,Wadi Degla FC,ENPPI,2,1,3,H,W,L,1.0,0.0,1.0,H,W,L,http://www.worldfootball.net/report/premiership-2017-2018-wadi-degla-fc-enppi/
-egypt-2017-2018,2,2017-09-17,14:00,201709171400,sunday,Smouha Sporting Club,Tanta,2,0,2,H,W,L,1.0,0.0,1.0,H,W,L,http://www.worldfootball.net/report/premiership-2017-2018-smouha-sporting-club-tanta/
-egypt-2017-2018,2,2017-09-17,16:30,201709171630,sunday,Ismaily,Al-Mokawloon,1,1,2,D,D,D,0.0,1.0,1.0,A,L,W,http://www.worldfootball.net/report/premiership-2017-2018-ismaily-al-mokawloon/
-egypt-2017-2018,2,2017-09-17,19:15,201709171915,sunday,Zamalek,El Daklyeh,3,0,3,H,W,L,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/premiership-2017-2018-zamalek-el-daklyeh/
-egypt-2017-2018,3,2017-09-21,14:00,201709211400,thursday,ENPPI,PetroJet Football Club,0,2,2,A,L,W,0.0,1.0,1.0,A,L,W,http://www.worldfootball.net/report/premiership-2017-2018-enppi-petrojet-football-club/
-egypt-2017-2018,3,2017-09-21,16:30,201709211630,thursday,Smouha Sporting Club,Al Nasr FC,1,1,2,D,D,D,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/premiership-2017-2018-smouha-sporting-club-al-nasr-fc/
-egypt-2017-2018,3,2017-09-21,19:00,201709211900,thursday,El-Entag El-Harby,Misr lel-Maqasah SC,1,0,1,H,W,L,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/premiership-2017-2018-el-entag-el-harby-misr-el-maqasah-sc/
-egypt-2017-2018,3,2017-09-22,14:00,201709221400,friday,Tanta,Wadi Degla FC,3,1,4,H,W,L,1.0,0.0,1.0,H,W,L,http://www.worldfootball.net/report/premiership-2017-2018-tanta-wadi-degla-fc/
-egypt-2017-2018,3,2017-09-22,16:30,201709221630,friday,Al-Mokawloon,Ittihad El-Iskandary,3,2,5,H,W,L,1.0,1.0,2.0,D,D,D,http://www.worldfootball.net/report/premiership-2017-2018-al-mokawloon-ittihad-el-iskandary/
-egypt-2017-2018,3,2017-09-22,19:15,201709221915,friday,Al-Masry Club,Zamalek,1,2,3,A,L,W,1.0,0.0,1.0,H,W,L,http://www.worldfootball.net/report/premiership-2017-2018-al-masry-club-zamalek/
+egypt-2017-2018,2,2017-09-16,14:00,201709161400,saturday,Al Nasr FC,Ittihad El-Iskandary,2,3,5,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/premiership-2017-2018-al-nasr-fc-ittihad-el-iskandary/
+egypt-2017-2018,2,2017-09-16,16:00,201709161600,saturday,Wadi Degla FC,ENPPI,2,1,3,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/premiership-2017-2018-wadi-degla-fc-enppi/
+egypt-2017-2018,2,2017-09-17,14:00,201709171400,sunday,Smouha Sporting Club,Tanta,2,0,2,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/premiership-2017-2018-smouha-sporting-club-tanta/
+egypt-2017-2018,2,2017-09-17,16:30,201709171630,sunday,Ismaily,Al-Mokawloon,1,1,2,D,D,D,0,1,1,A,L,W,http://www.worldfootball.net/report/premiership-2017-2018-ismaily-al-mokawloon/
+egypt-2017-2018,2,2017-09-17,19:15,201709171915,sunday,Zamalek,El Daklyeh,3,0,3,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/premiership-2017-2018-zamalek-el-daklyeh/
+egypt-2017-2018,3,2017-09-21,14:00,201709211400,thursday,ENPPI,PetroJet Football Club,0,2,2,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/premiership-2017-2018-enppi-petrojet-football-club/
+egypt-2017-2018,3,2017-09-21,16:30,201709211630,thursday,Smouha Sporting Club,Al Nasr FC,1,1,2,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/premiership-2017-2018-smouha-sporting-club-al-nasr-fc/
+egypt-2017-2018,3,2017-09-21,19:00,201709211900,thursday,El-Entag El-Harby,Misr lel-Maqasah SC,1,0,1,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/premiership-2017-2018-el-entag-el-harby-misr-el-maqasah-sc/
+egypt-2017-2018,3,2017-09-22,14:00,201709221400,friday,Tanta,Wadi Degla FC,3,1,4,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/premiership-2017-2018-tanta-wadi-degla-fc/
+egypt-2017-2018,3,2017-09-22,16:30,201709221630,friday,Al-Mokawloon,Ittihad El-Iskandary,3,2,5,H,W,L,1,1,2,D,D,D,http://www.worldfootball.net/report/premiership-2017-2018-al-mokawloon-ittihad-el-iskandary/
+egypt-2017-2018,3,2017-09-22,19:15,201709221915,friday,Al-Masry Club,Zamalek,1,2,3,A,L,W,1,0,1,H,W,L,http://www.worldfootball.net/report/premiership-2017-2018-al-masry-club-zamalek/
+egypt-2017-2018,3,2017-09-23,14:00,201709231400,saturday,El Assiouty Sport,Ismaily,0,2,2,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/premiership-2017-2018-alassiouty-sport-ismaily/
 egypt-2017-2018,3,2017-09-23,14:00,201709231400,saturday,Alassiouty Sport,Ismaily,0,2,2,A,L,W,0.0,1.0,1.0,A,L,W,http://www.worldfootball.net/report/premiership-2017-2018-alassiouty-sport-ismaily/
-egypt-2017-2018,3,2017-09-23,16:00,201709231600,saturday,El Daklyeh,Tala'ea El-Gaish SC,1,2,3,A,L,W,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/premiership-2017-2018-el-daklyeh-talaea-el-gaish-sc/
-egypt-2017-2018,4,2017-09-27,16:00,201709271600,wednesday,El Raja Sporting Club,El-Entag El-Harby,0,2,2,A,L,W,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/premiership-2017-2018-el-raja-sporting-club-el-entag-el-harby/
-egypt-2017-2018,4,2017-09-28,14:00,201709281400,thursday,Al Nasr FC,Al-Mokawloon,1,2,3,A,L,W,1.0,0.0,1.0,H,W,L,http://www.worldfootball.net/report/premiership-2017-2018-al-nasr-fc-al-mokawloon/
-egypt-2017-2018,4,2017-09-28,16:30,201709281630,thursday,Tala'ea El-Gaish SC,Al-Masry Club,0,4,4,A,L,W,0.0,2.0,2.0,A,L,W,http://www.worldfootball.net/report/premiership-2017-2018-talaea-el-gaish-sc-al-masry-club/
-egypt-2017-2018,4,2017-09-28,19:00,201709281900,thursday,Wadi Degla FC,Smouha Sporting Club,0,1,1,A,L,W,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/premiership-2017-2018-wadi-degla-fc-smouha-sporting-club/
+egypt-2017-2018,3,2017-09-23,16:00,201709231600,saturday,El Daklyeh,Tala'ea El-Gaish SC,1,2,3,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/premiership-2017-2018-el-daklyeh-talaea-el-gaish-sc/
+egypt-2017-2018,4,2017-09-27,16:00,201709271600,wednesday,El Raja Sporting Club,El-Entag El-Harby,0,2,2,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/premiership-2017-2018-el-raja-sporting-club-el-entag-el-harby/
+egypt-2017-2018,4,2017-09-28,14:00,201709281400,thursday,Al Nasr FC,Al-Mokawloon,1,2,3,A,L,W,1,0,1,H,W,L,http://www.worldfootball.net/report/premiership-2017-2018-al-nasr-fc-al-mokawloon/
+egypt-2017-2018,4,2017-09-28,16:30,201709281630,thursday,Tala'ea El-Gaish SC,Al-Masry Club,0,4,4,A,L,W,0,2,2,A,L,W,http://www.worldfootball.net/report/premiership-2017-2018-talaea-el-gaish-sc-al-masry-club/
+egypt-2017-2018,4,2017-09-28,19:00,201709281900,thursday,Wadi Degla FC,Smouha Sporting Club,0,1,1,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/premiership-2017-2018-wadi-degla-fc-smouha-sporting-club/
+egypt-2017-2018,4,2017-09-29,16:00,201709291600,friday,Ittihad El-Iskandary,El Assiouty Sport,2,0,2,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/premiership-2017-2018-ittihad-el-iskandary-alassiouty-sport/
 egypt-2017-2018,4,2017-09-29,16:00,201709291600,friday,Ittihad El-Iskandary,Alassiouty Sport,2,0,2,H,W,L,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/premiership-2017-2018-ittihad-el-iskandary-alassiouty-sport/
-egypt-2017-2018,4,2017-09-29,19:00,201709291900,friday,Zamalek,ENPPI,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/premiership-2017-2018-zamalek-enppi/
-egypt-2017-2018,4,2017-09-30,14:00,201709301400,saturday,PetroJet Football Club,Tanta,1,1,2,D,D,D,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/premiership-2017-2018-petrojet-football-club-tanta/
-egypt-2017-2018,4,2017-09-30,16:15,201709301615,saturday,El Daklyeh,Misr lel-Maqasah SC,2,1,3,H,W,L,1.0,0.0,1.0,H,W,L,http://www.worldfootball.net/report/premiership-2017-2018-el-daklyeh-misr-el-maqasah-sc/
-egypt-2017-2018,5,2017-10-11,13:45,201710111345,wednesday,El Daklyeh,El Raja Sporting Club,2,0,2,H,W,L,1.0,0.0,1.0,H,W,L,http://www.worldfootball.net/report/premiership-2017-2018-el-daklyeh-el-raja-sporting-club/
-egypt-2017-2018,5,2017-10-11,16:00,201710111600,wednesday,Smouha Sporting Club,PetroJet Football Club,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/premiership-2017-2018-smouha-sporting-club-petrojet-football-club/
-egypt-2017-2018,5,2017-10-11,18:30,201710111830,wednesday,Wadi Degla FC,Al Nasr FC,1,1,2,D,D,D,1.0,0.0,1.0,H,W,L,http://www.worldfootball.net/report/premiership-2017-2018-wadi-degla-fc-al-nasr-fc/
+egypt-2017-2018,4,2017-09-29,19:00,201709291900,friday,Zamalek,ENPPI,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/premiership-2017-2018-zamalek-enppi/
+egypt-2017-2018,4,2017-09-30,14:00,201709301400,saturday,PetroJet Football Club,Tanta,1,1,2,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/premiership-2017-2018-petrojet-football-club-tanta/
+egypt-2017-2018,4,2017-09-30,16:15,201709301615,saturday,El Daklyeh,Misr lel-Maqasah SC,2,1,3,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/premiership-2017-2018-el-daklyeh-misr-el-maqasah-sc/
+egypt-2017-2018,5,2017-10-11,13:45,201710111345,wednesday,El Daklyeh,El Raja Sporting Club,2,0,2,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/premiership-2017-2018-el-daklyeh-el-raja-sporting-club/
+egypt-2017-2018,5,2017-10-11,16:00,201710111600,wednesday,Smouha Sporting Club,PetroJet Football Club,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/premiership-2017-2018-smouha-sporting-club-petrojet-football-club/
+egypt-2017-2018,5,2017-10-11,18:30,201710111830,wednesday,Wadi Degla FC,Al Nasr FC,1,1,2,D,D,D,1,0,1,H,W,L,http://www.worldfootball.net/report/premiership-2017-2018-wadi-degla-fc-al-nasr-fc/
+egypt-2017-2018,5,2017-10-12,13:45,201710121345,thursday,El Assiouty Sport,Al-Mokawloon,1,1,2,D,D,D,0,1,1,A,L,W,http://www.worldfootball.net/report/premiership-2017-2018-alassiouty-sport-al-mokawloon/
 egypt-2017-2018,5,2017-10-12,13:45,201710121345,thursday,Alassiouty Sport,Al-Mokawloon,1,1,2,D,D,D,0.0,1.0,1.0,A,L,W,http://www.worldfootball.net/report/premiership-2017-2018-alassiouty-sport-al-mokawloon/
-egypt-2017-2018,5,2017-10-12,16:00,201710121600,thursday,Al-Masry Club,Misr lel-Maqasah SC,3,2,5,H,W,L,1.0,1.0,2.0,D,D,D,http://www.worldfootball.net/report/premiership-2017-2018-al-masry-club-misr-el-maqasah-sc/
-egypt-2017-2018,5,2017-10-12,19:00,201710121900,thursday,Al-Ahly,Ittihad El-Iskandary,2,0,2,H,W,L,1.0,0.0,1.0,H,W,L,http://www.worldfootball.net/report/premiership-2017-2018-al-ahly-ittihad-el-iskandary/
-egypt-2017-2018,5,2017-10-13,13:45,201710131345,friday,El-Entag El-Harby,Ismaily,0,1,1,A,L,W,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/premiership-2017-2018-el-entag-el-harby-ismaily/
-egypt-2017-2018,5,2017-10-13,16:30,201710131630,friday,Tanta,Zamalek,1,1,2,D,D,D,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/premiership-2017-2018-tanta-zamalek/
-egypt-2017-2018,5,2017-10-13,19:00,201710131900,friday,ENPPI,Tala'ea El-Gaish SC,1,1,2,D,D,D,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/premiership-2017-2018-enppi-talaea-el-gaish-sc/
-egypt-2017-2018,3,2017-10-16,18:00,201710161800,monday,Al-Ahly,El Raja Sporting Club,4,1,5,H,W,L,3.0,0.0,3.0,H,W,L,http://www.worldfootball.net/report/premiership-2017-2018-al-ahly-el-raja-sporting-club/
+egypt-2017-2018,5,2017-10-12,16:00,201710121600,thursday,Al-Masry Club,Misr lel-Maqasah SC,3,2,5,H,W,L,1,1,2,D,D,D,http://www.worldfootball.net/report/premiership-2017-2018-al-masry-club-misr-el-maqasah-sc/
+egypt-2017-2018,5,2017-10-12,19:00,201710121900,thursday,Al-Ahly,Ittihad El-Iskandary,2,0,2,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/premiership-2017-2018-al-ahly-ittihad-el-iskandary/
+egypt-2017-2018,5,2017-10-13,13:45,201710131345,friday,El-Entag El-Harby,Ismaily,0,1,1,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/premiership-2017-2018-el-entag-el-harby-ismaily/
+egypt-2017-2018,5,2017-10-13,16:30,201710131630,friday,Tanta,Zamalek,1,1,2,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/premiership-2017-2018-tanta-zamalek/
+egypt-2017-2018,5,2017-10-13,19:00,201710131900,friday,ENPPI,Tala'ea El-Gaish SC,1,1,2,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/premiership-2017-2018-enppi-talaea-el-gaish-sc/
+egypt-2017-2018,3,2017-10-16,18:00,201710161800,monday,Al-Ahly,El Raja Sporting Club,4,1,5,H,W,L,3,0,3,H,W,L,http://www.worldfootball.net/report/premiership-2017-2018-al-ahly-el-raja-sporting-club/
+egypt-2017-2018,6,2017-10-19,13:45,201710191345,thursday,Al Nasr FC,El Assiouty Sport,2,2,4,D,D,D,0,1,1,A,L,W,http://www.worldfootball.net/report/premiership-2017-2018-al-nasr-fc-alassiouty-sport/
+egypt-2017-2018,6,2017-10-19,13:45,201710191345,thursday,Tala'ea El-Gaish SC,Tanta,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/premiership-2017-2018-talaea-el-gaish-sc-tanta/
 egypt-2017-2018,6,2017-10-19,13:45,201710191345,thursday,Al Nasr FC,Alassiouty Sport,2,2,4,D,D,D,0.0,1.0,1.0,A,L,W,http://www.worldfootball.net/report/premiership-2017-2018-al-nasr-fc-alassiouty-sport/
-egypt-2017-2018,6,2017-10-19,13:45,201710191345,thursday,Tala'ea El-Gaish SC,Tanta,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/premiership-2017-2018-talaea-el-gaish-sc-tanta/
-egypt-2017-2018,6,2017-10-19,16:00,201710191600,thursday,ENPPI,Misr lel-Maqasah SC,2,1,3,H,W,L,1.0,1.0,2.0,D,D,D,http://www.worldfootball.net/report/premiership-2017-2018-enppi-misr-el-maqasah-sc/
-egypt-2017-2018,6,2017-10-19,18:30,201710191830,thursday,Ittihad El-Iskandary,El-Entag El-Harby,1,1,2,D,D,D,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/premiership-2017-2018-ittihad-el-iskandary-el-entag-el-harby/
-egypt-2017-2018,6,2017-10-20,13:45,201710201345,friday,El Raja Sporting Club,Al-Masry Club,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/premiership-2017-2018-el-raja-sporting-club-al-masry-club/
-egypt-2017-2018,6,2017-10-20,13:45,201710201345,friday,PetroJet Football Club,Wadi Degla FC,2,2,4,D,D,D,0.0,1.0,1.0,A,L,W,http://www.worldfootball.net/report/premiership-2017-2018-petrojet-football-club-wadi-degla-fc/
-egypt-2017-2018,6,2017-10-20,16:00,201710201600,friday,Ismaily,El Daklyeh,2,1,3,H,W,L,2.0,1.0,3.0,H,W,L,http://www.worldfootball.net/report/premiership-2017-2018-ismaily-el-daklyeh/
-egypt-2017-2018,6,2017-10-20,19:00,201710201900,friday,Zamalek,Smouha Sporting Club,0,3,3,A,L,W,0.0,1.0,1.0,A,L,W,http://www.worldfootball.net/report/premiership-2017-2018-zamalek-smouha-sporting-club/
-egypt-2017-2018,7,2017-10-26,13:45,201710261345,thursday,Tanta,Misr lel-Maqasah SC,3,3,6,D,D,D,3.0,0.0,3.0,H,W,L,http://www.worldfootball.net/report/premiership-2017-2018-tanta-misr-el-maqasah-sc/
-egypt-2017-2018,7,2017-10-26,16:00,201710261600,thursday,Smouha Sporting Club,Tala'ea El-Gaish SC,0,1,1,A,L,W,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/premiership-2017-2018-smouha-sporting-club-talaea-el-gaish-sc/
-egypt-2017-2018,7,2017-10-27,13:45,201710271345,friday,El Daklyeh,Ittihad El-Iskandary,2,2,4,D,D,D,2.0,1.0,3.0,H,W,L,http://www.worldfootball.net/report/premiership-2017-2018-el-daklyeh-ittihad-el-iskandary/
-egypt-2017-2018,7,2017-10-27,15:45,201710271545,friday,Al-Masry Club,Ismaily,1,2,3,A,L,W,1.0,1.0,2.0,D,D,D,http://www.worldfootball.net/report/premiership-2017-2018-al-masry-club-ismaily/
-egypt-2017-2018,7,2017-10-27,16:00,201710271600,friday,ENPPI,El Raja Sporting Club,2,0,2,H,W,L,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/premiership-2017-2018-enppi-el-raja-sporting-club/
-egypt-2017-2018,7,2017-10-27,18:30,201710271830,friday,El-Entag El-Harby,Al-Mokawloon,2,3,5,A,L,W,0.0,1.0,1.0,A,L,W,http://www.worldfootball.net/report/premiership-2017-2018-el-entag-el-harby-al-mokawloon/
-egypt-2017-2018,7,2017-10-28,13:45,201710281345,saturday,PetroJet Football Club,Al Nasr FC,2,0,2,H,W,L,2.0,0.0,2.0,H,W,L,http://www.worldfootball.net/report/premiership-2017-2018-petrojet-football-club-al-nasr-fc/
-egypt-2017-2018,7,2017-10-29,17:00,201710291700,sunday,Wadi Degla FC,Zamalek,0,3,3,A,L,W,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/premiership-2017-2018-wadi-degla-fc-zamalek/
-egypt-2017-2018,8,2017-11-02,12:45,201711021245,thursday,Al-Mokawloon,El Daklyeh,1,1,2,D,D,D,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/premiership-2017-2018-al-mokawloon-el-daklyeh/
-egypt-2017-2018,8,2017-11-02,15:00,201711021500,thursday,Ismaily,ENPPI,1,1,2,D,D,D,1.0,1.0,2.0,D,D,D,http://www.worldfootball.net/report/premiership-2017-2018-ismaily-enppi/
-egypt-2017-2018,8,2017-11-03,12:45,201711031245,friday,El Raja Sporting Club,Tanta,0,1,1,A,L,W,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/premiership-2017-2018-el-raja-sporting-club-tanta/
-egypt-2017-2018,8,2017-11-03,16:00,201711031600,friday,Zamalek,PetroJet Football Club,3,0,3,H,W,L,2.0,0.0,2.0,H,W,L,http://www.worldfootball.net/report/premiership-2017-2018-zamalek-petrojet-football-club/
+egypt-2017-2018,6,2017-10-19,16:00,201710191600,thursday,ENPPI,Misr lel-Maqasah SC,2,1,3,H,W,L,1,1,2,D,D,D,http://www.worldfootball.net/report/premiership-2017-2018-enppi-misr-el-maqasah-sc/
+egypt-2017-2018,6,2017-10-19,18:30,201710191830,thursday,Ittihad El-Iskandary,El-Entag El-Harby,1,1,2,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/premiership-2017-2018-ittihad-el-iskandary-el-entag-el-harby/
+egypt-2017-2018,6,2017-10-20,13:45,201710201345,friday,El Raja Sporting Club,Al-Masry Club,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/premiership-2017-2018-el-raja-sporting-club-al-masry-club/
+egypt-2017-2018,6,2017-10-20,13:45,201710201345,friday,PetroJet Football Club,Wadi Degla FC,2,2,4,D,D,D,0,1,1,A,L,W,http://www.worldfootball.net/report/premiership-2017-2018-petrojet-football-club-wadi-degla-fc/
+egypt-2017-2018,6,2017-10-20,16:00,201710201600,friday,Ismaily,El Daklyeh,2,1,3,H,W,L,2,1,3,H,W,L,http://www.worldfootball.net/report/premiership-2017-2018-ismaily-el-daklyeh/
+egypt-2017-2018,6,2017-10-20,19:00,201710201900,friday,Zamalek,Smouha Sporting Club,0,3,3,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/premiership-2017-2018-zamalek-smouha-sporting-club/
+egypt-2017-2018,7,2017-10-26,13:45,201710261345,thursday,Tanta,Misr lel-Maqasah SC,3,3,6,D,D,D,3,0,3,H,W,L,http://www.worldfootball.net/report/premiership-2017-2018-tanta-misr-el-maqasah-sc/
+egypt-2017-2018,7,2017-10-26,16:00,201710261600,thursday,Smouha Sporting Club,Tala'ea El-Gaish SC,0,1,1,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/premiership-2017-2018-smouha-sporting-club-talaea-el-gaish-sc/
+egypt-2017-2018,7,2017-10-27,13:45,201710271345,friday,El Daklyeh,Ittihad El-Iskandary,2,2,4,D,D,D,2,1,3,H,W,L,http://www.worldfootball.net/report/premiership-2017-2018-el-daklyeh-ittihad-el-iskandary/
+egypt-2017-2018,7,2017-10-27,15:45,201710271545,friday,Al-Masry Club,Ismaily,1,2,3,A,L,W,1,1,2,D,D,D,http://www.worldfootball.net/report/premiership-2017-2018-al-masry-club-ismaily/
+egypt-2017-2018,7,2017-10-27,16:00,201710271600,friday,ENPPI,El Raja Sporting Club,2,0,2,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/premiership-2017-2018-enppi-el-raja-sporting-club/
+egypt-2017-2018,7,2017-10-27,18:30,201710271830,friday,El-Entag El-Harby,Al-Mokawloon,2,3,5,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/premiership-2017-2018-el-entag-el-harby-al-mokawloon/
+egypt-2017-2018,7,2017-10-28,13:45,201710281345,saturday,PetroJet Football Club,Al Nasr FC,2,0,2,H,W,L,2,0,2,H,W,L,http://www.worldfootball.net/report/premiership-2017-2018-petrojet-football-club-al-nasr-fc/
+egypt-2017-2018,7,2017-10-29,17:00,201710291700,sunday,Wadi Degla FC,Zamalek,0,3,3,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/premiership-2017-2018-wadi-degla-fc-zamalek/
+egypt-2017-2018,8,2017-11-02,12:45,201711021245,thursday,Al-Mokawloon,El Daklyeh,1,1,2,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/premiership-2017-2018-al-mokawloon-el-daklyeh/
+egypt-2017-2018,8,2017-11-02,15:00,201711021500,thursday,Ismaily,ENPPI,1,1,2,D,D,D,1,1,2,D,D,D,http://www.worldfootball.net/report/premiership-2017-2018-ismaily-enppi/
+egypt-2017-2018,8,2017-11-03,12:45,201711031245,friday,El Raja Sporting Club,Tanta,0,1,1,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/premiership-2017-2018-el-raja-sporting-club-tanta/
+egypt-2017-2018,8,2017-11-03,16:00,201711031600,friday,Zamalek,PetroJet Football Club,3,0,3,H,W,L,2,0,2,H,W,L,http://www.worldfootball.net/report/premiership-2017-2018-zamalek-petrojet-football-club/
+egypt-2017-2018,8,2017-11-04,12:45,201711041245,saturday,El Assiouty Sport,El-Entag El-Harby,3,1,4,H,W,L,3,1,4,H,W,L,http://www.worldfootball.net/report/premiership-2017-2018-alassiouty-sport-el-entag-el-harby/
 egypt-2017-2018,8,2017-11-04,12:45,201711041245,saturday,Alassiouty Sport,El-Entag El-Harby,3,1,4,H,W,L,3.0,1.0,4.0,H,W,L,http://www.worldfootball.net/report/premiership-2017-2018-alassiouty-sport-el-entag-el-harby/
-egypt-2017-2018,8,2017-11-04,15:00,201711041500,saturday,Ittihad El-Iskandary,Al-Masry Club,0,1,1,A,L,W,0.0,1.0,1.0,A,L,W,http://www.worldfootball.net/report/premiership-2017-2018-ittihad-el-iskandary-al-masry-club/
-egypt-2017-2018,8,2017-11-04,17:30,201711041730,saturday,Tala'ea El-Gaish SC,Wadi Degla FC,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/premiership-2017-2018-talaea-el-gaish-sc-wadi-degla-fc/
-egypt-2017-2018,8,2017-11-05,15:30,201711051530,sunday,Misr lel-Maqasah SC,Smouha Sporting Club,2,0,2,H,W,L,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/premiership-2017-2018-misr-el-maqasah-sc-smouha-sporting-club/
+egypt-2017-2018,8,2017-11-04,15:00,201711041500,saturday,Ittihad El-Iskandary,Al-Masry Club,0,1,1,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/premiership-2017-2018-ittihad-el-iskandary-al-masry-club/
+egypt-2017-2018,8,2017-11-04,17:30,201711041730,saturday,Tala'ea El-Gaish SC,Wadi Degla FC,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/premiership-2017-2018-talaea-el-gaish-sc-wadi-degla-fc/
+egypt-2017-2018,8,2017-11-05,15:30,201711051530,sunday,Misr lel-Maqasah SC,Smouha Sporting Club,2,0,2,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/premiership-2017-2018-misr-el-maqasah-sc-smouha-sporting-club/
+egypt-2017-2018,9,2017-11-15,12:45,201711151245,wednesday,El Daklyeh,El Assiouty Sport,2,0,2,H,W,L,2,0,2,H,W,L,http://www.worldfootball.net/report/premiership-2017-2018-el-daklyeh-alassiouty-sport/
 egypt-2017-2018,9,2017-11-15,12:45,201711151245,wednesday,El Daklyeh,Alassiouty Sport,2,0,2,H,W,L,2.0,0.0,2.0,H,W,L,http://www.worldfootball.net/report/premiership-2017-2018-el-daklyeh-alassiouty-sport/
-egypt-2017-2018,9,2017-11-15,15:00,201711151500,wednesday,ENPPI,Ittihad El-Iskandary,2,0,2,H,W,L,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/premiership-2017-2018-enppi-ittihad-el-iskandary/
-egypt-2017-2018,9,2017-11-15,17:30,201711151730,wednesday,Wadi Degla FC,Misr lel-Maqasah SC,3,3,6,D,D,D,2.0,1.0,3.0,H,W,L,http://www.worldfootball.net/report/premiership-2017-2018-wadi-degla-fc-misr-el-maqasah-sc/
-egypt-2017-2018,9,2017-11-16,12:45,201711161245,thursday,Tanta,Ismaily,0,1,1,A,L,W,0.0,1.0,1.0,A,L,W,http://www.worldfootball.net/report/premiership-2017-2018-tanta-ismaily/
-egypt-2017-2018,9,2017-11-16,15:00,201711161500,thursday,Smouha Sporting Club,El Raja Sporting Club,1,0,1,H,W,L,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/premiership-2017-2018-smouha-sporting-club-el-raja-sporting-club/
-egypt-2017-2018,9,2017-11-16,18:00,201711161800,thursday,El-Entag El-Harby,Al-Ahly,1,2,3,A,L,W,1.0,1.0,2.0,D,D,D,http://www.worldfootball.net/report/premiership-2017-2018-el-entag-el-harby-al-ahly/
-egypt-2017-2018,9,2017-11-17,15:00,201711171500,friday,PetroJet Football Club,Tala'ea El-Gaish SC,2,0,2,H,W,L,2.0,0.0,2.0,H,W,L,http://www.worldfootball.net/report/premiership-2017-2018-petrojet-football-club-talaea-el-gaish-sc/
-egypt-2017-2018,9,2017-11-17,18:00,201711171800,friday,Zamalek,Al Nasr FC,2,1,3,H,W,L,1.0,0.0,1.0,H,W,L,http://www.worldfootball.net/report/premiership-2017-2018-zamalek-al-nasr-fc/
-egypt-2017-2018,9,2017-11-18,15:00,201711181500,saturday,Al-Masry Club,Al-Mokawloon,1,0,1,H,W,L,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/premiership-2017-2018-al-masry-club-al-mokawloon/
-egypt-2017-2018,4,2017-11-20,17:00,201711201700,monday,Ismaily,Al-Ahly,0,2,2,A,L,W,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/premiership-2017-2018-ismaily-al-ahly/
-egypt-2017-2018,10,2017-11-21,16:00,201711211600,tuesday,Ittihad El-Iskandary,Tanta,1,1,2,D,D,D,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/premiership-2017-2018-ittihad-el-iskandary-tanta/
-egypt-2017-2018,10,2017-11-22,12:45,201711221245,wednesday,El Raja Sporting Club,Wadi Degla FC,3,3,6,D,D,D,2.0,0.0,2.0,H,W,L,http://www.worldfootball.net/report/premiership-2017-2018-el-raja-sporting-club-wadi-degla-fc/
-egypt-2017-2018,10,2017-11-22,15:00,201711221500,wednesday,Misr lel-Maqasah SC,PetroJet Football Club,2,0,2,H,W,L,1.0,0.0,1.0,H,W,L,http://www.worldfootball.net/report/premiership-2017-2018-misr-el-maqasah-sc-petrojet-football-club/
+egypt-2017-2018,9,2017-11-15,15:00,201711151500,wednesday,ENPPI,Ittihad El-Iskandary,2,0,2,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/premiership-2017-2018-enppi-ittihad-el-iskandary/
+egypt-2017-2018,9,2017-11-15,17:30,201711151730,wednesday,Wadi Degla FC,Misr lel-Maqasah SC,3,3,6,D,D,D,2,1,3,H,W,L,http://www.worldfootball.net/report/premiership-2017-2018-wadi-degla-fc-misr-el-maqasah-sc/
+egypt-2017-2018,9,2017-11-16,12:45,201711161245,thursday,Tanta,Ismaily,0,1,1,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/premiership-2017-2018-tanta-ismaily/
+egypt-2017-2018,9,2017-11-16,15:00,201711161500,thursday,Smouha Sporting Club,El Raja Sporting Club,1,0,1,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/premiership-2017-2018-smouha-sporting-club-el-raja-sporting-club/
+egypt-2017-2018,9,2017-11-16,18:00,201711161800,thursday,El-Entag El-Harby,Al-Ahly,1,2,3,A,L,W,1,1,2,D,D,D,http://www.worldfootball.net/report/premiership-2017-2018-el-entag-el-harby-al-ahly/
+egypt-2017-2018,9,2017-11-17,15:00,201711171500,friday,PetroJet Football Club,Tala'ea El-Gaish SC,2,0,2,H,W,L,2,0,2,H,W,L,http://www.worldfootball.net/report/premiership-2017-2018-petrojet-football-club-talaea-el-gaish-sc/
+egypt-2017-2018,9,2017-11-17,18:00,201711171800,friday,Zamalek,Al Nasr FC,2,1,3,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/premiership-2017-2018-zamalek-al-nasr-fc/
+egypt-2017-2018,9,2017-11-18,15:00,201711181500,saturday,Al-Masry Club,Al-Mokawloon,1,0,1,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/premiership-2017-2018-al-masry-club-al-mokawloon/
+egypt-2017-2018,4,2017-11-20,17:00,201711201700,monday,Ismaily,Al-Ahly,0,2,2,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/premiership-2017-2018-ismaily-al-ahly/
+egypt-2017-2018,10,2017-11-21,16:00,201711211600,tuesday,Ittihad El-Iskandary,Tanta,1,1,2,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/premiership-2017-2018-ittihad-el-iskandary-tanta/
+egypt-2017-2018,10,2017-11-22,12:45,201711221245,wednesday,El Raja Sporting Club,Wadi Degla FC,3,3,6,D,D,D,2,0,2,H,W,L,http://www.worldfootball.net/report/premiership-2017-2018-el-raja-sporting-club-wadi-degla-fc/
+egypt-2017-2018,10,2017-11-22,15:00,201711221500,wednesday,Misr lel-Maqasah SC,PetroJet Football Club,2,0,2,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/premiership-2017-2018-misr-el-maqasah-sc-petrojet-football-club/
+egypt-2017-2018,10,2017-11-23,12:45,201711231245,thursday,El Assiouty Sport,Al-Masry Club,1,2,3,A,L,W,1,2,3,A,L,W,http://www.worldfootball.net/report/premiership-2017-2018-alassiouty-sport-al-masry-club/
 egypt-2017-2018,10,2017-11-23,12:45,201711231245,thursday,Alassiouty Sport,Al-Masry Club,1,2,3,A,L,W,1.0,2.0,3.0,A,L,W,http://www.worldfootball.net/report/premiership-2017-2018-alassiouty-sport-al-masry-club/
-egypt-2017-2018,10,2017-11-23,15:00,201711231500,thursday,Al Nasr FC,El-Entag El-Harby,0,1,1,A,L,W,0.0,1.0,1.0,A,L,W,http://www.worldfootball.net/report/premiership-2017-2018-al-nasr-fc-el-entag-el-harby/
-egypt-2017-2018,10,2017-11-23,17:30,201711231730,thursday,Al-Mokawloon,ENPPI,2,2,4,D,D,D,2.0,0.0,2.0,H,W,L,http://www.worldfootball.net/report/premiership-2017-2018-al-mokawloon-enppi/
-egypt-2017-2018,10,2017-11-24,15:00,201711241500,friday,Ismaily,Smouha Sporting Club,1,0,1,H,W,L,1.0,0.0,1.0,H,W,L,http://www.worldfootball.net/report/premiership-2017-2018-ismaily-smouha-sporting-club/
-egypt-2017-2018,10,2017-11-24,18:00,201711241800,friday,Al-Ahly,El Daklyeh,2,0,2,H,W,L,1.0,0.0,1.0,H,W,L,http://www.worldfootball.net/report/premiership-2017-2018-al-ahly-el-daklyeh/
-egypt-2017-2018,11,2017-11-27,12:45,201711271245,monday,PetroJet Football Club,El Raja Sporting Club,0,1,1,A,L,W,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/premiership-2017-2018-petrojet-football-club-el-raja-sporting-club/
-egypt-2017-2018,11,2017-11-27,15:00,201711271500,monday,Tala'ea El-Gaish SC,Al Nasr FC,1,3,4,A,L,W,0.0,2.0,2.0,A,L,W,http://www.worldfootball.net/report/premiership-2017-2018-talaea-el-gaish-sc-al-nasr-fc/
-egypt-2017-2018,11,2017-11-27,18:00,201711271800,monday,Zamalek,Misr lel-Maqasah SC,1,3,4,A,L,W,1.0,2.0,3.0,A,L,W,http://www.worldfootball.net/report/premiership-2017-2018-zamalek-misr-el-maqasah-sc/
-egypt-2017-2018,11,2017-11-28,12:45,201711281245,tuesday,Tanta,Al-Mokawloon,0,1,1,A,L,W,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/premiership-2017-2018-tanta-al-mokawloon/
+egypt-2017-2018,10,2017-11-23,15:00,201711231500,thursday,Al Nasr FC,El-Entag El-Harby,0,1,1,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/premiership-2017-2018-al-nasr-fc-el-entag-el-harby/
+egypt-2017-2018,10,2017-11-23,17:30,201711231730,thursday,Al-Mokawloon,ENPPI,2,2,4,D,D,D,2,0,2,H,W,L,http://www.worldfootball.net/report/premiership-2017-2018-al-mokawloon-enppi/
+egypt-2017-2018,10,2017-11-24,15:00,201711241500,friday,Ismaily,Smouha Sporting Club,1,0,1,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/premiership-2017-2018-ismaily-smouha-sporting-club/
+egypt-2017-2018,10,2017-11-24,18:00,201711241800,friday,Al-Ahly,El Daklyeh,2,0,2,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/premiership-2017-2018-al-ahly-el-daklyeh/
+egypt-2017-2018,11,2017-11-27,12:45,201711271245,monday,PetroJet Football Club,El Raja Sporting Club,0,1,1,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/premiership-2017-2018-petrojet-football-club-el-raja-sporting-club/
+egypt-2017-2018,11,2017-11-27,15:00,201711271500,monday,Tala'ea El-Gaish SC,Al Nasr FC,1,3,4,A,L,W,0,2,2,A,L,W,http://www.worldfootball.net/report/premiership-2017-2018-talaea-el-gaish-sc-al-nasr-fc/
+egypt-2017-2018,11,2017-11-27,18:00,201711271800,monday,Zamalek,Misr lel-Maqasah SC,1,3,4,A,L,W,1,2,3,A,L,W,http://www.worldfootball.net/report/premiership-2017-2018-zamalek-misr-el-maqasah-sc/
+egypt-2017-2018,11,2017-11-28,12:45,201711281245,tuesday,Tanta,Al-Mokawloon,0,1,1,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/premiership-2017-2018-tanta-al-mokawloon/
+egypt-2017-2018,11,2017-11-28,15:00,201711281500,tuesday,ENPPI,El Assiouty Sport,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/premiership-2017-2018-enppi-alassiouty-sport/
 egypt-2017-2018,11,2017-11-28,15:00,201711281500,tuesday,ENPPI,Alassiouty Sport,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/premiership-2017-2018-enppi-alassiouty-sport/
-egypt-2017-2018,11,2017-11-28,18:00,201711281800,tuesday,Al-Masry Club,Al-Ahly,0,2,2,A,L,W,0.0,1.0,1.0,A,L,W,http://www.worldfootball.net/report/premiership-2017-2018-al-masry-club-al-ahly/
-egypt-2017-2018,11,2017-11-29,12:45,201711291245,wednesday,El Daklyeh,El-Entag El-Harby,0,1,1,A,L,W,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/premiership-2017-2018-el-daklyeh-el-entag-el-harby/
-egypt-2017-2018,11,2017-11-29,15:00,201711291500,wednesday,Smouha Sporting Club,Ittihad El-Iskandary,1,1,2,D,D,D,1.0,0.0,1.0,H,W,L,http://www.worldfootball.net/report/premiership-2017-2018-smouha-sporting-club-ittihad-el-iskandary/
-egypt-2017-2018,11,2017-11-29,17:30,201711291730,wednesday,Wadi Degla FC,Ismaily,1,2,3,A,L,W,0.0,1.0,1.0,A,L,W,http://www.worldfootball.net/report/premiership-2017-2018-wadi-degla-fc-ismaily/
+egypt-2017-2018,11,2017-11-28,18:00,201711281800,tuesday,Al-Masry Club,Al-Ahly,0,2,2,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/premiership-2017-2018-al-masry-club-al-ahly/
+egypt-2017-2018,11,2017-11-29,12:45,201711291245,wednesday,El Daklyeh,El-Entag El-Harby,0,1,1,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/premiership-2017-2018-el-daklyeh-el-entag-el-harby/
+egypt-2017-2018,11,2017-11-29,15:00,201711291500,wednesday,Smouha Sporting Club,Ittihad El-Iskandary,1,1,2,D,D,D,1,0,1,H,W,L,http://www.worldfootball.net/report/premiership-2017-2018-smouha-sporting-club-ittihad-el-iskandary/
+egypt-2017-2018,11,2017-11-29,17:30,201711291730,wednesday,Wadi Degla FC,Ismaily,1,2,3,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/premiership-2017-2018-wadi-degla-fc-ismaily/
+egypt-2017-2018,12,2017-12-02,12:45,201712021245,saturday,El Assiouty Sport,Tanta,2,1,3,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/premiership-2017-2018-alassiouty-sport-tanta/
 egypt-2017-2018,12,2017-12-02,12:45,201712021245,saturday,Alassiouty Sport,Tanta,2,1,3,H,W,L,1.0,0.0,1.0,H,W,L,http://www.worldfootball.net/report/premiership-2017-2018-alassiouty-sport-tanta/
-egypt-2017-2018,12,2017-12-02,15:15,201712021515,saturday,El Raja Sporting Club,Zamalek,1,1,2,D,D,D,1.0,0.0,1.0,H,W,L,http://www.worldfootball.net/report/premiership-2017-2018-el-raja-sporting-club-zamalek/
-egypt-2017-2018,12,2017-12-02,18:00,201712021800,saturday,Al-Ahly,ENPPI,4,1,5,H,W,L,2.0,1.0,3.0,H,W,L,http://www.worldfootball.net/report/premiership-2017-2018-al-ahly-enppi/
-egypt-2017-2018,12,2017-12-03,12:45,201712031245,sunday,Ismaily,PetroJet Football Club,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/premiership-2017-2018-ismaily-petrojet-football-club/
-egypt-2017-2018,12,2017-12-03,15:00,201712031500,sunday,Ittihad El-Iskandary,Wadi Degla FC,4,0,4,H,W,L,1.0,0.0,1.0,H,W,L,http://www.worldfootball.net/report/premiership-2017-2018-ittihad-el-iskandary-wadi-degla-fc/
-egypt-2017-2018,12,2017-12-03,17:30,201712031730,sunday,Al-Mokawloon,Smouha Sporting Club,0,3,3,A,L,W,0.0,2.0,2.0,A,L,W,http://www.worldfootball.net/report/premiership-2017-2018-al-mokawloon-smouha-sporting-club/
-egypt-2017-2018,12,2017-12-04,12:45,201712041245,monday,Al Nasr FC,El Daklyeh,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/premiership-2017-2018-al-nasr-fc-el-daklyeh/
-egypt-2017-2018,12,2017-12-04,15:00,201712041500,monday,El-Entag El-Harby,Al-Masry Club,1,1,2,D,D,D,0.0,1.0,1.0,A,L,W,http://www.worldfootball.net/report/premiership-2017-2018-el-entag-el-harby-al-masry-club/
-egypt-2017-2018,12,2017-12-04,17:30,201712041730,monday,Misr lel-Maqasah SC,Tala'ea El-Gaish SC,4,0,4,H,W,L,1.0,0.0,1.0,H,W,L,http://www.worldfootball.net/report/premiership-2017-2018-misr-el-maqasah-sc-talaea-el-gaish-sc/
+egypt-2017-2018,12,2017-12-02,15:15,201712021515,saturday,El Raja Sporting Club,Zamalek,1,1,2,D,D,D,1,0,1,H,W,L,http://www.worldfootball.net/report/premiership-2017-2018-el-raja-sporting-club-zamalek/
+egypt-2017-2018,12,2017-12-02,18:00,201712021800,saturday,Al-Ahly,ENPPI,4,1,5,H,W,L,2,1,3,H,W,L,http://www.worldfootball.net/report/premiership-2017-2018-al-ahly-enppi/
+egypt-2017-2018,12,2017-12-03,12:45,201712031245,sunday,Ismaily,PetroJet Football Club,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/premiership-2017-2018-ismaily-petrojet-football-club/
+egypt-2017-2018,12,2017-12-03,15:00,201712031500,sunday,Ittihad El-Iskandary,Wadi Degla FC,4,0,4,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/premiership-2017-2018-ittihad-el-iskandary-wadi-degla-fc/
+egypt-2017-2018,12,2017-12-03,17:30,201712031730,sunday,Al-Mokawloon,Smouha Sporting Club,0,3,3,A,L,W,0,2,2,A,L,W,http://www.worldfootball.net/report/premiership-2017-2018-al-mokawloon-smouha-sporting-club/
+egypt-2017-2018,12,2017-12-04,12:45,201712041245,monday,Al Nasr FC,El Daklyeh,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/premiership-2017-2018-al-nasr-fc-el-daklyeh/
+egypt-2017-2018,12,2017-12-04,15:00,201712041500,monday,El-Entag El-Harby,Al-Masry Club,1,1,2,D,D,D,0,1,1,A,L,W,http://www.worldfootball.net/report/premiership-2017-2018-el-entag-el-harby-al-masry-club/
+egypt-2017-2018,12,2017-12-04,17:30,201712041730,monday,Misr lel-Maqasah SC,Tala'ea El-Gaish SC,4,0,4,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/premiership-2017-2018-misr-el-maqasah-sc-talaea-el-gaish-sc/
+egypt-2017-2018,7,2017-12-06,17:00,201712061700,wednesday,Al-Ahly,El Assiouty Sport,1,0,1,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/premiership-2017-2018-al-ahly-alassiouty-sport/
 egypt-2017-2018,7,2017-12-06,17:00,201712061700,wednesday,Al-Ahly,Alassiouty Sport,1,0,1,H,W,L,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/premiership-2017-2018-al-ahly-alassiouty-sport/
-egypt-2017-2018,2,2017-12-10,17:00,201712101700,sunday,Misr lel-Maqasah SC,Al-Ahly,3,2,5,H,W,L,1.0,1.0,2.0,D,D,D,http://www.worldfootball.net/report/premiership-2017-2018-misr-el-maqasah-sc-al-ahly/
-egypt-2017-2018,13,2017-12-13,12:45,201712131245,wednesday,Tala'ea El-Gaish SC,El Raja Sporting Club,2,1,3,H,W,L,1.0,0.0,1.0,H,W,L,http://www.worldfootball.net/report/premiership-2017-2018-talaea-el-gaish-sc-el-raja-sporting-club/
-egypt-2017-2018,13,2017-12-13,15:00,201712131500,wednesday,Al-Masry Club,El Daklyeh,1,1,2,D,D,D,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/premiership-2017-2018-al-masry-club-el-daklyeh/
-egypt-2017-2018,13,2017-12-13,17:30,201712131730,wednesday,ENPPI,El-Entag El-Harby,2,0,2,H,W,L,1.0,0.0,1.0,H,W,L,http://www.worldfootball.net/report/premiership-2017-2018-enppi-el-entag-el-harby/
-egypt-2017-2018,13,2017-12-14,12:45,201712141245,thursday,Misr lel-Maqasah SC,Al Nasr FC,1,4,5,A,L,W,1.0,1.0,2.0,D,D,D,http://www.worldfootball.net/report/premiership-2017-2018-misr-el-maqasah-sc-al-nasr-fc/
-egypt-2017-2018,13,2017-12-14,15:00,201712141500,thursday,Wadi Degla FC,Al-Mokawloon,2,0,2,H,W,L,2.0,0.0,2.0,H,W,L,http://www.worldfootball.net/report/premiership-2017-2018-wadi-degla-fc-al-mokawloon/
-egypt-2017-2018,13,2017-12-14,18:00,201712141800,thursday,Zamalek,Ismaily,0,1,1,A,L,W,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/premiership-2017-2018-zamalek-ismaily/
+egypt-2017-2018,2,2017-12-10,17:00,201712101700,sunday,Misr lel-Maqasah SC,Al-Ahly,3,2,5,H,W,L,1,1,2,D,D,D,http://www.worldfootball.net/report/premiership-2017-2018-misr-el-maqasah-sc-al-ahly/
+egypt-2017-2018,13,2017-12-13,12:45,201712131245,wednesday,Tala'ea El-Gaish SC,El Raja Sporting Club,2,1,3,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/premiership-2017-2018-talaea-el-gaish-sc-el-raja-sporting-club/
+egypt-2017-2018,13,2017-12-13,15:00,201712131500,wednesday,Al-Masry Club,El Daklyeh,1,1,2,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/premiership-2017-2018-al-masry-club-el-daklyeh/
+egypt-2017-2018,13,2017-12-13,17:30,201712131730,wednesday,ENPPI,El-Entag El-Harby,2,0,2,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/premiership-2017-2018-enppi-el-entag-el-harby/
+egypt-2017-2018,13,2017-12-14,12:45,201712141245,thursday,Misr lel-Maqasah SC,Al Nasr FC,1,4,5,A,L,W,1,1,2,D,D,D,http://www.worldfootball.net/report/premiership-2017-2018-misr-el-maqasah-sc-al-nasr-fc/
+egypt-2017-2018,13,2017-12-14,15:00,201712141500,thursday,Wadi Degla FC,Al-Mokawloon,2,0,2,H,W,L,2,0,2,H,W,L,http://www.worldfootball.net/report/premiership-2017-2018-wadi-degla-fc-al-mokawloon/
+egypt-2017-2018,13,2017-12-14,18:00,201712141800,thursday,Zamalek,Ismaily,0,1,1,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/premiership-2017-2018-zamalek-ismaily/
+egypt-2017-2018,13,2017-12-15,12:45,201712151245,friday,Smouha Sporting Club,El Assiouty Sport,1,3,4,A,L,W,1,1,2,D,D,D,http://www.worldfootball.net/report/premiership-2017-2018-smouha-sporting-club-alassiouty-sport/
 egypt-2017-2018,13,2017-12-15,12:45,201712151245,friday,Smouha Sporting Club,Alassiouty Sport,1,3,4,A,L,W,1.0,1.0,2.0,D,D,D,http://www.worldfootball.net/report/premiership-2017-2018-smouha-sporting-club-alassiouty-sport/
-egypt-2017-2018,13,2017-12-15,15:00,201712151500,friday,Tanta,Al-Ahly,1,1,2,D,D,D,0.0,1.0,1.0,A,L,W,http://www.worldfootball.net/report/premiership-2017-2018-tanta-al-ahly/
-egypt-2017-2018,13,2017-12-15,17:30,201712151730,friday,PetroJet Football Club,Ittihad El-Iskandary,2,0,2,H,W,L,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/premiership-2017-2018-petrojet-football-club-ittihad-el-iskandary/
-egypt-2017-2018,14,2017-12-18,15:00,201712181500,monday,Al Nasr FC,Al-Masry Club,2,3,5,A,L,W,2.0,1.0,3.0,H,W,L,http://www.worldfootball.net/report/premiership-2017-2018-al-nasr-fc-al-masry-club/
-egypt-2017-2018,14,2017-12-18,17:30,201712181730,monday,El Daklyeh,ENPPI,1,2,3,A,L,W,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/premiership-2017-2018-el-daklyeh-enppi/
-egypt-2017-2018,14,2017-12-19,12:45,201712191245,tuesday,El Raja Sporting Club,Misr lel-Maqasah SC,1,1,2,D,D,D,1.0,0.0,1.0,H,W,L,http://www.worldfootball.net/report/premiership-2017-2018-el-raja-sporting-club-misr-el-maqasah-sc/
-egypt-2017-2018,14,2017-12-19,15:00,201712191500,tuesday,El-Entag El-Harby,Tanta,1,0,1,H,W,L,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/premiership-2017-2018-el-entag-el-harby-tanta/
-egypt-2017-2018,14,2017-12-19,15:00,201712191500,tuesday,Ismaily,Tala'ea El-Gaish SC,1,1,2,D,D,D,1.0,1.0,2.0,D,D,D,http://www.worldfootball.net/report/premiership-2017-2018-ismaily-talaea-el-gaish-sc/
-egypt-2017-2018,14,2017-12-19,17:30,201712191730,tuesday,Al-Mokawloon,PetroJet Football Club,2,0,2,H,W,L,1.0,0.0,1.0,H,W,L,http://www.worldfootball.net/report/premiership-2017-2018-al-mokawloon-petrojet-football-club/
+egypt-2017-2018,13,2017-12-15,15:00,201712151500,friday,Tanta,Al-Ahly,1,1,2,D,D,D,0,1,1,A,L,W,http://www.worldfootball.net/report/premiership-2017-2018-tanta-al-ahly/
+egypt-2017-2018,13,2017-12-15,17:30,201712151730,friday,PetroJet Football Club,Ittihad El-Iskandary,2,0,2,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/premiership-2017-2018-petrojet-football-club-ittihad-el-iskandary/
+egypt-2017-2018,14,2017-12-18,15:00,201712181500,monday,Al Nasr FC,Al-Masry Club,2,3,5,A,L,W,2,1,3,H,W,L,http://www.worldfootball.net/report/premiership-2017-2018-al-nasr-fc-al-masry-club/
+egypt-2017-2018,14,2017-12-18,17:30,201712181730,monday,El Daklyeh,ENPPI,1,2,3,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/premiership-2017-2018-el-daklyeh-enppi/
+egypt-2017-2018,14,2017-12-19,12:45,201712191245,tuesday,El Raja Sporting Club,Misr lel-Maqasah SC,1,1,2,D,D,D,1,0,1,H,W,L,http://www.worldfootball.net/report/premiership-2017-2018-el-raja-sporting-club-misr-el-maqasah-sc/
+egypt-2017-2018,14,2017-12-19,15:00,201712191500,tuesday,El-Entag El-Harby,Tanta,1,0,1,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/premiership-2017-2018-el-entag-el-harby-tanta/
+egypt-2017-2018,14,2017-12-19,15:00,201712191500,tuesday,Ismaily,Tala'ea El-Gaish SC,1,1,2,D,D,D,1,1,2,D,D,D,http://www.worldfootball.net/report/premiership-2017-2018-ismaily-talaea-el-gaish-sc/
+egypt-2017-2018,14,2017-12-19,17:30,201712191730,tuesday,Al-Mokawloon,PetroJet Football Club,2,0,2,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/premiership-2017-2018-al-mokawloon-petrojet-football-club/
+egypt-2017-2018,14,2017-12-20,12:45,201712201245,wednesday,El Assiouty Sport,Wadi Degla FC,0,2,2,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/premiership-2017-2018-alassiouty-sport-wadi-degla-fc/
 egypt-2017-2018,14,2017-12-20,12:45,201712201245,wednesday,Alassiouty Sport,Wadi Degla FC,0,2,2,A,L,W,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/premiership-2017-2018-alassiouty-sport-wadi-degla-fc/
-egypt-2017-2018,14,2017-12-20,15:00,201712201500,wednesday,Ittihad El-Iskandary,Zamalek,0,2,2,A,L,W,0.0,1.0,1.0,A,L,W,http://www.worldfootball.net/report/premiership-2017-2018-ittihad-el-iskandary-zamalek/
-egypt-2017-2018,14,2017-12-20,18:00,201712201800,wednesday,Al-Ahly,Smouha Sporting Club,2,1,3,H,W,L,1.0,0.0,1.0,H,W,L,http://www.worldfootball.net/report/premiership-2017-2018-al-ahly-smouha-sporting-club/
-egypt-2017-2018,15,2017-12-22,15:00,201712221500,friday,ENPPI,Al-Masry Club,2,1,3,H,W,L,2.0,0.0,2.0,H,W,L,http://www.worldfootball.net/report/premiership-2017-2018-enppi-al-masry-club/
-egypt-2017-2018,15,2017-12-23,12:45,201712231245,saturday,El Raja Sporting Club,Al Nasr FC,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/premiership-2017-2018-el-raja-sporting-club-al-nasr-fc/
-egypt-2017-2018,15,2017-12-23,12:45,201712231245,saturday,Tanta,El Daklyeh,1,2,3,A,L,W,1.0,0.0,1.0,H,W,L,http://www.worldfootball.net/report/premiership-2017-2018-tanta-el-daklyeh/
-egypt-2017-2018,15,2017-12-23,15:00,201712231500,saturday,Misr lel-Maqasah SC,Ismaily,1,4,5,A,L,W,0.0,3.0,3.0,A,L,W,http://www.worldfootball.net/report/premiership-2017-2018-misr-el-maqasah-sc-ismaily/
+egypt-2017-2018,14,2017-12-20,15:00,201712201500,wednesday,Ittihad El-Iskandary,Zamalek,0,2,2,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/premiership-2017-2018-ittihad-el-iskandary-zamalek/
+egypt-2017-2018,14,2017-12-20,18:00,201712201800,wednesday,Al-Ahly,Smouha Sporting Club,2,1,3,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/premiership-2017-2018-al-ahly-smouha-sporting-club/
+egypt-2017-2018,15,2017-12-22,15:00,201712221500,friday,ENPPI,Al-Masry Club,2,1,3,H,W,L,2,0,2,H,W,L,http://www.worldfootball.net/report/premiership-2017-2018-enppi-al-masry-club/
+egypt-2017-2018,15,2017-12-23,12:45,201712231245,saturday,El Raja Sporting Club,Al Nasr FC,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/premiership-2017-2018-el-raja-sporting-club-al-nasr-fc/
+egypt-2017-2018,15,2017-12-23,12:45,201712231245,saturday,Tanta,El Daklyeh,1,2,3,A,L,W,1,0,1,H,W,L,http://www.worldfootball.net/report/premiership-2017-2018-tanta-el-daklyeh/
+egypt-2017-2018,15,2017-12-23,15:00,201712231500,saturday,Misr lel-Maqasah SC,Ismaily,1,4,5,A,L,W,0,3,3,A,L,W,http://www.worldfootball.net/report/premiership-2017-2018-misr-el-maqasah-sc-ismaily/
+egypt-2017-2018,15,2017-12-24,12:45,201712241245,sunday,PetroJet Football Club,El Assiouty Sport,1,2,3,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/premiership-2017-2018-petrojet-football-club-alassiouty-sport/
 egypt-2017-2018,15,2017-12-24,12:45,201712241245,sunday,PetroJet Football Club,Alassiouty Sport,1,2,3,A,L,W,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/premiership-2017-2018-petrojet-football-club-alassiouty-sport/
-egypt-2017-2018,15,2017-12-24,15:00,201712241500,sunday,Smouha Sporting Club,El-Entag El-Harby,2,1,3,H,W,L,1.0,0.0,1.0,H,W,L,http://www.worldfootball.net/report/premiership-2017-2018-smouha-sporting-club-el-entag-el-harby/
-egypt-2017-2018,15,2017-12-25,14:00,201712251400,monday,Tala'ea El-Gaish SC,Ittihad El-Iskandary,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/premiership-2017-2018-talaea-el-gaish-sc-ittihad-el-iskandary/
-egypt-2017-2018,15,2017-12-25,17:00,201712251700,monday,Wadi Degla FC,Al-Ahly,1,1,2,D,D,D,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/premiership-2017-2018-wadi-degla-fc-al-ahly/
-egypt-2017-2018,15,2017-12-26,17:00,201712261700,tuesday,Zamalek,Al-Mokawloon,1,0,1,H,W,L,1.0,0.0,1.0,H,W,L,http://www.worldfootball.net/report/premiership-2017-2018-zamalek-al-mokawloon/
-egypt-2017-2018,16,2017-12-27,12:45,201712271245,wednesday,ENPPI,Al Nasr FC,1,1,2,D,D,D,0.0,1.0,1.0,A,L,W,http://www.worldfootball.net/report/premiership-2017-2018-enppi-al-nasr-fc/
-egypt-2017-2018,16,2017-12-27,15:00,201712271500,wednesday,Ismaily,El Raja Sporting Club,5,0,5,H,W,L,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/premiership-2017-2018-ismaily-el-raja-sporting-club/
-egypt-2017-2018,16,2017-12-28,15:00,201712281500,thursday,Al-Masry Club,Tanta,6,3,9,H,W,L,3.0,2.0,5.0,H,W,L,http://www.worldfootball.net/report/premiership-2017-2018-al-masry-club-tanta/
-egypt-2017-2018,16,2017-12-29,13:00,201712291300,friday,Ittihad El-Iskandary,Misr lel-Maqasah SC,2,2,4,D,D,D,1.0,1.0,2.0,D,D,D,http://www.worldfootball.net/report/premiership-2017-2018-ittihad-el-iskandary-misr-el-maqasah-sc/
-egypt-2017-2018,16,2017-12-29,16:00,201712291600,friday,Al-Ahly,PetroJet Football Club,3,0,3,H,W,L,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/premiership-2017-2018-al-ahly-petrojet-football-club/
+egypt-2017-2018,15,2017-12-24,15:00,201712241500,sunday,Smouha Sporting Club,El-Entag El-Harby,2,1,3,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/premiership-2017-2018-smouha-sporting-club-el-entag-el-harby/
+egypt-2017-2018,15,2017-12-25,14:00,201712251400,monday,Tala'ea El-Gaish SC,Ittihad El-Iskandary,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/premiership-2017-2018-talaea-el-gaish-sc-ittihad-el-iskandary/
+egypt-2017-2018,15,2017-12-25,17:00,201712251700,monday,Wadi Degla FC,Al-Ahly,1,1,2,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/premiership-2017-2018-wadi-degla-fc-al-ahly/
+egypt-2017-2018,15,2017-12-26,17:00,201712261700,tuesday,Zamalek,Al-Mokawloon,1,0,1,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/premiership-2017-2018-zamalek-al-mokawloon/
+egypt-2017-2018,16,2017-12-27,12:45,201712271245,wednesday,ENPPI,Al Nasr FC,1,1,2,D,D,D,0,1,1,A,L,W,http://www.worldfootball.net/report/premiership-2017-2018-enppi-al-nasr-fc/
+egypt-2017-2018,16,2017-12-27,15:00,201712271500,wednesday,Ismaily,El Raja Sporting Club,5,0,5,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/premiership-2017-2018-ismaily-el-raja-sporting-club/
+egypt-2017-2018,16,2017-12-28,15:00,201712281500,thursday,Al-Masry Club,Tanta,6,3,9,H,W,L,3,2,5,H,W,L,http://www.worldfootball.net/report/premiership-2017-2018-al-masry-club-tanta/
+egypt-2017-2018,16,2017-12-29,13:00,201712291300,friday,Ittihad El-Iskandary,Misr lel-Maqasah SC,2,2,4,D,D,D,1,1,2,D,D,D,http://www.worldfootball.net/report/premiership-2017-2018-ittihad-el-iskandary-misr-el-maqasah-sc/
+egypt-2017-2018,16,2017-12-29,16:00,201712291600,friday,Al-Ahly,PetroJet Football Club,3,0,3,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/premiership-2017-2018-al-ahly-petrojet-football-club/
+egypt-2017-2018,16,2017-12-30,12:45,201712301245,saturday,El Assiouty Sport,Zamalek,0,1,1,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/premiership-2017-2018-alassiouty-sport-zamalek/
+egypt-2017-2018,16,2017-12-30,12:45,201712301245,saturday,El Daklyeh,Smouha Sporting Club,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/premiership-2017-2018-el-daklyeh-smouha-sporting-club/
 egypt-2017-2018,16,2017-12-30,12:45,201712301245,saturday,Alassiouty Sport,Zamalek,0,1,1,A,L,W,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/premiership-2017-2018-alassiouty-sport-zamalek/
-egypt-2017-2018,16,2017-12-30,12:45,201712301245,saturday,El Daklyeh,Smouha Sporting Club,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/premiership-2017-2018-el-daklyeh-smouha-sporting-club/
-egypt-2017-2018,16,2017-12-30,15:00,201712301500,saturday,Al-Mokawloon,Tala'ea El-Gaish SC,0,2,2,A,L,W,0.0,1.0,1.0,A,L,W,http://www.worldfootball.net/report/premiership-2017-2018-al-mokawloon-talaea-el-gaish-sc/
-egypt-2017-2018,16,2017-12-30,17:30,201712301730,saturday,El-Entag El-Harby,Wadi Degla FC,2,0,2,H,W,L,1.0,0.0,1.0,H,W,L,http://www.worldfootball.net/report/premiership-2017-2018-el-entag-el-harby-wadi-degla-fc/
-egypt-2017-2018,8,2018-01-02,17:00,201801021700,tuesday,Al Nasr FC,Al-Ahly,0,4,4,A,L,W,0.0,2.0,2.0,A,L,W,http://www.worldfootball.net/report/premiership-2017-2018-al-nasr-fc-al-ahly/
-egypt-2017-2018,10,2018-01-03,17:00,201801031700,wednesday,Tala'ea El-Gaish SC,Zamalek,1,0,1,H,W,L,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/premiership-2017-2018-talaea-el-gaish-sc-zamalek/
-egypt-2017-2018,17,2018-01-04,12:30,201801041230,thursday,El Raja Sporting Club,Ittihad El-Iskandary,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/premiership-2017-2018-el-raja-sporting-club-ittihad-el-iskandary/
-egypt-2017-2018,17,2018-01-04,15:00,201801041500,thursday,Misr lel-Maqasah SC,Al-Mokawloon,0,2,2,A,L,W,0.0,1.0,1.0,A,L,W,http://www.worldfootball.net/report/premiership-2017-2018-misr-el-maqasah-sc-al-mokawloon/
-egypt-2017-2018,17,2018-01-05,12:30,201801051230,friday,Tanta,ENPPI,0,1,1,A,L,W,0.0,1.0,1.0,A,L,W,http://www.worldfootball.net/report/premiership-2017-2018-tanta-enppi/
-egypt-2017-2018,17,2018-01-05,15:00,201801051500,friday,PetroJet Football Club,El-Entag El-Harby,1,0,1,H,W,L,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/premiership-2017-2018-petrojet-football-club-el-entag-el-harby/
-egypt-2017-2018,17,2018-01-05,15:00,201801051500,friday,Smouha Sporting Club,Al-Masry Club,3,2,5,H,W,L,1.0,0.0,1.0,H,W,L,http://www.worldfootball.net/report/premiership-2017-2018-smouha-sporting-club-al-masry-club/
-egypt-2017-2018,17,2018-01-05,17:30,201801051730,friday,Wadi Degla FC,El Daklyeh,1,2,3,A,L,W,1.0,1.0,2.0,D,D,D,http://www.worldfootball.net/report/premiership-2017-2018-wadi-degla-fc-el-daklyeh/
-egypt-2017-2018,17,2018-01-08,17:00,201801081700,monday,Zamalek,Al-Ahly,0,3,3,A,L,W,0.0,2.0,2.0,A,L,W,http://www.worldfootball.net/report/premiership-2017-2018-zamalek-al-ahly/
+egypt-2017-2018,16,2017-12-30,15:00,201712301500,saturday,Al-Mokawloon,Tala'ea El-Gaish SC,0,2,2,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/premiership-2017-2018-al-mokawloon-talaea-el-gaish-sc/
+egypt-2017-2018,16,2017-12-30,17:30,201712301730,saturday,El-Entag El-Harby,Wadi Degla FC,2,0,2,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/premiership-2017-2018-el-entag-el-harby-wadi-degla-fc/
+egypt-2017-2018,8,2018-01-02,17:00,201801021700,tuesday,Al Nasr FC,Al-Ahly,0,4,4,A,L,W,0,2,2,A,L,W,http://www.worldfootball.net/report/premiership-2017-2018-al-nasr-fc-al-ahly/
+egypt-2017-2018,10,2018-01-03,17:00,201801031700,wednesday,Tala'ea El-Gaish SC,Zamalek,1,0,1,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/premiership-2017-2018-talaea-el-gaish-sc-zamalek/
+egypt-2017-2018,17,2018-01-04,12:30,201801041230,thursday,El Raja Sporting Club,Ittihad El-Iskandary,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/premiership-2017-2018-el-raja-sporting-club-ittihad-el-iskandary/
+egypt-2017-2018,17,2018-01-04,15:00,201801041500,thursday,Misr lel-Maqasah SC,Al-Mokawloon,0,2,2,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/premiership-2017-2018-misr-el-maqasah-sc-al-mokawloon/
+egypt-2017-2018,17,2018-01-05,12:30,201801051230,friday,Tanta,ENPPI,0,1,1,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/premiership-2017-2018-tanta-enppi/
+egypt-2017-2018,17,2018-01-05,15:00,201801051500,friday,PetroJet Football Club,El-Entag El-Harby,1,0,1,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/premiership-2017-2018-petrojet-football-club-el-entag-el-harby/
+egypt-2017-2018,17,2018-01-05,15:00,201801051500,friday,Smouha Sporting Club,Al-Masry Club,3,2,5,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/premiership-2017-2018-smouha-sporting-club-al-masry-club/
+egypt-2017-2018,17,2018-01-05,17:30,201801051730,friday,Wadi Degla FC,El Daklyeh,1,2,3,A,L,W,1,1,2,D,D,D,http://www.worldfootball.net/report/premiership-2017-2018-wadi-degla-fc-el-daklyeh/
+egypt-2017-2018,17,2018-01-08,17:00,201801081700,monday,Zamalek,Al-Ahly,0,3,3,A,L,W,0,2,2,A,L,W,http://www.worldfootball.net/report/premiership-2017-2018-zamalek-al-ahly/
+egypt-2017-2018,17,2018-01-09,16:00,201801091600,tuesday,Tala'ea El-Gaish SC,El Assiouty Sport,2,1,3,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/premiership-2017-2018-talaea-el-gaish-sc-alassiouty-sport/
 egypt-2017-2018,17,2018-01-09,16:00,201801091600,tuesday,Tala'ea El-Gaish SC,Alassiouty Sport,2,1,3,H,W,L,1.0,0.0,1.0,H,W,L,http://www.worldfootball.net/report/premiership-2017-2018-talaea-el-gaish-sc-alassiouty-sport/
-egypt-2017-2018,17,2018-01-09,18:00,201801091800,tuesday,Al Nasr FC,Ismaily,2,3,5,A,L,W,1.0,0.0,1.0,H,W,L,http://www.worldfootball.net/report/premiership-2017-2018-al-nasr-fc-ismaily/
-egypt-2017-2018,18,2018-01-13,12:30,201801131230,saturday,El Raja Sporting Club,Al-Mokawloon,1,0,1,H,W,L,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/premiership-2017-2018-el-raja-sporting-club-al-mokawloon/
+egypt-2017-2018,17,2018-01-09,18:00,201801091800,tuesday,Al Nasr FC,Ismaily,2,3,5,A,L,W,1,0,1,H,W,L,http://www.worldfootball.net/report/premiership-2017-2018-al-nasr-fc-ismaily/
+egypt-2017-2018,18,2018-01-13,12:30,201801131230,saturday,El Raja Sporting Club,Al-Mokawloon,1,0,1,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/premiership-2017-2018-el-raja-sporting-club-al-mokawloon/
+egypt-2017-2018,18,2018-01-13,12:30,201801131230,saturday,Misr lel-Maqasah SC,El Assiouty Sport,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/premiership-2017-2018-misr-el-maqasah-sc-alassiouty-sport/
 egypt-2017-2018,18,2018-01-13,12:30,201801131230,saturday,Misr lel-Maqasah SC,Alassiouty Sport,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/premiership-2017-2018-misr-el-maqasah-sc-alassiouty-sport/
-egypt-2017-2018,18,2018-01-13,15:00,201801131500,saturday,Ismaily,Ittihad El-Iskandary,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/premiership-2017-2018-ismaily-ittihad-el-iskandary/
-egypt-2017-2018,18,2018-01-13,17:30,201801131730,saturday,Al Nasr FC,Tanta,1,2,3,A,L,W,1.0,1.0,2.0,D,D,D,http://www.worldfootball.net/report/premiership-2017-2018-al-nasr-fc-tanta/
-egypt-2017-2018,18,2018-01-14,12:30,201801141230,sunday,PetroJet Football Club,El Daklyeh,1,1,2,D,D,D,1.0,0.0,1.0,H,W,L,http://www.worldfootball.net/report/premiership-2017-2018-petrojet-football-club-el-daklyeh/
-egypt-2017-2018,18,2018-01-14,15:00,201801141500,sunday,Smouha Sporting Club,ENPPI,4,0,4,H,W,L,1.0,0.0,1.0,H,W,L,http://www.worldfootball.net/report/premiership-2017-2018-smouha-sporting-club-enppi/
-egypt-2017-2018,18,2018-01-14,18:00,201801141800,sunday,Zamalek,El-Entag El-Harby,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/premiership-2017-2018-zamalek-el-entag-el-harby/
-egypt-2017-2018,18,2018-01-16,15:00,201801161500,tuesday,Wadi Degla FC,Al-Masry Club,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/premiership-2017-2018-wadi-degla-fc-al-masry-club/
-egypt-2017-2018,18,2018-01-16,18:00,201801161800,tuesday,Tala'ea El-Gaish SC,Al-Ahly,0,2,2,A,L,W,0.0,1.0,1.0,A,L,W,http://www.worldfootball.net/report/premiership-2017-2018-talaea-el-gaish-sc-al-ahly/
+egypt-2017-2018,18,2018-01-13,15:00,201801131500,saturday,Ismaily,Ittihad El-Iskandary,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/premiership-2017-2018-ismaily-ittihad-el-iskandary/
+egypt-2017-2018,18,2018-01-13,17:30,201801131730,saturday,Al Nasr FC,Tanta,1,2,3,A,L,W,1,1,2,D,D,D,http://www.worldfootball.net/report/premiership-2017-2018-al-nasr-fc-tanta/
+egypt-2017-2018,18,2018-01-14,12:30,201801141230,sunday,PetroJet Football Club,El Daklyeh,1,1,2,D,D,D,1,0,1,H,W,L,http://www.worldfootball.net/report/premiership-2017-2018-petrojet-football-club-el-daklyeh/
+egypt-2017-2018,18,2018-01-14,15:00,201801141500,sunday,Smouha Sporting Club,ENPPI,4,0,4,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/premiership-2017-2018-smouha-sporting-club-enppi/
+egypt-2017-2018,18,2018-01-14,18:00,201801141800,sunday,Zamalek,El-Entag El-Harby,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/premiership-2017-2018-zamalek-el-entag-el-harby/
+egypt-2017-2018,18,2018-01-16,15:00,201801161500,tuesday,Wadi Degla FC,Al-Masry Club,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/premiership-2017-2018-wadi-degla-fc-al-masry-club/
+egypt-2017-2018,18,2018-01-16,18:00,201801161800,tuesday,Tala'ea El-Gaish SC,Al-Ahly,0,2,2,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/premiership-2017-2018-talaea-el-gaish-sc-al-ahly/
+egypt-2017-2018,19,2018-01-17,12:30,201801171230,wednesday,El Assiouty Sport,El Raja Sporting Club,3,1,4,H,W,L,2,1,3,H,W,L,http://www.worldfootball.net/report/premiership-2017-2018-alassiouty-sport-el-raja-sporting-club/
 egypt-2017-2018,19,2018-01-17,12:30,201801171230,wednesday,Alassiouty Sport,El Raja Sporting Club,3,1,4,H,W,L,2.0,1.0,3.0,H,W,L,http://www.worldfootball.net/report/premiership-2017-2018-alassiouty-sport-el-raja-sporting-club/
-egypt-2017-2018,19,2018-01-17,15:00,201801171500,wednesday,Ittihad El-Iskandary,Al Nasr FC,3,0,3,H,W,L,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/premiership-2017-2018-ittihad-el-iskandary-al-nasr-fc/
-egypt-2017-2018,19,2018-01-17,17:30,201801171730,wednesday,Al-Mokawloon,Ismaily,2,0,2,H,W,L,1.0,0.0,1.0,H,W,L,http://www.worldfootball.net/report/premiership-2017-2018-al-mokawloon-ismaily/
-egypt-2017-2018,19,2018-01-18,16:00,201801181600,thursday,El Daklyeh,Zamalek,1,2,3,A,L,W,0.0,1.0,1.0,A,L,W,http://www.worldfootball.net/report/premiership-2017-2018-el-daklyeh-zamalek/
-egypt-2017-2018,19,2018-01-19,12:30,201801191230,friday,Tanta,Smouha Sporting Club,1,0,1,H,W,L,1.0,0.0,1.0,H,W,L,http://www.worldfootball.net/report/premiership-2017-2018-tanta-smouha-sporting-club/
-egypt-2017-2018,19,2018-01-20,12:45,201801201245,saturday,Al-Masry Club,PetroJet Football Club,2,1,3,H,W,L,1.0,1.0,2.0,D,D,D,http://www.worldfootball.net/report/premiership-2017-2018-al-masry-club-petrojet-football-club/
-egypt-2017-2018,19,2018-01-20,15:00,201801201500,saturday,ENPPI,Wadi Degla FC,1,0,1,H,W,L,1.0,0.0,1.0,H,W,L,http://www.worldfootball.net/report/premiership-2017-2018-enppi-wadi-degla-fc/
-egypt-2017-2018,19,2018-01-20,17:30,201801201730,saturday,El-Entag El-Harby,Tala'ea El-Gaish SC,1,0,1,H,W,L,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/premiership-2017-2018-el-entag-el-harby-talaea-el-gaish-sc/
-egypt-2017-2018,19,2018-01-21,17:00,201801211700,sunday,Al-Ahly,Misr lel-Maqasah SC,2,1,3,H,W,L,0.0,1.0,1.0,A,L,W,http://www.worldfootball.net/report/premiership-2017-2018-al-ahly-misr-el-maqasah-sc/
-egypt-2017-2018,20,2018-01-22,12:30,201801221230,monday,Ittihad El-Iskandary,Al-Mokawloon,1,1,2,D,D,D,1.0,0.0,1.0,H,W,L,http://www.worldfootball.net/report/premiership-2017-2018-ittihad-el-iskandary-al-mokawloon/
+egypt-2017-2018,19,2018-01-17,15:00,201801171500,wednesday,Ittihad El-Iskandary,Al Nasr FC,3,0,3,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/premiership-2017-2018-ittihad-el-iskandary-al-nasr-fc/
+egypt-2017-2018,19,2018-01-17,17:30,201801171730,wednesday,Al-Mokawloon,Ismaily,2,0,2,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/premiership-2017-2018-al-mokawloon-ismaily/
+egypt-2017-2018,19,2018-01-18,16:00,201801181600,thursday,El Daklyeh,Zamalek,1,2,3,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/premiership-2017-2018-el-daklyeh-zamalek/
+egypt-2017-2018,19,2018-01-19,12:30,201801191230,friday,Tanta,Smouha Sporting Club,1,0,1,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/premiership-2017-2018-tanta-smouha-sporting-club/
+egypt-2017-2018,19,2018-01-20,12:45,201801201245,saturday,Al-Masry Club,PetroJet Football Club,2,1,3,H,W,L,1,1,2,D,D,D,http://www.worldfootball.net/report/premiership-2017-2018-al-masry-club-petrojet-football-club/
+egypt-2017-2018,19,2018-01-20,15:00,201801201500,saturday,ENPPI,Wadi Degla FC,1,0,1,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/premiership-2017-2018-enppi-wadi-degla-fc/
+egypt-2017-2018,19,2018-01-20,17:30,201801201730,saturday,El-Entag El-Harby,Tala'ea El-Gaish SC,1,0,1,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/premiership-2017-2018-el-entag-el-harby-talaea-el-gaish-sc/
+egypt-2017-2018,19,2018-01-21,17:00,201801211700,sunday,Al-Ahly,Misr lel-Maqasah SC,2,1,3,H,W,L,0,1,1,A,L,W,http://www.worldfootball.net/report/premiership-2017-2018-al-ahly-misr-el-maqasah-sc/
+egypt-2017-2018,20,2018-01-22,12:30,201801221230,monday,Ittihad El-Iskandary,Al-Mokawloon,1,1,2,D,D,D,1,0,1,H,W,L,http://www.worldfootball.net/report/premiership-2017-2018-ittihad-el-iskandary-al-mokawloon/
+egypt-2017-2018,20,2018-01-22,15:00,201801221500,monday,Ismaily,El Assiouty Sport,1,1,2,D,D,D,1,1,2,D,D,D,http://www.worldfootball.net/report/premiership-2017-2018-ismaily-alassiouty-sport/
 egypt-2017-2018,20,2018-01-22,15:00,201801221500,monday,Ismaily,Alassiouty Sport,1,1,2,D,D,D,1.0,1.0,2.0,D,D,D,http://www.worldfootball.net/report/premiership-2017-2018-ismaily-alassiouty-sport/
-egypt-2017-2018,20,2018-01-23,15:00,201801231500,tuesday,Al Nasr FC,Smouha Sporting Club,0,2,2,A,L,W,0.0,2.0,2.0,A,L,W,http://www.worldfootball.net/report/premiership-2017-2018-al-nasr-fc-smouha-sporting-club/
-egypt-2017-2018,20,2018-01-24,12:30,201801241230,wednesday,Wadi Degla FC,Tanta,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/premiership-2017-2018-wadi-degla-fc-tanta/
-egypt-2017-2018,20,2018-01-24,15:00,201801241500,wednesday,PetroJet Football Club,ENPPI,1,0,1,H,W,L,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/premiership-2017-2018-petrojet-football-club-enppi/
-egypt-2017-2018,20,2018-01-24,15:00,201801241500,wednesday,Tala'ea El-Gaish SC,El Daklyeh,0,2,2,A,L,W,0.0,1.0,1.0,A,L,W,http://www.worldfootball.net/report/premiership-2017-2018-talaea-el-gaish-sc-el-daklyeh/
-egypt-2017-2018,20,2018-01-24,18:00,201801241800,wednesday,Zamalek,Al-Masry Club,0,1,1,A,L,W,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/premiership-2017-2018-zamalek-al-masry-club/
-egypt-2017-2018,20,2018-01-25,12:30,201801251230,thursday,El Raja Sporting Club,Al-Ahly,1,3,4,A,L,W,1.0,0.0,1.0,H,W,L,http://www.worldfootball.net/report/premiership-2017-2018-el-raja-sporting-club-al-ahly/
-egypt-2017-2018,20,2018-01-25,15:00,201801251500,thursday,Misr lel-Maqasah SC,El-Entag El-Harby,3,1,4,H,W,L,2.0,0.0,2.0,H,W,L,http://www.worldfootball.net/report/premiership-2017-2018-misr-el-maqasah-sc-el-entag-el-harby/
+egypt-2017-2018,20,2018-01-23,15:00,201801231500,tuesday,Al Nasr FC,Smouha Sporting Club,0,2,2,A,L,W,0,2,2,A,L,W,http://www.worldfootball.net/report/premiership-2017-2018-al-nasr-fc-smouha-sporting-club/
+egypt-2017-2018,20,2018-01-24,12:30,201801241230,wednesday,Wadi Degla FC,Tanta,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/premiership-2017-2018-wadi-degla-fc-tanta/
+egypt-2017-2018,20,2018-01-24,15:00,201801241500,wednesday,PetroJet Football Club,ENPPI,1,0,1,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/premiership-2017-2018-petrojet-football-club-enppi/
+egypt-2017-2018,20,2018-01-24,15:00,201801241500,wednesday,Tala'ea El-Gaish SC,El Daklyeh,0,2,2,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/premiership-2017-2018-talaea-el-gaish-sc-el-daklyeh/
+egypt-2017-2018,20,2018-01-24,18:00,201801241800,wednesday,Zamalek,Al-Masry Club,0,1,1,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/premiership-2017-2018-zamalek-al-masry-club/
+egypt-2017-2018,20,2018-01-25,12:30,201801251230,thursday,El Raja Sporting Club,Al-Ahly,1,3,4,A,L,W,1,0,1,H,W,L,http://www.worldfootball.net/report/premiership-2017-2018-el-raja-sporting-club-al-ahly/
+egypt-2017-2018,20,2018-01-25,15:00,201801251500,thursday,Misr lel-Maqasah SC,El-Entag El-Harby,3,1,4,H,W,L,2,0,2,H,W,L,http://www.worldfootball.net/report/premiership-2017-2018-misr-el-maqasah-sc-el-entag-el-harby/
+egypt-2017-2018,21,2018-01-28,12:30,201801281230,sunday,El Assiouty Sport,Ittihad El-Iskandary,1,1,2,D,D,D,0,1,1,A,L,W,http://www.worldfootball.net/report/premiership-2017-2018-alassiouty-sport-ittihad-el-iskandary/
 egypt-2017-2018,21,2018-01-28,12:30,201801281230,sunday,Alassiouty Sport,Ittihad El-Iskandary,1,1,2,D,D,D,0.0,1.0,1.0,A,L,W,http://www.worldfootball.net/report/premiership-2017-2018-alassiouty-sport-ittihad-el-iskandary/
-egypt-2017-2018,21,2018-01-28,15:00,201801281500,sunday,Al-Mokawloon,Al Nasr FC,2,2,4,D,D,D,1.0,2.0,3.0,A,L,W,http://www.worldfootball.net/report/premiership-2017-2018-al-mokawloon-al-nasr-fc/
-egypt-2017-2018,21,2018-01-29,12:30,201801291230,monday,Tanta,PetroJet Football Club,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/premiership-2017-2018-tanta-petrojet-football-club/
-egypt-2017-2018,21,2018-01-29,15:00,201801291500,monday,Smouha Sporting Club,Wadi Degla FC,2,1,3,H,W,L,1.0,0.0,1.0,H,W,L,http://www.worldfootball.net/report/premiership-2017-2018-smouha-sporting-club-wadi-degla-fc/
-egypt-2017-2018,21,2018-01-29,17:30,201801291730,monday,El-Entag El-Harby,El Raja Sporting Club,2,1,3,H,W,L,1.0,1.0,2.0,D,D,D,http://www.worldfootball.net/report/premiership-2017-2018-el-entag-el-harby-el-raja-sporting-club/
-egypt-2017-2018,21,2018-01-30,15:00,201801301500,tuesday,Misr lel-Maqasah SC,El Daklyeh,2,2,4,D,D,D,0.0,1.0,1.0,A,L,W,http://www.worldfootball.net/report/premiership-2017-2018-misr-el-maqasah-sc-el-daklyeh/
-egypt-2017-2018,21,2018-01-30,18:00,201801301800,tuesday,Al-Ahly,Ismaily,1,0,1,H,W,L,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/premiership-2017-2018-al-ahly-ismaily/
-egypt-2017-2018,21,2018-01-31,15:00,201801311500,wednesday,Al-Masry Club,Tala'ea El-Gaish SC,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/premiership-2017-2018-al-masry-club-talaea-el-gaish-sc/
-egypt-2017-2018,21,2018-01-31,18:00,201801311800,wednesday,ENPPI,Zamalek,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/premiership-2017-2018-enppi-zamalek/
+egypt-2017-2018,21,2018-01-28,15:00,201801281500,sunday,Al-Mokawloon,Al Nasr FC,2,2,4,D,D,D,1,2,3,A,L,W,http://www.worldfootball.net/report/premiership-2017-2018-al-mokawloon-al-nasr-fc/
+egypt-2017-2018,21,2018-01-29,12:30,201801291230,monday,Tanta,PetroJet Football Club,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/premiership-2017-2018-tanta-petrojet-football-club/
+egypt-2017-2018,21,2018-01-29,15:00,201801291500,monday,Smouha Sporting Club,Wadi Degla FC,2,1,3,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/premiership-2017-2018-smouha-sporting-club-wadi-degla-fc/
+egypt-2017-2018,21,2018-01-29,17:30,201801291730,monday,El-Entag El-Harby,El Raja Sporting Club,2,1,3,H,W,L,1,1,2,D,D,D,http://www.worldfootball.net/report/premiership-2017-2018-el-entag-el-harby-el-raja-sporting-club/
+egypt-2017-2018,21,2018-01-30,15:00,201801301500,tuesday,Misr lel-Maqasah SC,El Daklyeh,2,2,4,D,D,D,0,1,1,A,L,W,http://www.worldfootball.net/report/premiership-2017-2018-misr-el-maqasah-sc-el-daklyeh/
+egypt-2017-2018,21,2018-01-30,18:00,201801301800,tuesday,Al-Ahly,Ismaily,1,0,1,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/premiership-2017-2018-al-ahly-ismaily/
+egypt-2017-2018,21,2018-01-31,15:00,201801311500,wednesday,Al-Masry Club,Tala'ea El-Gaish SC,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/premiership-2017-2018-al-masry-club-talaea-el-gaish-sc/
+egypt-2017-2018,21,2018-01-31,18:00,201801311800,wednesday,ENPPI,Zamalek,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/premiership-2017-2018-enppi-zamalek/
+egypt-2017-2018,22,2018-02-02,12:45,201802021245,friday,Al-Mokawloon,El Assiouty Sport,1,1,2,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/premiership-2017-2018-al-mokawloon-alassiouty-sport/
 egypt-2017-2018,22,2018-02-02,12:45,201802021245,friday,Al-Mokawloon,Alassiouty Sport,1,1,2,D,D,D,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/premiership-2017-2018-al-mokawloon-alassiouty-sport/
-egypt-2017-2018,22,2018-02-02,15:00,201802021500,friday,PetroJet Football Club,Smouha Sporting Club,2,1,3,H,W,L,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/premiership-2017-2018-petrojet-football-club-smouha-sporting-club/
-egypt-2017-2018,22,2018-02-02,17:30,201802021730,friday,Al Nasr FC,Wadi Degla FC,0,1,1,A,L,W,0.0,1.0,1.0,A,L,W,http://www.worldfootball.net/report/premiership-2017-2018-al-nasr-fc-wadi-degla-fc/
-egypt-2017-2018,22,2018-02-03,12:30,201802031230,saturday,El Raja Sporting Club,El Daklyeh,0,1,1,A,L,W,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/premiership-2017-2018-el-raja-sporting-club-el-daklyeh/
-egypt-2017-2018,22,2018-02-03,15:00,201802031500,saturday,Ismaily,El-Entag El-Harby,2,0,2,H,W,L,1.0,0.0,1.0,H,W,L,http://www.worldfootball.net/report/premiership-2017-2018-ismaily-el-entag-el-harby/
-egypt-2017-2018,22,2018-02-04,12:30,201802041230,sunday,Tala'ea El-Gaish SC,ENPPI,1,0,1,H,W,L,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/premiership-2017-2018-talaea-el-gaish-sc-enppi/
-egypt-2017-2018,22,2018-02-04,15:15,201802041515,sunday,Ittihad El-Iskandary,Al-Ahly,0,3,3,A,L,W,0.0,1.0,1.0,A,L,W,http://www.worldfootball.net/report/premiership-2017-2018-ittihad-el-iskandary-al-ahly/
-egypt-2017-2018,22,2018-02-04,18:00,201802041800,sunday,Zamalek,Tanta,2,1,3,H,W,L,2.0,1.0,3.0,H,W,L,http://www.worldfootball.net/report/premiership-2017-2018-zamalek-tanta/
-egypt-2017-2018,22,2018-02-05,15:00,201802051500,monday,Misr lel-Maqasah SC,Al-Masry Club,1,4,5,A,L,W,0.0,2.0,2.0,A,L,W,http://www.worldfootball.net/report/premiership-2017-2018-misr-el-maqasah-sc-al-masry-club/
-egypt-2017-2018,6,2018-02-08,17:00,201802081700,thursday,Al-Mokawloon,Al-Ahly,0,3,3,A,L,W,0.0,2.0,2.0,A,L,W,http://www.worldfootball.net/report/premiership-2017-2018-al-mokawloon-al-ahly/
-egypt-2017-2018,23,2018-02-09,12:45,201802091245,friday,El Daklyeh,Ismaily,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/premiership-2017-2018-el-daklyeh-ismaily/
-egypt-2017-2018,24,2018-02-09,12:45,201802091245,friday,El Raja Sporting Club,ENPPI,3,0,3,H,W,L,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/premiership-2017-2018-el-raja-sporting-club-enppi/
-egypt-2017-2018,23,2018-02-09,15:00,201802091500,friday,Wadi Degla FC,PetroJet Football Club,2,1,3,H,W,L,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/premiership-2017-2018-wadi-degla-fc-petrojet-football-club/
-egypt-2017-2018,23,2018-02-09,17:30,201802091730,friday,El-Entag El-Harby,Ittihad El-Iskandary,3,2,5,H,W,L,1.0,0.0,1.0,H,W,L,http://www.worldfootball.net/report/premiership-2017-2018-el-entag-el-harby-ittihad-el-iskandary/
+egypt-2017-2018,22,2018-02-02,15:00,201802021500,friday,PetroJet Football Club,Smouha Sporting Club,2,1,3,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/premiership-2017-2018-petrojet-football-club-smouha-sporting-club/
+egypt-2017-2018,22,2018-02-02,17:30,201802021730,friday,Al Nasr FC,Wadi Degla FC,0,1,1,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/premiership-2017-2018-al-nasr-fc-wadi-degla-fc/
+egypt-2017-2018,22,2018-02-03,12:30,201802031230,saturday,El Raja Sporting Club,El Daklyeh,0,1,1,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/premiership-2017-2018-el-raja-sporting-club-el-daklyeh/
+egypt-2017-2018,22,2018-02-03,15:00,201802031500,saturday,Ismaily,El-Entag El-Harby,2,0,2,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/premiership-2017-2018-ismaily-el-entag-el-harby/
+egypt-2017-2018,22,2018-02-04,12:30,201802041230,sunday,Tala'ea El-Gaish SC,ENPPI,1,0,1,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/premiership-2017-2018-talaea-el-gaish-sc-enppi/
+egypt-2017-2018,22,2018-02-04,15:15,201802041515,sunday,Ittihad El-Iskandary,Al-Ahly,0,3,3,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/premiership-2017-2018-ittihad-el-iskandary-al-ahly/
+egypt-2017-2018,22,2018-02-04,18:00,201802041800,sunday,Zamalek,Tanta,2,1,3,H,W,L,2,1,3,H,W,L,http://www.worldfootball.net/report/premiership-2017-2018-zamalek-tanta/
+egypt-2017-2018,22,2018-02-05,15:00,201802051500,monday,Misr lel-Maqasah SC,Al-Masry Club,1,4,5,A,L,W,0,2,2,A,L,W,http://www.worldfootball.net/report/premiership-2017-2018-misr-el-maqasah-sc-al-masry-club/
+egypt-2017-2018,6,2018-02-08,17:00,201802081700,thursday,Al-Mokawloon,Al-Ahly,0,3,3,A,L,W,0,2,2,A,L,W,http://www.worldfootball.net/report/premiership-2017-2018-al-mokawloon-al-ahly/
+egypt-2017-2018,23,2018-02-09,12:45,201802091245,friday,El Daklyeh,Ismaily,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/premiership-2017-2018-el-daklyeh-ismaily/
+egypt-2017-2018,24,2018-02-09,12:45,201802091245,friday,El Raja Sporting Club,ENPPI,3,0,3,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/premiership-2017-2018-el-raja-sporting-club-enppi/
+egypt-2017-2018,23,2018-02-09,15:00,201802091500,friday,Wadi Degla FC,PetroJet Football Club,2,1,3,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/premiership-2017-2018-wadi-degla-fc-petrojet-football-club/
+egypt-2017-2018,23,2018-02-09,17:30,201802091730,friday,El-Entag El-Harby,Ittihad El-Iskandary,3,2,5,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/premiership-2017-2018-el-entag-el-harby-ittihad-el-iskandary/
+egypt-2017-2018,23,2018-02-10,12:30,201802101230,saturday,El Assiouty Sport,Al Nasr FC,5,1,6,H,W,L,2,1,3,H,W,L,http://www.worldfootball.net/report/premiership-2017-2018-alassiouty-sport-al-nasr-fc/
 egypt-2017-2018,23,2018-02-10,12:30,201802101230,saturday,Alassiouty Sport,Al Nasr FC,5,1,6,H,W,L,2.0,1.0,3.0,H,W,L,http://www.worldfootball.net/report/premiership-2017-2018-alassiouty-sport-al-nasr-fc/
-egypt-2017-2018,23,2018-02-10,15:15,201802101515,saturday,Smouha Sporting Club,Zamalek,0,1,1,A,L,W,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/premiership-2017-2018-smouha-sporting-club-zamalek/
-egypt-2017-2018,23,2018-02-12,12:30,201802121230,monday,Tanta,Tala'ea El-Gaish SC,0,1,1,A,L,W,0.0,1.0,1.0,A,L,W,http://www.worldfootball.net/report/premiership-2017-2018-tanta-talaea-el-gaish-sc/
-egypt-2017-2018,23,2018-02-12,16:00,201802121600,monday,Al-Ahly,Al-Mokawloon,5,2,7,H,W,L,2.0,1.0,3.0,H,W,L,http://www.worldfootball.net/report/premiership-2017-2018-al-ahly-al-mokawloon/
-egypt-2017-2018,24,2018-02-14,15:00,201802141500,wednesday,Zamalek,Wadi Degla FC,1,0,1,H,W,L,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/premiership-2017-2018-zamalek-wadi-degla-fc/
-egypt-2017-2018,24,2018-02-14,17:30,201802141730,wednesday,Ittihad El-Iskandary,El Daklyeh,2,1,3,H,W,L,1.0,0.0,1.0,H,W,L,http://www.worldfootball.net/report/premiership-2017-2018-ittihad-el-iskandary-el-daklyeh/
-egypt-2017-2018,24,2018-02-15,15:00,201802151500,thursday,Al Nasr FC,PetroJet Football Club,0,1,1,A,L,W,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/premiership-2017-2018-al-nasr-fc-petrojet-football-club/
-egypt-2017-2018,23,2018-02-15,17:30,201802151730,thursday,Al-Masry Club,El Raja Sporting Club,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/premiership-2017-2018-al-masry-club-el-raja-sporting-club/
-egypt-2017-2018,24,2018-02-16,12:30,201802161230,friday,Misr lel-Maqasah SC,Tanta,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/premiership-2017-2018-misr-el-maqasah-sc-tanta/
+egypt-2017-2018,23,2018-02-10,15:15,201802101515,saturday,Smouha Sporting Club,Zamalek,0,1,1,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/premiership-2017-2018-smouha-sporting-club-zamalek/
+egypt-2017-2018,23,2018-02-12,12:30,201802121230,monday,Tanta,Tala'ea El-Gaish SC,0,1,1,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/premiership-2017-2018-tanta-talaea-el-gaish-sc/
+egypt-2017-2018,23,2018-02-12,16:00,201802121600,monday,Al-Ahly,Al-Mokawloon,5,2,7,H,W,L,2,1,3,H,W,L,http://www.worldfootball.net/report/premiership-2017-2018-al-ahly-al-mokawloon/
+egypt-2017-2018,24,2018-02-14,15:00,201802141500,wednesday,Zamalek,Wadi Degla FC,1,0,1,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/premiership-2017-2018-zamalek-wadi-degla-fc/
+egypt-2017-2018,24,2018-02-14,17:30,201802141730,wednesday,Ittihad El-Iskandary,El Daklyeh,2,1,3,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/premiership-2017-2018-ittihad-el-iskandary-el-daklyeh/
+egypt-2017-2018,24,2018-02-15,15:00,201802151500,thursday,Al Nasr FC,PetroJet Football Club,0,1,1,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/premiership-2017-2018-al-nasr-fc-petrojet-football-club/
+egypt-2017-2018,23,2018-02-15,17:30,201802151730,thursday,Al-Masry Club,El Raja Sporting Club,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/premiership-2017-2018-al-masry-club-el-raja-sporting-club/
+egypt-2017-2018,24,2018-02-16,12:30,201802161230,friday,Misr lel-Maqasah SC,Tanta,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/premiership-2017-2018-misr-el-maqasah-sc-tanta/
+egypt-2017-2018,24,2018-02-16,15:15,201802161515,friday,El Assiouty Sport,Al-Ahly,0,1,1,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/premiership-2017-2018-alassiouty-sport-al-ahly/
 egypt-2017-2018,24,2018-02-16,15:15,201802161515,friday,Alassiouty Sport,Al-Ahly,0,1,1,A,L,W,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/premiership-2017-2018-alassiouty-sport-al-ahly/
-egypt-2017-2018,24,2018-02-16,17:30,201802161730,friday,Tala'ea El-Gaish SC,Smouha Sporting Club,0,1,1,A,L,W,0.0,1.0,1.0,A,L,W,http://www.worldfootball.net/report/premiership-2017-2018-talaea-el-gaish-sc-smouha-sporting-club/
-egypt-2017-2018,24,2018-02-16,17:30,201802161730,friday,Al-Mokawloon,El-Entag El-Harby,1,1,2,D,D,D,1.0,0.0,1.0,H,W,L,http://www.worldfootball.net/report/premiership-2017-2018-al-mokawloon-el-entag-el-harby/
-egypt-2017-2018,25,2018-02-18,17:30,201802181730,sunday,ENPPI,Ismaily,2,0,2,H,W,L,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/premiership-2017-2018-enppi-ismaily/
-egypt-2017-2018,25,2018-02-19,15:00,201802191500,monday,PetroJet Football Club,Zamalek,1,3,4,A,L,W,0.0,3.0,3.0,A,L,W,http://www.worldfootball.net/report/premiership-2017-2018-petrojet-football-club-zamalek/
-egypt-2017-2018,25,2018-02-19,18:00,201802191800,monday,Al-Ahly,Al Nasr FC,5,0,5,H,W,L,3.0,0.0,3.0,H,W,L,http://www.worldfootball.net/report/premiership-2017-2018-al-ahly-al-nasr-fc/
-egypt-2017-2018,25,2018-02-20,12:30,201802201230,tuesday,Tanta,El Raja Sporting Club,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/premiership-2017-2018-tanta-el-raja-sporting-club/
-egypt-2017-2018,25,2018-02-20,15:00,201802201500,tuesday,El Daklyeh,Al-Mokawloon,1,2,3,A,L,W,1.0,0.0,1.0,H,W,L,http://www.worldfootball.net/report/premiership-2017-2018-el-daklyeh-al-mokawloon/
+egypt-2017-2018,24,2018-02-16,17:30,201802161730,friday,Tala'ea El-Gaish SC,Smouha Sporting Club,0,1,1,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/premiership-2017-2018-talaea-el-gaish-sc-smouha-sporting-club/
+egypt-2017-2018,24,2018-02-16,17:30,201802161730,friday,Al-Mokawloon,El-Entag El-Harby,1,1,2,D,D,D,1,0,1,H,W,L,http://www.worldfootball.net/report/premiership-2017-2018-al-mokawloon-el-entag-el-harby/
+egypt-2017-2018,25,2018-02-18,17:30,201802181730,sunday,ENPPI,Ismaily,2,0,2,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/premiership-2017-2018-enppi-ismaily/
+egypt-2017-2018,25,2018-02-19,15:00,201802191500,monday,PetroJet Football Club,Zamalek,1,3,4,A,L,W,0,3,3,A,L,W,http://www.worldfootball.net/report/premiership-2017-2018-petrojet-football-club-zamalek/
+egypt-2017-2018,25,2018-02-19,18:00,201802191800,monday,Al-Ahly,Al Nasr FC,5,0,5,H,W,L,3,0,3,H,W,L,http://www.worldfootball.net/report/premiership-2017-2018-al-ahly-al-nasr-fc/
+egypt-2017-2018,25,2018-02-20,12:30,201802201230,tuesday,Tanta,El Raja Sporting Club,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/premiership-2017-2018-tanta-el-raja-sporting-club/
+egypt-2017-2018,25,2018-02-20,15:00,201802201500,tuesday,El Daklyeh,Al-Mokawloon,1,2,3,A,L,W,1,0,1,H,W,L,http://www.worldfootball.net/report/premiership-2017-2018-el-daklyeh-al-mokawloon/
+egypt-2017-2018,25,2018-02-20,15:00,201802201500,tuesday,El-Entag El-Harby,El Assiouty Sport,1,0,1,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/premiership-2017-2018-el-entag-el-harby-alassiouty-sport/
 egypt-2017-2018,25,2018-02-20,15:00,201802201500,tuesday,El-Entag El-Harby,Alassiouty Sport,1,0,1,H,W,L,1.0,0.0,1.0,H,W,L,http://www.worldfootball.net/report/premiership-2017-2018-el-entag-el-harby-alassiouty-sport/
-egypt-2017-2018,25,2018-02-20,17:30,201802201730,tuesday,Wadi Degla FC,Tala'ea El-Gaish SC,1,0,1,H,W,L,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/premiership-2017-2018-wadi-degla-fc-talaea-el-gaish-sc/
-egypt-2017-2018,26,2018-02-22,15:00,201802221500,thursday,Ittihad El-Iskandary,ENPPI,1,1,2,D,D,D,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/premiership-2017-2018-ittihad-el-iskandary-enppi/
-egypt-2017-2018,26,2018-02-22,18:00,201802221800,thursday,Al Nasr FC,Zamalek,1,2,3,A,L,W,1.0,2.0,3.0,A,L,W,http://www.worldfootball.net/report/premiership-2017-2018-al-nasr-fc-zamalek/
-egypt-2017-2018,26,2018-02-23,15:00,201802231500,friday,Tala'ea El-Gaish SC,PetroJet Football Club,1,2,3,A,L,W,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/premiership-2017-2018-talaea-el-gaish-sc-petrojet-football-club/
-egypt-2017-2018,26,2018-02-24,12:30,201802241230,saturday,El Raja Sporting Club,Smouha Sporting Club,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/premiership-2017-2018-el-raja-sporting-club-smouha-sporting-club/
+egypt-2017-2018,25,2018-02-20,17:30,201802201730,tuesday,Wadi Degla FC,Tala'ea El-Gaish SC,1,0,1,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/premiership-2017-2018-wadi-degla-fc-talaea-el-gaish-sc/
+egypt-2017-2018,26,2018-02-22,15:00,201802221500,thursday,Ittihad El-Iskandary,ENPPI,1,1,2,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/premiership-2017-2018-ittihad-el-iskandary-enppi/
+egypt-2017-2018,26,2018-02-22,18:00,201802221800,thursday,Al Nasr FC,Zamalek,1,2,3,A,L,W,1,2,3,A,L,W,http://www.worldfootball.net/report/premiership-2017-2018-al-nasr-fc-zamalek/
+egypt-2017-2018,26,2018-02-23,15:00,201802231500,friday,Tala'ea El-Gaish SC,PetroJet Football Club,1,2,3,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/premiership-2017-2018-talaea-el-gaish-sc-petrojet-football-club/
+egypt-2017-2018,26,2018-02-24,12:30,201802241230,saturday,El Raja Sporting Club,Smouha Sporting Club,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/premiership-2017-2018-el-raja-sporting-club-smouha-sporting-club/
+egypt-2017-2018,26,2018-02-24,12:30,201802241230,saturday,El Assiouty Sport,El Daklyeh,4,2,6,H,W,L,2,1,3,H,W,L,http://www.worldfootball.net/report/premiership-2017-2018-alassiouty-sport-el-daklyeh/
 egypt-2017-2018,26,2018-02-24,12:30,201802241230,saturday,Alassiouty Sport,El Daklyeh,4,2,6,H,W,L,2.0,1.0,3.0,H,W,L,http://www.worldfootball.net/report/premiership-2017-2018-alassiouty-sport-el-daklyeh/
-egypt-2017-2018,26,2018-02-24,15:00,201802241500,saturday,Ismaily,Tanta,2,2,4,D,D,D,0.0,1.0,1.0,A,L,W,http://www.worldfootball.net/report/premiership-2017-2018-ismaily-tanta/
-egypt-2017-2018,26,2018-02-24,18:00,201802241800,saturday,Al-Ahly,El-Entag El-Harby,2,1,3,H,W,L,1.0,1.0,2.0,D,D,D,http://www.worldfootball.net/report/premiership-2017-2018-al-ahly-el-entag-el-harby/
-egypt-2017-2018,26,2018-02-25,15:00,201802251500,sunday,Al-Mokawloon,Al-Masry Club,1,2,3,A,L,W,1.0,1.0,2.0,D,D,D,http://www.worldfootball.net/report/premiership-2017-2018-al-mokawloon-al-masry-club/
-egypt-2017-2018,26,2018-02-25,17:30,201802251730,sunday,Misr lel-Maqasah SC,Wadi Degla FC,2,0,2,H,W,L,1.0,0.0,1.0,H,W,L,http://www.worldfootball.net/report/premiership-2017-2018-misr-lel-maqasah-sc-wadi-degla-fc/
-egypt-2017-2018,27,2018-02-27,18:00,201802271800,tuesday,Zamalek,Tala'ea El-Gaish SC,3,0,3,H,W,L,3.0,0.0,3.0,H,W,L,http://www.worldfootball.net/report/premiership-2017-2018-zamalek-talaea-el-gaish-sc/
-egypt-2017-2018,27,2018-02-28,12:45,201802281245,wednesday,Tanta,Ittihad El-Iskandary,0,1,1,A,L,W,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/premiership-2017-2018-tanta-ittihad-el-iskandary/
-egypt-2017-2018,27,2018-02-28,16:00,201802281600,wednesday,El Daklyeh,Al-Ahly,0,3,3,A,L,W,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/premiership-2017-2018-el-daklyeh-al-ahly/
-egypt-2017-2018,27,2018-03-01,12:45,201803011245,thursday,Wadi Degla FC,El Raja Sporting Club,2,3,5,A,L,W,0.0,1.0,1.0,A,L,W,http://www.worldfootball.net/report/premiership-2017-2018-wadi-degla-fc-el-raja-sporting-club/
-egypt-2017-2018,27,2018-03-01,15:00,201803011500,thursday,El-Entag El-Harby,Al Nasr FC,1,1,2,D,D,D,1.0,1.0,2.0,D,D,D,http://www.worldfootball.net/report/premiership-2017-2018-el-entag-el-harby-al-nasr-fc/
-egypt-2017-2018,27,2018-03-01,15:00,201803011500,thursday,Smouha Sporting Club,Ismaily,1,2,3,A,L,W,1.0,1.0,2.0,D,D,D,http://www.worldfootball.net/report/premiership-2017-2018-smouha-sporting-club-ismaily/
-egypt-2017-2018,27,2018-03-01,17:30,201803011730,thursday,ENPPI,Al-Mokawloon,3,2,5,H,W,L,2.0,0.0,2.0,H,W,L,http://www.worldfootball.net/report/premiership-2017-2018-enppi-al-mokawloon/
-egypt-2017-2018,27,2018-03-02,14:00,201803021400,friday,PetroJet Football Club,Misr lel-Maqasah SC,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/premiership-2017-2018-petrojet-football-club-misr-lel-maqasah-sc/
+egypt-2017-2018,26,2018-02-24,15:00,201802241500,saturday,Ismaily,Tanta,2,2,4,D,D,D,0,1,1,A,L,W,http://www.worldfootball.net/report/premiership-2017-2018-ismaily-tanta/
+egypt-2017-2018,26,2018-02-24,18:00,201802241800,saturday,Al-Ahly,El-Entag El-Harby,2,1,3,H,W,L,1,1,2,D,D,D,http://www.worldfootball.net/report/premiership-2017-2018-al-ahly-el-entag-el-harby/
+egypt-2017-2018,26,2018-02-25,15:00,201802251500,sunday,Al-Mokawloon,Al-Masry Club,1,2,3,A,L,W,1,1,2,D,D,D,http://www.worldfootball.net/report/premiership-2017-2018-al-mokawloon-al-masry-club/
+egypt-2017-2018,26,2018-02-25,17:30,201802251730,sunday,Misr lel-Maqasah SC,Wadi Degla FC,2,0,2,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/premiership-2017-2018-misr-lel-maqasah-sc-wadi-degla-fc/
+egypt-2017-2018,27,2018-02-27,18:00,201802271800,tuesday,Zamalek,Tala'ea El-Gaish SC,3,0,3,H,W,L,3,0,3,H,W,L,http://www.worldfootball.net/report/premiership-2017-2018-zamalek-talaea-el-gaish-sc/
+egypt-2017-2018,27,2018-02-28,12:45,201802281245,wednesday,Tanta,Ittihad El-Iskandary,0,1,1,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/premiership-2017-2018-tanta-ittihad-el-iskandary/
+egypt-2017-2018,27,2018-02-28,16:00,201802281600,wednesday,El Daklyeh,Al-Ahly,0,3,3,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/premiership-2017-2018-el-daklyeh-al-ahly/
+egypt-2017-2018,27,2018-03-01,12:45,201803011245,thursday,Wadi Degla FC,El Raja Sporting Club,2,3,5,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/premiership-2017-2018-wadi-degla-fc-el-raja-sporting-club/
+egypt-2017-2018,27,2018-03-01,15:00,201803011500,thursday,El-Entag El-Harby,Al Nasr FC,1,1,2,D,D,D,1,1,2,D,D,D,http://www.worldfootball.net/report/premiership-2017-2018-el-entag-el-harby-al-nasr-fc/
+egypt-2017-2018,27,2018-03-01,15:00,201803011500,thursday,Smouha Sporting Club,Ismaily,1,2,3,A,L,W,1,1,2,D,D,D,http://www.worldfootball.net/report/premiership-2017-2018-smouha-sporting-club-ismaily/
+egypt-2017-2018,27,2018-03-01,17:30,201803011730,thursday,ENPPI,Al-Mokawloon,3,2,5,H,W,L,2,0,2,H,W,L,http://www.worldfootball.net/report/premiership-2017-2018-enppi-al-mokawloon/
+egypt-2017-2018,27,2018-03-02,14:00,201803021400,friday,PetroJet Football Club,Misr lel-Maqasah SC,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/premiership-2017-2018-petrojet-football-club-misr-lel-maqasah-sc/
+egypt-2017-2018,27,2018-03-02,16:30,201803021630,friday,Al-Masry Club,El Assiouty Sport,3,1,4,H,W,L,2,0,2,H,W,L,http://www.worldfootball.net/report/premiership-2017-2018-al-masry-club-alassiouty-sport/
 egypt-2017-2018,27,2018-03-02,16:30,201803021630,friday,Al-Masry Club,Alassiouty Sport,3,1,4,H,W,L,2.0,0.0,2.0,H,W,L,http://www.worldfootball.net/report/premiership-2017-2018-al-masry-club-alassiouty-sport/
-egypt-2017-2018,28,2018-03-05,13:00,201803051300,monday,Al-Mokawloon,Tanta,1,1,2,D,D,D,1.0,0.0,1.0,H,W,L,http://www.worldfootball.net/report/premiership-2017-2018-al-mokawloon-tanta/
-egypt-2017-2018,28,2018-03-05,15:30,201803051530,monday,Ittihad El-Iskandary,Smouha Sporting Club,2,0,2,H,W,L,1.0,0.0,1.0,H,W,L,http://www.worldfootball.net/report/premiership-2017-2018-ittihad-el-iskandary-smouha-sporting-club/
-egypt-2017-2018,28,2018-03-05,18:00,201803051800,monday,El-Entag El-Harby,El Daklyeh,1,1,2,D,D,D,0.0,1.0,1.0,A,L,W,http://www.worldfootball.net/report/premiership-2017-2018-el-entag-el-harby-el-daklyeh/
+egypt-2017-2018,28,2018-03-05,13:00,201803051300,monday,Al-Mokawloon,Tanta,1,1,2,D,D,D,1,0,1,H,W,L,http://www.worldfootball.net/report/premiership-2017-2018-al-mokawloon-tanta/
+egypt-2017-2018,28,2018-03-05,15:30,201803051530,monday,Ittihad El-Iskandary,Smouha Sporting Club,2,0,2,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/premiership-2017-2018-ittihad-el-iskandary-smouha-sporting-club/
+egypt-2017-2018,28,2018-03-05,18:00,201803051800,monday,El-Entag El-Harby,El Daklyeh,1,1,2,D,D,D,0,1,1,A,L,W,http://www.worldfootball.net/report/premiership-2017-2018-el-entag-el-harby-el-daklyeh/
+egypt-2017-2018,28,2018-03-06,13:00,201803061300,tuesday,El Assiouty Sport,ENPPI,1,1,2,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/premiership-2017-2018-alassiouty-sport-enppi/
 egypt-2017-2018,28,2018-03-06,13:00,201803061300,tuesday,Alassiouty Sport,ENPPI,1,1,2,D,D,D,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/premiership-2017-2018-alassiouty-sport-enppi/
-egypt-2017-2018,28,2018-03-06,15:00,201803061500,tuesday,Ismaily,Wadi Degla FC,2,1,3,H,W,L,1.0,0.0,1.0,H,W,L,http://www.worldfootball.net/report/premiership-2017-2018-ismaily-wadi-degla-fc/
-egypt-2017-2018,28,2018-03-07,13:00,201803071300,wednesday,El Raja Sporting Club,PetroJet Football Club,1,1,2,D,D,D,1.0,1.0,2.0,D,D,D,http://www.worldfootball.net/report/premiership-2017-2018-el-raja-sporting-club-petrojet-football-club/
-egypt-2017-2018,28,2018-03-07,15:30,201803071530,wednesday,Al Nasr FC,Tala'ea El-Gaish SC,1,0,1,H,W,L,1.0,0.0,1.0,H,W,L,http://www.worldfootball.net/report/premiership-2017-2018-al-nasr-fc-talaea-el-gaish-sc/
-egypt-2017-2018,29,2018-03-11,17:00,201803111700,sunday,ENPPI,Al-Ahly,0,1,1,A,L,W,0.0,1.0,1.0,A,L,W,http://www.worldfootball.net/report/premiership-2017-2018-enppi-al-ahly/
-egypt-2017-2018,29,2018-03-12,17:00,201803121700,monday,Al-Masry Club,El-Entag El-Harby,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/premiership-2017-2018-al-masry-club-el-entag-el-harby/
-egypt-2017-2018,29,2018-03-13,15:30,201803131530,tuesday,Tala'ea El-Gaish SC,Misr lel-Maqasah SC,1,0,1,H,W,L,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/premiership-2017-2018-talaea-el-gaish-sc-misr-lel-maqasah-sc/
+egypt-2017-2018,28,2018-03-06,15:00,201803061500,tuesday,Ismaily,Wadi Degla FC,2,1,3,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/premiership-2017-2018-ismaily-wadi-degla-fc/
+egypt-2017-2018,28,2018-03-07,13:00,201803071300,wednesday,El Raja Sporting Club,PetroJet Football Club,1,1,2,D,D,D,1,1,2,D,D,D,http://www.worldfootball.net/report/premiership-2017-2018-el-raja-sporting-club-petrojet-football-club/
+egypt-2017-2018,28,2018-03-07,15:30,201803071530,wednesday,Al Nasr FC,Tala'ea El-Gaish SC,1,0,1,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/premiership-2017-2018-al-nasr-fc-talaea-el-gaish-sc/
+egypt-2017-2018,29,2018-03-11,17:00,201803111700,sunday,ENPPI,Al-Ahly,0,1,1,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/premiership-2017-2018-enppi-al-ahly/
+egypt-2017-2018,29,2018-03-12,17:00,201803121700,monday,Al-Masry Club,El-Entag El-Harby,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/premiership-2017-2018-al-masry-club-el-entag-el-harby/
+egypt-2017-2018,29,2018-03-13,15:30,201803131530,tuesday,Tala'ea El-Gaish SC,Misr lel-Maqasah SC,1,0,1,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/premiership-2017-2018-talaea-el-gaish-sc-misr-lel-maqasah-sc/
+egypt-2017-2018,29,2018-03-14,13:00,201803141300,wednesday,Tanta,El Assiouty Sport,1,1,2,D,D,D,0,1,1,A,L,W,http://www.worldfootball.net/report/premiership-2017-2018-tanta-alassiouty-sport/
 egypt-2017-2018,29,2018-03-14,13:00,201803141300,wednesday,Tanta,Alassiouty Sport,1,1,2,D,D,D,0.0,1.0,1.0,A,L,W,http://www.worldfootball.net/report/premiership-2017-2018-tanta-alassiouty-sport/
-egypt-2017-2018,29,2018-03-14,15:30,201803141530,wednesday,Wadi Degla FC,Ittihad El-Iskandary,1,0,1,H,W,L,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/premiership-2017-2018-wadi-degla-fc-ittihad-el-iskandary/
-egypt-2017-2018,29,2018-03-14,18:00,201803141800,wednesday,Zamalek,El Raja Sporting Club,4,1,5,H,W,L,3.0,0.0,3.0,H,W,L,http://www.worldfootball.net/report/premiership-2017-2018-zamalek-el-raja-sporting-club/
-egypt-2017-2018,29,2018-03-15,13:00,201803151300,thursday,PetroJet Football Club,Ismaily,0,1,1,A,L,W,0.0,1.0,1.0,A,L,W,http://www.worldfootball.net/report/premiership-2017-2018-petrojet-football-club-ismaily/
-egypt-2017-2018,29,2018-03-15,15:30,201803151530,thursday,Smouha Sporting Club,Al-Mokawloon,3,0,3,H,W,L,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/premiership-2017-2018-smouha-sporting-club-al-mokawloon/
-egypt-2017-2018,29,2018-03-15,18:00,201803151800,thursday,El Daklyeh,Al Nasr FC,1,1,2,D,D,D,0.0,1.0,1.0,A,L,W,http://www.worldfootball.net/report/premiership-2017-2018-el-daklyeh-al-nasr-fc/
-egypt-2017-2018,30,2018-03-19,13:00,201803191300,monday,El Raja Sporting Club,Tala'ea El-Gaish SC,1,0,1,H,W,L,1.0,0.0,1.0,H,W,L,http://www.worldfootball.net/report/premiership-2017-2018-el-raja-sporting-club-talaea-el-gaish-sc/
+egypt-2017-2018,29,2018-03-14,15:30,201803141530,wednesday,Wadi Degla FC,Ittihad El-Iskandary,1,0,1,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/premiership-2017-2018-wadi-degla-fc-ittihad-el-iskandary/
+egypt-2017-2018,29,2018-03-14,18:00,201803141800,wednesday,Zamalek,El Raja Sporting Club,4,1,5,H,W,L,3,0,3,H,W,L,http://www.worldfootball.net/report/premiership-2017-2018-zamalek-el-raja-sporting-club/
+egypt-2017-2018,29,2018-03-15,13:00,201803151300,thursday,PetroJet Football Club,Ismaily,0,1,1,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/premiership-2017-2018-petrojet-football-club-ismaily/
+egypt-2017-2018,29,2018-03-15,15:30,201803151530,thursday,Smouha Sporting Club,Al-Mokawloon,3,0,3,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/premiership-2017-2018-smouha-sporting-club-al-mokawloon/
+egypt-2017-2018,29,2018-03-15,18:00,201803151800,thursday,El Daklyeh,Al Nasr FC,1,1,2,D,D,D,0,1,1,A,L,W,http://www.worldfootball.net/report/premiership-2017-2018-el-daklyeh-al-nasr-fc/
+egypt-2017-2018,30,2018-03-19,13:00,201803191300,monday,El Raja Sporting Club,Tala'ea El-Gaish SC,1,0,1,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/premiership-2017-2018-el-raja-sporting-club-talaea-el-gaish-sc/
+egypt-2017-2018,30,2018-03-19,13:00,201803191300,monday,El Assiouty Sport,Smouha Sporting Club,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/premiership-2017-2018-alassiouty-sport-smouha-sporting-club/
 egypt-2017-2018,30,2018-03-19,13:00,201803191300,monday,Alassiouty Sport,Smouha Sporting Club,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/premiership-2017-2018-alassiouty-sport-smouha-sporting-club/
-egypt-2017-2018,30,2018-03-19,15:15,201803191515,monday,Al-Mokawloon,Wadi Degla FC,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/premiership-2017-2018-al-mokawloon-wadi-degla-fc/
-egypt-2017-2018,30,2018-03-19,15:15,201803191515,monday,Al Nasr FC,Misr lel-Maqasah SC,0,1,1,A,L,W,0.0,1.0,1.0,A,L,W,http://www.worldfootball.net/report/premiership-2017-2018-al-nasr-fc-misr-lel-maqasah-sc/
-egypt-2017-2018,30,2018-03-19,17:30,201803191730,monday,Ittihad El-Iskandary,PetroJet Football Club,2,2,4,D,D,D,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/premiership-2017-2018-ittihad-el-iskandary-petrojet-football-club/
-egypt-2017-2018,30,2018-03-19,17:30,201803191730,monday,El-Entag El-Harby,ENPPI,1,1,2,D,D,D,1.0,0.0,1.0,H,W,L,http://www.worldfootball.net/report/premiership-2017-2018-el-entag-el-harby-enppi/
-egypt-2017-2018,23,2018-03-30,17:00,201803301700,friday,Misr lel-Maqasah SC,ENPPI,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/premiership-2017-2018-misr-lel-maqasah-sc-enppi/
-egypt-2017-2018,25,2018-03-31,17:00,201803311700,saturday,Al-Masry Club,Ittihad El-Iskandary,0,2,2,A,L,W,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/premiership-2017-2018-al-masry-club-ittihad-el-iskandary/
-egypt-2017-2018,30,2018-04-02,16:30,201804021630,monday,Ismaily,Zamalek,3,1,4,H,W,L,1.0,1.0,2.0,D,D,D,http://www.worldfootball.net/report/premiership-2017-2018-ismaily-zamalek/
-egypt-2017-2018,30,2018-04-02,19:30,201804021930,monday,Al-Ahly,Tanta,2,1,3,H,W,L,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/premiership-2017-2018-al-ahly-tanta/
-egypt-2017-2018,25,2018-04-03,17:00,201804031700,tuesday,Smouha Sporting Club,Misr lel-Maqasah SC,1,0,1,H,W,L,1.0,0.0,1.0,H,W,L,http://www.worldfootball.net/report/premiership-2017-2018-smouha-sporting-club-misr-lel-maqasah-sc/
-egypt-2017-2018,31,2018-04-05,16:00,201804051600,thursday,PetroJet Football Club,Al-Mokawloon,1,1,2,D,D,D,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/premiership-2017-2018-petrojet-football-club-al-mokawloon/
+egypt-2017-2018,30,2018-03-19,15:15,201803191515,monday,Al-Mokawloon,Wadi Degla FC,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/premiership-2017-2018-al-mokawloon-wadi-degla-fc/
+egypt-2017-2018,30,2018-03-19,15:15,201803191515,monday,Al Nasr FC,Misr lel-Maqasah SC,0,1,1,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/premiership-2017-2018-al-nasr-fc-misr-lel-maqasah-sc/
+egypt-2017-2018,30,2018-03-19,17:30,201803191730,monday,Ittihad El-Iskandary,PetroJet Football Club,2,2,4,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/premiership-2017-2018-ittihad-el-iskandary-petrojet-football-club/
+egypt-2017-2018,30,2018-03-19,17:30,201803191730,monday,El-Entag El-Harby,ENPPI,1,1,2,D,D,D,1,0,1,H,W,L,http://www.worldfootball.net/report/premiership-2017-2018-el-entag-el-harby-enppi/
+egypt-2017-2018,23,2018-03-30,17:00,201803301700,friday,Misr lel-Maqasah SC,ENPPI,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/premiership-2017-2018-misr-lel-maqasah-sc-enppi/
+egypt-2017-2018,25,2018-03-31,17:00,201803311700,saturday,Al-Masry Club,Ittihad El-Iskandary,0,2,2,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/premiership-2017-2018-al-masry-club-ittihad-el-iskandary/
+egypt-2017-2018,30,2018-04-02,16:30,201804021630,monday,Ismaily,Zamalek,3,1,4,H,W,L,1,1,2,D,D,D,http://www.worldfootball.net/report/premiership-2017-2018-ismaily-zamalek/
+egypt-2017-2018,30,2018-04-02,19:30,201804021930,monday,Al-Ahly,Tanta,2,1,3,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/premiership-2017-2018-al-ahly-tanta/
+egypt-2017-2018,25,2018-04-03,17:00,201804031700,tuesday,Smouha Sporting Club,Misr lel-Maqasah SC,1,0,1,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/premiership-2017-2018-smouha-sporting-club-misr-lel-maqasah-sc/
+egypt-2017-2018,31,2018-04-05,16:00,201804051600,thursday,PetroJet Football Club,Al-Mokawloon,1,1,2,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/premiership-2017-2018-petrojet-football-club-al-mokawloon/
+egypt-2017-2018,31,2018-04-05,18:30,201804051830,thursday,Wadi Degla FC,El Assiouty Sport,0,2,2,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/premiership-2017-2018-wadi-degla-fc-alassiouty-sport/
 egypt-2017-2018,31,2018-04-05,18:30,201804051830,thursday,Wadi Degla FC,Alassiouty Sport,0,2,2,A,L,W,0.0,1.0,1.0,A,L,W,http://www.worldfootball.net/report/premiership-2017-2018-wadi-degla-fc-alassiouty-sport/
-egypt-2017-2018,31,2018-04-06,17:00,201804061700,friday,ENPPI,El Daklyeh,3,3,6,D,D,D,1.0,2.0,3.0,A,L,W,http://www.worldfootball.net/report/premiership-2017-2018-enppi-el-daklyeh/
-egypt-2017-2018,31,2018-04-07,14:00,201804071400,saturday,Tanta,El-Entag El-Harby,0,2,2,A,L,W,0.0,2.0,2.0,A,L,W,http://www.worldfootball.net/report/premiership-2017-2018-tanta-el-entag-el-harby/
-egypt-2017-2018,31,2018-04-07,16:30,201804071630,saturday,Tala'ea El-Gaish SC,Ismaily,1,1,2,D,D,D,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/premiership-2017-2018-talaea-el-gaish-sc-ismaily/
-egypt-2017-2018,28,2018-04-08,16:00,201804081600,sunday,Misr lel-Maqasah SC,Zamalek,1,0,1,H,W,L,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/premiership-2017-2018-misr-lel-maqasah-sc-zamalek/
-egypt-2017-2018,31,2018-04-08,18:30,201804081830,sunday,Smouha Sporting Club,Al-Ahly,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/premiership-2017-2018-smouha-sporting-club-al-ahly/
-egypt-2017-2018,31,2018-04-12,16:00,201804121600,thursday,Al-Masry Club,Al Nasr FC,2,1,3,H,W,L,0.0,1.0,1.0,A,L,W,http://www.worldfootball.net/report/premiership-2017-2018-al-masry-club-al-nasr-fc/
-egypt-2017-2018,31,2018-04-12,19:00,201804121900,thursday,Zamalek,Ittihad El-Iskandary,1,2,3,A,L,W,1.0,0.0,1.0,H,W,L,http://www.worldfootball.net/report/premiership-2017-2018-zamalek-ittihad-el-iskandary/
-egypt-2017-2018,31,2018-04-13,16:00,201804131600,friday,Misr lel-Maqasah SC,El Raja Sporting Club,3,0,3,H,W,L,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/premiership-2017-2018-misr-lel-maqasah-sc-el-raja-sporting-club/
+egypt-2017-2018,31,2018-04-06,17:00,201804061700,friday,ENPPI,El Daklyeh,3,3,6,D,D,D,1,2,3,A,L,W,http://www.worldfootball.net/report/premiership-2017-2018-enppi-el-daklyeh/
+egypt-2017-2018,31,2018-04-07,14:00,201804071400,saturday,Tanta,El-Entag El-Harby,0,2,2,A,L,W,0,2,2,A,L,W,http://www.worldfootball.net/report/premiership-2017-2018-tanta-el-entag-el-harby/
+egypt-2017-2018,31,2018-04-07,16:30,201804071630,saturday,Tala'ea El-Gaish SC,Ismaily,1,1,2,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/premiership-2017-2018-talaea-el-gaish-sc-ismaily/
+egypt-2017-2018,28,2018-04-08,16:00,201804081600,sunday,Misr lel-Maqasah SC,Zamalek,1,0,1,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/premiership-2017-2018-misr-lel-maqasah-sc-zamalek/
+egypt-2017-2018,31,2018-04-08,18:30,201804081830,sunday,Smouha Sporting Club,Al-Ahly,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/premiership-2017-2018-smouha-sporting-club-al-ahly/
+egypt-2017-2018,31,2018-04-12,16:00,201804121600,thursday,Al-Masry Club,Al Nasr FC,2,1,3,H,W,L,0,1,1,A,L,W,http://www.worldfootball.net/report/premiership-2017-2018-al-masry-club-al-nasr-fc/
+egypt-2017-2018,31,2018-04-12,19:00,201804121900,thursday,Zamalek,Ittihad El-Iskandary,1,2,3,A,L,W,1,0,1,H,W,L,http://www.worldfootball.net/report/premiership-2017-2018-zamalek-ittihad-el-iskandary/
+egypt-2017-2018,31,2018-04-13,16:00,201804131600,friday,Misr lel-Maqasah SC,El Raja Sporting Club,3,0,3,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/premiership-2017-2018-misr-lel-maqasah-sc-el-raja-sporting-club/
+egypt-2017-2018,32,2018-04-16,14:30,201804161430,monday,El Assiouty Sport,PetroJet Football Club,3,2,5,H,W,L,0,1,1,A,L,W,http://www.worldfootball.net/report/premiership-2017-2018-alassiouty-sport-petrojet-football-club/
 egypt-2017-2018,32,2018-04-16,14:30,201804161430,monday,Alassiouty Sport,PetroJet Football Club,3,2,5,H,W,L,0.0,1.0,1.0,A,L,W,http://www.worldfootball.net/report/premiership-2017-2018-alassiouty-sport-petrojet-football-club/
-egypt-2017-2018,32,2018-04-16,17:00,201804161700,monday,Ittihad El-Iskandary,Tala'ea El-Gaish SC,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/premiership-2017-2018-ittihad-el-iskandary-talaea-el-gaish-sc/
-egypt-2017-2018,32,2018-04-16,19:00,201804161900,monday,Al Nasr FC,El Raja Sporting Club,3,1,4,H,W,L,2.0,1.0,3.0,H,W,L,http://www.worldfootball.net/report/premiership-2017-2018-al-nasr-fc-el-raja-sporting-club/
-egypt-2017-2018,32,2018-04-17,14:30,201804171430,tuesday,El Daklyeh,Tanta,2,0,2,H,W,L,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/premiership-2017-2018-el-daklyeh-tanta/
-egypt-2017-2018,32,2018-04-17,16:30,201804171630,tuesday,El-Entag El-Harby,Smouha Sporting Club,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/premiership-2017-2018-el-entag-el-harby-smouha-sporting-club/
-egypt-2017-2018,32,2018-04-17,16:30,201804171630,tuesday,Al-Ahly,Wadi Degla FC,1,0,1,H,W,L,1.0,0.0,1.0,H,W,L,http://www.worldfootball.net/report/premiership-2017-2018-al-ahly-wadi-degla-fc/
-egypt-2017-2018,32,2018-04-18,16:30,201804181630,wednesday,Ismaily,Misr lel-Maqasah SC,2,1,3,H,W,L,1.0,0.0,1.0,H,W,L,http://www.worldfootball.net/report/premiership-2017-2018-ismaily-misr-lel-maqasah-sc/
-egypt-2017-2018,32,2018-04-18,19:00,201804181900,wednesday,Al-Mokawloon,Zamalek,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/premiership-2017-2018-al-mokawloon-zamalek/
-egypt-2017-2018,33,2018-04-21,17:00,201804211700,saturday,Tanta,Al-Masry Club,1,2,3,A,L,W,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/premiership-2017-2018-tanta-al-masry-club/
-egypt-2017-2018,33,2018-04-21,17:00,201804211700,saturday,Smouha Sporting Club,El Daklyeh,1,0,1,H,W,L,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/premiership-2017-2018-smouha-sporting-club-el-daklyeh/
-egypt-2017-2018,33,2018-04-21,17:00,201804211700,saturday,Wadi Degla FC,El-Entag El-Harby,2,1,3,H,W,L,1.0,1.0,2.0,D,D,D,http://www.worldfootball.net/report/premiership-2017-2018-wadi-degla-fc-el-entag-el-harby/
-egypt-2017-2018,33,2018-04-21,19:15,201804211915,saturday,Al Nasr FC,ENPPI,1,2,3,A,L,W,1.0,1.0,2.0,D,D,D,http://www.worldfootball.net/report/premiership-2017-2018-al-nasr-fc-enppi/
-egypt-2017-2018,33,2018-04-22,14:30,201804221430,sunday,El Raja Sporting Club,Ismaily,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/premiership-2017-2018-el-raja-sporting-club-ismaily/
-egypt-2017-2018,33,2018-04-22,16:45,201804221645,sunday,PetroJet Football Club,Al-Ahly,1,2,3,A,L,W,0.0,1.0,1.0,A,L,W,http://www.worldfootball.net/report/premiership-2017-2018-petrojet-football-club-al-ahly/
+egypt-2017-2018,32,2018-04-16,17:00,201804161700,monday,Ittihad El-Iskandary,Tala'ea El-Gaish SC,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/premiership-2017-2018-ittihad-el-iskandary-talaea-el-gaish-sc/
+egypt-2017-2018,32,2018-04-16,19:00,201804161900,monday,Al Nasr FC,El Raja Sporting Club,3,1,4,H,W,L,2,1,3,H,W,L,http://www.worldfootball.net/report/premiership-2017-2018-al-nasr-fc-el-raja-sporting-club/
+egypt-2017-2018,32,2018-04-17,14:30,201804171430,tuesday,El Daklyeh,Tanta,2,0,2,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/premiership-2017-2018-el-daklyeh-tanta/
+egypt-2017-2018,32,2018-04-17,16:30,201804171630,tuesday,El-Entag El-Harby,Smouha Sporting Club,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/premiership-2017-2018-el-entag-el-harby-smouha-sporting-club/
+egypt-2017-2018,32,2018-04-17,16:30,201804171630,tuesday,Al-Ahly,Wadi Degla FC,1,0,1,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/premiership-2017-2018-al-ahly-wadi-degla-fc/
+egypt-2017-2018,32,2018-04-18,16:30,201804181630,wednesday,Ismaily,Misr lel-Maqasah SC,2,1,3,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/premiership-2017-2018-ismaily-misr-lel-maqasah-sc/
+egypt-2017-2018,32,2018-04-18,19:00,201804181900,wednesday,Al-Mokawloon,Zamalek,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/premiership-2017-2018-al-mokawloon-zamalek/
+egypt-2017-2018,33,2018-04-21,17:00,201804211700,saturday,Tanta,Al-Masry Club,1,2,3,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/premiership-2017-2018-tanta-al-masry-club/
+egypt-2017-2018,33,2018-04-21,17:00,201804211700,saturday,Smouha Sporting Club,El Daklyeh,1,0,1,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/premiership-2017-2018-smouha-sporting-club-el-daklyeh/
+egypt-2017-2018,33,2018-04-21,17:00,201804211700,saturday,Wadi Degla FC,El-Entag El-Harby,2,1,3,H,W,L,1,1,2,D,D,D,http://www.worldfootball.net/report/premiership-2017-2018-wadi-degla-fc-el-entag-el-harby/
+egypt-2017-2018,33,2018-04-21,19:15,201804211915,saturday,Al Nasr FC,ENPPI,1,2,3,A,L,W,1,1,2,D,D,D,http://www.worldfootball.net/report/premiership-2017-2018-al-nasr-fc-enppi/
+egypt-2017-2018,33,2018-04-22,14:30,201804221430,sunday,El Raja Sporting Club,Ismaily,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/premiership-2017-2018-el-raja-sporting-club-ismaily/
+egypt-2017-2018,33,2018-04-22,16:45,201804221645,sunday,PetroJet Football Club,Al-Ahly,1,2,3,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/premiership-2017-2018-petrojet-football-club-al-ahly/
+egypt-2017-2018,33,2018-04-22,19:00,201804221900,sunday,Zamalek,El Assiouty Sport,2,1,3,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/premiership-2017-2018-zamalek-alassiouty-sport/
 egypt-2017-2018,33,2018-04-22,19:00,201804221900,sunday,Zamalek,Alassiouty Sport,2,1,3,H,W,L,1.0,0.0,1.0,H,W,L,http://www.worldfootball.net/report/premiership-2017-2018-zamalek-alassiouty-sport/
-egypt-2017-2018,33,2018-04-23,17:00,201804231700,monday,Tala'ea El-Gaish SC,Al-Mokawloon,4,5,9,A,L,W,1.0,2.0,3.0,A,L,W,http://www.worldfootball.net/report/premiership-2017-2018-talaea-el-gaish-sc-al-mokawloon/
-egypt-2017-2018,33,2018-04-23,19:15,201804231915,monday,Misr lel-Maqasah SC,Ittihad El-Iskandary,2,0,2,H,W,L,2.0,0.0,2.0,H,W,L,http://www.worldfootball.net/report/premiership-2017-2018-misr-lel-maqasah-sc-ittihad-el-iskandary/
-egypt-2017-2018,34,2018-04-25,14:45,201804251445,wednesday,El Daklyeh,Wadi Degla FC,1,1,2,D,D,D,0.0,1.0,1.0,A,L,W,http://www.worldfootball.net/report/premiership-2017-2018-el-daklyeh-wadi-degla-fc/
-egypt-2017-2018,34,2018-04-25,14:45,201804251445,wednesday,ENPPI,Tanta,3,1,4,H,W,L,3.0,0.0,3.0,H,W,L,http://www.worldfootball.net/report/premiership-2017-2018-enppi-tanta/
-egypt-2017-2018,34,2018-04-25,17:00,201804251700,wednesday,Al-Masry Club,Smouha Sporting Club,2,1,3,H,W,L,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/premiership-2017-2018-al-masry-club-smouha-sporting-club/
+egypt-2017-2018,33,2018-04-23,17:00,201804231700,monday,Tala'ea El-Gaish SC,Al-Mokawloon,4,5,9,A,L,W,1,2,3,A,L,W,http://www.worldfootball.net/report/premiership-2017-2018-talaea-el-gaish-sc-al-mokawloon/
+egypt-2017-2018,33,2018-04-23,19:15,201804231915,monday,Misr lel-Maqasah SC,Ittihad El-Iskandary,2,0,2,H,W,L,2,0,2,H,W,L,http://www.worldfootball.net/report/premiership-2017-2018-misr-lel-maqasah-sc-ittihad-el-iskandary/
+egypt-2017-2018,34,2018-04-25,14:45,201804251445,wednesday,El Daklyeh,Wadi Degla FC,1,1,2,D,D,D,0,1,1,A,L,W,http://www.worldfootball.net/report/premiership-2017-2018-el-daklyeh-wadi-degla-fc/
+egypt-2017-2018,34,2018-04-25,14:45,201804251445,wednesday,ENPPI,Tanta,3,1,4,H,W,L,3,0,3,H,W,L,http://www.worldfootball.net/report/premiership-2017-2018-enppi-tanta/
+egypt-2017-2018,34,2018-04-25,17:00,201804251700,wednesday,Al-Masry Club,Smouha Sporting Club,2,1,3,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/premiership-2017-2018-al-masry-club-smouha-sporting-club/
+egypt-2017-2018,34,2018-04-26,14:45,201804261445,thursday,El Assiouty Sport,Tala'ea El-Gaish SC,1,1,2,D,D,D,1,1,2,D,D,D,http://www.worldfootball.net/report/premiership-2017-2018-alassiouty-sport-talaea-el-gaish-sc/
 egypt-2017-2018,34,2018-04-26,14:45,201804261445,thursday,Alassiouty Sport,Tala'ea El-Gaish SC,1,1,2,D,D,D,1.0,1.0,2.0,D,D,D,http://www.worldfootball.net/report/premiership-2017-2018-alassiouty-sport-talaea-el-gaish-sc/
-egypt-2017-2018,34,2018-04-26,19:00,201804261900,thursday,Al-Ahly,Zamalek,1,2,3,A,L,W,0.0,2.0,2.0,A,L,W,http://www.worldfootball.net/report/premiership-2017-2018-al-ahly-zamalek/
-egypt-2017-2018,34,2018-04-27,14:45,201804271445,friday,Ittihad El-Iskandary,El Raja Sporting Club,2,2,4,D,D,D,1.0,0.0,1.0,H,W,L,http://www.worldfootball.net/report/premiership-2017-2018-ittihad-el-iskandary-el-raja-sporting-club/
-egypt-2017-2018,34,2018-04-27,17:00,201804271700,friday,Ismaily,Al Nasr FC,2,0,2,H,W,L,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/premiership-2017-2018-ismaily-al-nasr-fc/
-egypt-2017-2018,34,2018-04-27,19:15,201804271915,friday,Al-Mokawloon,Misr lel-Maqasah SC,0,1,1,A,L,W,0.0,1.0,1.0,A,L,W,http://www.worldfootball.net/report/premiership-2017-2018-al-mokawloon-misr-lel-maqasah-sc/
-egypt-2017-2018,34,2018-04-27,19:15,201804271915,friday,El-Entag El-Harby,PetroJet Football Club,2,1,3,H,W,L,1.0,0.0,1.0,H,W,L,http://www.worldfootball.net/report/premiership-2017-2018-el-entag-el-harby-petrojet-football-club/
-egypt-2017-2018,30,2018-04-29,18:00,201804291800,sunday,El Daklyeh,Al-Masry Club,0,3,3,A,L,W,0.0,2.0,2.0,A,L,W,http://www.worldfootball.net/report/premiership-2017-2018-el-daklyeh-al-masry-club/
-egypt-2017-2018,32,2018-05-02,15:30,201805021530,wednesday,Al-Masry Club,ENPPI,1,1,2,D,D,D,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/premiership-2017-2018-al-masry-club-enppi/
-egypt-2017-2018,24,2018-05-11,18:00,201805111800,friday,Ismaily,Al-Masry Club,1,1,2,D,D,D,0.0,1.0,1.0,A,L,W,http://www.worldfootball.net/report/premiership-2017-2018-ismaily-al-masry-club/
-egypt-2017-2018,28,2018-05-20,21:00,201805202100,sunday,Al-Ahly,Al-Masry Club,2,0,2,H,W,L,1.0,0.0,1.0,H,W,L,http://www.worldfootball.net/report/premiership-2017-2018-al-ahly-al-masry-club/
+egypt-2017-2018,34,2018-04-26,19:00,201804261900,thursday,Al-Ahly,Zamalek,1,2,3,A,L,W,0,2,2,A,L,W,http://www.worldfootball.net/report/premiership-2017-2018-al-ahly-zamalek/
+egypt-2017-2018,34,2018-04-27,14:45,201804271445,friday,Ittihad El-Iskandary,El Raja Sporting Club,2,2,4,D,D,D,1,0,1,H,W,L,http://www.worldfootball.net/report/premiership-2017-2018-ittihad-el-iskandary-el-raja-sporting-club/
+egypt-2017-2018,34,2018-04-27,17:00,201804271700,friday,Ismaily,Al Nasr FC,2,0,2,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/premiership-2017-2018-ismaily-al-nasr-fc/
+egypt-2017-2018,34,2018-04-27,19:15,201804271915,friday,Al-Mokawloon,Misr lel-Maqasah SC,0,1,1,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/premiership-2017-2018-al-mokawloon-misr-lel-maqasah-sc/
+egypt-2017-2018,34,2018-04-27,19:15,201804271915,friday,El-Entag El-Harby,PetroJet Football Club,2,1,3,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/premiership-2017-2018-el-entag-el-harby-petrojet-football-club/
+egypt-2017-2018,30,2018-04-29,18:00,201804291800,sunday,El Daklyeh,Al-Masry Club,0,3,3,A,L,W,0,2,2,A,L,W,http://www.worldfootball.net/report/premiership-2017-2018-el-daklyeh-al-masry-club/
+egypt-2017-2018,32,2018-05-02,15:30,201805021530,wednesday,Al-Masry Club,ENPPI,1,1,2,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/premiership-2017-2018-al-masry-club-enppi/
+egypt-2017-2018,24,2018-05-11,18:00,201805111800,friday,Ismaily,Al-Masry Club,1,1,2,D,D,D,0,1,1,A,L,W,http://www.worldfootball.net/report/premiership-2017-2018-ismaily-al-masry-club/
+egypt-2017-2018,28,2018-05-20,21:00,201805202100,sunday,Al-Ahly,Al-Masry Club,2,0,2,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/premiership-2017-2018-al-ahly-al-masry-club/
