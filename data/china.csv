@@ -6,7 +6,7 @@ china-1994,1,1994-04-17,,199404170000,sunday,Shandong Taishan FC,Guangzhou Taiya
 china-1994,1,1994-04-17,,199404170000,sunday,Shenyang Huayang,Shanghai Shenhua,2,3,5,A,L,W,,,,,,,
 china-1994,1,1994-04-17,,199404170000,sunday,Sichuan Quanxing,Liaoning Far East,1,1,2,D,D,D,,,,,,,
 china-1994,2,1994-04-24,,199404240000,sunday,Guangdong Hongyuan,August 1st (Army Team),0,1,1,A,L,W,,,,,,,
-china-1994,2,1994-04-24,,199404240000,sunday,Jiangsu Maint,Guangzhou Taiyangshen,0,0,0,D,D,D,0,0,0,D,D,D,
+china-1994,2,1994-04-24,,199404240000,sunday,Jiangsu Maint,Guangzhou Taiyangshen,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
 china-1994,2,1994-04-24,,199404240000,sunday,Shandong Taishan FC,Liaoning Far East,1,0,1,H,W,L,,,,,,,
 china-1994,2,1994-04-24,,199404240000,sunday,Shanghai Shenhua,Beijing Guoan,4,3,7,H,W,L,,,,,,,
 china-1994,2,1994-04-24,,199404240000,sunday,Shenyang Huayang,Dalian Wanda,1,0,1,H,W,L,,,,,,,
@@ -20,7 +20,7 @@ china-1994,3,1994-05-01,,199405010000,sunday,Sichuan Quanxing,Shenyang Huayang,2
 china-1994,5,1994-06-05,,199406050000,sunday,August 1st (Army Team),Sichuan Quanxing,2,1,3,H,W,L,,,,,,,
 china-1994,5,1994-06-05,,199406050000,sunday,Dalian Wanda,Guangzhou Taiyangshen,2,1,3,H,W,L,,,,,,,
 china-1994,5,1994-06-05,,199406050000,sunday,Guangdong Hongyuan,Jiangsu Maint,5,1,6,H,W,L,,,,,,,
-china-1994,5,1994-06-05,,199406050000,sunday,Changchun Yatai,Beijing Guoan,0,0,0,D,D,D,0,0,0,D,D,D,
+china-1994,5,1994-06-05,,199406050000,sunday,Changchun Yatai,Beijing Guoan,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
 china-1994,5,1994-06-05,,199406050000,sunday,Liaoning Far East,Shenyang Huayang,1,1,2,D,D,D,,,,,,,
 china-1994,5,1994-06-05,,199406050000,sunday,Shandong Taishan FC,Shanghai Shenhua,3,1,4,H,W,L,,,,,,,
 china-1994,4,1994-06-08,,199406080000,wednesday,August 1st (Army Team),Dalian Wanda,0,1,1,A,L,W,,,,,,,
@@ -34,14 +34,14 @@ china-1994,6,1994-06-12,,199406120000,sunday,Dalian Wanda,Shandong Taishan FC,3,
 china-1994,6,1994-06-12,,199406120000,sunday,Guangdong Hongyuan,Liaoning Far East,2,0,2,H,W,L,,,,,,,
 china-1994,6,1994-06-12,,199406120000,sunday,Jiangsu Maint,Shanghai Shenhua,1,4,5,A,L,W,,,,,,,
 china-1994,6,1994-06-12,,199406120000,sunday,Shenyang Huayang,Beijing Guoan,0,1,1,A,L,W,,,,,,,
-china-1994,6,1994-06-12,,199406120000,sunday,Sichuan Quanxing,Guangzhou Taiyangshen,0,0,0,D,D,D,0,0,0,D,D,D,
+china-1994,6,1994-06-12,,199406120000,sunday,Sichuan Quanxing,Guangzhou Taiyangshen,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
 china-1994,7,1994-06-19,,199406190000,sunday,Beijing Guoan,Liaoning Far East,3,1,4,H,W,L,,,,,,,
 china-1994,7,1994-06-19,,199406190000,sunday,Guangzhou Taiyangshen,Changchun Yatai,1,0,1,H,W,L,,,,,,,
 china-1994,7,1994-06-19,,199406190000,sunday,Jiangsu Maint,Dalian Wanda,1,3,4,A,L,W,,,,,,,
-china-1994,7,1994-06-19,,199406190000,sunday,Shanghai Shenhua,Guangdong Hongyuan,0,0,0,D,D,D,0,0,0,D,D,D,
-china-1994,7,1994-06-19,,199406190000,sunday,Shenyang Huayang,August 1st (Army Team),0,0,0,D,D,D,0,0,0,D,D,D,
+china-1994,7,1994-06-19,,199406190000,sunday,Shanghai Shenhua,Guangdong Hongyuan,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
+china-1994,7,1994-06-19,,199406190000,sunday,Shenyang Huayang,August 1st (Army Team),0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
 china-1994,7,1994-06-19,,199406190000,sunday,Sichuan Quanxing,Shandong Taishan FC,2,0,2,H,W,L,,,,,,,
-china-1994,8,1994-06-26,,199406260000,sunday,Beijing Guoan,August 1st (Army Team),0,0,0,D,D,D,0,0,0,D,D,D,
+china-1994,8,1994-06-26,,199406260000,sunday,Beijing Guoan,August 1st (Army Team),0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
 china-1994,8,1994-06-26,,199406260000,sunday,Guangdong Hongyuan,Dalian Wanda,2,1,3,H,W,L,,,,,,,
 china-1994,8,1994-06-26,,199406260000,sunday,Jiangsu Maint,Sichuan Quanxing,1,1,2,D,D,D,,,,,,,
 china-1994,8,1994-06-26,,199406260000,sunday,Changchun Yatai,Shandong Taishan FC,1,1,2,D,D,D,,,,,,,
@@ -68,10 +68,10 @@ china-1994,11,1994-07-17,,199407170000,sunday,Liaoning Far East,Guangzhou Taiyan
 china-1994,12,1994-07-24,,199407240000,sunday,Beijing Guoan,Guangdong Hongyuan,2,2,4,D,D,D,,,,,,,
 china-1994,12,1994-07-24,,199407240000,sunday,Dalian Wanda,Changchun Yatai,1,0,1,H,W,L,,,,,,,
 china-1994,12,1994-07-24,,199407240000,sunday,Guangzhou Taiyangshen,Shandong Taishan FC,3,1,4,H,W,L,,,,,,,
-china-1994,12,1994-07-24,,199407240000,sunday,Jiangsu Maint,August 1st (Army Team),0,0,0,D,D,D,0,0,0,D,D,D,
+china-1994,12,1994-07-24,,199407240000,sunday,Jiangsu Maint,August 1st (Army Team),0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
 china-1994,12,1994-07-24,,199407240000,sunday,Liaoning Far East,Sichuan Quanxing,6,3,9,H,W,L,,,,,,,
-china-1994,12,1994-07-24,,199407240000,sunday,Shanghai Shenhua,Shenyang Huayang,0,0,0,D,D,D,0,0,0,D,D,D,
-china-1994,13,1994-07-31,,199407310000,sunday,August 1st (Army Team),Guangdong Hongyuan,0,0,0,D,D,D,0,0,0,D,D,D,
+china-1994,12,1994-07-24,,199407240000,sunday,Shanghai Shenhua,Shenyang Huayang,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
+china-1994,13,1994-07-31,,199407310000,sunday,August 1st (Army Team),Guangdong Hongyuan,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
 china-1994,13,1994-07-31,,199407310000,sunday,Beijing Guoan,Shanghai Shenhua,5,1,6,H,W,L,,,,,,,
 china-1994,13,1994-07-31,,199407310000,sunday,Dalian Wanda,Shenyang Huayang,4,0,4,H,W,L,,,,,,,
 china-1994,13,1994-07-31,,199407310000,sunday,Guangzhou Taiyangshen,Jiangsu Maint,2,0,2,H,W,L,,,,,,,
@@ -91,17 +91,17 @@ china-1994,15,1994-08-14,,199408140000,sunday,Shenyang Huayang,Changchun Yatai,2
 china-1994,15,1994-08-14,,199408140000,sunday,Sichuan Quanxing,Beijing Guoan,4,1,5,H,W,L,,,,,,,
 china-1994,16,1994-08-21,,199408210000,sunday,Beijing Guoan,Changchun Yatai,1,2,3,A,L,W,,,,,,,
 china-1994,16,1994-08-21,,199408210000,sunday,Guangzhou Taiyangshen,Dalian Wanda,3,2,5,H,W,L,,,,,,,
-china-1994,16,1994-08-21,,199408210000,sunday,Jiangsu Maint,Guangdong Hongyuan,0,0,0,D,D,D,0,0,0,D,D,D,
-china-1994,16,1994-08-21,,199408210000,sunday,Shanghai Shenhua,Shandong Taishan FC,0,0,0,D,D,D,0,0,0,D,D,D,
+china-1994,16,1994-08-21,,199408210000,sunday,Jiangsu Maint,Guangdong Hongyuan,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
+china-1994,16,1994-08-21,,199408210000,sunday,Shanghai Shenhua,Shandong Taishan FC,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
 china-1994,16,1994-08-21,,199408210000,sunday,Shenyang Huayang,Liaoning Far East,3,4,7,A,L,W,,,,,,,
-china-1994,16,1994-08-21,,199408210000,sunday,Sichuan Quanxing,August 1st (Army Team),0,0,0,D,D,D,0,0,0,D,D,D,
+china-1994,16,1994-08-21,,199408210000,sunday,Sichuan Quanxing,August 1st (Army Team),0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
 china-1994,17,1994-08-28,,199408280000,sunday,Beijing Guoan,Shenyang Huayang,6,0,6,H,W,L,,,,,,,
 china-1994,17,1994-08-28,,199408280000,sunday,Guangzhou Taiyangshen,Sichuan Quanxing,1,0,1,H,W,L,,,,,,,
 china-1994,17,1994-08-28,,199408280000,sunday,Changchun Yatai,August 1st (Army Team),3,0,3,H,W,L,,,,,,,
 china-1994,17,1994-08-28,,199408280000,sunday,Liaoning Far East,Guangdong Hongyuan,2,1,3,H,W,L,,,,,,,
 china-1994,17,1994-08-28,,199408280000,sunday,Shandong Taishan FC,Dalian Wanda,0,3,3,A,L,W,,,,,,,
 china-1994,17,1994-08-28,,199408280000,sunday,Shanghai Shenhua,Jiangsu Maint,2,0,2,H,W,L,,,,,,,
-china-1994,18,1994-09-04,,199409040000,sunday,August 1st (Army Team),Shenyang Huayang,0,0,0,D,D,D,0,0,0,D,D,D,
+china-1994,18,1994-09-04,,199409040000,sunday,August 1st (Army Team),Shenyang Huayang,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
 china-1994,18,1994-09-04,,199409040000,sunday,Dalian Wanda,Jiangsu Maint,2,2,4,D,D,D,,,,,,,
 china-1994,18,1994-09-04,,199409040000,sunday,Guangdong Hongyuan,Shanghai Shenhua,2,0,2,H,W,L,,,,,,,
 china-1994,18,1994-09-04,,199409040000,sunday,Changchun Yatai,Guangzhou Taiyangshen,1,1,2,D,D,D,,,,,,,
@@ -117,14 +117,14 @@ china-1994,20,1994-10-30,,199410300000,sunday,August 1st (Army Team),Liaoning Fa
 china-1994,20,1994-10-30,,199410300000,sunday,Beijing Guoan,Guangzhou Taiyangshen,1,1,2,D,D,D,,,,,,,
 china-1994,20,1994-10-30,,199410300000,sunday,Guangdong Hongyuan,Sichuan Quanxing,2,2,4,D,D,D,,,,,,,
 china-1994,20,1994-10-30,,199410300000,sunday,Changchun Yatai,Jiangsu Maint,1,0,1,H,W,L,,,,,,,
-china-1994,20,1994-10-30,,199410300000,sunday,Shanghai Shenhua,Dalian Wanda,0,0,0,D,D,D,0,0,0,D,D,D,
+china-1994,20,1994-10-30,,199410300000,sunday,Shanghai Shenhua,Dalian Wanda,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
 china-1994,20,1994-10-30,,199410300000,sunday,Shenyang Huayang,Shandong Taishan FC,0,1,1,A,L,W,,,,,,,
 china-1994,21,1994-11-06,,199411060000,sunday,August 1st (Army Team),Guangzhou Taiyangshen,1,0,1,H,W,L,,,,,,,
 china-1994,21,1994-11-06,,199411060000,sunday,Beijing Guoan,Shandong Taishan FC,2,2,4,D,D,D,,,,,,,
 china-1994,21,1994-11-06,,199411060000,sunday,Guangdong Hongyuan,Changchun Yatai,2,0,2,H,W,L,,,,,,,
 china-1994,21,1994-11-06,,199411060000,sunday,Jiangsu Maint,Shenyang Huayang,1,1,2,D,D,D,,,,,,,
 china-1994,21,1994-11-06,,199411060000,sunday,Liaoning Far East,Dalian Wanda,0,2,2,A,L,W,,,,,,,
-china-1994,21,1994-11-06,,199411060000,sunday,Sichuan Quanxing,Shanghai Shenhua,0,0,0,D,D,D,0,0,0,D,D,D,
+china-1994,21,1994-11-06,,199411060000,sunday,Sichuan Quanxing,Shanghai Shenhua,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
 china-1994,22,1994-11-13,,199411130000,sunday,Guangzhou Taiyangshen,Liaoning Far East,2,3,5,A,L,W,,,,,,,
 china-1994,22,1994-11-13,,199411130000,sunday,Jiangsu Maint,Beijing Guoan,0,2,2,A,L,W,,,,,,,
 china-1994,22,1994-11-13,,199411130000,sunday,Shandong Taishan FC,August 1st (Army Team),1,0,1,H,W,L,,,,,,,
@@ -4809,91 +4809,243 @@ china-2017,30,2017-11-04,07:00,201711040700,saturday,Liáoníng Hóngyùn,Shangh
 china-2017,30,2017-11-04,07:00,201711040700,saturday,Guangzhou Evergrande,Tianjin Quanjian FC,1,2,3,A,L,W,0.0,1.0,1.0,A,L,W,http://www.worldfootball.net/report/super-league-2017-guangzhou-evergrande-tianjin-quanjian-fc/
 china-2017,30,2017-11-04,07:00,201711040700,saturday,Beijing Guoan,Changchun Yatai,1,2,3,A,L,W,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/super-league-2017-beijing-guoan-changchun-yatai/
 china-2017,30,2017-11-04,07:00,201711040700,saturday,Shanghai SIPG,Jiāngsū Sūníng,2,3,5,A,L,W,1.0,2.0,3.0,A,L,W,http://www.worldfootball.net/report/super-league-2017-shanghai-sipg-jiangsu-suning/
-china-2018,1,2018-03-02,11:35,201803021135,friday,Henan Jianye,Tianjin Quanjian FC,0,4,4,A,L,W,0.0,1.0,1.0,A,L,W,http://www.worldfootball.net/report/super-league-2018-henan-jianye-tianjin-quanjian-fc/
-china-2018,1,2018-03-02,11:35,201803021135,friday,Shanghai Shenhua,Changchun Yatai,1,1,2,D,D,D,1.0,0.0,1.0,H,W,L,http://www.worldfootball.net/report/super-league-2018-shanghai-greenland-changchun-yatai/
-china-2018,1,2018-03-02,11:35,201803021135,friday,Guangzhou Evergrande,Guangzhou R&F,4,5,9,A,L,W,3.0,2.0,5.0,H,W,L,http://www.worldfootball.net/report/super-league-2018-guangzhou-evergrande-guangzhou-r-f/
-china-2018,1,2018-03-03,07:30,201803030730,saturday,Chongqing Lifan,Beijing Renhe FC,1,0,1,H,W,L,1.0,0.0,1.0,H,W,L,http://www.worldfootball.net/report/super-league-2018-chongqing-lifan-beijing-renhe-fc/
-china-2018,1,2018-03-03,11:35,201803031135,saturday,Shanghai SIPG,Dalian Yifang FC,8,0,8,H,W,L,3.0,0.0,3.0,H,W,L,http://www.worldfootball.net/report/super-league-2018-shanghai-sipg-dalian-yifang-fc/
-china-2018,1,2018-03-03,11:35,201803031135,saturday,Tianjin Teda,Hebei China Fortune FC,1,1,2,D,D,D,1.0,0.0,1.0,H,W,L,http://www.worldfootball.net/report/super-league-2018-tianjin-teda-hebei-china-fortune-fc/
-china-2018,1,2018-03-04,07:30,201803040730,sunday,Guizhou Hengfeng,Jiāngsū Sūníng,1,3,4,A,L,W,1.0,2.0,3.0,A,L,W,http://www.worldfootball.net/report/super-league-2018-guizhou-hengfeng-jiangsu-suning/
-china-2018,1,2018-03-04,11:35,201803041135,sunday,Shandong Luneng,Beijing Guoan,3,0,3,H,W,L,2.0,0.0,2.0,H,W,L,http://www.worldfootball.net/report/super-league-2018-shandong-luneng-beijing-guoan/
-china-2018,2,2018-03-09,11:35,201803091135,friday,Guangzhou Evergrande,Changchun Yatai,5,0,5,H,W,L,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/super-league-2018-guangzhou-evergrande-changchun-yatai/
-china-2018,2,2018-03-10,07:30,201803100730,saturday,Tianjin Quanjian FC,Beijing Renhe FC,1,2,3,A,L,W,0.0,1.0,1.0,A,L,W,http://www.worldfootball.net/report/super-league-2018-tianjin-quanjian-fc-beijing-renhe-fc/
-china-2018,2,2018-03-10,11:35,201803101135,saturday,Guangzhou R&F,Dalian Yifang FC,2,0,2,H,W,L,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/super-league-2018-guangzhou-r-f-dalian-yifang-fc/
-china-2018,2,2018-03-10,11:35,201803101135,saturday,Shandong Luneng,Chongqing Lifan,2,0,2,H,W,L,1.0,0.0,1.0,H,W,L,http://www.worldfootball.net/report/super-league-2018-shandong-luneng-chongqing-lifan/
-china-2018,2,2018-03-10,11:35,201803101135,saturday,Shanghai Shenhua,Shanghai SIPG,0,2,2,A,L,W,0.0,1.0,1.0,A,L,W,http://www.worldfootball.net/report/super-league-2018-shanghai-greenland-shanghai-sipg/
-china-2018,2,2018-03-11,07:30,201803110730,sunday,Guizhou Hengfeng,Hebei China Fortune FC,2,3,5,A,L,W,0.0,1.0,1.0,A,L,W,http://www.worldfootball.net/report/super-league-2018-guizhou-hengfeng-hebei-china-fortune-fc/
-china-2018,2,2018-03-11,11:35,201803111135,sunday,Henan Jianye,Tianjin Teda,1,0,1,H,W,L,1.0,0.0,1.0,H,W,L,http://www.worldfootball.net/report/super-league-2018-henan-jianye-tianjin-teda/
-china-2018,2,2018-03-11,11:35,201803111135,sunday,Jiāngsū Sūníng,Beijing Guoan,1,2,3,A,L,W,0.0,1.0,1.0,A,L,W,http://www.worldfootball.net/report/super-league-2018-jiangsu-suning-beijing-guoan/
-china-2018,3,2018-03-16,11:35,201803161135,friday,Dalian Yifang FC,Beijing Guoan,0,3,3,A,L,W,0.0,2.0,2.0,A,L,W,http://www.worldfootball.net/report/super-league-2018-dalian-yifang-fc-beijing-guoan/
-china-2018,3,2018-03-17,07:30,201803170730,saturday,Hebei China Fortune FC,Shandong Luneng,1,2,3,A,L,W,1.0,1.0,2.0,D,D,D,http://www.worldfootball.net/report/super-league-2018-hebei-china-fortune-fc-shandong-luneng/
-china-2018,3,2018-03-17,11:35,201803171135,saturday,Chongqing Lifan,Jiāngsū Sūníng,4,1,5,H,W,L,2.0,1.0,3.0,H,W,L,http://www.worldfootball.net/report/super-league-2018-chongqing-lifan-jiangsu-suning/
-china-2018,3,2018-03-18,07:30,201803180730,sunday,Guangzhou R&F,Shanghai SIPG,2,5,7,A,L,W,2.0,3.0,5.0,A,L,W,http://www.worldfootball.net/report/super-league-2018-guangzhou-r-f-shanghai-sipg/
-china-2018,3,2018-03-18,07:30,201803180730,sunday,Changchun Yatai,Beijing Renhe FC,1,1,2,D,D,D,1.0,1.0,2.0,D,D,D,http://www.worldfootball.net/report/super-league-2018-changchun-yatai-beijing-renhe-fc/
-china-2018,3,2018-03-18,11:35,201803181135,sunday,Guangzhou Evergrande,Henan Jianye,1,0,1,H,W,L,1.0,0.0,1.0,H,W,L,http://www.worldfootball.net/report/super-league-2018-guangzhou-evergrande-henan-jianye/
-china-2018,3,2018-03-18,11:35,201803181135,sunday,Guizhou Hengfeng,Shanghai Shenhua,0,1,1,A,L,W,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/super-league-2018-guizhou-hengfeng-shanghai-greenland/
-china-2018,3,2018-03-18,11:35,201803181135,sunday,Tianjin Teda,Tianjin Quanjian FC,3,2,5,H,W,L,1.0,0.0,1.0,H,W,L,http://www.worldfootball.net/report/super-league-2018-tianjin-teda-tianjin-quanjian-fc/
-china-2018,4,2018-03-30,12:35,201803301235,friday,Shanghai SIPG,Chongqing Lifan,2,1,3,H,W,L,2.0,1.0,3.0,H,W,L,http://www.worldfootball.net/report/super-league-2018-shanghai-sipg-chongqing-lifan/
-china-2018,4,2018-03-30,12:35,201803301235,friday,Tianjin Quanjian FC,Guangzhou Evergrande,0,1,1,A,L,W,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/super-league-2018-tianjin-quanjian-fc-guangzhou-evergrande/
-china-2018,4,2018-03-31,08:30,201803310830,saturday,Changchun Yatai,Guangzhou R&F,1,2,3,A,L,W,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/super-league-2018-changchun-yatai-guangzhou-r-f/
-china-2018,4,2018-03-31,12:35,201803311235,saturday,Henan Jianye,Dalian Yifang FC,1,1,2,D,D,D,1.0,1.0,2.0,D,D,D,http://www.worldfootball.net/report/super-league-2018-henan-jianye-dalian-yifang-fc/
-china-2018,4,2018-03-31,12:35,201803311235,saturday,Shanghai Shenhua,Hebei China Fortune FC,4,2,6,H,W,L,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/super-league-2018-shanghai-greenland-hebei-china-fortune-fc/
-china-2018,4,2018-03-31,12:35,201803311235,saturday,Beijing Guoan,Beijing Renhe FC,4,0,4,H,W,L,1.0,0.0,1.0,H,W,L,http://www.worldfootball.net/report/super-league-2018-beijing-guoan-beijing-renhe-fc/
-china-2018,4,2018-04-01,08:30,201804010830,sunday,Shandong Luneng,Guizhou Hengfeng,0,2,2,A,L,W,0.0,1.0,1.0,A,L,W,http://www.worldfootball.net/report/super-league-2018-shandong-luneng-guizhou-hengfeng/
-china-2018,4,2018-04-01,12:35,201804011235,sunday,Jiāngsū Sūníng,Tianjin Teda,2,1,3,H,W,L,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/super-league-2018-jiangsu-suning-tianjin-teda/
-china-2018,5,2018-04-06,12:35,201804061235,friday,Guangzhou R&F,Jiāngsū Sūníng,0,2,2,A,L,W,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/super-league-2018-guangzhou-r-f-jiangsu-suning/
-china-2018,5,2018-04-06,12:35,201804061235,friday,Beijing Guoan,Tianjin Teda,1,1,2,D,D,D,1.0,1.0,2.0,D,D,D,http://www.worldfootball.net/report/super-league-2018-beijing-guoan-tianjin-teda/
-china-2018,5,2018-04-07,08:30,201804070830,saturday,Dalian Yifang FC,Chongqing Lifan,2,2,4,D,D,D,1.0,0.0,1.0,H,W,L,http://www.worldfootball.net/report/super-league-2018-dalian-yifang-fc-chongqing-lifan/
-china-2018,5,2018-04-07,12:35,201804071235,saturday,Hebei China Fortune FC,Changchun Yatai,2,1,3,H,W,L,1.0,0.0,1.0,H,W,L,http://www.worldfootball.net/report/super-league-2018-hebei-china-fortune-fc-changchun-yatai/
-china-2018,5,2018-04-08,08:30,201804080830,sunday,Beijing Renhe FC,Shanghai Shenhua,0,2,2,A,L,W,0.0,1.0,1.0,A,L,W,http://www.worldfootball.net/report/super-league-2018-beijing-renhe-fc-shanghai-greenland/
-china-2018,5,2018-04-08,12:35,201804081235,sunday,Guizhou Hengfeng,Tianjin Quanjian FC,0,1,1,A,L,W,0.0,1.0,1.0,A,L,W,http://www.worldfootball.net/report/super-league-2018-guizhou-hengfeng-tianjin-quanjian-fc/
-china-2018,5,2018-04-08,12:35,201804081235,sunday,Henan Jianye,Shanghai SIPG,1,2,3,A,L,W,1.0,2.0,3.0,A,L,W,http://www.worldfootball.net/report/super-league-2018-henan-jianye-shanghai-sipg/
-china-2018,5,2018-04-08,12:35,201804081235,sunday,Guangzhou Evergrande,Shandong Luneng,1,0,1,H,W,L,1.0,0.0,1.0,H,W,L,http://www.worldfootball.net/report/super-league-2018-guangzhou-evergrande-shandong-luneng/
-china-2018,6,2018-04-13,11:00,201804131100,friday,Shanghai Shenhua,Guangzhou Evergrande,2,2,4,D,D,D,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/super-league-2018-shanghai-shenhua-guangzhou-evergrande/
-china-2018,6,2018-04-13,12:35,201804131235,friday,Tianjin Quanjian FC,Jiāngsū Sūníng,1,1,2,D,D,D,1.0,0.0,1.0,H,W,L,http://www.worldfootball.net/report/super-league-2018-tianjin-quanjian-fc-jiangsu-suning/
-china-2018,6,2018-04-13,13:00,201804131300,friday,Shanghai SIPG,Hebei China Fortune FC,2,0,2,H,W,L,1.0,0.0,1.0,H,W,L,http://www.worldfootball.net/report/super-league-2018-shanghai-sipg-hebei-china-fortune-fc/
-china-2018,6,2018-04-14,08:30,201804140830,saturday,Tianjin Teda,Guangzhou R&F,2,1,3,H,W,L,2.0,1.0,3.0,H,W,L,http://www.worldfootball.net/report/super-league-2018-tianjin-teda-guangzhou-r-f/
-china-2018,6,2018-04-14,08:30,201804140830,saturday,Beijing Renhe FC,Guizhou Hengfeng,2,1,3,H,W,L,1.0,1.0,2.0,D,D,D,http://www.worldfootball.net/report/super-league-2018-beijing-renhe-fc-guizhou-hengfeng/
-china-2018,6,2018-04-14,12:35,201804141235,saturday,Shandong Luneng,Dalian Yifang FC,2,0,2,H,W,L,1.0,0.0,1.0,H,W,L,http://www.worldfootball.net/report/super-league-2018-shandong-luneng-dalian-yifang-fc/
-china-2018,6,2018-04-15,08:30,201804150830,sunday,Changchun Yatai,Henan Jianye,3,0,3,H,W,L,1.0,0.0,1.0,H,W,L,http://www.worldfootball.net/report/super-league-2018-changchun-yatai-henan-jianye/
-china-2018,6,2018-04-15,12:35,201804151235,sunday,Chongqing Lifan,Beijing Guoan,3,3,6,D,D,D,3.0,2.0,5.0,H,W,L,http://www.worldfootball.net/report/super-league-2018-chongqing-lifan-beijing-guoan/
-china-2018,7,2018-04-20,12:35,201804201235,friday,Henan Jianye,Chongqing Lifan,0,2,2,A,L,W,0.0,1.0,1.0,A,L,W,http://www.worldfootball.net/report/super-league-2018-henan-jianye-chongqing-lifan/
-china-2018,7,2018-04-21,08:30,201804210830,saturday,Hebei China Fortune FC,Beijing Renhe FC,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/super-league-2018-hebei-china-fortune-fc-beijing-renhe-fc/
-china-2018,7,2018-04-21,12:35,201804211235,saturday,Guangzhou R&F,Shandong Luneng,2,4,6,A,L,W,1.0,0.0,1.0,H,W,L,http://www.worldfootball.net/report/super-league-2018-guangzhou-r-f-shandong-luneng/
-china-2018,7,2018-04-21,12:35,201804211235,saturday,Guizhou Hengfeng,Changchun Yatai,2,5,7,A,L,W,1.0,3.0,4.0,A,L,W,http://www.worldfootball.net/report/super-league-2018-guizhou-hengfeng-changchun-yatai/
-china-2018,7,2018-04-22,08:30,201804220830,sunday,Dalian Yifang FC,Tianjin Quanjian FC,1,1,2,D,D,D,1.0,1.0,2.0,D,D,D,http://www.worldfootball.net/report/super-league-2018-dalian-yifang-fc-tianjin-quanjian-fc/
-china-2018,7,2018-04-22,11:00,201804221100,sunday,Jiāngsū Sūníng,Shanghai Shenhua,5,1,6,H,W,L,3.0,1.0,4.0,H,W,L,http://www.worldfootball.net/report/super-league-2018-jiangsu-suning-shanghai-shenhua/
-china-2018,7,2018-04-22,12:35,201804221235,sunday,Beijing Guoan,Guangzhou Evergrande,2,2,4,D,D,D,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/super-league-2018-beijing-guoan-guangzhou-evergrande/
-china-2018,7,2018-04-22,13:00,201804221300,sunday,Shanghai SIPG,Tianjin Teda,1,1,2,D,D,D,0.0,1.0,1.0,A,L,W,http://www.worldfootball.net/report/super-league-2018-shanghai-sipg-tianjin-teda/
-china-2018,8,2018-04-28,08:30,201804280830,saturday,Beijing Renhe FC,Tianjin Teda,1,0,1,H,W,L,1.0,0.0,1.0,H,W,L,http://www.worldfootball.net/report/super-league-2018-beijing-renhe-fc-tianjin-teda/
-china-2018,8,2018-04-28,12:35,201804281235,saturday,Guangzhou Evergrande,Jiāngsū Sūníng,1,0,1,H,W,L,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/super-league-2018-guangzhou-evergrande-jiangsu-suning/
-china-2018,8,2018-04-28,12:35,201804281235,saturday,Tianjin Quanjian FC,Hebei China Fortune FC,0,3,3,A,L,W,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/super-league-2018-tianjin-quanjian-fc-hebei-china-fortune-fc/
-china-2018,8,2018-04-29,08:30,201804290830,sunday,Changchun Yatai,Shanghai SIPG,2,1,3,H,W,L,1.0,1.0,2.0,D,D,D,http://www.worldfootball.net/report/super-league-2018-changchun-yatai-shanghai-sipg/
-china-2018,8,2018-04-29,12:35,201804291235,sunday,Shandong Luneng,Henan Jianye,2,1,3,H,W,L,0.0,1.0,1.0,A,L,W,http://www.worldfootball.net/report/super-league-2018-shandong-luneng-henan-jianye/
-china-2018,8,2018-04-29,12:35,201804291235,sunday,Shanghai Shenhua,Dalian Yifang FC,1,0,1,H,W,L,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/super-league-2018-shanghai-shenhua-dalian-yifang-fc/
-china-2018,8,2018-04-29,12:35,201804291235,sunday,Beijing Guoan,Guizhou Hengfeng,4,3,7,H,W,L,3.0,1.0,4.0,H,W,L,http://www.worldfootball.net/report/super-league-2018-beijing-guoan-guizhou-hengfeng/
-china-2018,8,2018-04-29,12:35,201804291235,sunday,Chongqing Lifan,Guangzhou R&F,0,1,1,A,L,W,0.0,1.0,1.0,A,L,W,http://www.worldfootball.net/report/super-league-2018-chongqing-lifan-guangzhou-r-f/
-china-2018,9,2018-05-05,08:00,201805050800,saturday,Dalian Yifang FC,Guangzhou Evergrande,3,0,3,H,W,L,2.0,0.0,2.0,H,W,L,http://www.worldfootball.net/report/super-league-2018-dalian-yifang-fc-guangzhou-evergrande/
-china-2018,9,2018-05-05,12:35,201805051235,saturday,Guangzhou R&F,Shanghai Shenhua,4,2,6,H,W,L,3.0,0.0,3.0,H,W,L,http://www.worldfootball.net/report/super-league-2018-guangzhou-r-f-shanghai-shenhua/
-china-2018,9,2018-05-05,12:35,201805051235,saturday,Hebei China Fortune FC,Henan Jianye,0,1,1,A,L,W,0.0,1.0,1.0,A,L,W,http://www.worldfootball.net/report/super-league-2018-hebei-china-fortune-fc-henan-jianye/
-china-2018,9,2018-05-05,12:35,201805051235,saturday,Chongqing Lifan,Tianjin Quanjian FC,0,1,1,A,L,W,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/super-league-2018-chongqing-lifan-tianjin-quanjian-fc/
-china-2018,9,2018-05-05,12:35,201805051235,saturday,Shanghai SIPG,Beijing Guoan,1,2,3,A,L,W,1.0,0.0,1.0,H,W,L,http://www.worldfootball.net/report/super-league-2018-shanghai-sipg-beijing-guoan/
-china-2018,9,2018-05-06,08:30,201805060830,sunday,Beijing Renhe FC,Shandong Luneng,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/super-league-2018-beijing-renhe-fc-shandong-luneng/
-china-2018,9,2018-05-06,08:30,201805060830,sunday,Tianjin Teda,Guizhou Hengfeng,5,1,6,H,W,L,2.0,0.0,2.0,H,W,L,http://www.worldfootball.net/report/super-league-2018-tianjin-teda-guizhou-hengfeng/
-china-2018,9,2018-05-06,12:35,201805061235,sunday,Jiāngsū Sūníng,Changchun Yatai,2,0,2,H,W,L,1.0,0.0,1.0,H,W,L,http://www.worldfootball.net/report/super-league-2018-jiangsu-suning-changchun-yatai/
-china-2018,10,2018-05-11,12:35,201805111235,friday,Beijing Guoan,Guangzhou R&F,2,2,4,D,D,D,1.0,1.0,2.0,D,D,D,http://www.worldfootball.net/report/super-league-2018-beijing-guoan-guangzhou-r-f/
-china-2018,10,2018-05-12,08:30,201805120830,saturday,Guizhou Hengfeng,Shanghai SIPG,1,1,2,D,D,D,1.0,1.0,2.0,D,D,D,http://www.worldfootball.net/report/super-league-2018-guizhou-hengfeng-shanghai-sipg/
-china-2018,10,2018-05-12,08:30,201805120830,saturday,Changchun Yatai,Tianjin Teda,0,1,1,A,L,W,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/super-league-2018-changchun-yatai-tianjin-teda/
-china-2018,10,2018-05-12,12:35,201805121235,saturday,Shanghai Shenhua,Chongqing Lifan,2,1,3,H,W,L,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/super-league-2018-shanghai-shenhua-chongqing-lifan/
-china-2018,10,2018-05-12,12:35,201805121235,saturday,Tianjin Quanjian FC,Shandong Luneng,1,1,2,D,D,D,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/super-league-2018-tianjin-quanjian-fc-shandong-luneng/
-china-2018,10,2018-05-12,12:35,201805121235,saturday,Guangzhou Evergrande,Hebei China Fortune FC,2,2,4,D,D,D,1.0,2.0,3.0,A,L,W,http://www.worldfootball.net/report/super-league-2018-guangzhou-evergrande-hebei-china-fortune-fc/
-china-2018,10,2018-05-13,12:35,201805131235,sunday,Henan Jianye,Beijing Renhe FC,1,0,1,H,W,L,1.0,0.0,1.0,H,W,L,http://www.worldfootball.net/report/super-league-2018-henan-jianye-beijing-renhe-fc/
-china-2018,10,2018-05-13,12:35,201805131235,sunday,Jiāngsū Sūníng,Dalian Yifang FC,1,0,1,H,W,L,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/super-league-2018-jiangsu-suning-dalian-yifang-fc/
-china-2018,11,2018-05-18,12:35,201805181235,friday,Tianjin Teda,Shandong Luneng,1,2,3,A,L,W,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/super-league-2018-tianjin-teda-shandong-luneng/
-china-2018,11,2018-05-19,08:30,201805190830,saturday,Changchun Yatai,Beijing Guoan,0,2,2,A,L,W,0.0,1.0,1.0,A,L,W,http://www.worldfootball.net/report/super-league-2018-changchun-yatai-beijing-guoan/
-china-2018,11,2018-05-19,12:35,201805191235,saturday,Guangzhou R&F,Henan Jianye,1,1,2,D,D,D,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/super-league-2018-guangzhou-r-f-henan-jianye/
-china-2018,11,2018-05-19,12:35,201805191235,saturday,Hebei China Fortune FC,Chongqing Lifan,2,1,3,H,W,L,1.0,1.0,2.0,D,D,D,http://www.worldfootball.net/report/super-league-2018-hebei-china-fortune-fc-chongqing-lifan/
-china-2018,11,2018-05-20,08:30,201805200830,sunday,Beijing Renhe FC,Guangzhou Evergrande,2,0,2,H,W,L,2.0,0.0,2.0,H,W,L,http://www.worldfootball.net/report/super-league-2018-beijing-renhe-fc-guangzhou-evergrande/
-china-2018,11,2018-05-20,11:00,201805201100,sunday,Tianjin Quanjian FC,Shanghai Shenhua,2,1,3,H,W,L,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/super-league-2018-tianjin-quanjian-fc-shanghai-shenhua/
-china-2018,11,2018-05-20,12:35,201805201235,sunday,Dalian Yifang FC,Guizhou Hengfeng,2,1,3,H,W,L,0.0,1.0,1.0,A,L,W,http://www.worldfootball.net/report/super-league-2018-dalian-yifang-fc-guizhou-hengfeng/
-china-2018,11,2018-05-20,13:00,201805201300,sunday,Shanghai SIPG,Jiāngsū Sūníng,2,0,2,H,W,L,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/super-league-2018-shanghai-sipg-jiangsu-suning/
+china-2018,1,2018-03-02,11:35,201803021135,friday,Henan Jianye,Tianjin Quanjian FC,0,4,4,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/super-league-2018-henan-jianye-tianjin-quanjian-fc/
+china-2018,1,2018-03-02,11:35,201803021135,friday,Shanghai Shenhua,Changchun Yatai,1,1,2,D,D,D,1,0,1,H,W,L,http://www.worldfootball.net/report/super-league-2018-shanghai-greenland-changchun-yatai/
+china-2018,1,2018-03-02,11:35,201803021135,friday,Guangzhou Evergrande,Guangzhou R&F,4,5,9,A,L,W,3,2,5,H,W,L,http://www.worldfootball.net/report/super-league-2018-guangzhou-evergrande-guangzhou-r-f/
+china-2018,1,2018-03-03,07:30,201803030730,saturday,Chongqing Lifan,Beijing Renhe FC,1,0,1,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/super-league-2018-chongqing-lifan-beijing-renhe-fc/
+china-2018,1,2018-03-03,11:35,201803031135,saturday,Shanghai SIPG,Dalian Yifang FC,8,0,8,H,W,L,3,0,3,H,W,L,http://www.worldfootball.net/report/super-league-2018-shanghai-sipg-dalian-yifang-fc/
+china-2018,1,2018-03-03,11:35,201803031135,saturday,Tianjin Teda,Hebei China Fortune FC,1,1,2,D,D,D,1,0,1,H,W,L,http://www.worldfootball.net/report/super-league-2018-tianjin-teda-hebei-china-fortune-fc/
+china-2018,1,2018-03-04,07:30,201803040730,sunday,Guizhou Hengfeng,Jiāngsū Sūníng,1,3,4,A,L,W,1,2,3,A,L,W,http://www.worldfootball.net/report/super-league-2018-guizhou-hengfeng-jiangsu-suning/
+china-2018,1,2018-03-04,11:35,201803041135,sunday,Shandong Luneng,Beijing Guoan,3,0,3,H,W,L,2,0,2,H,W,L,http://www.worldfootball.net/report/super-league-2018-shandong-luneng-beijing-guoan/
+china-2018,2,2018-03-09,11:35,201803091135,friday,Guangzhou Evergrande,Changchun Yatai,5,0,5,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/super-league-2018-guangzhou-evergrande-changchun-yatai/
+china-2018,2,2018-03-10,07:30,201803100730,saturday,Tianjin Quanjian FC,Beijing Renhe FC,1,2,3,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/super-league-2018-tianjin-quanjian-fc-beijing-renhe-fc/
+china-2018,2,2018-03-10,11:35,201803101135,saturday,Guangzhou R&F,Dalian Yifang FC,2,0,2,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/super-league-2018-guangzhou-r-f-dalian-yifang-fc/
+china-2018,2,2018-03-10,11:35,201803101135,saturday,Shandong Luneng,Chongqing Lifan,2,0,2,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/super-league-2018-shandong-luneng-chongqing-lifan/
+china-2018,2,2018-03-10,11:35,201803101135,saturday,Shanghai Shenhua,Shanghai SIPG,0,2,2,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/super-league-2018-shanghai-greenland-shanghai-sipg/
+china-2018,2,2018-03-11,07:30,201803110730,sunday,Guizhou Hengfeng,Hebei China Fortune FC,2,3,5,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/super-league-2018-guizhou-hengfeng-hebei-china-fortune-fc/
+china-2018,2,2018-03-11,11:35,201803111135,sunday,Henan Jianye,Tianjin Teda,1,0,1,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/super-league-2018-henan-jianye-tianjin-teda/
+china-2018,2,2018-03-11,11:35,201803111135,sunday,Jiāngsū Sūníng,Beijing Guoan,1,2,3,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/super-league-2018-jiangsu-suning-beijing-guoan/
+china-2018,3,2018-03-16,11:35,201803161135,friday,Dalian Yifang FC,Beijing Guoan,0,3,3,A,L,W,0,2,2,A,L,W,http://www.worldfootball.net/report/super-league-2018-dalian-yifang-fc-beijing-guoan/
+china-2018,3,2018-03-17,07:30,201803170730,saturday,Hebei China Fortune FC,Shandong Luneng,1,2,3,A,L,W,1,1,2,D,D,D,http://www.worldfootball.net/report/super-league-2018-hebei-china-fortune-fc-shandong-luneng/
+china-2018,3,2018-03-17,11:35,201803171135,saturday,Chongqing Lifan,Jiāngsū Sūníng,4,1,5,H,W,L,2,1,3,H,W,L,http://www.worldfootball.net/report/super-league-2018-chongqing-lifan-jiangsu-suning/
+china-2018,3,2018-03-18,07:30,201803180730,sunday,Guangzhou R&F,Shanghai SIPG,2,5,7,A,L,W,2,3,5,A,L,W,http://www.worldfootball.net/report/super-league-2018-guangzhou-r-f-shanghai-sipg/
+china-2018,3,2018-03-18,07:30,201803180730,sunday,Changchun Yatai,Beijing Renhe FC,1,1,2,D,D,D,1,1,2,D,D,D,http://www.worldfootball.net/report/super-league-2018-changchun-yatai-beijing-renhe-fc/
+china-2018,3,2018-03-18,11:35,201803181135,sunday,Guangzhou Evergrande,Henan Jianye,1,0,1,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/super-league-2018-guangzhou-evergrande-henan-jianye/
+china-2018,3,2018-03-18,11:35,201803181135,sunday,Guizhou Hengfeng,Shanghai Shenhua,0,1,1,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/super-league-2018-guizhou-hengfeng-shanghai-greenland/
+china-2018,3,2018-03-18,11:35,201803181135,sunday,Tianjin Teda,Tianjin Quanjian FC,3,2,5,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/super-league-2018-tianjin-teda-tianjin-quanjian-fc/
+china-2018,4,2018-03-30,12:35,201803301235,friday,Shanghai SIPG,Chongqing Lifan,2,1,3,H,W,L,2,1,3,H,W,L,http://www.worldfootball.net/report/super-league-2018-shanghai-sipg-chongqing-lifan/
+china-2018,4,2018-03-30,12:35,201803301235,friday,Tianjin Quanjian FC,Guangzhou Evergrande,0,1,1,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/super-league-2018-tianjin-quanjian-fc-guangzhou-evergrande/
+china-2018,4,2018-03-31,08:30,201803310830,saturday,Changchun Yatai,Guangzhou R&F,1,2,3,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/super-league-2018-changchun-yatai-guangzhou-r-f/
+china-2018,4,2018-03-31,12:35,201803311235,saturday,Henan Jianye,Dalian Yifang FC,1,1,2,D,D,D,1,1,2,D,D,D,http://www.worldfootball.net/report/super-league-2018-henan-jianye-dalian-yifang-fc/
+china-2018,4,2018-03-31,12:35,201803311235,saturday,Shanghai Shenhua,Hebei China Fortune FC,4,2,6,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/super-league-2018-shanghai-greenland-hebei-china-fortune-fc/
+china-2018,4,2018-03-31,12:35,201803311235,saturday,Beijing Guoan,Beijing Renhe FC,4,0,4,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/super-league-2018-beijing-guoan-beijing-renhe-fc/
+china-2018,4,2018-04-01,08:30,201804010830,sunday,Shandong Luneng,Guizhou Hengfeng,0,2,2,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/super-league-2018-shandong-luneng-guizhou-hengfeng/
+china-2018,4,2018-04-01,12:35,201804011235,sunday,Jiāngsū Sūníng,Tianjin Teda,2,1,3,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/super-league-2018-jiangsu-suning-tianjin-teda/
+china-2018,5,2018-04-06,12:35,201804061235,friday,Guangzhou R&F,Jiāngsū Sūníng,0,2,2,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/super-league-2018-guangzhou-r-f-jiangsu-suning/
+china-2018,5,2018-04-06,12:35,201804061235,friday,Beijing Guoan,Tianjin Teda,1,1,2,D,D,D,1,1,2,D,D,D,http://www.worldfootball.net/report/super-league-2018-beijing-guoan-tianjin-teda/
+china-2018,5,2018-04-07,08:30,201804070830,saturday,Dalian Yifang FC,Chongqing Lifan,2,2,4,D,D,D,1,0,1,H,W,L,http://www.worldfootball.net/report/super-league-2018-dalian-yifang-fc-chongqing-lifan/
+china-2018,5,2018-04-07,12:35,201804071235,saturday,Hebei China Fortune FC,Changchun Yatai,2,1,3,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/super-league-2018-hebei-china-fortune-fc-changchun-yatai/
+china-2018,5,2018-04-08,08:30,201804080830,sunday,Beijing Renhe FC,Shanghai Shenhua,0,2,2,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/super-league-2018-beijing-renhe-fc-shanghai-greenland/
+china-2018,5,2018-04-08,12:35,201804081235,sunday,Guizhou Hengfeng,Tianjin Quanjian FC,0,1,1,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/super-league-2018-guizhou-hengfeng-tianjin-quanjian-fc/
+china-2018,5,2018-04-08,12:35,201804081235,sunday,Henan Jianye,Shanghai SIPG,1,2,3,A,L,W,1,2,3,A,L,W,http://www.worldfootball.net/report/super-league-2018-henan-jianye-shanghai-sipg/
+china-2018,5,2018-04-08,12:35,201804081235,sunday,Guangzhou Evergrande,Shandong Luneng,1,0,1,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/super-league-2018-guangzhou-evergrande-shandong-luneng/
+china-2018,6,2018-04-13,11:00,201804131100,friday,Shanghai Shenhua,Guangzhou Evergrande,2,2,4,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/super-league-2018-shanghai-shenhua-guangzhou-evergrande/
+china-2018,6,2018-04-13,12:35,201804131235,friday,Tianjin Quanjian FC,Jiāngsū Sūníng,1,1,2,D,D,D,1,0,1,H,W,L,http://www.worldfootball.net/report/super-league-2018-tianjin-quanjian-fc-jiangsu-suning/
+china-2018,6,2018-04-13,13:00,201804131300,friday,Shanghai SIPG,Hebei China Fortune FC,2,0,2,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/super-league-2018-shanghai-sipg-hebei-china-fortune-fc/
+china-2018,6,2018-04-14,08:30,201804140830,saturday,Tianjin Teda,Guangzhou R&F,2,1,3,H,W,L,2,1,3,H,W,L,http://www.worldfootball.net/report/super-league-2018-tianjin-teda-guangzhou-r-f/
+china-2018,6,2018-04-14,08:30,201804140830,saturday,Beijing Renhe FC,Guizhou Hengfeng,2,1,3,H,W,L,1,1,2,D,D,D,http://www.worldfootball.net/report/super-league-2018-beijing-renhe-fc-guizhou-hengfeng/
+china-2018,6,2018-04-14,12:35,201804141235,saturday,Shandong Luneng,Dalian Yifang FC,2,0,2,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/super-league-2018-shandong-luneng-dalian-yifang-fc/
+china-2018,6,2018-04-15,08:30,201804150830,sunday,Changchun Yatai,Henan Jianye,3,0,3,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/super-league-2018-changchun-yatai-henan-jianye/
+china-2018,6,2018-04-15,12:35,201804151235,sunday,Chongqing Lifan,Beijing Guoan,3,3,6,D,D,D,3,2,5,H,W,L,http://www.worldfootball.net/report/super-league-2018-chongqing-lifan-beijing-guoan/
+china-2018,7,2018-04-20,12:35,201804201235,friday,Henan Jianye,Chongqing Lifan,0,2,2,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/super-league-2018-henan-jianye-chongqing-lifan/
+china-2018,7,2018-04-21,08:30,201804210830,saturday,Hebei China Fortune FC,Beijing Renhe FC,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/super-league-2018-hebei-china-fortune-fc-beijing-renhe-fc/
+china-2018,7,2018-04-21,12:35,201804211235,saturday,Guangzhou R&F,Shandong Luneng,2,4,6,A,L,W,1,0,1,H,W,L,http://www.worldfootball.net/report/super-league-2018-guangzhou-r-f-shandong-luneng/
+china-2018,7,2018-04-21,12:35,201804211235,saturday,Guizhou Hengfeng,Changchun Yatai,2,5,7,A,L,W,1,3,4,A,L,W,http://www.worldfootball.net/report/super-league-2018-guizhou-hengfeng-changchun-yatai/
+china-2018,7,2018-04-22,08:30,201804220830,sunday,Dalian Yifang FC,Tianjin Quanjian FC,1,1,2,D,D,D,1,1,2,D,D,D,http://www.worldfootball.net/report/super-league-2018-dalian-yifang-fc-tianjin-quanjian-fc/
+china-2018,7,2018-04-22,11:00,201804221100,sunday,Jiāngsū Sūníng,Shanghai Shenhua,5,1,6,H,W,L,3,1,4,H,W,L,http://www.worldfootball.net/report/super-league-2018-jiangsu-suning-shanghai-shenhua/
+china-2018,7,2018-04-22,12:35,201804221235,sunday,Beijing Guoan,Guangzhou Evergrande,2,2,4,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/super-league-2018-beijing-guoan-guangzhou-evergrande/
+china-2018,7,2018-04-22,13:00,201804221300,sunday,Shanghai SIPG,Tianjin Teda,1,1,2,D,D,D,0,1,1,A,L,W,http://www.worldfootball.net/report/super-league-2018-shanghai-sipg-tianjin-teda/
+china-2018,8,2018-04-28,08:30,201804280830,saturday,Beijing Renhe FC,Tianjin Teda,1,0,1,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/super-league-2018-beijing-renhe-fc-tianjin-teda/
+china-2018,8,2018-04-28,12:35,201804281235,saturday,Guangzhou Evergrande,Jiāngsū Sūníng,1,0,1,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/super-league-2018-guangzhou-evergrande-jiangsu-suning/
+china-2018,8,2018-04-28,12:35,201804281235,saturday,Tianjin Quanjian FC,Hebei China Fortune FC,0,3,3,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/super-league-2018-tianjin-quanjian-fc-hebei-china-fortune-fc/
+china-2018,8,2018-04-29,08:30,201804290830,sunday,Changchun Yatai,Shanghai SIPG,2,1,3,H,W,L,1,1,2,D,D,D,http://www.worldfootball.net/report/super-league-2018-changchun-yatai-shanghai-sipg/
+china-2018,8,2018-04-29,12:35,201804291235,sunday,Shandong Luneng,Henan Jianye,2,1,3,H,W,L,0,1,1,A,L,W,http://www.worldfootball.net/report/super-league-2018-shandong-luneng-henan-jianye/
+china-2018,8,2018-04-29,12:35,201804291235,sunday,Shanghai Shenhua,Dalian Yifang FC,1,0,1,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/super-league-2018-shanghai-shenhua-dalian-yifang-fc/
+china-2018,8,2018-04-29,12:35,201804291235,sunday,Beijing Guoan,Guizhou Hengfeng,4,3,7,H,W,L,3,1,4,H,W,L,http://www.worldfootball.net/report/super-league-2018-beijing-guoan-guizhou-hengfeng/
+china-2018,8,2018-04-29,12:35,201804291235,sunday,Chongqing Lifan,Guangzhou R&F,0,1,1,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/super-league-2018-chongqing-lifan-guangzhou-r-f/
+china-2018,9,2018-05-05,08:00,201805050800,saturday,Dalian Yifang FC,Guangzhou Evergrande,3,0,3,H,W,L,2,0,2,H,W,L,http://www.worldfootball.net/report/super-league-2018-dalian-yifang-fc-guangzhou-evergrande/
+china-2018,9,2018-05-05,12:35,201805051235,saturday,Guangzhou R&F,Shanghai Shenhua,4,2,6,H,W,L,3,0,3,H,W,L,http://www.worldfootball.net/report/super-league-2018-guangzhou-r-f-shanghai-shenhua/
+china-2018,9,2018-05-05,12:35,201805051235,saturday,Hebei China Fortune FC,Henan Jianye,0,1,1,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/super-league-2018-hebei-china-fortune-fc-henan-jianye/
+china-2018,9,2018-05-05,12:35,201805051235,saturday,Chongqing Lifan,Tianjin Quanjian FC,0,1,1,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/super-league-2018-chongqing-lifan-tianjin-quanjian-fc/
+china-2018,9,2018-05-05,12:35,201805051235,saturday,Shanghai SIPG,Beijing Guoan,1,2,3,A,L,W,1,0,1,H,W,L,http://www.worldfootball.net/report/super-league-2018-shanghai-sipg-beijing-guoan/
+china-2018,9,2018-05-06,08:30,201805060830,sunday,Beijing Renhe FC,Shandong Luneng,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/super-league-2018-beijing-renhe-fc-shandong-luneng/
+china-2018,9,2018-05-06,08:30,201805060830,sunday,Tianjin Teda,Guizhou Hengfeng,5,1,6,H,W,L,2,0,2,H,W,L,http://www.worldfootball.net/report/super-league-2018-tianjin-teda-guizhou-hengfeng/
+china-2018,9,2018-05-06,12:35,201805061235,sunday,Jiāngsū Sūníng,Changchun Yatai,2,0,2,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/super-league-2018-jiangsu-suning-changchun-yatai/
+china-2018,10,2018-05-11,12:35,201805111235,friday,Beijing Guoan,Guangzhou R&F,2,2,4,D,D,D,1,1,2,D,D,D,http://www.worldfootball.net/report/super-league-2018-beijing-guoan-guangzhou-r-f/
+china-2018,10,2018-05-12,08:30,201805120830,saturday,Guizhou Hengfeng,Shanghai SIPG,1,1,2,D,D,D,1,1,2,D,D,D,http://www.worldfootball.net/report/super-league-2018-guizhou-hengfeng-shanghai-sipg/
+china-2018,10,2018-05-12,08:30,201805120830,saturday,Changchun Yatai,Tianjin Teda,0,1,1,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/super-league-2018-changchun-yatai-tianjin-teda/
+china-2018,10,2018-05-12,12:35,201805121235,saturday,Shanghai Shenhua,Chongqing Lifan,2,1,3,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/super-league-2018-shanghai-shenhua-chongqing-lifan/
+china-2018,10,2018-05-12,12:35,201805121235,saturday,Tianjin Quanjian FC,Shandong Luneng,1,1,2,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/super-league-2018-tianjin-quanjian-fc-shandong-luneng/
+china-2018,10,2018-05-12,12:35,201805121235,saturday,Guangzhou Evergrande,Hebei China Fortune FC,2,2,4,D,D,D,1,2,3,A,L,W,http://www.worldfootball.net/report/super-league-2018-guangzhou-evergrande-hebei-china-fortune-fc/
+china-2018,10,2018-05-13,12:35,201805131235,sunday,Henan Jianye,Beijing Renhe FC,1,0,1,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/super-league-2018-henan-jianye-beijing-renhe-fc/
+china-2018,10,2018-05-13,12:35,201805131235,sunday,Jiāngsū Sūníng,Dalian Yifang FC,1,0,1,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/super-league-2018-jiangsu-suning-dalian-yifang-fc/
+china-2018,11,2018-05-18,12:35,201805181235,friday,Tianjin Teda,Shandong Luneng,1,2,3,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/super-league-2018-tianjin-teda-shandong-luneng/
+china-2018,11,2018-05-19,08:30,201805190830,saturday,Changchun Yatai,Beijing Guoan,0,2,2,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/super-league-2018-changchun-yatai-beijing-guoan/
+china-2018,11,2018-05-19,12:35,201805191235,saturday,Guangzhou R&F,Henan Jianye,1,1,2,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/super-league-2018-guangzhou-r-f-henan-jianye/
+china-2018,11,2018-05-19,12:35,201805191235,saturday,Hebei China Fortune FC,Chongqing Lifan,2,1,3,H,W,L,1,1,2,D,D,D,http://www.worldfootball.net/report/super-league-2018-hebei-china-fortune-fc-chongqing-lifan/
+china-2018,11,2018-05-20,08:30,201805200830,sunday,Beijing Renhe FC,Guangzhou Evergrande,2,0,2,H,W,L,2,0,2,H,W,L,http://www.worldfootball.net/report/super-league-2018-beijing-renhe-fc-guangzhou-evergrande/
+china-2018,11,2018-05-20,11:00,201805201100,sunday,Tianjin Quanjian FC,Shanghai Shenhua,2,1,3,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/super-league-2018-tianjin-quanjian-fc-shanghai-shenhua/
+china-2018,11,2018-05-20,12:35,201805201235,sunday,Dalian Yifang FC,Guizhou Hengfeng,2,1,3,H,W,L,0,1,1,A,L,W,http://www.worldfootball.net/report/super-league-2018-dalian-yifang-fc-guizhou-hengfeng/
+china-2018,11,2018-05-20,13:00,201805201300,sunday,Shanghai SIPG,Jiāngsū Sūníng,2,0,2,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/super-league-2018-shanghai-sipg-jiangsu-suning/
+china-2018,12,2018-07-17,12:35,201807171235,tuesday,Jiāngsū Sūníng,Beijing Renhe FC,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/super-league-2018-jiangsu-suning-beijing-renhe-fc/
+china-2018,12,2018-07-17,12:35,201807171235,tuesday,Tianjin Quanjian FC,Guangzhou R&F,2,1,3,H,W,L,2,0,2,H,W,L,http://www.worldfootball.net/report/super-league-2018-tianjin-quanjian-fc-guangzhou-r-f/
+china-2018,12,2018-07-17,12:35,201807171235,tuesday,Chongqing Lifan,Changchun Yatai,1,2,3,A,L,W,1,1,2,D,D,D,http://www.worldfootball.net/report/super-league-2018-chongqing-lifan-changchun-yatai/
+china-2018,12,2018-07-17,12:35,201807171235,tuesday,Shandong Luneng,Shanghai SIPG,1,1,2,D,D,D,1,0,1,H,W,L,http://www.worldfootball.net/report/super-league-2018-shandong-luneng-shanghai-sipg/
+china-2018,12,2018-07-18,12:35,201807181235,wednesday,Dalian Yifang FC,Hebei China Fortune FC,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/super-league-2018-dalian-yifang-fc-hebei-china-fortune-fc/
+china-2018,12,2018-07-18,12:35,201807181235,wednesday,Guangzhou Evergrande,Guizhou Hengfeng,4,0,4,H,W,L,2,0,2,H,W,L,http://www.worldfootball.net/report/super-league-2018-guangzhou-evergrande-guizhou-hengfeng/
+china-2018,12,2018-07-18,12:35,201807181235,wednesday,Shanghai Shenhua,Tianjin Teda,1,0,1,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/super-league-2018-shanghai-shenhua-tianjin-teda/
+china-2018,12,2018-07-18,12:35,201807181235,wednesday,Beijing Guoan,Henan Jianye,2,1,3,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/super-league-2018-beijing-guoan-henan-jianye/
+china-2018,13,2018-07-21,11:00,201807211100,saturday,Changchun Yatai,Shandong Luneng,1,2,3,A,L,W,1,0,1,H,W,L,http://www.worldfootball.net/report/super-league-2018-changchun-yatai-shandong-luneng/
+china-2018,13,2018-07-21,12:35,201807211235,saturday,Tianjin Teda,Chongqing Lifan,1,2,3,A,L,W,1,2,3,A,L,W,http://www.worldfootball.net/report/super-league-2018-tianjin-teda-chongqing-lifan/
+china-2018,13,2018-07-21,12:35,201807211235,saturday,Beijing Renhe FC,Dalian Yifang FC,3,1,4,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/super-league-2018-beijing-renhe-fc-dalian-yifang-fc/
+china-2018,13,2018-07-22,12:35,201807221235,sunday,Guangzhou R&F,Guizhou Hengfeng,1,1,2,D,D,D,0,1,1,A,L,W,http://www.worldfootball.net/report/super-league-2018-guangzhou-r-f-guizhou-hengfeng/
+china-2018,13,2018-07-22,12:35,201807221235,sunday,Hebei China Fortune FC,Jiāngsū Sūníng,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/super-league-2018-hebei-china-fortune-fc-jiangsu-suning/
+china-2018,13,2018-07-22,12:35,201807221235,sunday,Henan Jianye,Shanghai Shenhua,2,2,4,D,D,D,1,1,2,D,D,D,http://www.worldfootball.net/report/super-league-2018-henan-jianye-shanghai-shenhua/
+china-2018,13,2018-07-22,12:35,201807221235,sunday,Beijing Guoan,Tianjin Quanjian FC,3,2,5,H,W,L,2,0,2,H,W,L,http://www.worldfootball.net/report/super-league-2018-beijing-guoan-tianjin-quanjian-fc/
+china-2018,14,2018-07-28,11:00,201807281100,saturday,Beijing Renhe FC,Shanghai SIPG,1,5,6,A,L,W,1,2,3,A,L,W,http://www.worldfootball.net/report/super-league-2018-beijing-renhe-fc-shanghai-sipg/
+china-2018,14,2018-07-28,12:35,201807281235,saturday,Dalian Yifang FC,Tianjin Teda,2,3,5,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/super-league-2018-dalian-yifang-fc-tianjin-teda/
+china-2018,14,2018-07-28,12:35,201807281235,saturday,Guizhou Hengfeng,Henan Jianye,1,2,3,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/super-league-2018-guizhou-hengfeng-henan-jianye/
+china-2018,14,2018-07-28,12:35,201807281235,saturday,Hebei China Fortune FC,Guangzhou R&F,2,2,4,D,D,D,1,2,3,A,L,W,http://www.worldfootball.net/report/super-league-2018-hebei-china-fortune-fc-guangzhou-r-f/
+china-2018,14,2018-07-28,12:35,201807281235,saturday,Jiāngsū Sūníng,Shandong Luneng,1,1,2,D,D,D,1,1,2,D,D,D,http://www.worldfootball.net/report/super-league-2018-jiangsu-suning-shandong-luneng/
+china-2018,14,2018-07-28,13:00,201807281300,saturday,Shanghai Shenhua,Beijing Guoan,2,2,4,D,D,D,0,1,1,A,L,W,http://www.worldfootball.net/report/super-league-2018-shanghai-shenhua-beijing-guoan/
+china-2018,14,2018-07-29,12:35,201807291235,sunday,Guangzhou Evergrande,Chongqing Lifan,5,0,5,H,W,L,2,0,2,H,W,L,http://www.worldfootball.net/report/super-league-2018-guangzhou-evergrande-chongqing-lifan/
+china-2018,14,2018-07-29,12:35,201807291235,sunday,Tianjin Quanjian FC,Changchun Yatai,2,0,2,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/super-league-2018-tianjin-quanjian-fc-changchun-yatai/
+china-2018,15,2018-08-01,11:00,201808011100,wednesday,Changchun Yatai,Dalian Yifang FC,3,0,3,H,W,L,3,0,3,H,W,L,http://www.worldfootball.net/report/super-league-2018-changchun-yatai-dalian-yifang-fc/
+china-2018,15,2018-08-01,11:00,201808011100,wednesday,Shandong Luneng,Shanghai Shenhua,3,1,4,H,W,L,1,1,2,D,D,D,http://www.worldfootball.net/report/super-league-2018-shandong-luneng-shanghai-shenhua/
+china-2018,15,2018-08-01,12:35,201808011235,wednesday,Guangzhou R&F,Beijing Renhe FC,4,1,5,H,W,L,2,1,3,H,W,L,http://www.worldfootball.net/report/super-league-2018-guangzhou-r-f-beijing-renhe-fc/
+china-2018,15,2018-08-01,12:35,201808011235,wednesday,Henan Jianye,Jiāngsū Sūníng,0,1,1,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/super-league-2018-henan-jianye-jiangsu-suning/
+china-2018,15,2018-08-01,12:35,201808011235,wednesday,Chongqing Lifan,Guizhou Hengfeng,3,4,7,A,L,W,0,2,2,A,L,W,http://www.worldfootball.net/report/super-league-2018-chongqing-lifan-guizhou-hengfeng/
+china-2018,15,2018-08-01,13:00,201808011300,wednesday,Shanghai SIPG,Tianjin Quanjian FC,4,1,5,H,W,L,2,1,3,H,W,L,http://www.worldfootball.net/report/super-league-2018-shanghai-sipg-tianjin-quanjian-fc/
+china-2018,15,2018-08-02,12:35,201808021235,thursday,Tianjin Teda,Guangzhou Evergrande,0,3,3,A,L,W,0,2,2,A,L,W,http://www.worldfootball.net/report/super-league-2018-tianjin-teda-guangzhou-evergrande/
+china-2018,15,2018-08-02,12:35,201808021235,thursday,Beijing Guoan,Hebei China Fortune FC,6,3,9,H,W,L,3,2,5,H,W,L,http://www.worldfootball.net/report/super-league-2018-beijing-guoan-hebei-china-fortune-fc/
+china-2018,16,2018-08-04,11:00,201808041100,saturday,Changchun Yatai,Shanghai Shenhua,1,1,2,D,D,D,0,1,1,A,L,W,http://www.worldfootball.net/report/super-league-2018-changchun-yatai-shanghai-shenhua/
+china-2018,16,2018-08-04,12:35,201808041235,saturday,Tianjin Quanjian FC,Henan Jianye,1,2,3,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/super-league-2018-tianjin-quanjian-fc-henan-jianye/
+china-2018,16,2018-08-04,12:35,201808041235,saturday,Beijing Renhe FC,Chongqing Lifan,1,1,2,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/super-league-2018-beijing-renhe-fc-chongqing-lifan/
+china-2018,16,2018-08-05,12:35,201808051235,sunday,Jiāngsū Sūníng,Guizhou Hengfeng,3,1,4,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/super-league-2018-jiangsu-suning-guizhou-hengfeng/
+china-2018,16,2018-08-05,12:35,201808051235,sunday,Dalian Yifang FC,Shanghai SIPG,1,0,1,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/super-league-2018-dalian-yifang-fc-shanghai-sipg/
+china-2018,16,2018-08-05,12:35,201808051235,sunday,Hebei China Fortune FC,Tianjin Teda,1,2,3,A,L,W,1,0,1,H,W,L,http://www.worldfootball.net/report/super-league-2018-hebei-china-fortune-fc-tianjin-teda/
+china-2018,16,2018-08-05,12:35,201808051235,sunday,Guangzhou R&F,Guangzhou Evergrande,2,4,6,A,L,W,1,1,2,D,D,D,http://www.worldfootball.net/report/super-league-2018-guangzhou-r-f-guangzhou-evergrande/
+china-2018,16,2018-08-05,12:35,201808051235,sunday,Beijing Guoan,Shandong Luneng,1,1,2,D,D,D,1,1,2,D,D,D,http://www.worldfootball.net/report/super-league-2018-beijing-guoan-shandong-luneng/
+china-2018,17,2018-08-10,12:35,201808101235,friday,Dalian Yifang FC,Guangzhou R&F,3,0,3,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/super-league-2018-dalian-yifang-fc-guangzhou-r-f/
+china-2018,17,2018-08-10,12:35,201808101235,friday,Tianjin Teda,Henan Jianye,2,0,2,H,W,L,2,0,2,H,W,L,http://www.worldfootball.net/report/super-league-2018-tianjin-teda-henan-jianye/
+china-2018,17,2018-08-10,12:35,201808101235,friday,Beijing Guoan,Jiāngsū Sūníng,3,1,4,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/super-league-2018-beijing-guoan-jiangsu-suning/
+china-2018,17,2018-08-11,11:00,201808111100,saturday,Changchun Yatai,Guangzhou Evergrande,3,2,5,H,W,L,1,2,3,A,L,W,http://www.worldfootball.net/report/super-league-2018-changchun-yatai-guangzhou-evergrande/
+china-2018,17,2018-08-11,12:35,201808111235,saturday,Hebei China Fortune FC,Guizhou Hengfeng,1,0,1,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/super-league-2018-hebei-china-fortune-fc-guizhou-hengfeng/
+china-2018,17,2018-08-11,12:35,201808111235,saturday,Chongqing Lifan,Shandong Luneng,0,2,2,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/super-league-2018-chongqing-lifan-shandong-luneng/
+china-2018,17,2018-08-11,12:35,201808111235,saturday,Shanghai SIPG,Shanghai Shenhua,2,0,2,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/super-league-2018-shanghai-sipg-shanghai-shenhua/
+china-2018,17,2018-08-12,12:35,201808121235,sunday,Beijing Renhe FC,Tianjin Quanjian FC,3,3,6,D,D,D,0,2,2,A,L,W,http://www.worldfootball.net/report/super-league-2018-beijing-renhe-fc-tianjin-quanjian-fc/
+china-2018,18,2018-08-14,12:35,201808141235,tuesday,Beijing Guoan,Dalian Yifang FC,5,2,7,H,W,L,2,1,3,H,W,L,http://www.worldfootball.net/report/super-league-2018-beijing-guoan-dalian-yifang-fc/
+china-2018,18,2018-08-15,11:00,201808151100,wednesday,Shanghai SIPG,Guangzhou R&F,3,1,4,H,W,L,2,0,2,H,W,L,http://www.worldfootball.net/report/super-league-2018-shanghai-sipg-guangzhou-r-f/
+china-2018,18,2018-08-15,12:35,201808151235,wednesday,Shandong Luneng,Hebei China Fortune FC,3,1,4,H,W,L,1,1,2,D,D,D,http://www.worldfootball.net/report/super-league-2018-shandong-luneng-hebei-china-fortune-fc/
+china-2018,18,2018-08-15,12:35,201808151235,wednesday,Beijing Renhe FC,Changchun Yatai,1,3,4,A,L,W,1,2,3,A,L,W,http://www.worldfootball.net/report/super-league-2018-beijing-renhe-fc-changchun-yatai/
+china-2018,18,2018-08-15,12:35,201808151235,wednesday,Jiāngsū Sūníng,Chongqing Lifan,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/super-league-2018-jiangsu-suning-chongqing-lifan/
+china-2018,18,2018-08-15,12:35,201808151235,wednesday,Tianjin Quanjian FC,Tianjin Teda,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/super-league-2018-tianjin-quanjian-fc-tianjin-teda/
+china-2018,18,2018-08-15,13:00,201808151300,wednesday,Henan Jianye,Guangzhou Evergrande,0,5,5,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/super-league-2018-henan-jianye-guangzhou-evergrande/
+china-2018,18,2018-08-15,13:00,201808151300,wednesday,Shanghai Shenhua,Guizhou Hengfeng,3,1,4,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/super-league-2018-shanghai-shenhua-guizhou-hengfeng/
+china-2018,19,2018-08-18,12:35,201808181235,saturday,Dalian Yifang FC,Henan Jianye,2,1,3,H,W,L,1,1,2,D,D,D,http://www.worldfootball.net/report/super-league-2018-dalian-yifang-fc-henan-jianye/
+china-2018,19,2018-08-18,12:35,201808181235,saturday,Tianjin Teda,Jiāngsū Sūníng,1,1,2,D,D,D,1,1,2,D,D,D,http://www.worldfootball.net/report/super-league-2018-tianjin-teda-jiangsu-suning/
+china-2018,19,2018-08-18,12:35,201808181235,saturday,Guizhou Hengfeng,Shandong Luneng,3,1,4,H,W,L,2,0,2,H,W,L,http://www.worldfootball.net/report/super-league-2018-guizhou-hengfeng-shandong-luneng/
+china-2018,19,2018-08-18,12:35,201808181235,saturday,Chongqing Lifan,Shanghai SIPG,2,3,5,A,L,W,1,1,2,D,D,D,http://www.worldfootball.net/report/super-league-2018-chongqing-lifan-shanghai-sipg/
+china-2018,19,2018-08-18,12:35,201808181235,saturday,Guangzhou R&F,Changchun Yatai,5,2,7,H,W,L,3,1,4,H,W,L,http://www.worldfootball.net/report/super-league-2018-guangzhou-r-f-changchun-yatai/
+china-2018,19,2018-08-18,12:35,201808181235,saturday,Beijing Renhe FC,Beijing Guoan,3,0,3,H,W,L,2,0,2,H,W,L,http://www.worldfootball.net/report/super-league-2018-beijing-renhe-fc-beijing-guoan/
+china-2018,19,2018-08-19,12:35,201808191235,sunday,Hebei China Fortune FC,Shanghai Shenhua,4,1,5,H,W,L,3,0,3,H,W,L,http://www.worldfootball.net/report/super-league-2018-hebei-china-fortune-fc-shanghai-shenhua/
+china-2018,19,2018-08-19,12:35,201808191235,sunday,Guangzhou Evergrande,Tianjin Quanjian FC,5,0,5,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/super-league-2018-guangzhou-evergrande-tianjin-quanjian-fc/
+china-2018,20,2018-08-24,12:35,201808241235,friday,Tianjin Quanjian FC,Guizhou Hengfeng,1,0,1,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/super-league-2018-tianjin-quanjian-fc-guizhou-hengfeng/
+china-2018,20,2018-08-25,12:35,201808251235,saturday,Chongqing Lifan,Dalian Yifang FC,1,1,2,D,D,D,0,1,1,A,L,W,http://www.worldfootball.net/report/super-league-2018-chongqing-lifan-dalian-yifang-fc/
+china-2018,20,2018-08-25,12:35,201808251235,saturday,Shanghai SIPG,Henan Jianye,2,1,3,H,W,L,2,0,2,H,W,L,http://www.worldfootball.net/report/super-league-2018-shanghai-sipg-henan-jianye/
+china-2018,20,2018-08-25,12:35,201808251235,saturday,Shandong Luneng,Guangzhou Evergrande,1,4,5,A,L,W,0,2,2,A,L,W,http://www.worldfootball.net/report/super-league-2018-shandong-luneng-guangzhou-evergrande/
+china-2018,20,2018-08-25,12:35,201808251235,saturday,Tianjin Teda,Beijing Guoan,2,5,7,A,L,W,1,2,3,A,L,W,http://www.worldfootball.net/report/super-league-2018-tianjin-teda-beijing-guoan/
+china-2018,20,2018-08-26,11:00,201808261100,sunday,Changchun Yatai,Hebei China Fortune FC,2,2,4,D,D,D,0,1,1,A,L,W,http://www.worldfootball.net/report/super-league-2018-changchun-yatai-hebei-china-fortune-fc/
+china-2018,20,2018-08-26,12:35,201808261235,sunday,Shanghai Shenhua,Beijing Renhe FC,1,3,4,A,L,W,0,3,3,A,L,W,http://www.worldfootball.net/report/super-league-2018-shanghai-shenhua-beijing-renhe-fc/
+china-2018,20,2018-08-26,12:35,201808261235,sunday,Jiāngsū Sūníng,Guangzhou R&F,2,0,2,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/super-league-2018-jiangsu-suning-guangzhou-r-f/
+china-2018,21,2018-08-30,12:35,201808301235,thursday,Beijing Guoan,Chongqing Lifan,2,1,3,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/super-league-2018-beijing-guoan-chongqing-lifan/
+china-2018,21,2018-09-01,12:35,201809011235,saturday,Dalian Yifang FC,Shandong Luneng,4,3,7,H,W,L,2,0,2,H,W,L,http://www.worldfootball.net/report/super-league-2018-dalian-yifang-fc-shandong-luneng/
+china-2018,21,2018-09-01,12:35,201809011235,saturday,Guangzhou R&F,Tianjin Teda,2,0,2,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/super-league-2018-guangzhou-r-f-tianjin-teda/
+china-2018,21,2018-09-01,12:35,201809011235,saturday,Hebei China Fortune FC,Shanghai SIPG,1,1,2,D,D,D,1,1,2,D,D,D,http://www.worldfootball.net/report/super-league-2018-hebei-china-fortune-fc-shanghai-sipg/
+china-2018,21,2018-09-02,12:35,201809021235,sunday,Guizhou Hengfeng,Beijing Renhe FC,1,1,2,D,D,D,1,0,1,H,W,L,http://www.worldfootball.net/report/super-league-2018-guizhou-hengfeng-beijing-renhe-fc/
+china-2018,21,2018-09-02,12:35,201809021235,sunday,Guangzhou Evergrande,Shanghai Shenhua,2,1,3,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/super-league-2018-guangzhou-evergrande-shanghai-shenhua/
+china-2018,21,2018-09-02,12:35,201809021235,sunday,Jiāngsū Sūníng,Tianjin Quanjian FC,1,1,2,D,D,D,1,0,1,H,W,L,http://www.worldfootball.net/report/super-league-2018-jiangsu-suning-tianjin-quanjian-fc/
+china-2018,21,2018-09-02,12:35,201809021235,sunday,Henan Jianye,Changchun Yatai,1,1,2,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/super-league-2018-henan-jianye-changchun-yatai/
+china-2018,22,2018-09-14,10:30,201809141030,friday,Tianjin Quanjian FC,Dalian Yifang FC,0,1,1,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/super-league-2018-tianjin-quanjian-fc-dalian-yifang-fc/
+china-2018,22,2018-09-14,12:35,201809141235,friday,Tianjin Teda,Shanghai SIPG,2,5,7,A,L,W,1,2,3,A,L,W,http://www.worldfootball.net/report/super-league-2018-tianjin-teda-shanghai-sipg/
+china-2018,22,2018-09-14,12:35,201809141235,friday,Guangzhou Evergrande,Beijing Guoan,1,0,1,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/super-league-2018-guangzhou-evergrande-beijing-guoan/
+china-2018,22,2018-09-15,08:30,201809150830,saturday,Changchun Yatai,Guizhou Hengfeng,3,0,3,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/super-league-2018-changchun-yatai-guizhou-hengfeng/
+china-2018,22,2018-09-15,12:35,201809151235,saturday,Chongqing Lifan,Henan Jianye,1,0,1,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/super-league-2018-chongqing-lifan-henan-jianye/
+china-2018,22,2018-09-15,12:35,201809151235,saturday,Shanghai Shenhua,Jiāngsū Sūníng,1,1,2,D,D,D,0,1,1,A,L,W,http://www.worldfootball.net/report/super-league-2018-shanghai-shenhua-jiangsu-suning/
+china-2018,22,2018-09-16,12:35,201809161235,sunday,Shandong Luneng,Guangzhou R&F,2,1,3,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/super-league-2018-shandong-luneng-guangzhou-r-f/
+china-2018,22,2018-09-16,12:35,201809161235,sunday,Beijing Renhe FC,Hebei China Fortune FC,0,2,2,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/super-league-2018-beijing-renhe-fc-hebei-china-fortune-fc/
+china-2018,13,2018-09-18,12:35,201809181235,tuesday,Shanghai SIPG,Guangzhou Evergrande,2,1,3,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/super-league-2018-shanghai-sipg-guangzhou-evergrande/
+china-2018,23,2018-09-22,08:30,201809220830,saturday,Dalian Yifang FC,Shanghai Shenhua,2,1,3,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/super-league-2018-dalian-yifang-fc-shanghai-shenhua/
+china-2018,23,2018-09-22,12:35,201809221235,saturday,Henan Jianye,Shandong Luneng,1,4,5,A,L,W,0,2,2,A,L,W,http://www.worldfootball.net/report/super-league-2018-henan-jianye-shandong-luneng/
+china-2018,23,2018-09-22,12:35,201809221235,saturday,Guizhou Hengfeng,Beijing Guoan,3,2,5,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/super-league-2018-guizhou-hengfeng-beijing-guoan/
+china-2018,23,2018-09-22,12:35,201809221235,saturday,Jiāngsū Sūníng,Guangzhou Evergrande,2,3,5,A,L,W,2,0,2,H,W,L,http://www.worldfootball.net/report/super-league-2018-jiangsu-suning-guangzhou-evergrande/
+china-2018,23,2018-09-22,12:35,201809221235,saturday,Hebei China Fortune FC,Tianjin Quanjian FC,2,0,2,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/super-league-2018-hebei-china-fortune-fc-tianjin-quanjian-fc/
+china-2018,23,2018-09-22,12:35,201809221235,saturday,Shanghai SIPG,Changchun Yatai,3,1,4,H,W,L,2,1,3,H,W,L,http://www.worldfootball.net/report/super-league-2018-shanghai-sipg-changchun-yatai/
+china-2018,23,2018-09-23,12:35,201809231235,sunday,Tianjin Teda,Beijing Renhe FC,2,2,4,D,D,D,2,1,3,H,W,L,http://www.worldfootball.net/report/super-league-2018-tianjin-teda-beijing-renhe-fc/
+china-2018,23,2018-09-23,12:35,201809231235,sunday,Guangzhou R&F,Chongqing Lifan,1,1,2,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/super-league-2018-guangzhou-r-f-chongqing-lifan/
+china-2018,24,2018-09-29,08:30,201809290830,saturday,Changchun Yatai,Jiāngsū Sūníng,2,5,7,A,L,W,0,2,2,A,L,W,http://www.worldfootball.net/report/super-league-2018-changchun-yatai-jiangsu-suning/
+china-2018,24,2018-09-29,12:35,201809291235,saturday,Guangzhou Evergrande,Dalian Yifang FC,3,0,3,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/super-league-2018-guangzhou-evergrande-dalian-yifang-fc/
+china-2018,24,2018-09-29,12:35,201809291235,saturday,Henan Jianye,Hebei China Fortune FC,2,0,2,H,W,L,2,0,2,H,W,L,http://www.worldfootball.net/report/super-league-2018-henan-jianye-hebei-china-fortune-fc/
+china-2018,24,2018-09-29,12:35,201809291235,saturday,Beijing Guoan,Shanghai SIPG,0,1,1,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/super-league-2018-beijing-guoan-shanghai-sipg/
+china-2018,24,2018-09-30,10:30,201809301030,sunday,Tianjin Quanjian FC,Chongqing Lifan,0,3,3,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/super-league-2018-tianjin-quanjian-fc-chongqing-lifan/
+china-2018,24,2018-09-30,12:35,201809301235,sunday,Shandong Luneng,Beijing Renhe FC,1,1,2,D,D,D,0,1,1,A,L,W,http://www.worldfootball.net/report/super-league-2018-shandong-luneng-beijing-renhe-fc/
+china-2018,24,2018-09-30,12:35,201809301235,sunday,Shanghai Shenhua,Guangzhou R&F,3,1,4,H,W,L,2,0,2,H,W,L,http://www.worldfootball.net/report/super-league-2018-shanghai-shenhua-guangzhou-r-f/
+china-2018,24,2018-09-30,12:35,201809301235,sunday,Guizhou Hengfeng,Tianjin Teda,1,0,1,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/super-league-2018-guizhou-hengfeng-tianjin-teda/
+china-2018,25,2018-10-05,12:35,201810051235,friday,Beijing Renhe FC,Henan Jianye,1,0,1,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/super-league-2018-beijing-renhe-fc-henan-jianye/
+china-2018,25,2018-10-05,12:35,201810051235,friday,Shandong Luneng,Tianjin Quanjian FC,3,2,5,H,W,L,2,1,3,H,W,L,http://www.worldfootball.net/report/super-league-2018-shandong-luneng-tianjin-quanjian-fc/
+china-2018,25,2018-10-06,08:30,201810060830,saturday,Dalian Yifang FC,Jiāngsū Sūníng,3,1,4,H,W,L,1,1,2,D,D,D,http://www.worldfootball.net/report/super-league-2018-dalian-yifang-fc-jiangsu-suning/
+china-2018,25,2018-10-06,12:35,201810061235,saturday,Chongqing Lifan,Shanghai Shenhua,0,1,1,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/super-league-2018-chongqing-lifan-shanghai-shenhua/
+china-2018,25,2018-10-06,12:35,201810061235,saturday,Tianjin Teda,Changchun Yatai,3,3,6,D,D,D,1,2,3,A,L,W,http://www.worldfootball.net/report/super-league-2018-tianjin-teda-changchun-yatai/
+china-2018,25,2018-10-06,12:35,201810061235,saturday,Hebei China Fortune FC,Guangzhou Evergrande,0,3,3,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/super-league-2018-hebei-china-fortune-fc-guangzhou-evergrande/
+china-2018,25,2018-10-07,12:35,201810071235,sunday,Shanghai SIPG,Guizhou Hengfeng,5,0,5,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/super-league-2018-shanghai-sipg-guizhou-hengfeng/
+china-2018,25,2018-10-07,12:35,201810071235,sunday,Guangzhou R&F,Beijing Guoan,0,3,3,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/super-league-2018-guangzhou-r-f-beijing-guoan/
+china-2018,26,2018-10-20,12:35,201810201235,saturday,Guangzhou Evergrande,Beijing Renhe FC,6,1,7,H,W,L,2,0,2,H,W,L,http://www.worldfootball.net/report/super-league-2018-guangzhou-evergrande-beijing-renhe-fc/
+china-2018,26,2018-10-20,12:35,201810201235,saturday,Guizhou Hengfeng,Dalian Yifang FC,3,0,3,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/super-league-2018-guizhou-hengfeng-dalian-yifang-fc/
+china-2018,26,2018-10-20,12:35,201810201235,saturday,Chongqing Lifan,Hebei China Fortune FC,4,4,8,D,D,D,1,1,2,D,D,D,http://www.worldfootball.net/report/super-league-2018-chongqing-lifan-hebei-china-fortune-fc/
+china-2018,26,2018-10-20,12:35,201810201235,saturday,Shanghai Shenhua,Tianjin Quanjian FC,1,1,2,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/super-league-2018-shanghai-shenhua-tianjin-quanjian-fc/
+china-2018,26,2018-10-20,12:35,201810201235,saturday,Shandong Luneng,Tianjin Teda,2,0,2,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/super-league-2018-shandong-luneng-tianjin-teda/
+china-2018,26,2018-10-21,08:30,201810210830,sunday,Beijing Guoan,Changchun Yatai,1,1,2,D,D,D,0,1,1,A,L,W,http://www.worldfootball.net/report/super-league-2018-beijing-guoan-changchun-yatai/
+china-2018,26,2018-10-21,12:35,201810211235,sunday,Henan Jianye,Guangzhou R&F,2,0,2,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/super-league-2018-henan-jianye-guangzhou-r-f/
+china-2018,26,2018-10-21,12:35,201810211235,sunday,Jiāngsū Sūníng,Shanghai SIPG,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/super-league-2018-jiangsu-suning-shanghai-sipg/
+china-2018,27,2018-10-27,08:30,201810270830,saturday,Beijing Renhe FC,Jiāngsū Sūníng,0,2,2,A,L,W,0,2,2,A,L,W,http://www.worldfootball.net/report/super-league-2018-beijing-renhe-fc-jiangsu-suning/
+china-2018,27,2018-10-27,08:30,201810270830,saturday,Changchun Yatai,Chongqing Lifan,1,2,3,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/super-league-2018-changchun-yatai-chongqing-lifan/
+china-2018,27,2018-10-27,12:35,201810271235,saturday,Hebei China Fortune FC,Dalian Yifang FC,3,2,5,H,W,L,0,1,1,A,L,W,http://www.worldfootball.net/report/super-league-2018-hebei-china-fortune-fc-dalian-yifang-fc/
+china-2018,27,2018-10-27,12:35,201810271235,saturday,Guangzhou R&F,Tianjin Quanjian FC,2,6,8,A,L,W,0,2,2,A,L,W,http://www.worldfootball.net/report/super-league-2018-guangzhou-r-f-tianjin-quanjian-fc/
+china-2018,27,2018-10-28,07:30,201810280730,sunday,Guizhou Hengfeng,Guangzhou Evergrande,0,3,3,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/super-league-2018-guizhou-hengfeng-guangzhou-evergrande/
+china-2018,27,2018-10-28,07:30,201810280730,sunday,Tianjin Teda,Shanghai Shenhua,2,4,6,A,L,W,2,2,4,D,D,D,http://www.worldfootball.net/report/super-league-2018-tianjin-teda-shanghai-shenhua/
+china-2018,27,2018-10-28,11:35,201810281135,sunday,Henan Jianye,Beijing Guoan,2,0,2,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/super-league-2018-henan-jianye-beijing-guoan/
+china-2018,27,2018-10-28,11:35,201810281135,sunday,Shanghai SIPG,Shandong Luneng,4,2,6,H,W,L,3,0,3,H,W,L,http://www.worldfootball.net/report/super-league-2018-shanghai-sipg-shandong-luneng/
+china-2018,28,2018-11-02,11:35,201811021135,friday,Guizhou Hengfeng,Guangzhou R&F,0,2,2,A,L,W,0,2,2,A,L,W,http://www.worldfootball.net/report/super-league-2018-guizhou-hengfeng-guangzhou-r-f/
+china-2018,28,2018-11-02,11:35,201811021135,friday,Shanghai Shenhua,Henan Jianye,0,2,2,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/super-league-2018-shanghai-shenhua-henan-jianye/
+china-2018,28,2018-11-02,11:35,201811021135,friday,Shandong Luneng,Changchun Yatai,2,0,2,H,W,L,2,0,2,H,W,L,http://www.worldfootball.net/report/super-league-2018-shandong-luneng-changchun-yatai/
+china-2018,28,2018-11-02,11:35,201811021135,friday,Tianjin Quanjian FC,Beijing Guoan,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/super-league-2018-tianjin-quanjian-fc-beijing-guoan/
+china-2018,28,2018-11-03,07:30,201811030730,saturday,Dalian Yifang FC,Beijing Renhe FC,1,2,3,A,L,W,1,1,2,D,D,D,http://www.worldfootball.net/report/super-league-2018-dalian-yifang-fc-beijing-renhe-fc/
+china-2018,28,2018-11-03,11:35,201811031135,saturday,Jiāngsū Sūníng,Hebei China Fortune FC,3,1,4,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/super-league-2018-jiangsu-suning-hebei-china-fortune-fc/
+china-2018,28,2018-11-03,11:35,201811031135,saturday,Chongqing Lifan,Tianjin Teda,1,1,2,D,D,D,1,1,2,D,D,D,http://www.worldfootball.net/report/super-league-2018-chongqing-lifan-tianjin-teda/
+china-2018,28,2018-11-03,11:35,201811031135,saturday,Guangzhou Evergrande,Shanghai SIPG,4,5,9,A,L,W,3,2,5,H,W,L,http://www.worldfootball.net/report/super-league-2018-guangzhou-evergrande-shanghai-sipg/
+china-2018,29,2018-11-07,11:35,201811071135,wednesday,Shanghai SIPG,Beijing Renhe FC,2,1,3,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/super-league-2018-shanghai-sipg-beijing-renhe-fc/
+china-2018,29,2018-11-07,11:35,201811071135,wednesday,Tianjin Teda,Dalian Yifang FC,3,1,4,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/super-league-2018-tianjin-teda-dalian-yifang-fc/
+china-2018,29,2018-11-07,11:35,201811071135,wednesday,Chongqing Lifan,Guangzhou Evergrande,2,0,2,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/super-league-2018-chongqing-lifan-guangzhou-evergrande/
+china-2018,29,2018-11-07,11:35,201811071135,wednesday,Henan Jianye,Guizhou Hengfeng,4,0,4,H,W,L,3,0,3,H,W,L,http://www.worldfootball.net/report/super-league-2018-henan-jianye-guizhou-hengfeng/
+china-2018,29,2018-11-07,11:35,201811071135,wednesday,Guangzhou R&F,Hebei China Fortune FC,2,1,3,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/super-league-2018-guangzhou-r-f-hebei-china-fortune-fc/
+china-2018,29,2018-11-07,11:35,201811071135,wednesday,Shandong Luneng,Jiāngsū Sūníng,3,2,5,H,W,L,2,2,4,D,D,D,http://www.worldfootball.net/report/super-league-2018-shandong-luneng-jiangsu-suning/
+china-2018,29,2018-11-07,11:35,201811071135,wednesday,Changchun Yatai,Tianjin Quanjian FC,2,2,4,D,D,D,0,1,1,A,L,W,http://www.worldfootball.net/report/super-league-2018-changchun-yatai-tianjin-quanjian-fc/
+china-2018,29,2018-11-07,11:35,201811071135,wednesday,Beijing Guoan,Shanghai Shenhua,3,1,4,H,W,L,2,0,2,H,W,L,http://www.worldfootball.net/report/super-league-2018-beijing-guoan-shanghai-shenhua/
+china-2018,30,2018-11-11,07:00,201811110700,sunday,Beijing Renhe FC,Guangzhou R&F,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/super-league-2018-beijing-renhe-fc-guangzhou-r-f/
+china-2018,30,2018-11-11,07:00,201811110700,sunday,Jiāngsū Sūníng,Henan Jianye,4,0,4,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/super-league-2018-jiangsu-suning-henan-jianye/
+china-2018,30,2018-11-11,07:00,201811110700,sunday,Guangzhou Evergrande,Tianjin Teda,5,1,6,H,W,L,1,1,2,D,D,D,http://www.worldfootball.net/report/super-league-2018-guangzhou-evergrande-tianjin-teda/
+china-2018,30,2018-11-11,07:00,201811110700,sunday,Dalian Yifang FC,Changchun Yatai,2,0,2,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/super-league-2018-dalian-yifang-fc-changchun-yatai/
+china-2018,30,2018-11-11,07:00,201811110700,sunday,Guizhou Hengfeng,Chongqing Lifan,1,0,1,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/super-league-2018-guizhou-hengfeng-chongqing-lifan/
+china-2018,30,2018-11-11,07:00,201811110700,sunday,Shanghai Shenhua,Shandong Luneng,2,2,4,D,D,D,1,2,3,A,L,W,http://www.worldfootball.net/report/super-league-2018-shanghai-shenhua-shandong-luneng/
+china-2018,30,2018-11-11,07:00,201811110700,sunday,Tianjin Quanjian FC,Shanghai SIPG,3,2,5,H,W,L,3,1,4,H,W,L,http://www.worldfootball.net/report/super-league-2018-tianjin-quanjian-fc-shanghai-sipg/
+china-2018,30,2018-11-11,07:00,201811110700,sunday,Hebei China Fortune FC,Beijing Guoan,2,1,3,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/super-league-2018-hebei-china-fortune-fc-beijing-guoan/

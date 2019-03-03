@@ -13,16 +13,16 @@ italy-1929-1930,2,1929-10-13,,192910130000,sunday,AS Roma,US Cremonese,9,0,9,H,W
 italy-1929-1930,2,1929-10-13,,192910130000,sunday,SSC Napoli,Brescia Calcio,1,1,2,D,D,D,,,,,,,
 italy-1929-1930,2,1929-10-13,,192910130000,sunday,AC Milan,Modena FC,1,0,1,H,W,L,,,,,,,
 italy-1929-1930,2,1929-10-13,,192910130000,sunday,Genova 1893 Circolo del Calcio,Lazio Roma,2,0,2,H,W,L,,,,,,,
-italy-1929-1930,2,1929-10-13,,192910130000,sunday,US Alessandria 1912,Aurora Pro Patria,0,0,0,D,D,D,0,0,0,D,D,D,
+italy-1929-1930,2,1929-10-13,,192910130000,sunday,US Alessandria 1912,Aurora Pro Patria,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
 italy-1929-1930,2,1929-10-13,,192910130000,sunday,Bologna FC,Unione Triestina,2,2,4,D,D,D,,,,,,,
 italy-1929-1930,2,1929-10-13,,192910130000,sunday,Torino FC,Calcio Padova,3,1,4,H,W,L,,,,,,,
 italy-1929-1930,2,1929-10-13,,192910130000,sunday,US Livorno,Juventus,1,5,6,A,L,W,,,,,,,
-italy-1929-1930,3,1929-10-20,,192910200000,sunday,Lazio Roma,US Alessandria 1912,0,0,0,D,D,D,0,0,0,D,D,D,
+italy-1929-1930,3,1929-10-20,,192910200000,sunday,Lazio Roma,US Alessandria 1912,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
 italy-1929-1930,3,1929-10-20,,192910200000,sunday,Unione Triestina,AS Roma,1,1,2,D,D,D,,,,,,,
 italy-1929-1930,3,1929-10-20,,192910200000,sunday,Torino FC,US Livorno,3,0,3,H,W,L,,,,,,,
 italy-1929-1930,3,1929-10-20,,192910200000,sunday,Aurora Pro Patria,Genova 1893 Circolo del Calcio,0,1,1,A,L,W,,,,,,,
 italy-1929-1930,3,1929-10-20,,192910200000,sunday,Modena FC,Pro Vercelli,1,1,2,D,D,D,,,,,,,
-italy-1929-1930,3,1929-10-20,,192910200000,sunday,US Cremonese,Juventus,0,0,0,D,D,D,0,0,0,D,D,D,
+italy-1929-1930,3,1929-10-20,,192910200000,sunday,US Cremonese,Juventus,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
 italy-1929-1930,3,1929-10-20,,192910200000,sunday,Brescia Calcio,Calcio Padova,3,2,5,H,W,L,,,,,,,
 italy-1929-1930,3,1929-10-20,,192910200000,sunday,Inter,Bologna FC,2,1,3,H,W,L,,,,,,,
 italy-1929-1930,3,1929-10-20,,192910200000,sunday,SSC Napoli,AC Milan,2,1,3,H,W,L,,,,,,,
@@ -37,7 +37,7 @@ italy-1929-1930,4,1929-10-27,,192910270000,sunday,Juventus,Aurora Pro Patria,1,0
 italy-1929-1930,4,1929-10-27,,192910270000,sunday,Lazio Roma,Inter,1,1,2,D,D,D,,,,,,,
 italy-1929-1930,5,1929-11-03,,192911030000,sunday,Juventus,Pro Vercelli,6,1,7,H,W,L,,,,,,,
 italy-1929-1930,5,1929-11-03,,192911030000,sunday,AS Roma,Brescia Calcio,2,1,3,H,W,L,,,,,,,
-italy-1929-1930,5,1929-11-03,,192911030000,sunday,Aurora Pro Patria,Calcio Padova,0,0,0,D,D,D,0,0,0,D,D,D,
+italy-1929-1930,5,1929-11-03,,192911030000,sunday,Aurora Pro Patria,Calcio Padova,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
 italy-1929-1930,5,1929-11-03,,192911030000,sunday,Modena FC,Genova 1893 Circolo del Calcio,2,1,3,H,W,L,,,,,,,
 italy-1929-1930,5,1929-11-03,,192911030000,sunday,Unione Triestina,Lazio Roma,3,3,6,D,D,D,,,,,,,
 italy-1929-1930,5,1929-11-03,,192911030000,sunday,Bologna FC,AC Milan,1,1,2,D,D,D,,,,,,,
@@ -45,10 +45,10 @@ italy-1929-1930,5,1929-11-03,,192911030000,sunday,Inter,US Cremonese,3,2,5,H,W,L
 italy-1929-1930,5,1929-11-03,,192911030000,sunday,US Alessandria 1912,Torino FC,3,3,6,D,D,D,,,,,,,
 italy-1929-1930,5,1929-11-03,,192911030000,sunday,SSC Napoli,US Livorno,1,1,2,D,D,D,,,,,,,
 italy-1929-1930,6,1929-11-10,,192911100000,sunday,Calcio Padova,US Livorno,3,1,4,H,W,L,,,,,,,
-italy-1929-1930,6,1929-11-10,,192911100000,sunday,Torino FC,Bologna FC,0,0,0,D,D,D,0,0,0,D,D,D,
+italy-1929-1930,6,1929-11-10,,192911100000,sunday,Torino FC,Bologna FC,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
 italy-1929-1930,6,1929-11-10,,192911100000,sunday,Unione Triestina,Pro Vercelli,3,1,4,H,W,L,,,,,,,
 italy-1929-1930,6,1929-11-10,,192911100000,sunday,AS Roma,SSC Napoli,2,2,4,D,D,D,,,,,,,
-italy-1929-1930,6,1929-11-10,,192911100000,sunday,Modena FC,Lazio Roma,0,0,0,D,D,D,0,0,0,D,D,D,
+italy-1929-1930,6,1929-11-10,,192911100000,sunday,Modena FC,Lazio Roma,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
 italy-1929-1930,6,1929-11-10,,192911100000,sunday,AC Milan,Inter,1,2,3,A,L,W,,,,,,,
 italy-1929-1930,6,1929-11-10,,192911100000,sunday,US Cremonese,Genova 1893 Circolo del Calcio,1,2,3,A,L,W,,,,,,,
 italy-1929-1930,6,1929-11-10,,192911100000,sunday,US Alessandria 1912,Juventus,1,0,1,H,W,L,,,,,,,
@@ -63,12 +63,12 @@ italy-1929-1930,7,1929-11-17,,192911170000,sunday,Brescia Calcio,Unione Triestin
 italy-1929-1930,7,1929-11-17,,192911170000,sunday,Genova 1893 Circolo del Calcio,US Alessandria 1912,2,1,3,H,W,L,,,,,,,
 italy-1929-1930,7,1929-11-17,,192911170000,sunday,Juventus,Modena FC,1,0,1,H,W,L,,,,,,,
 italy-1929-1930,8,1929-11-24,,192911240000,sunday,Modena FC,SSC Napoli,0,5,5,A,L,W,,,,,,,
-italy-1929-1930,8,1929-11-24,,192911240000,sunday,Torino FC,Juventus,0,0,0,D,D,D,0,0,0,D,D,D,
+italy-1929-1930,8,1929-11-24,,192911240000,sunday,Torino FC,Juventus,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
 italy-1929-1930,8,1929-11-24,,192911240000,sunday,AS Roma,Inter,2,0,2,H,W,L,,,,,,,
 italy-1929-1930,8,1929-11-24,,192911240000,sunday,Calcio Padova,Bologna FC,2,3,5,A,L,W,,,,,,,
 italy-1929-1930,8,1929-11-24,,192911240000,sunday,Unione Triestina,Genova 1893 Circolo del Calcio,0,2,2,A,L,W,,,,,,,
 italy-1929-1930,8,1929-11-24,,192911240000,sunday,AC Milan,Lazio Roma,2,1,3,H,W,L,,,,,,,
-italy-1929-1930,8,1929-11-24,,192911240000,sunday,US Cremonese,Pro Vercelli,0,0,0,D,D,D,0,0,0,D,D,D,
+italy-1929-1930,8,1929-11-24,,192911240000,sunday,US Cremonese,Pro Vercelli,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
 italy-1929-1930,8,1929-11-24,,192911240000,sunday,US Alessandria 1912,Brescia Calcio,4,0,4,H,W,L,,,,,,,
 italy-1929-1930,8,1929-11-24,,192911240000,sunday,Aurora Pro Patria,US Livorno,5,0,5,H,W,L,,,,,,,
 italy-1929-1930,9,1929-12-08,,192912080000,sunday,US Livorno,Bologna FC,0,2,2,A,L,W,,,,,,,
@@ -81,7 +81,7 @@ italy-1929-1930,9,1929-12-08,,192912080000,sunday,Genova 1893 Circolo del Calcio
 italy-1929-1930,9,1929-12-08,,192912080000,sunday,Inter,Unione Triestina,1,2,3,A,L,W,,,,,,,
 italy-1929-1930,9,1929-12-08,,192912080000,sunday,Brescia Calcio,Torino FC,0,2,2,A,L,W,,,,,,,
 italy-1929-1930,10,1929-12-15,,192912150000,sunday,AC Milan,US Cremonese,5,2,7,H,W,L,,,,,,,
-italy-1929-1930,10,1929-12-15,,192912150000,sunday,Torino FC,Modena FC,0,0,0,D,D,D,0,0,0,D,D,D,
+italy-1929-1930,10,1929-12-15,,192912150000,sunday,Torino FC,Modena FC,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
 italy-1929-1930,10,1929-12-15,,192912150000,sunday,AS Roma,Genova 1893 Circolo del Calcio,2,0,2,H,W,L,,,,,,,
 italy-1929-1930,10,1929-12-15,,192912150000,sunday,Unione Triestina,US Livorno,3,0,3,H,W,L,,,,,,,
 italy-1929-1930,10,1929-12-15,,192912150000,sunday,Brescia Calcio,Lazio Roma,3,2,5,H,W,L,,,,,,,
@@ -89,12 +89,12 @@ italy-1929-1930,10,1929-12-15,,192912150000,sunday,Bologna FC,Juventus,0,1,1,A,L
 italy-1929-1930,10,1929-12-15,,192912150000,sunday,US Alessandria 1912,Inter,1,2,3,A,L,W,,,,,,,
 italy-1929-1930,10,1929-12-15,,192912150000,sunday,Pro Vercelli,Calcio Padova,5,1,6,H,W,L,,,,,,,
 italy-1929-1930,10,1929-12-15,,192912150000,sunday,Aurora Pro Patria,SSC Napoli,3,2,5,H,W,L,,,,,,,
-italy-1929-1930,11,1929-12-22,,192912220000,sunday,Aurora Pro Patria,Inter,0,0,0,D,D,D,0,0,0,D,D,D,
+italy-1929-1930,11,1929-12-22,,192912220000,sunday,Aurora Pro Patria,Inter,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
 italy-1929-1930,11,1929-12-22,,192912220000,sunday,Unione Triestina,Modena FC,0,1,1,A,L,W,,,,,,,
 italy-1929-1930,11,1929-12-22,,192912220000,sunday,SSC Napoli,Pro Vercelli,1,1,2,D,D,D,,,,,,,
 italy-1929-1930,11,1929-12-22,,192912220000,sunday,AC Milan,US Alessandria 1912,0,1,1,A,L,W,,,,,,,
 italy-1929-1930,11,1929-12-22,,192912220000,sunday,Lazio Roma,Calcio Padova,4,0,4,H,W,L,,,,,,,
-italy-1929-1930,11,1929-12-22,,192912220000,sunday,Juventus,Brescia Calcio,0,0,0,D,D,D,0,0,0,D,D,D,
+italy-1929-1930,11,1929-12-22,,192912220000,sunday,Juventus,Brescia Calcio,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
 italy-1929-1930,11,1929-12-22,,192912220000,sunday,Genova 1893 Circolo del Calcio,Bologna FC,2,0,2,H,W,L,,,,,,,
 italy-1929-1930,11,1929-12-22,,192912220000,sunday,US Cremonese,Torino FC,0,1,1,A,L,W,,,,,,,
 italy-1929-1930,11,1929-12-22,,192912220000,sunday,US Livorno,AS Roma,1,0,1,H,W,L,,,,,,,
@@ -114,16 +114,16 @@ italy-1929-1930,13,1930-01-12,,193001120000,sunday,Pro Vercelli,US Livorno,4,1,5
 italy-1929-1930,13,1930-01-12,,193001120000,sunday,US Alessandria 1912,Unione Triestina,4,1,5,H,W,L,,,,,,,
 italy-1929-1930,13,1930-01-12,,193001120000,sunday,AC Milan,Aurora Pro Patria,3,2,5,H,W,L,,,,,,,
 italy-1929-1930,13,1930-01-12,,193001120000,sunday,AS Roma,Juventus,2,3,5,A,L,W,,,,,,,
-italy-1929-1930,13,1930-01-12,,193001120000,sunday,Brescia Calcio,Inter,0,0,0,D,D,D,0,0,0,D,D,D,
+italy-1929-1930,13,1930-01-12,,193001120000,sunday,Brescia Calcio,Inter,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
 italy-1929-1930,13,1930-01-12,,193001120000,sunday,Modena FC,Bologna FC,1,2,3,A,L,W,,,,,,,
 italy-1929-1930,14,1930-01-19,,193001190000,sunday,Pro Vercelli,AC Milan,0,1,1,A,L,W,,,,,,,
 italy-1929-1930,14,1930-01-19,,193001190000,sunday,Unione Triestina,Calcio Padova,2,1,3,H,W,L,,,,,,,
 italy-1929-1930,14,1930-01-19,,193001190000,sunday,Aurora Pro Patria,AS Roma,6,1,7,H,W,L,,,,,,,
 italy-1929-1930,14,1930-01-19,,193001190000,sunday,US Livorno,US Alessandria 1912,2,1,3,H,W,L,,,,,,,
-italy-1929-1930,14,1930-01-19,,193001190000,sunday,Juventus,Genova 1893 Circolo del Calcio,0,0,0,D,D,D,0,0,0,D,D,D,
+italy-1929-1930,14,1930-01-19,,193001190000,sunday,Juventus,Genova 1893 Circolo del Calcio,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
 italy-1929-1930,14,1930-01-19,,193001190000,sunday,US Cremonese,Modena FC,2,2,4,D,D,D,,,,,,,
 italy-1929-1930,14,1930-01-19,,193001190000,sunday,Inter,Torino FC,3,0,3,H,W,L,,,,,,,
-italy-1929-1930,14,1930-01-19,,193001190000,sunday,Bologna FC,Brescia Calcio,0,0,0,D,D,D,0,0,0,D,D,D,
+italy-1929-1930,14,1930-01-19,,193001190000,sunday,Bologna FC,Brescia Calcio,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
 italy-1929-1930,14,1930-01-19,,193001190000,sunday,Lazio Roma,SSC Napoli,0,2,2,A,L,W,,,,,,,
 italy-1929-1930,15,1930-01-26,,193001260000,sunday,Genova 1893 Circolo del Calcio,Inter,1,4,5,A,L,W,,,,,,,
 italy-1929-1930,15,1930-01-26,,193001260000,sunday,Torino FC,AS Roma,1,0,1,H,W,L,,,,,,,
@@ -192,9 +192,9 @@ italy-1929-1930,22,1930-03-30,,193003300000,sunday,AC Milan,Bologna FC,0,1,1,A,L
 italy-1929-1930,22,1930-03-30,,193003300000,sunday,Torino FC,US Alessandria 1912,2,2,4,D,D,D,,,,,,,
 italy-1929-1930,22,1930-03-30,,193003300000,sunday,Pro Vercelli,Juventus,1,0,1,H,W,L,,,,,,,
 italy-1929-1930,22,1930-03-30,,193003300000,sunday,Calcio Padova,Aurora Pro Patria,7,0,7,H,W,L,,,,,,,
-italy-1929-1930,22,1930-03-30,,193003300000,sunday,Lazio Roma,Unione Triestina,0,0,0,D,D,D,0,0,0,D,D,D,
+italy-1929-1930,22,1930-03-30,,193003300000,sunday,Lazio Roma,Unione Triestina,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
 italy-1929-1930,22,1930-03-30,,193003300000,sunday,Genova 1893 Circolo del Calcio,Modena FC,2,2,4,D,D,D,,,,,,,
-italy-1929-1930,22,1930-03-30,,193003300000,sunday,US Cremonese,Inter,0,0,0,D,D,D,0,0,0,D,D,D,
+italy-1929-1930,22,1930-03-30,,193003300000,sunday,US Cremonese,Inter,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
 italy-1929-1930,22,1930-03-30,,193003300000,sunday,Brescia Calcio,AS Roma,1,1,2,D,D,D,,,,,,,
 italy-1929-1930,22,1930-03-30,,193003300000,sunday,US Livorno,SSC Napoli,3,0,3,H,W,L,,,,,,,
 italy-1929-1930,23,1930-04-13,,193004130000,sunday,Juventus,US Alessandria 1912,2,1,3,H,W,L,,,,,,,
@@ -223,16 +223,16 @@ italy-1929-1930,25,1930-04-27,,193004270000,sunday,Juventus,Torino FC,2,0,2,H,W,
 italy-1929-1930,25,1930-04-27,,193004270000,sunday,Brescia Calcio,US Alessandria 1912,2,1,3,H,W,L,,,,,,,
 italy-1929-1930,25,1930-04-27,,193004270000,sunday,Bologna FC,Calcio Padova,1,2,3,A,L,W,,,,,,,
 italy-1929-1930,25,1930-04-27,,193004270000,sunday,Inter,AS Roma,6,0,6,H,W,L,,,,,,,
-italy-1929-1930,25,1930-04-27,,193004270000,sunday,Lazio Roma,AC Milan,0,0,0,D,D,D,0,0,0,D,D,D,
+italy-1929-1930,25,1930-04-27,,193004270000,sunday,Lazio Roma,AC Milan,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
 italy-1929-1930,26,1930-05-04,,193005040000,sunday,AS Roma,Lazio Roma,3,1,4,H,W,L,,,,,,,
 italy-1929-1930,26,1930-05-04,,193005040000,sunday,AC Milan,Juventus,1,1,2,D,D,D,,,,,,,
 italy-1929-1930,26,1930-05-04,,193005040000,sunday,Unione Triestina,Inter,1,2,3,A,L,W,,,,,,,
 italy-1929-1930,26,1930-05-04,,193005040000,sunday,Torino FC,Brescia Calcio,5,0,5,H,W,L,,,,,,,
 italy-1929-1930,26,1930-05-04,,193005040000,sunday,US Alessandria 1912,Pro Vercelli,0,2,2,A,L,W,,,,,,,
 italy-1929-1930,26,1930-05-04,,193005040000,sunday,Aurora Pro Patria,Modena FC,2,0,2,H,W,L,,,,,,,
-italy-1929-1930,26,1930-05-04,,193005040000,sunday,US Cremonese,SSC Napoli,0,0,0,D,D,D,0,0,0,D,D,D,
+italy-1929-1930,26,1930-05-04,,193005040000,sunday,US Cremonese,SSC Napoli,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
 italy-1929-1930,26,1930-05-04,,193005040000,sunday,Bologna FC,US Livorno,6,1,7,H,W,L,,,,,,,
-italy-1929-1930,26,1930-05-04,,193005040000,sunday,Calcio Padova,Genova 1893 Circolo del Calcio,0,0,0,D,D,D,0,0,0,D,D,D,
+italy-1929-1930,26,1930-05-04,,193005040000,sunday,Calcio Padova,Genova 1893 Circolo del Calcio,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
 italy-1929-1930,27,1930-05-18,,193005180000,sunday,SSC Napoli,Aurora Pro Patria,4,2,6,H,W,L,,,,,,,
 italy-1929-1930,27,1930-05-18,,193005180000,sunday,Calcio Padova,Pro Vercelli,5,0,5,H,W,L,,,,,,,
 italy-1929-1930,27,1930-05-18,,193005180000,sunday,Modena FC,Torino FC,2,1,3,H,W,L,,,,,,,
@@ -241,7 +241,7 @@ italy-1929-1930,27,1930-05-18,,193005180000,sunday,Juventus,Bologna FC,2,0,2,H,W
 italy-1929-1930,27,1930-05-18,,193005180000,sunday,Genova 1893 Circolo del Calcio,AS Roma,3,1,4,H,W,L,,,,,,,
 italy-1929-1930,27,1930-05-18,,193005180000,sunday,Inter,US Alessandria 1912,2,0,2,H,W,L,,,,,,,
 italy-1929-1930,27,1930-05-18,,193005180000,sunday,US Cremonese,AC Milan,0,3,3,A,L,W,,,,,,,
-italy-1929-1930,27,1930-05-18,,193005180000,sunday,Lazio Roma,Brescia Calcio,0,0,0,D,D,D,0,0,0,D,D,D,
+italy-1929-1930,27,1930-05-18,,193005180000,sunday,Lazio Roma,Brescia Calcio,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
 italy-1929-1930,28,1930-05-25,,193005250000,sunday,Brescia Calcio,Juventus,2,2,4,D,D,D,,,,,,,
 italy-1929-1930,28,1930-05-25,,193005250000,sunday,Torino FC,US Cremonese,2,3,5,A,L,W,,,,,,,
 italy-1929-1930,28,1930-05-25,,193005250000,sunday,AS Roma,US Livorno,2,0,2,H,W,L,,,,,,,
@@ -254,7 +254,7 @@ italy-1929-1930,28,1930-05-25,,193005250000,sunday,Calcio Padova,Lazio Roma,2,1,
 italy-1929-1930,29,1930-05-29,,193005290000,thursday,SSC Napoli,Inter,3,1,4,H,W,L,,,,,,,
 italy-1929-1930,29,1930-05-29,,193005290000,thursday,Pro Vercelli,Torino FC,0,2,2,A,L,W,,,,,,,
 italy-1929-1930,29,1930-05-29,,193005290000,thursday,AS Roma,Modena FC,4,2,6,H,W,L,,,,,,,
-italy-1929-1930,29,1930-05-29,,193005290000,thursday,Aurora Pro Patria,Lazio Roma,0,0,0,D,D,D,0,0,0,D,D,D,
+italy-1929-1930,29,1930-05-29,,193005290000,thursday,Aurora Pro Patria,Lazio Roma,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
 italy-1929-1930,29,1930-05-29,,193005290000,thursday,US Livorno,US Cremonese,1,1,2,D,D,D,,,,,,,
 italy-1929-1930,29,1930-05-29,,193005290000,thursday,Juventus,Unione Triestina,0,1,1,A,L,W,,,,,,,
 italy-1929-1930,29,1930-05-29,,193005290000,thursday,US Alessandria 1912,Bologna FC,2,3,5,A,L,W,,,,,,,
@@ -281,14 +281,14 @@ italy-1929-1930,31,1930-06-08,,193006080000,sunday,Modena FC,US Cremonese,5,1,6,
 italy-1929-1930,32,1930-06-15,,193006150000,sunday,US Livorno,Lazio Roma,4,0,4,H,W,L,,,,,,,
 italy-1929-1930,32,1930-06-15,,193006150000,sunday,Unione Triestina,AC Milan,2,2,4,D,D,D,,,,,,,
 italy-1929-1930,32,1930-06-15,,193006150000,sunday,AS Roma,Torino FC,3,0,3,H,W,L,,,,,,,
-italy-1929-1930,32,1930-06-15,,193006150000,sunday,Pro Vercelli,Aurora Pro Patria,0,0,0,D,D,D,0,0,0,D,D,D,
+italy-1929-1930,32,1930-06-15,,193006150000,sunday,Pro Vercelli,Aurora Pro Patria,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
 italy-1929-1930,32,1930-06-15,,193006150000,sunday,Modena FC,Brescia Calcio,2,1,3,H,W,L,,,,,,,
 italy-1929-1930,32,1930-06-15,,193006150000,sunday,Juventus,Calcio Padova,3,1,4,H,W,L,,,,,,,
 italy-1929-1930,32,1930-06-15,,193006150000,sunday,US Cremonese,Bologna FC,0,3,3,A,L,W,,,,,,,
 italy-1929-1930,32,1930-06-15,,193006150000,sunday,Inter,Genova 1893 Circolo del Calcio,3,3,6,D,D,D,,,,,,,
 italy-1929-1930,32,1930-06-15,,193006150000,sunday,SSC Napoli,US Alessandria 1912,3,1,4,H,W,L,,,,,,,
 italy-1929-1930,33,1930-06-29,,193006290000,sunday,Lazio Roma,Pro Vercelli,3,2,5,H,W,L,,,,,,,
-italy-1929-1930,33,1930-06-29,,193006290000,sunday,Torino FC,AC Milan,0,0,0,D,D,D,0,0,0,D,D,D,
+italy-1929-1930,33,1930-06-29,,193006290000,sunday,Torino FC,AC Milan,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
 italy-1929-1930,33,1930-06-29,,193006290000,sunday,Aurora Pro Patria,Unione Triestina,1,1,2,D,D,D,,,,,,,
 italy-1929-1930,33,1930-06-29,,193006290000,sunday,Calcio Padova,SSC Napoli,3,0,3,H,W,L,,,,,,,
 italy-1929-1930,33,1930-06-29,,193006290000,sunday,Brescia Calcio,US Cremonese,4,3,7,H,W,L,,,,,,,
@@ -26182,3 +26182,244 @@ italy-2017-2018,38,2018-05-20,17:00,201805201700,sunday,AC Milan,ACF Fiorentina,
 italy-2017-2018,38,2018-05-20,17:00,201805201700,sunday,SPAL 2013 Ferrara,Sampdoria,3,1,4,H,W,L,1.0,0.0,1.0,H,W,L,http://www.worldfootball.net/report/serie-a-2017-2018-spal-2013-ferrara-sampdoria/
 italy-2017-2018,38,2018-05-20,19:45,201805201945,sunday,Lazio Roma,Inter,2,3,5,A,L,W,2.0,1.0,3.0,H,W,L,http://www.worldfootball.net/report/serie-a-2017-2018-lazio-roma-inter/
 italy-2017-2018,38,2018-05-20,19:45,201805201945,sunday,Sassuolo Calcio,AS Roma,0,1,1,A,L,W,0.0,1.0,1.0,A,L,W,http://www.worldfootball.net/report/serie-a-2017-2018-sassuolo-calcio-as-roma/
+italy-2018-2019,1,2018-08-18,17:00,201808181700,saturday,Chievo Verona,Juventus,2,3,5,A,L,W,1,1,2,D,D,D,http://www.worldfootball.net/report/serie-a-2018-2019-chievo-verona-juventus/
+italy-2018-2019,1,2018-08-18,19:30,201808181930,saturday,Lazio Roma,SSC Napoli,1,2,3,A,L,W,1,1,2,D,D,D,http://www.worldfootball.net/report/serie-a-2018-2019-lazio-roma-ssc-napoli/
+italy-2018-2019,1,2018-08-19,17:00,201808191700,sunday,Torino FC,AS Roma,0,1,1,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/serie-a-2018-2019-torino-fc-as-roma/
+italy-2018-2019,1,2018-08-19,19:30,201808191930,sunday,Bologna FC,SPAL 2013 Ferrara,0,1,1,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/serie-a-2018-2019-bologna-fc-spal-2013-ferrara/
+italy-2018-2019,1,2018-08-19,19:30,201808191930,sunday,Empoli FC,Cagliari Calcio,2,0,2,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/serie-a-2018-2019-empoli-fc-cagliari-calcio/
+italy-2018-2019,1,2018-08-19,19:30,201808191930,sunday,Parma Calcio 1913,Udinese Calcio,2,2,4,D,D,D,1,0,1,H,W,L,http://www.worldfootball.net/report/serie-a-2018-2019-parma-calcio-1913-udinese-calcio/
+italy-2018-2019,1,2018-08-19,19:30,201808191930,sunday,Sassuolo Calcio,Inter,1,0,1,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/serie-a-2018-2019-sassuolo-calcio-inter/
+italy-2018-2019,1,2018-08-20,19:30,201808201930,monday,Atalanta,Frosinone Calcio,4,0,4,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/serie-a-2018-2019-atalanta-frosinone-calcio/
+italy-2018-2019,2,2018-08-25,17:00,201808251700,saturday,Juventus,Lazio Roma,2,0,2,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/serie-a-2018-2019-juventus-lazio-roma/
+italy-2018-2019,2,2018-08-25,19:30,201808251930,saturday,SSC Napoli,AC Milan,3,2,5,H,W,L,0,1,1,A,L,W,http://www.worldfootball.net/report/serie-a-2018-2019-ssc-napoli-ac-milan/
+italy-2018-2019,2,2018-08-26,17:00,201808261700,sunday,SPAL 2013 Ferrara,Parma Calcio 1913,1,0,1,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/serie-a-2018-2019-spal-2013-ferrara-parma-calcio-1913/
+italy-2018-2019,2,2018-08-26,19:30,201808261930,sunday,Cagliari Calcio,Sassuolo Calcio,2,2,4,D,D,D,1,0,1,H,W,L,http://www.worldfootball.net/report/serie-a-2018-2019-cagliari-calcio-sassuolo-calcio/
+italy-2018-2019,2,2018-08-26,19:30,201808261930,sunday,ACF Fiorentina,Chievo Verona,6,1,7,H,W,L,2,0,2,H,W,L,http://www.worldfootball.net/report/serie-a-2018-2019-acf-fiorentina-chievo-verona/
+italy-2018-2019,2,2018-08-26,19:30,201808261930,sunday,Frosinone Calcio,Bologna FC,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/serie-a-2018-2019-frosinone-calcio-bologna-fc/
+italy-2018-2019,2,2018-08-26,19:30,201808261930,sunday,Genoa CFC,Empoli FC,2,1,3,H,W,L,2,0,2,H,W,L,http://www.worldfootball.net/report/serie-a-2018-2019-genoa-cfc-empoli-fc/
+italy-2018-2019,2,2018-08-26,19:30,201808261930,sunday,Inter,Torino FC,2,2,4,D,D,D,2,0,2,H,W,L,http://www.worldfootball.net/report/serie-a-2018-2019-inter-torino-fc/
+italy-2018-2019,2,2018-08-26,19:30,201808261930,sunday,Udinese Calcio,Sampdoria,1,0,1,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/serie-a-2018-2019-udinese-calcio-sampdoria/
+italy-2018-2019,2,2018-08-27,19:30,201808271930,monday,AS Roma,Atalanta,3,3,6,D,D,D,1,3,4,A,L,W,http://www.worldfootball.net/report/serie-a-2018-2019-as-roma-atalanta/
+italy-2018-2019,3,2018-08-31,19:30,201808311930,friday,AC Milan,AS Roma,2,1,3,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/serie-a-2018-2019-ac-milan-as-roma/
+italy-2018-2019,3,2018-09-01,17:00,201809011700,saturday,Bologna FC,Inter,0,3,3,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/serie-a-2018-2019-bologna-fc-inter/
+italy-2018-2019,3,2018-09-01,19:30,201809011930,saturday,Parma Calcio 1913,Juventus,1,2,3,A,L,W,1,1,2,D,D,D,http://www.worldfootball.net/report/serie-a-2018-2019-parma-calcio-1913-juventus/
+italy-2018-2019,3,2018-09-02,17:00,201809021700,sunday,ACF Fiorentina,Udinese Calcio,1,0,1,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/serie-a-2018-2019-acf-fiorentina-udinese-calcio/
+italy-2018-2019,3,2018-09-02,19:30,201809021930,sunday,Atalanta,Cagliari Calcio,0,1,1,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/serie-a-2018-2019-atalanta-cagliari-calcio/
+italy-2018-2019,3,2018-09-02,19:30,201809021930,sunday,Chievo Verona,Empoli FC,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/serie-a-2018-2019-chievo-verona-empoli-fc/
+italy-2018-2019,3,2018-09-02,19:30,201809021930,sunday,Lazio Roma,Frosinone Calcio,1,0,1,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/serie-a-2018-2019-lazio-roma-frosinone-calcio/
+italy-2018-2019,3,2018-09-02,19:30,201809021930,sunday,Sampdoria,SSC Napoli,3,0,3,H,W,L,2,0,2,H,W,L,http://www.worldfootball.net/report/serie-a-2018-2019-sampdoria-ssc-napoli/
+italy-2018-2019,3,2018-09-02,19:30,201809021930,sunday,Sassuolo Calcio,Genoa CFC,5,3,8,H,W,L,4,1,5,H,W,L,http://www.worldfootball.net/report/serie-a-2018-2019-sassuolo-calcio-genoa-cfc/
+italy-2018-2019,3,2018-09-02,19:30,201809021930,sunday,Torino FC,SPAL 2013 Ferrara,1,0,1,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/serie-a-2018-2019-torino-fc-spal-2013-ferrara/
+italy-2018-2019,4,2018-09-15,14:00,201809151400,saturday,Inter,Parma Calcio 1913,0,1,1,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/serie-a-2018-2019-inter-parma-calcio-1913/
+italy-2018-2019,4,2018-09-15,17:00,201809151700,saturday,SSC Napoli,ACF Fiorentina,1,0,1,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/serie-a-2018-2019-ssc-napoli-acf-fiorentina/
+italy-2018-2019,4,2018-09-15,19:30,201809151930,saturday,Frosinone Calcio,Sampdoria,0,5,5,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/serie-a-2018-2019-frosinone-calcio-sampdoria/
+italy-2018-2019,4,2018-09-16,11:30,201809161130,sunday,AS Roma,Chievo Verona,2,2,4,D,D,D,2,0,2,H,W,L,http://www.worldfootball.net/report/serie-a-2018-2019-as-roma-chievo-verona/
+italy-2018-2019,4,2018-09-16,14:00,201809161400,sunday,Genoa CFC,Bologna FC,1,0,1,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/serie-a-2018-2019-genoa-cfc-bologna-fc/
+italy-2018-2019,4,2018-09-16,14:00,201809161400,sunday,Juventus,Sassuolo Calcio,2,1,3,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/serie-a-2018-2019-juventus-sassuolo-calcio/
+italy-2018-2019,4,2018-09-16,14:00,201809161400,sunday,Udinese Calcio,Torino FC,1,1,2,D,D,D,1,0,1,H,W,L,http://www.worldfootball.net/report/serie-a-2018-2019-udinese-calcio-torino-fc/
+italy-2018-2019,4,2018-09-16,17:00,201809161700,sunday,Empoli FC,Lazio Roma,0,1,1,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/serie-a-2018-2019-empoli-fc-lazio-roma/
+italy-2018-2019,4,2018-09-16,19:30,201809161930,sunday,Cagliari Calcio,AC Milan,1,1,2,D,D,D,1,0,1,H,W,L,http://www.worldfootball.net/report/serie-a-2018-2019-cagliari-calcio-ac-milan/
+italy-2018-2019,4,2018-09-17,19:30,201809171930,monday,SPAL 2013 Ferrara,Atalanta,2,0,2,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/serie-a-2018-2019-spal-2013-ferrara-atalanta/
+italy-2018-2019,1,2018-09-19,18:00,201809191800,wednesday,Sampdoria,ACF Fiorentina,1,1,2,D,D,D,0,1,1,A,L,W,http://www.worldfootball.net/report/serie-a-2018-2019-sampdoria-acf-fiorentina/
+italy-2018-2019,5,2018-09-21,19:30,201809211930,friday,Sassuolo Calcio,Empoli FC,3,1,4,H,W,L,1,1,2,D,D,D,http://www.worldfootball.net/report/serie-a-2018-2019-sassuolo-calcio-empoli-fc/
+italy-2018-2019,5,2018-09-22,14:00,201809221400,saturday,Parma Calcio 1913,Cagliari Calcio,2,0,2,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/serie-a-2018-2019-parma-calcio-1913-cagliari-calcio/
+italy-2018-2019,5,2018-09-22,17:00,201809221700,saturday,ACF Fiorentina,SPAL 2013 Ferrara,3,0,3,H,W,L,2,0,2,H,W,L,http://www.worldfootball.net/report/serie-a-2018-2019-acf-fiorentina-spal-2013-ferrara/
+italy-2018-2019,5,2018-09-22,19:30,201809221930,saturday,Sampdoria,Inter,0,1,1,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/serie-a-2018-2019-sampdoria-inter/
+italy-2018-2019,5,2018-09-23,11:30,201809231130,sunday,Torino FC,SSC Napoli,1,3,4,A,L,W,0,2,2,A,L,W,http://www.worldfootball.net/report/serie-a-2018-2019-torino-fc-ssc-napoli/
+italy-2018-2019,5,2018-09-23,14:00,201809231400,sunday,Bologna FC,AS Roma,2,0,2,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/serie-a-2018-2019-bologna-fc-as-roma/
+italy-2018-2019,5,2018-09-23,14:00,201809231400,sunday,Chievo Verona,Udinese Calcio,0,2,2,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/serie-a-2018-2019-chievo-verona-udinese-calcio/
+italy-2018-2019,5,2018-09-23,14:00,201809231400,sunday,Lazio Roma,Genoa CFC,4,1,5,H,W,L,2,0,2,H,W,L,http://www.worldfootball.net/report/serie-a-2018-2019-lazio-roma-genoa-cfc/
+italy-2018-2019,5,2018-09-23,17:00,201809231700,sunday,AC Milan,Atalanta,2,2,4,D,D,D,1,0,1,H,W,L,http://www.worldfootball.net/report/serie-a-2018-2019-ac-milan-atalanta/
+italy-2018-2019,5,2018-09-23,19:30,201809231930,sunday,Frosinone Calcio,Juventus,0,2,2,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/serie-a-2018-2019-frosinone-calcio-juventus/
+italy-2018-2019,6,2018-09-25,20:00,201809252000,tuesday,Inter,ACF Fiorentina,2,1,3,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/serie-a-2018-2019-inter-acf-fiorentina/
+italy-2018-2019,6,2018-09-26,18:00,201809261800,wednesday,Udinese Calcio,Lazio Roma,1,2,3,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/serie-a-2018-2019-udinese-calcio-lazio-roma/
+italy-2018-2019,6,2018-09-26,20:00,201809262000,wednesday,Atalanta,Torino FC,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/serie-a-2018-2019-atalanta-torino-fc/
+italy-2018-2019,6,2018-09-26,20:00,201809262000,wednesday,Cagliari Calcio,Sampdoria,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/serie-a-2018-2019-cagliari-calcio-sampdoria/
+italy-2018-2019,6,2018-09-26,20:00,201809262000,wednesday,Genoa CFC,Chievo Verona,2,0,2,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/serie-a-2018-2019-genoa-cfc-chievo-verona/
+italy-2018-2019,6,2018-09-26,20:00,201809262000,wednesday,Juventus,Bologna FC,2,0,2,H,W,L,2,0,2,H,W,L,http://www.worldfootball.net/report/serie-a-2018-2019-juventus-bologna-fc/
+italy-2018-2019,6,2018-09-26,20:00,201809262000,wednesday,SSC Napoli,Parma Calcio 1913,3,0,3,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/serie-a-2018-2019-ssc-napoli-parma-calcio-1913/
+italy-2018-2019,6,2018-09-26,20:00,201809262000,wednesday,AS Roma,Frosinone Calcio,4,0,4,H,W,L,3,0,3,H,W,L,http://www.worldfootball.net/report/serie-a-2018-2019-as-roma-frosinone-calcio/
+italy-2018-2019,6,2018-09-27,18:00,201809271800,thursday,SPAL 2013 Ferrara,Sassuolo Calcio,0,2,2,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/serie-a-2018-2019-spal-2013-ferrara-sassuolo-calcio/
+italy-2018-2019,6,2018-09-27,20:00,201809272000,thursday,Empoli FC,AC Milan,1,1,2,D,D,D,0,1,1,A,L,W,http://www.worldfootball.net/report/serie-a-2018-2019-empoli-fc-ac-milan/
+italy-2018-2019,7,2018-09-29,14:00,201809291400,saturday,AS Roma,Lazio Roma,3,1,4,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/serie-a-2018-2019-as-roma-lazio-roma/
+italy-2018-2019,7,2018-09-29,17:00,201809291700,saturday,Juventus,SSC Napoli,3,1,4,H,W,L,1,1,2,D,D,D,http://www.worldfootball.net/report/serie-a-2018-2019-juventus-ssc-napoli/
+italy-2018-2019,7,2018-09-29,19:30,201809291930,saturday,Inter,Cagliari Calcio,2,0,2,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/serie-a-2018-2019-inter-cagliari-calcio/
+italy-2018-2019,7,2018-09-30,11:30,201809301130,sunday,Bologna FC,Udinese Calcio,2,1,3,H,W,L,1,1,2,D,D,D,http://www.worldfootball.net/report/serie-a-2018-2019-bologna-fc-udinese-calcio/
+italy-2018-2019,7,2018-09-30,14:00,201809301400,sunday,Chievo Verona,Torino FC,0,1,1,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/serie-a-2018-2019-chievo-verona-torino-fc/
+italy-2018-2019,7,2018-09-30,14:00,201809301400,sunday,ACF Fiorentina,Atalanta,2,0,2,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/serie-a-2018-2019-acf-fiorentina-atalanta/
+italy-2018-2019,7,2018-09-30,14:00,201809301400,sunday,Frosinone Calcio,Genoa CFC,1,2,3,A,L,W,1,2,3,A,L,W,http://www.worldfootball.net/report/serie-a-2018-2019-frosinone-calcio-genoa-cfc/
+italy-2018-2019,7,2018-09-30,17:00,201809301700,sunday,Parma Calcio 1913,Empoli FC,1,0,1,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/serie-a-2018-2019-parma-calcio-1913-empoli-fc/
+italy-2018-2019,7,2018-09-30,19:30,201809301930,sunday,Sassuolo Calcio,AC Milan,1,4,5,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/serie-a-2018-2019-sassuolo-calcio-ac-milan/
+italy-2018-2019,7,2018-10-01,19:30,201810011930,monday,Sampdoria,SPAL 2013 Ferrara,2,1,3,H,W,L,1,1,2,D,D,D,http://www.worldfootball.net/report/serie-a-2018-2019-sampdoria-spal-2013-ferrara/
+italy-2018-2019,8,2018-10-05,19:30,201810051930,friday,Torino FC,Frosinone Calcio,3,2,5,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/serie-a-2018-2019-torino-fc-frosinone-calcio/
+italy-2018-2019,8,2018-10-06,14:00,201810061400,saturday,Cagliari Calcio,Bologna FC,2,0,2,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/serie-a-2018-2019-cagliari-calcio-bologna-fc/
+italy-2018-2019,8,2018-10-06,17:00,201810061700,saturday,Udinese Calcio,Juventus,0,2,2,A,L,W,0,2,2,A,L,W,http://www.worldfootball.net/report/serie-a-2018-2019-udinese-calcio-juventus/
+italy-2018-2019,8,2018-10-06,19:30,201810061930,saturday,Empoli FC,AS Roma,0,2,2,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/serie-a-2018-2019-empoli-fc-as-roma/
+italy-2018-2019,8,2018-10-07,11:30,201810071130,sunday,Genoa CFC,Parma Calcio 1913,1,3,4,A,L,W,1,3,4,A,L,W,http://www.worldfootball.net/report/serie-a-2018-2019-genoa-cfc-parma-calcio-1913/
+italy-2018-2019,8,2018-10-07,14:00,201810071400,sunday,Atalanta,Sampdoria,0,1,1,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/serie-a-2018-2019-atalanta-sampdoria/
+italy-2018-2019,8,2018-10-07,14:00,201810071400,sunday,Lazio Roma,ACF Fiorentina,1,0,1,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/serie-a-2018-2019-lazio-roma-acf-fiorentina/
+italy-2018-2019,8,2018-10-07,14:00,201810071400,sunday,AC Milan,Chievo Verona,3,1,4,H,W,L,2,0,2,H,W,L,http://www.worldfootball.net/report/serie-a-2018-2019-ac-milan-chievo-verona/
+italy-2018-2019,8,2018-10-07,17:00,201810071700,sunday,SSC Napoli,Sassuolo Calcio,2,0,2,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/serie-a-2018-2019-ssc-napoli-sassuolo-calcio/
+italy-2018-2019,8,2018-10-07,19:30,201810071930,sunday,SPAL 2013 Ferrara,Inter,1,2,3,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/serie-a-2018-2019-spal-2013-ferrara-inter/
+italy-2018-2019,9,2018-10-20,14:00,201810201400,saturday,AS Roma,SPAL 2013 Ferrara,0,2,2,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/serie-a-2018-2019-as-roma-spal-2013-ferrara/
+italy-2018-2019,9,2018-10-20,17:00,201810201700,saturday,Juventus,Genoa CFC,1,1,2,D,D,D,1,0,1,H,W,L,http://www.worldfootball.net/report/serie-a-2018-2019-juventus-genoa-cfc/
+italy-2018-2019,9,2018-10-20,19:30,201810201930,saturday,Udinese Calcio,SSC Napoli,0,3,3,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/serie-a-2018-2019-udinese-calcio-ssc-napoli/
+italy-2018-2019,9,2018-10-21,11:30,201810211130,sunday,Frosinone Calcio,Empoli FC,3,3,6,D,D,D,1,1,2,D,D,D,http://www.worldfootball.net/report/serie-a-2018-2019-frosinone-calcio-empoli-fc/
+italy-2018-2019,9,2018-10-21,14:00,201810211400,sunday,Bologna FC,Torino FC,2,2,4,D,D,D,0,1,1,A,L,W,http://www.worldfootball.net/report/serie-a-2018-2019-bologna-fc-torino-fc/
+italy-2018-2019,9,2018-10-21,14:00,201810211400,sunday,Chievo Verona,Atalanta,1,5,6,A,L,W,0,2,2,A,L,W,http://www.worldfootball.net/report/serie-a-2018-2019-chievo-verona-atalanta/
+italy-2018-2019,9,2018-10-21,14:00,201810211400,sunday,Parma Calcio 1913,Lazio Roma,0,2,2,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/serie-a-2018-2019-parma-calcio-1913-lazio-roma/
+italy-2018-2019,9,2018-10-21,17:00,201810211700,sunday,ACF Fiorentina,Cagliari Calcio,1,1,2,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/serie-a-2018-2019-acf-fiorentina-cagliari-calcio/
+italy-2018-2019,9,2018-10-21,19:30,201810211930,sunday,Inter,AC Milan,1,0,1,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/serie-a-2018-2019-inter-ac-milan/
+italy-2018-2019,9,2018-10-22,19:30,201810221930,monday,Sampdoria,Sassuolo Calcio,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/serie-a-2018-2019-sampdoria-sassuolo-calcio/
+italy-2018-2019,10,2018-10-27,14:00,201810271400,saturday,Atalanta,Parma Calcio 1913,3,0,3,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/serie-a-2018-2019-atalanta-parma-calcio-1913/
+italy-2018-2019,10,2018-10-27,17:00,201810271700,saturday,Empoli FC,Juventus,1,2,3,A,L,W,1,0,1,H,W,L,http://www.worldfootball.net/report/serie-a-2018-2019-empoli-fc-juventus/
+italy-2018-2019,10,2018-10-27,19:30,201810271930,saturday,Torino FC,ACF Fiorentina,1,1,2,D,D,D,1,1,2,D,D,D,http://www.worldfootball.net/report/serie-a-2018-2019-torino-fc-acf-fiorentina/
+italy-2018-2019,10,2018-10-28,11:30,201810281130,sunday,Sassuolo Calcio,Bologna FC,2,2,4,D,D,D,1,1,2,D,D,D,http://www.worldfootball.net/report/serie-a-2018-2019-sassuolo-calcio-bologna-fc/
+italy-2018-2019,10,2018-10-28,14:00,201810281400,sunday,Cagliari Calcio,Chievo Verona,2,1,3,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/serie-a-2018-2019-cagliari-calcio-chievo-verona/
+italy-2018-2019,10,2018-10-28,14:00,201810281400,sunday,Genoa CFC,Udinese Calcio,2,2,4,D,D,D,1,0,1,H,W,L,http://www.worldfootball.net/report/serie-a-2018-2019-genoa-cfc-udinese-calcio/
+italy-2018-2019,10,2018-10-28,14:00,201810281400,sunday,SPAL 2013 Ferrara,Frosinone Calcio,0,3,3,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/serie-a-2018-2019-spal-2013-ferrara-frosinone-calcio/
+italy-2018-2019,10,2018-10-28,17:00,201810281700,sunday,AC Milan,Sampdoria,3,2,5,H,W,L,2,2,4,D,D,D,http://www.worldfootball.net/report/serie-a-2018-2019-ac-milan-sampdoria/
+italy-2018-2019,10,2018-10-28,19:30,201810281930,sunday,SSC Napoli,AS Roma,1,1,2,D,D,D,0,1,1,A,L,W,http://www.worldfootball.net/report/serie-a-2018-2019-ssc-napoli-as-roma/
+italy-2018-2019,10,2018-10-29,19:30,201810291930,monday,Lazio Roma,Inter,0,3,3,A,L,W,0,2,2,A,L,W,http://www.worldfootball.net/report/serie-a-2018-2019-lazio-roma-inter/
+italy-2018-2019,1,2018-10-31,19:30,201810311930,wednesday,AC Milan,Genoa CFC,2,1,3,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/serie-a-2018-2019-ac-milan-genoa-cfc/
+italy-2018-2019,11,2018-11-02,19:30,201811021930,friday,SSC Napoli,Empoli FC,5,1,6,H,W,L,2,0,2,H,W,L,http://www.worldfootball.net/report/serie-a-2018-2019-ssc-napoli-empoli-fc/
+italy-2018-2019,11,2018-11-03,14:00,201811031400,saturday,Inter,Genoa CFC,5,0,5,H,W,L,2,0,2,H,W,L,http://www.worldfootball.net/report/serie-a-2018-2019-inter-genoa-cfc/
+italy-2018-2019,11,2018-11-03,17:00,201811031700,saturday,ACF Fiorentina,AS Roma,1,1,2,D,D,D,1,0,1,H,W,L,http://www.worldfootball.net/report/serie-a-2018-2019-acf-fiorentina-as-roma/
+italy-2018-2019,11,2018-11-03,19:30,201811031930,saturday,Juventus,Cagliari Calcio,3,1,4,H,W,L,2,1,3,H,W,L,http://www.worldfootball.net/report/serie-a-2018-2019-juventus-cagliari-calcio/
+italy-2018-2019,11,2018-11-04,11:30,201811041130,sunday,Lazio Roma,SPAL 2013 Ferrara,4,1,5,H,W,L,2,1,3,H,W,L,http://www.worldfootball.net/report/serie-a-2018-2019-lazio-roma-spal-2013-ferrara/
+italy-2018-2019,11,2018-11-04,14:00,201811041400,sunday,Chievo Verona,Sassuolo Calcio,0,2,2,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/serie-a-2018-2019-chievo-verona-sassuolo-calcio/
+italy-2018-2019,11,2018-11-04,14:00,201811041400,sunday,Parma Calcio 1913,Frosinone Calcio,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/serie-a-2018-2019-parma-calcio-1913-frosinone-calcio/
+italy-2018-2019,11,2018-11-04,14:00,201811041400,sunday,Sampdoria,Torino FC,1,4,5,A,L,W,0,2,2,A,L,W,http://www.worldfootball.net/report/serie-a-2018-2019-sampdoria-torino-fc/
+italy-2018-2019,11,2018-11-04,17:00,201811041700,sunday,Bologna FC,Atalanta,1,2,3,A,L,W,1,0,1,H,W,L,http://www.worldfootball.net/report/serie-a-2018-2019-bologna-fc-atalanta/
+italy-2018-2019,11,2018-11-04,19:30,201811041930,sunday,Udinese Calcio,AC Milan,0,1,1,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/serie-a-2018-2019-udinese-calcio-ac-milan/
+italy-2018-2019,12,2018-11-09,19:30,201811091930,friday,Frosinone Calcio,ACF Fiorentina,1,1,2,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/serie-a-2018-2019-frosinone-calcio-acf-fiorentina/
+italy-2018-2019,12,2018-11-10,14:00,201811101400,saturday,Torino FC,Parma Calcio 1913,1,2,3,A,L,W,1,2,3,A,L,W,http://www.worldfootball.net/report/serie-a-2018-2019-torino-fc-parma-calcio-1913/
+italy-2018-2019,12,2018-11-10,17:00,201811101700,saturday,SPAL 2013 Ferrara,Cagliari Calcio,2,2,4,D,D,D,1,0,1,H,W,L,http://www.worldfootball.net/report/serie-a-2018-2019-spal-2013-ferrara-cagliari-calcio/
+italy-2018-2019,12,2018-11-10,19:30,201811101930,saturday,Genoa CFC,SSC Napoli,1,2,3,A,L,W,1,0,1,H,W,L,http://www.worldfootball.net/report/serie-a-2018-2019-genoa-cfc-ssc-napoli/
+italy-2018-2019,12,2018-11-11,11:30,201811111130,sunday,Atalanta,Inter,4,1,5,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/serie-a-2018-2019-atalanta-inter/
+italy-2018-2019,12,2018-11-11,14:00,201811111400,sunday,Chievo Verona,Bologna FC,2,2,4,D,D,D,2,1,3,H,W,L,http://www.worldfootball.net/report/serie-a-2018-2019-chievo-verona-bologna-fc/
+italy-2018-2019,12,2018-11-11,14:00,201811111400,sunday,Empoli FC,Udinese Calcio,2,1,3,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/serie-a-2018-2019-empoli-fc-udinese-calcio/
+italy-2018-2019,12,2018-11-11,14:00,201811111400,sunday,AS Roma,Sampdoria,4,1,5,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/serie-a-2018-2019-as-roma-sampdoria/
+italy-2018-2019,12,2018-11-11,17:00,201811111700,sunday,Sassuolo Calcio,Lazio Roma,1,1,2,D,D,D,1,1,2,D,D,D,http://www.worldfootball.net/report/serie-a-2018-2019-sassuolo-calcio-lazio-roma/
+italy-2018-2019,12,2018-11-11,19:30,201811111930,sunday,AC Milan,Juventus,0,2,2,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/serie-a-2018-2019-ac-milan-juventus/
+italy-2018-2019,13,2018-11-24,14:00,201811241400,saturday,Udinese Calcio,AS Roma,1,0,1,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/serie-a-2018-2019-udinese-calcio-as-roma/
+italy-2018-2019,13,2018-11-24,17:00,201811241700,saturday,Juventus,SPAL 2013 Ferrara,2,0,2,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/serie-a-2018-2019-juventus-spal-2013-ferrara/
+italy-2018-2019,13,2018-11-24,19:30,201811241930,saturday,Inter,Frosinone Calcio,3,0,3,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/serie-a-2018-2019-inter-frosinone-calcio/
+italy-2018-2019,13,2018-11-25,11:30,201811251130,sunday,Parma Calcio 1913,Sassuolo Calcio,2,1,3,H,W,L,2,1,3,H,W,L,http://www.worldfootball.net/report/serie-a-2018-2019-parma-calcio-1913-sassuolo-calcio/
+italy-2018-2019,13,2018-11-25,14:00,201811251400,sunday,Bologna FC,ACF Fiorentina,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/serie-a-2018-2019-bologna-fc-acf-fiorentina/
+italy-2018-2019,13,2018-11-25,14:00,201811251400,sunday,Empoli FC,Atalanta,3,2,5,H,W,L,1,2,3,A,L,W,http://www.worldfootball.net/report/serie-a-2018-2019-empoli-fc-atalanta/
+italy-2018-2019,13,2018-11-25,14:00,201811251400,sunday,SSC Napoli,Chievo Verona,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/serie-a-2018-2019-ssc-napoli-chievo-verona/
+italy-2018-2019,13,2018-11-25,17:00,201811251700,sunday,Lazio Roma,AC Milan,1,1,2,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/serie-a-2018-2019-lazio-roma-ac-milan/
+italy-2018-2019,13,2018-11-25,19:30,201811251930,sunday,Genoa CFC,Sampdoria,1,1,2,D,D,D,1,1,2,D,D,D,http://www.worldfootball.net/report/serie-a-2018-2019-genoa-cfc-sampdoria/
+italy-2018-2019,13,2018-11-26,19:30,201811261930,monday,Cagliari Calcio,Torino FC,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/serie-a-2018-2019-cagliari-calcio-torino-fc/
+italy-2018-2019,14,2018-12-01,14:00,201812011400,saturday,SPAL 2013 Ferrara,Empoli FC,2,2,4,D,D,D,1,2,3,A,L,W,http://www.worldfootball.net/report/serie-a-2018-2019-spal-2013-ferrara-empoli-fc/
+italy-2018-2019,14,2018-12-01,17:00,201812011700,saturday,ACF Fiorentina,Juventus,0,3,3,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/serie-a-2018-2019-acf-fiorentina-juventus/
+italy-2018-2019,14,2018-12-01,19:30,201812011930,saturday,Sampdoria,Bologna FC,4,1,5,H,W,L,3,1,4,H,W,L,http://www.worldfootball.net/report/serie-a-2018-2019-sampdoria-bologna-fc/
+italy-2018-2019,14,2018-12-02,11:30,201812021130,sunday,AC Milan,Parma Calcio 1913,2,1,3,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/serie-a-2018-2019-ac-milan-parma-calcio-1913/
+italy-2018-2019,14,2018-12-02,14:00,201812021400,sunday,Frosinone Calcio,Cagliari Calcio,1,1,2,D,D,D,1,0,1,H,W,L,http://www.worldfootball.net/report/serie-a-2018-2019-frosinone-calcio-cagliari-calcio/
+italy-2018-2019,14,2018-12-02,14:00,201812021400,sunday,Sassuolo Calcio,Udinese Calcio,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/serie-a-2018-2019-sassuolo-calcio-udinese-calcio/
+italy-2018-2019,14,2018-12-02,14:00,201812021400,sunday,Torino FC,Genoa CFC,2,1,3,H,W,L,2,1,3,H,W,L,http://www.worldfootball.net/report/serie-a-2018-2019-torino-fc-genoa-cfc/
+italy-2018-2019,14,2018-12-02,17:00,201812021700,sunday,Chievo Verona,Lazio Roma,1,1,2,D,D,D,1,0,1,H,W,L,http://www.worldfootball.net/report/serie-a-2018-2019-chievo-verona-lazio-roma/
+italy-2018-2019,14,2018-12-02,19:30,201812021930,sunday,AS Roma,Inter,2,2,4,D,D,D,0,1,1,A,L,W,http://www.worldfootball.net/report/serie-a-2018-2019-as-roma-inter/
+italy-2018-2019,14,2018-12-03,19:30,201812031930,monday,Atalanta,SSC Napoli,1,2,3,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/serie-a-2018-2019-atalanta-ssc-napoli/
+italy-2018-2019,15,2018-12-07,19:30,201812071930,friday,Juventus,Inter,1,0,1,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/serie-a-2018-2019-juventus-inter/
+italy-2018-2019,15,2018-12-08,14:00,201812081400,saturday,SSC Napoli,Frosinone Calcio,4,0,4,H,W,L,2,0,2,H,W,L,http://www.worldfootball.net/report/serie-a-2018-2019-ssc-napoli-frosinone-calcio/
+italy-2018-2019,15,2018-12-08,17:00,201812081700,saturday,Cagliari Calcio,AS Roma,2,2,4,D,D,D,0,2,2,A,L,W,http://www.worldfootball.net/report/serie-a-2018-2019-cagliari-calcio-as-roma/
+italy-2018-2019,15,2018-12-08,19:30,201812081930,saturday,Lazio Roma,Sampdoria,2,2,4,D,D,D,0,1,1,A,L,W,http://www.worldfootball.net/report/serie-a-2018-2019-lazio-roma-sampdoria/
+italy-2018-2019,15,2018-12-09,11:30,201812091130,sunday,Sassuolo Calcio,ACF Fiorentina,3,3,6,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/serie-a-2018-2019-sassuolo-calcio-acf-fiorentina/
+italy-2018-2019,15,2018-12-09,14:00,201812091400,sunday,Empoli FC,Bologna FC,2,1,3,H,W,L,1,1,2,D,D,D,http://www.worldfootball.net/report/serie-a-2018-2019-empoli-fc-bologna-fc/
+italy-2018-2019,15,2018-12-09,14:00,201812091400,sunday,Parma Calcio 1913,Chievo Verona,1,1,2,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/serie-a-2018-2019-parma-calcio-1913-chievo-verona/
+italy-2018-2019,15,2018-12-09,14:00,201812091400,sunday,Udinese Calcio,Atalanta,1,3,4,A,L,W,1,1,2,D,D,D,http://www.worldfootball.net/report/serie-a-2018-2019-udinese-calcio-atalanta/
+italy-2018-2019,15,2018-12-09,17:00,201812091700,sunday,Genoa CFC,SPAL 2013 Ferrara,1,1,2,D,D,D,1,1,2,D,D,D,http://www.worldfootball.net/report/serie-a-2018-2019-genoa-cfc-spal-2013-ferrara/
+italy-2018-2019,15,2018-12-09,19:30,201812091930,sunday,AC Milan,Torino FC,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/serie-a-2018-2019-ac-milan-torino-fc/
+italy-2018-2019,16,2018-12-15,17:00,201812151700,saturday,Inter,Udinese Calcio,1,0,1,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/serie-a-2018-2019-inter-udinese-calcio/
+italy-2018-2019,16,2018-12-15,19:30,201812151930,saturday,Torino FC,Juventus,0,1,1,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/serie-a-2018-2019-torino-fc-juventus/
+italy-2018-2019,16,2018-12-16,11:30,201812161130,sunday,SPAL 2013 Ferrara,Chievo Verona,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/serie-a-2018-2019-spal-2013-ferrara-chievo-verona/
+italy-2018-2019,16,2018-12-16,14:00,201812161400,sunday,ACF Fiorentina,Empoli FC,3,1,4,H,W,L,1,1,2,D,D,D,http://www.worldfootball.net/report/serie-a-2018-2019-acf-fiorentina-empoli-fc/
+italy-2018-2019,16,2018-12-16,14:00,201812161400,sunday,Frosinone Calcio,Sassuolo Calcio,0,2,2,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/serie-a-2018-2019-frosinone-calcio-sassuolo-calcio/
+italy-2018-2019,16,2018-12-16,14:00,201812161400,sunday,Sampdoria,Parma Calcio 1913,2,0,2,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/serie-a-2018-2019-sampdoria-parma-calcio-1913/
+italy-2018-2019,16,2018-12-16,17:00,201812161700,sunday,Cagliari Calcio,SSC Napoli,0,1,1,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/serie-a-2018-2019-cagliari-calcio-ssc-napoli/
+italy-2018-2019,16,2018-12-16,19:30,201812161930,sunday,AS Roma,Genoa CFC,3,2,5,H,W,L,2,2,4,D,D,D,http://www.worldfootball.net/report/serie-a-2018-2019-as-roma-genoa-cfc/
+italy-2018-2019,16,2018-12-17,19:30,201812171930,monday,Atalanta,Lazio Roma,1,0,1,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/serie-a-2018-2019-atalanta-lazio-roma/
+italy-2018-2019,16,2018-12-18,19:30,201812181930,tuesday,Bologna FC,AC Milan,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/serie-a-2018-2019-bologna-fc-ac-milan/
+italy-2018-2019,17,2018-12-22,11:30,201812221130,saturday,Lazio Roma,Cagliari Calcio,3,1,4,H,W,L,2,0,2,H,W,L,http://www.worldfootball.net/report/serie-a-2018-2019-lazio-roma-cagliari-calcio/
+italy-2018-2019,17,2018-12-22,14:00,201812221400,saturday,Empoli FC,Sampdoria,2,4,6,A,L,W,1,1,2,D,D,D,http://www.worldfootball.net/report/serie-a-2018-2019-empoli-fc-sampdoria/
+italy-2018-2019,17,2018-12-22,14:00,201812221400,saturday,Genoa CFC,Atalanta,3,1,4,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/serie-a-2018-2019-genoa-cfc-atalanta/
+italy-2018-2019,17,2018-12-22,14:00,201812221400,saturday,AC Milan,ACF Fiorentina,0,1,1,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/serie-a-2018-2019-ac-milan-acf-fiorentina/
+italy-2018-2019,17,2018-12-22,14:00,201812221400,saturday,SSC Napoli,SPAL 2013 Ferrara,1,0,1,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/serie-a-2018-2019-ssc-napoli-spal-2013-ferrara/
+italy-2018-2019,17,2018-12-22,14:00,201812221400,saturday,Sassuolo Calcio,Torino FC,1,1,2,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/serie-a-2018-2019-sassuolo-calcio-torino-fc/
+italy-2018-2019,17,2018-12-22,14:00,201812221400,saturday,Udinese Calcio,Frosinone Calcio,1,1,2,D,D,D,1,0,1,H,W,L,http://www.worldfootball.net/report/serie-a-2018-2019-udinese-calcio-frosinone-calcio/
+italy-2018-2019,17,2018-12-22,17:00,201812221700,saturday,Chievo Verona,Inter,1,1,2,D,D,D,0,1,1,A,L,W,http://www.worldfootball.net/report/serie-a-2018-2019-chievo-verona-inter/
+italy-2018-2019,17,2018-12-22,17:00,201812221700,saturday,Parma Calcio 1913,Bologna FC,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/serie-a-2018-2019-parma-calcio-1913-bologna-fc/
+italy-2018-2019,17,2018-12-22,19:30,201812221930,saturday,Juventus,AS Roma,1,0,1,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/serie-a-2018-2019-juventus-as-roma/
+italy-2018-2019,18,2018-12-26,11:30,201812261130,wednesday,Frosinone Calcio,AC Milan,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/serie-a-2018-2019-frosinone-calcio-ac-milan/
+italy-2018-2019,18,2018-12-26,14:00,201812261400,wednesday,Atalanta,Juventus,2,2,4,D,D,D,1,1,2,D,D,D,http://www.worldfootball.net/report/serie-a-2018-2019-atalanta-juventus/
+italy-2018-2019,18,2018-12-26,14:00,201812261400,wednesday,Bologna FC,Lazio Roma,0,2,2,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/serie-a-2018-2019-bologna-fc-lazio-roma/
+italy-2018-2019,18,2018-12-26,14:00,201812261400,wednesday,Cagliari Calcio,Genoa CFC,1,0,1,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/serie-a-2018-2019-cagliari-calcio-genoa-cfc/
+italy-2018-2019,18,2018-12-26,14:00,201812261400,wednesday,ACF Fiorentina,Parma Calcio 1913,0,1,1,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/serie-a-2018-2019-acf-fiorentina-parma-calcio-1913/
+italy-2018-2019,18,2018-12-26,14:00,201812261400,wednesday,Sampdoria,Chievo Verona,2,0,2,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/serie-a-2018-2019-sampdoria-chievo-verona/
+italy-2018-2019,18,2018-12-26,17:00,201812261700,wednesday,AS Roma,Sassuolo Calcio,3,1,4,H,W,L,2,0,2,H,W,L,http://www.worldfootball.net/report/serie-a-2018-2019-as-roma-sassuolo-calcio/
+italy-2018-2019,18,2018-12-26,17:00,201812261700,wednesday,SPAL 2013 Ferrara,Udinese Calcio,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/serie-a-2018-2019-spal-2013-ferrara-udinese-calcio/
+italy-2018-2019,18,2018-12-26,17:00,201812261700,wednesday,Torino FC,Empoli FC,3,0,3,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/serie-a-2018-2019-torino-fc-empoli-fc/
+italy-2018-2019,18,2018-12-26,19:30,201812261930,wednesday,Inter,SSC Napoli,1,0,1,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/serie-a-2018-2019-inter-ssc-napoli/
+italy-2018-2019,19,2018-12-29,11:30,201812291130,saturday,Juventus,Sampdoria,2,1,3,H,W,L,1,1,2,D,D,D,http://www.worldfootball.net/report/serie-a-2018-2019-juventus-sampdoria/
+italy-2018-2019,19,2018-12-29,14:00,201812291400,saturday,Chievo Verona,Frosinone Calcio,1,0,1,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/serie-a-2018-2019-chievo-verona-frosinone-calcio/
+italy-2018-2019,19,2018-12-29,14:00,201812291400,saturday,Empoli FC,Inter,0,1,1,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/serie-a-2018-2019-empoli-fc-inter/
+italy-2018-2019,19,2018-12-29,14:00,201812291400,saturday,Genoa CFC,ACF Fiorentina,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/serie-a-2018-2019-genoa-cfc-acf-fiorentina/
+italy-2018-2019,19,2018-12-29,14:00,201812291400,saturday,Lazio Roma,Torino FC,1,1,2,D,D,D,0,1,1,A,L,W,http://www.worldfootball.net/report/serie-a-2018-2019-lazio-roma-torino-fc/
+italy-2018-2019,19,2018-12-29,14:00,201812291400,saturday,Parma Calcio 1913,AS Roma,0,2,2,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/serie-a-2018-2019-parma-calcio-1913-as-roma/
+italy-2018-2019,19,2018-12-29,14:00,201812291400,saturday,Sassuolo Calcio,Atalanta,2,6,8,A,L,W,0,2,2,A,L,W,http://www.worldfootball.net/report/serie-a-2018-2019-sassuolo-calcio-atalanta/
+italy-2018-2019,19,2018-12-29,14:00,201812291400,saturday,Udinese Calcio,Cagliari Calcio,2,0,2,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/serie-a-2018-2019-udinese-calcio-cagliari-calcio/
+italy-2018-2019,19,2018-12-29,17:00,201812291700,saturday,SSC Napoli,Bologna FC,3,2,5,H,W,L,1,1,2,D,D,D,http://www.worldfootball.net/report/serie-a-2018-2019-ssc-napoli-bologna-fc/
+italy-2018-2019,19,2018-12-29,19:30,201812291930,saturday,AC Milan,SPAL 2013 Ferrara,2,1,3,H,W,L,1,1,2,D,D,D,http://www.worldfootball.net/report/serie-a-2018-2019-ac-milan-spal-2013-ferrara/
+italy-2018-2019,20,2019-01-19,14:00,201901191400,saturday,AS Roma,Torino FC,3,2,5,H,W,L,2,0,2,H,W,L,http://www.worldfootball.net/report/serie-a-2018-2019-as-roma-torino-fc/
+italy-2018-2019,20,2019-01-19,17:00,201901191700,saturday,Udinese Calcio,Parma Calcio 1913,1,2,3,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/serie-a-2018-2019-udinese-calcio-parma-calcio-1913/
+italy-2018-2019,20,2019-01-19,19:30,201901191930,saturday,Inter,Sassuolo Calcio,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/serie-a-2018-2019-inter-sassuolo-calcio/
+italy-2018-2019,20,2019-01-20,11:30,201901201130,sunday,Frosinone Calcio,Atalanta,0,5,5,A,L,W,0,2,2,A,L,W,http://www.worldfootball.net/report/serie-a-2018-2019-frosinone-calcio-atalanta/
+italy-2018-2019,20,2019-01-20,14:00,201901201400,sunday,SPAL 2013 Ferrara,Bologna FC,1,1,2,D,D,D,0,1,1,A,L,W,http://www.worldfootball.net/report/serie-a-2018-2019-spal-2013-ferrara-bologna-fc/
+italy-2018-2019,20,2019-01-20,14:00,201901201400,sunday,ACF Fiorentina,Sampdoria,3,3,6,D,D,D,1,1,2,D,D,D,http://www.worldfootball.net/report/serie-a-2018-2019-acf-fiorentina-sampdoria/
+italy-2018-2019,20,2019-01-20,17:00,201901201700,sunday,Cagliari Calcio,Empoli FC,2,2,4,D,D,D,1,0,1,H,W,L,http://www.worldfootball.net/report/serie-a-2018-2019-cagliari-calcio-empoli-fc/
+italy-2018-2019,20,2019-01-20,19:30,201901201930,sunday,SSC Napoli,Lazio Roma,2,1,3,H,W,L,2,0,2,H,W,L,http://www.worldfootball.net/report/serie-a-2018-2019-ssc-napoli-lazio-roma/
+italy-2018-2019,20,2019-01-21,14:00,201901211400,monday,Genoa CFC,AC Milan,0,2,2,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/serie-a-2018-2019-genoa-cfc-ac-milan/
+italy-2018-2019,20,2019-01-21,19:30,201901211930,monday,Juventus,Chievo Verona,3,0,3,H,W,L,2,0,2,H,W,L,http://www.worldfootball.net/report/serie-a-2018-2019-juventus-chievo-verona/
+italy-2018-2019,21,2019-01-26,14:00,201901261400,saturday,Sassuolo Calcio,Cagliari Calcio,3,0,3,H,W,L,2,0,2,H,W,L,http://www.worldfootball.net/report/serie-a-2018-2019-sassuolo-calcio-cagliari-calcio/
+italy-2018-2019,21,2019-01-26,17:00,201901261700,saturday,Sampdoria,Udinese Calcio,4,0,4,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/serie-a-2018-2019-sampdoria-udinese-calcio/
+italy-2018-2019,21,2019-01-26,19:30,201901261930,saturday,AC Milan,SSC Napoli,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/serie-a-2018-2019-ac-milan-ssc-napoli/
+italy-2018-2019,21,2019-01-27,11:30,201901271130,sunday,Chievo Verona,ACF Fiorentina,3,4,7,A,L,W,1,2,3,A,L,W,http://www.worldfootball.net/report/serie-a-2018-2019-chievo-verona-acf-fiorentina/
+italy-2018-2019,21,2019-01-27,14:00,201901271400,sunday,Bologna FC,Frosinone Calcio,0,4,4,A,L,W,0,2,2,A,L,W,http://www.worldfootball.net/report/serie-a-2018-2019-bologna-fc-frosinone-calcio/
+italy-2018-2019,21,2019-01-27,14:00,201901271400,sunday,Atalanta,AS Roma,3,3,6,D,D,D,1,3,4,A,L,W,http://www.worldfootball.net/report/serie-a-2018-2019-atalanta-as-roma/
+italy-2018-2019,21,2019-01-27,14:00,201901271400,sunday,Parma Calcio 1913,SPAL 2013 Ferrara,2,3,5,A,L,W,1,0,1,H,W,L,http://www.worldfootball.net/report/serie-a-2018-2019-parma-calcio-1913-spal-2013-ferrara/
+italy-2018-2019,21,2019-01-27,17:00,201901271700,sunday,Torino FC,Inter,1,0,1,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/serie-a-2018-2019-torino-fc-inter/
+italy-2018-2019,21,2019-01-27,19:30,201901271930,sunday,Lazio Roma,Juventus,1,2,3,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/serie-a-2018-2019-lazio-roma-juventus/
+italy-2018-2019,21,2019-01-28,19:30,201901281930,monday,Empoli FC,Genoa CFC,1,3,4,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/serie-a-2018-2019-empoli-fc-genoa-cfc/
+italy-2018-2019,22,2019-02-02,14:00,201902021400,saturday,Empoli FC,Chievo Verona,2,2,4,D,D,D,1,2,3,A,L,W,http://www.worldfootball.net/report/serie-a-2018-2019-empoli-fc-chievo-verona/
+italy-2018-2019,22,2019-02-02,17:00,201902021700,saturday,SSC Napoli,Sampdoria,3,0,3,H,W,L,2,0,2,H,W,L,http://www.worldfootball.net/report/serie-a-2018-2019-ssc-napoli-sampdoria/
+italy-2018-2019,22,2019-02-02,19:30,201902021930,saturday,Juventus,Parma Calcio 1913,3,3,6,D,D,D,1,0,1,H,W,L,http://www.worldfootball.net/report/serie-a-2018-2019-juventus-parma-calcio-1913/
+italy-2018-2019,22,2019-02-03,11:30,201902031130,sunday,SPAL 2013 Ferrara,Torino FC,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/serie-a-2018-2019-spal-2013-ferrara-torino-fc/
+italy-2018-2019,22,2019-02-03,14:00,201902031400,sunday,Udinese Calcio,ACF Fiorentina,1,1,2,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/serie-a-2018-2019-udinese-calcio-acf-fiorentina/
+italy-2018-2019,22,2019-02-03,14:00,201902031400,sunday,Genoa CFC,Sassuolo Calcio,1,1,2,D,D,D,1,1,2,D,D,D,http://www.worldfootball.net/report/serie-a-2018-2019-genoa-cfc-sassuolo-calcio/
+italy-2018-2019,22,2019-02-03,17:00,201902031700,sunday,Inter,Bologna FC,0,1,1,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/serie-a-2018-2019-inter-bologna-fc/
+italy-2018-2019,22,2019-02-03,19:30,201902031930,sunday,AS Roma,AC Milan,1,1,2,D,D,D,0,1,1,A,L,W,http://www.worldfootball.net/report/serie-a-2018-2019-as-roma-ac-milan/
+italy-2018-2019,22,2019-02-04,18:00,201902041800,monday,Frosinone Calcio,Lazio Roma,0,1,1,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/serie-a-2018-2019-frosinone-calcio-lazio-roma/
+italy-2018-2019,22,2019-02-04,20:00,201902042000,monday,Cagliari Calcio,Atalanta,0,1,1,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/serie-a-2018-2019-cagliari-calcio-atalanta/
+italy-2018-2019,23,2019-02-07,19:30,201902071930,thursday,Lazio Roma,Empoli FC,1,0,1,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/serie-a-2018-2019-lazio-roma-empoli-fc/
+italy-2018-2019,23,2019-02-08,19:30,201902081930,friday,Chievo Verona,AS Roma,0,3,3,A,L,W,0,2,2,A,L,W,http://www.worldfootball.net/report/serie-a-2018-2019-chievo-verona-as-roma/
+italy-2018-2019,23,2019-02-09,17:00,201902091700,saturday,ACF Fiorentina,SSC Napoli,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/serie-a-2018-2019-acf-fiorentina-ssc-napoli/
+italy-2018-2019,23,2019-02-09,19:30,201902091930,saturday,Parma Calcio 1913,Inter,0,1,1,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/serie-a-2018-2019-parma-calcio-1913-inter/
+italy-2018-2019,23,2019-02-10,11:30,201902101130,sunday,Bologna FC,Genoa CFC,1,1,2,D,D,D,1,1,2,D,D,D,http://www.worldfootball.net/report/serie-a-2018-2019-bologna-fc-genoa-cfc/
+italy-2018-2019,23,2019-02-10,14:00,201902101400,sunday,Sampdoria,Frosinone Calcio,0,1,1,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/serie-a-2018-2019-sampdoria-frosinone-calcio/
+italy-2018-2019,23,2019-02-10,14:00,201902101400,sunday,Atalanta,SPAL 2013 Ferrara,2,1,3,H,W,L,0,1,1,A,L,W,http://www.worldfootball.net/report/serie-a-2018-2019-atalanta-spal-2013-ferrara/
+italy-2018-2019,23,2019-02-10,14:00,201902101400,sunday,Torino FC,Udinese Calcio,1,0,1,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/serie-a-2018-2019-torino-fc-udinese-calcio/
+italy-2018-2019,23,2019-02-10,17:00,201902101700,sunday,Sassuolo Calcio,Juventus,0,3,3,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/serie-a-2018-2019-sassuolo-calcio-juventus/
+italy-2018-2019,23,2019-02-10,19:30,201902101930,sunday,AC Milan,Cagliari Calcio,3,0,3,H,W,L,2,0,2,H,W,L,http://www.worldfootball.net/report/serie-a-2018-2019-ac-milan-cagliari-calcio/
+italy-2018-2019,24,2019-02-15,19:30,201902151930,friday,Juventus,Frosinone Calcio,3,0,3,H,W,L,2,0,2,H,W,L,http://www.worldfootball.net/report/serie-a-2018-2019-juventus-frosinone-calcio/
+italy-2018-2019,24,2019-02-16,17:00,201902161700,saturday,Cagliari Calcio,Parma Calcio 1913,2,1,3,H,W,L,0,1,1,A,L,W,http://www.worldfootball.net/report/serie-a-2018-2019-cagliari-calcio-parma-calcio-1913/
+italy-2018-2019,24,2019-02-16,19:30,201902161930,saturday,Atalanta,AC Milan,1,3,4,A,L,W,1,1,2,D,D,D,http://www.worldfootball.net/report/serie-a-2018-2019-atalanta-ac-milan/
+italy-2018-2019,24,2019-02-17,11:30,201902171130,sunday,SPAL 2013 Ferrara,ACF Fiorentina,1,4,5,A,L,W,1,1,2,D,D,D,http://www.worldfootball.net/report/serie-a-2018-2019-spal-2013-ferrara-acf-fiorentina/
+italy-2018-2019,24,2019-02-17,14:00,201902171400,sunday,Udinese Calcio,Chievo Verona,1,0,1,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/serie-a-2018-2019-udinese-calcio-chievo-verona/
+italy-2018-2019,24,2019-02-17,14:00,201902171400,sunday,Genoa CFC,Lazio Roma,2,1,3,H,W,L,0,1,1,A,L,W,http://www.worldfootball.net/report/serie-a-2018-2019-genoa-cfc-lazio-roma/
+italy-2018-2019,24,2019-02-17,14:00,201902171400,sunday,Empoli FC,Sassuolo Calcio,3,0,3,H,W,L,2,0,2,H,W,L,http://www.worldfootball.net/report/serie-a-2018-2019-empoli-fc-sassuolo-calcio/
+italy-2018-2019,24,2019-02-17,17:00,201902171700,sunday,Inter,Sampdoria,2,1,3,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/serie-a-2018-2019-inter-sampdoria/
+italy-2018-2019,24,2019-02-17,19:30,201902171930,sunday,SSC Napoli,Torino FC,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/serie-a-2018-2019-ssc-napoli-torino-fc/
+italy-2018-2019,24,2019-02-18,19:30,201902181930,monday,AS Roma,Bologna FC,2,1,3,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/serie-a-2018-2019-as-roma-bologna-fc/
+italy-2018-2019,25,2019-02-22,19:30,201902221930,friday,AC Milan,Empoli FC,3,0,3,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/serie-a-2018-2019-ac-milan-empoli-fc/

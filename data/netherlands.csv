@@ -75,9 +75,9 @@ netherlands-1956-1957,9,1956-11-18,,195611180000,sunday,AFC Ajax,Willem II,5,0,5
 netherlands-1956-1957,9,1956-11-18,,195611180000,sunday,DOS Utrecht,BVV,1,3,4,A,L,W,,,,,,,
 netherlands-1956-1957,9,1956-11-18,,195611180000,sunday,SC Eindhoven,DWS Amsterdam,1,1,2,D,D,D,,,,,,,
 netherlands-1956-1957,9,1956-11-18,,195611180000,sunday,Fortuna Sittard,PSV Eindhoven,1,3,4,A,L,W,,,,,,,
-netherlands-1956-1957,9,1956-11-18,,195611180000,sunday,Groninger VAV,MVV,0,0,0,D,D,D,0,0,0,D,D,D,
+netherlands-1956-1957,9,1956-11-18,,195611180000,sunday,Groninger VAV,MVV,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
 netherlands-1956-1957,9,1956-11-18,,195611180000,sunday,NAC Breda,USV Elinkwijk,2,1,3,H,W,L,,,,,,,
-netherlands-1956-1957,9,1956-11-18,,195611180000,sunday,NOAD Tilburg,Feijenoord,0,0,0,D,D,D,0,0,0,D,D,D,
+netherlands-1956-1957,9,1956-11-18,,195611180000,sunday,NOAD Tilburg,Feijenoord,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
 netherlands-1956-1957,9,1956-11-18,,195611180000,sunday,Sparta Rotterdam,Rapid JC Heerlen,4,3,7,H,W,L,,,,,,,
 netherlands-1956-1957,10,1956-11-25,,195611250000,sunday,USV Elinkwijk,Sparta Rotterdam,1,3,4,A,L,W,,,,,,,
 netherlands-1956-1957,10,1956-11-25,,195611250000,sunday,Feijenoord,NAC Breda,2,2,4,D,D,D,,,,,,,
@@ -89,7 +89,7 @@ netherlands-1956-1957,11,1956-12-02,,195612020000,sunday,SC Eindhoven,Rapid JC H
 netherlands-1956-1957,11,1956-12-02,,195612020000,sunday,Groninger VAV,USV Elinkwijk,1,2,3,A,L,W,,,,,,,
 netherlands-1956-1957,11,1956-12-02,,195612020000,sunday,MVV,DWS Amsterdam,2,0,2,H,W,L,,,,,,,
 netherlands-1956-1957,11,1956-12-02,,195612020000,sunday,NAC Breda,Willem II,2,1,3,H,W,L,,,,,,,
-netherlands-1956-1957,11,1956-12-02,,195612020000,sunday,NOAD Tilburg,BVV,0,0,0,D,D,D,0,0,0,D,D,D,
+netherlands-1956-1957,11,1956-12-02,,195612020000,sunday,NOAD Tilburg,BVV,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
 netherlands-1956-1957,11,1956-12-02,,195612020000,sunday,Sparta Rotterdam,Feijenoord,0,4,4,A,L,W,,,,,,,
 netherlands-1956-1957,11,1956-12-02,,195612020000,sunday,VVV-Venlo,Fortuna Sittard,2,3,5,A,L,W,,,,,,,
 netherlands-1956-1957,12,1956-12-09,,195612090000,sunday,DWS Amsterdam,VVV-Venlo,4,1,5,H,W,L,,,,,,,
@@ -100,7 +100,7 @@ netherlands-1956-1957,12,1956-12-09,,195612090000,sunday,Fortuna Sittard,DOS Utr
 netherlands-1956-1957,12,1956-12-09,,195612090000,sunday,PSV Eindhoven,AFC Ajax,2,3,5,A,L,W,,,,,,,
 netherlands-1956-1957,12,1956-12-09,,195612090000,sunday,Rapid JC Heerlen,MVV,1,1,2,D,D,D,,,,,,,
 netherlands-1956-1957,12,1956-12-09,,195612090000,sunday,Sportclub Enschede,NOAD Tilburg,1,1,2,D,D,D,,,,,,,
-netherlands-1956-1957,12,1956-12-09,,195612090000,sunday,Willem II,Sparta Rotterdam,0,0,0,D,D,D,0,0,0,D,D,D,
+netherlands-1956-1957,12,1956-12-09,,195612090000,sunday,Willem II,Sparta Rotterdam,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
 netherlands-1956-1957,13,1956-12-16,,195612160000,sunday,AFC Ajax,Fortuna Sittard,0,2,2,A,L,W,,,,,,,
 netherlands-1956-1957,13,1956-12-16,,195612160000,sunday,DOS Utrecht,VVV-Venlo,1,3,4,A,L,W,,,,,,,
 netherlands-1956-1957,13,1956-12-16,,195612160000,sunday,SC Eindhoven,Feijenoord,0,1,1,A,L,W,,,,,,,
@@ -117,14 +117,14 @@ netherlands-1956-1957,14,1956-12-23,,195612230000,sunday,Feijenoord,MVV,2,2,4,D,
 netherlands-1956-1957,14,1956-12-23,,195612230000,sunday,Fortuna Sittard,NOAD Tilburg,0,3,3,A,L,W,,,,,,,
 netherlands-1956-1957,14,1956-12-23,,195612230000,sunday,PSV Eindhoven,NAC Breda,2,5,7,A,L,W,,,,,,,
 netherlands-1956-1957,14,1956-12-23,,195612230000,sunday,Sportclub Enschede,Sparta Rotterdam,1,1,2,D,D,D,,,,,,,
-netherlands-1956-1957,14,1956-12-23,,195612230000,sunday,VVV-Venlo,AFC Ajax,0,0,0,D,D,D,0,0,0,D,D,D,
+netherlands-1956-1957,14,1956-12-23,,195612230000,sunday,VVV-Venlo,AFC Ajax,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
 netherlands-1956-1957,14,1956-12-23,,195612230000,sunday,Willem II,SC Eindhoven,3,2,5,H,W,L,,,,,,,
 netherlands-1956-1957,9,1956-12-26,,195612260000,wednesday,VVV-Venlo,Sportclub Enschede,0,1,1,A,L,W,,,,,,,
 netherlands-1956-1957,10,1956-12-26,,195612260000,wednesday,BVV,AFC Ajax,3,1,4,H,W,L,,,,,,,
 netherlands-1956-1957,15,1956-12-30,,195612300000,sunday,AFC Ajax,DOS Utrecht,1,2,3,A,L,W,,,,,,,
 netherlands-1956-1957,15,1956-12-30,,195612300000,sunday,SC Eindhoven,BVV,2,3,5,A,L,W,,,,,,,
 netherlands-1956-1957,15,1956-12-30,,195612300000,sunday,USV Elinkwijk,DWS Amsterdam,0,2,2,A,L,W,,,,,,,
-netherlands-1956-1957,15,1956-12-30,,195612300000,sunday,MVV,Willem II,0,0,0,D,D,D,0,0,0,D,D,D,
+netherlands-1956-1957,15,1956-12-30,,195612300000,sunday,MVV,Willem II,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
 netherlands-1956-1957,15,1956-12-30,,195612300000,sunday,NAC Breda,Fortuna Sittard,0,2,2,A,L,W,,,,,,,
 netherlands-1956-1957,15,1956-12-30,,195612300000,sunday,NOAD Tilburg,VVV-Venlo,1,2,3,A,L,W,,,,,,,
 netherlands-1956-1957,15,1956-12-30,,195612300000,sunday,Rapid JC Heerlen,Feijenoord,4,1,5,H,W,L,,,,,,,
@@ -141,7 +141,7 @@ netherlands-1956-1957,16,1957-01-06,,195701060000,sunday,Willem II,Rapid JC Heer
 netherlands-1956-1957,17,1957-01-13,,195701130000,sunday,DWS Amsterdam,Feijenoord,2,1,3,H,W,L,,,,,,,
 netherlands-1956-1957,17,1957-01-13,,195701130000,sunday,SC Eindhoven,PSV Eindhoven,0,2,2,A,L,W,,,,,,,
 netherlands-1956-1957,17,1957-01-13,,195701130000,sunday,Groninger VAV,Fortuna Sittard,2,0,2,H,W,L,,,,,,,
-netherlands-1956-1957,17,1957-01-13,,195701130000,sunday,MVV,Sportclub Enschede,0,0,0,D,D,D,0,0,0,D,D,D,
+netherlands-1956-1957,17,1957-01-13,,195701130000,sunday,MVV,Sportclub Enschede,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
 netherlands-1956-1957,17,1957-01-13,,195701130000,sunday,NAC Breda,DOS Utrecht,4,4,8,D,D,D,,,,,,,
 netherlands-1956-1957,17,1957-01-13,,195701130000,sunday,NOAD Tilburg,AFC Ajax,1,4,5,A,L,W,,,,,,,
 netherlands-1956-1957,17,1957-01-13,,195701130000,sunday,Rapid JC Heerlen,BVV,4,3,7,H,W,L,,,,,,,
@@ -193,7 +193,7 @@ netherlands-1956-1957,22,1957-02-17,,195702170000,sunday,Willem II,PSV Eindhoven
 netherlands-1956-1957,23,1957-02-24,,195702240000,sunday,AFC Ajax,Rapid JC Heerlen,1,0,1,H,W,L,,,,,,,
 netherlands-1956-1957,23,1957-02-24,,195702240000,sunday,DOS Utrecht,USV Elinkwijk,2,3,5,A,L,W,,,,,,,
 netherlands-1956-1957,23,1957-02-24,,195702240000,sunday,Fortuna Sittard,Willem II,0,1,1,A,L,W,,,,,,,
-netherlands-1956-1957,23,1957-02-24,,195702240000,sunday,NOAD Tilburg,MVV,0,0,0,D,D,D,0,0,0,D,D,D,
+netherlands-1956-1957,23,1957-02-24,,195702240000,sunday,NOAD Tilburg,MVV,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
 netherlands-1956-1957,23,1957-02-24,,195702240000,sunday,PSV Eindhoven,BVV,2,5,7,A,L,W,,,,,,,
 netherlands-1956-1957,23,1957-02-24,,195702240000,sunday,Sportclub Enschede,DWS Amsterdam,1,2,3,A,L,W,,,,,,,
 netherlands-1956-1957,23,1957-02-24,,195702240000,sunday,Sparta Rotterdam,Groninger VAV,2,2,4,D,D,D,,,,,,,
@@ -225,8 +225,8 @@ netherlands-1956-1957,26,1957-03-24,,195703240000,sunday,USV Elinkwijk,NAC Breda
 netherlands-1956-1957,26,1957-03-24,,195703240000,sunday,Feijenoord,NOAD Tilburg,5,2,7,H,W,L,,,,,,,
 netherlands-1956-1957,26,1957-03-24,,195703240000,sunday,MVV,Groninger VAV,2,0,2,H,W,L,,,,,,,
 netherlands-1956-1957,26,1957-03-24,,195703240000,sunday,PSV Eindhoven,Fortuna Sittard,1,2,3,A,L,W,,,,,,,
-netherlands-1956-1957,26,1957-03-24,,195703240000,sunday,Rapid JC Heerlen,Sparta Rotterdam,0,0,0,D,D,D,0,0,0,D,D,D,
-netherlands-1956-1957,26,1957-03-24,,195703240000,sunday,Sportclub Enschede,VVV-Venlo,0,0,0,D,D,D,0,0,0,D,D,D,
+netherlands-1956-1957,26,1957-03-24,,195703240000,sunday,Rapid JC Heerlen,Sparta Rotterdam,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
+netherlands-1956-1957,26,1957-03-24,,195703240000,sunday,Sportclub Enschede,VVV-Venlo,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
 netherlands-1956-1957,26,1957-03-24,,195703240000,sunday,Willem II,AFC Ajax,0,1,1,A,L,W,,,,,,,
 netherlands-1956-1957,10,1957-03-27,,195703270000,wednesday,DWS Amsterdam,Fortuna Sittard,1,1,2,D,D,D,,,,,,,
 netherlands-1956-1957,27,1957-03-31,,195703310000,sunday,AFC Ajax,BVV,1,0,1,H,W,L,,,,,,,
@@ -259,13 +259,13 @@ netherlands-1956-1957,29,1957-04-14,,195704140000,sunday,VVV-Venlo,DWS Amsterdam
 netherlands-1956-1957,18,1957-04-17,,195704170000,wednesday,Rapid JC Heerlen,Sportclub Enschede,1,1,2,D,D,D,,,,,,,
 netherlands-1956-1957,30,1957-04-22,,195704220000,monday,DWS Amsterdam,Rapid JC Heerlen,0,5,5,A,L,W,,,,,,,
 netherlands-1956-1957,30,1957-04-22,,195704220000,monday,BVV,Sparta Rotterdam,2,2,4,D,D,D,,,,,,,
-netherlands-1956-1957,30,1957-04-22,,195704220000,monday,USV Elinkwijk,MVV,0,0,0,D,D,D,0,0,0,D,D,D,
+netherlands-1956-1957,30,1957-04-22,,195704220000,monday,USV Elinkwijk,MVV,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
 netherlands-1956-1957,30,1957-04-22,,195704220000,monday,Feijenoord,SC Eindhoven,4,0,4,H,W,L,,,,,,,
 netherlands-1956-1957,30,1957-04-22,,195704220000,monday,Fortuna Sittard,AFC Ajax,2,3,5,A,L,W,,,,,,,
 netherlands-1956-1957,30,1957-04-22,,195704220000,monday,PSV Eindhoven,NOAD Tilburg,3,3,6,D,D,D,,,,,,,
 netherlands-1956-1957,30,1957-04-22,,195704220000,monday,Sportclub Enschede,NAC Breda,3,0,3,H,W,L,,,,,,,
 netherlands-1956-1957,30,1957-04-22,,195704220000,monday,VVV-Venlo,DOS Utrecht,0,1,1,A,L,W,,,,,,,
-netherlands-1956-1957,30,1957-04-22,,195704220000,monday,Willem II,Groninger VAV,0,0,0,D,D,D,0,0,0,D,D,D,
+netherlands-1956-1957,30,1957-04-22,,195704220000,monday,Willem II,Groninger VAV,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
 netherlands-1956-1957,10,1957-04-28,,195704280000,sunday,Willem II,NOAD Tilburg,1,2,3,A,L,W,,,,,,,
 netherlands-1956-1957,15,1957-04-28,,195704280000,sunday,Groninger VAV,Sportclub Enschede,0,3,3,A,L,W,,,,,,,
 netherlands-1956-1957,25,1957-04-28,,195704280000,sunday,Sparta Rotterdam,MVV,3,2,5,H,W,L,,,,,,,
@@ -273,7 +273,7 @@ netherlands-1956-1957,31,1957-05-05,,195705050000,sunday,AFC Ajax,VVV-Venlo,1,1,
 netherlands-1956-1957,31,1957-05-05,,195705050000,sunday,DOS Utrecht,DWS Amsterdam,3,2,5,H,W,L,,,,,,,
 netherlands-1956-1957,31,1957-05-05,,195705050000,sunday,SC Eindhoven,Willem II,2,3,5,A,L,W,,,,,,,
 netherlands-1956-1957,31,1957-05-05,,195705050000,sunday,Groninger VAV,BVV,3,2,5,H,W,L,,,,,,,
-netherlands-1956-1957,31,1957-05-05,,195705050000,sunday,MVV,Feijenoord,0,0,0,D,D,D,0,0,0,D,D,D,
+netherlands-1956-1957,31,1957-05-05,,195705050000,sunday,MVV,Feijenoord,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
 netherlands-1956-1957,31,1957-05-05,,195705050000,sunday,NAC Breda,PSV Eindhoven,3,0,3,H,W,L,,,,,,,
 netherlands-1956-1957,31,1957-05-05,,195705050000,sunday,NOAD Tilburg,Fortuna Sittard,1,2,3,A,L,W,,,,,,,
 netherlands-1956-1957,31,1957-05-05,,195705050000,sunday,Rapid JC Heerlen,USV Elinkwijk,2,1,3,H,W,L,,,,,,,
@@ -294,7 +294,7 @@ netherlands-1956-1957,33,1957-05-19,,195705190000,sunday,MVV,BVV,3,0,3,H,W,L,,,,
 netherlands-1956-1957,33,1957-05-19,,195705190000,sunday,NAC Breda,VVV-Venlo,3,1,4,H,W,L,,,,,,,
 netherlands-1956-1957,33,1957-05-19,,195705190000,sunday,NOAD Tilburg,DOS Utrecht,4,2,6,H,W,L,,,,,,,
 netherlands-1956-1957,33,1957-05-19,,195705190000,sunday,Rapid JC Heerlen,Willem II,3,3,6,D,D,D,,,,,,,
-netherlands-1956-1957,33,1957-05-19,,195705190000,sunday,Sparta Rotterdam,Fortuna Sittard,0,0,0,D,D,D,0,0,0,D,D,D,
+netherlands-1956-1957,33,1957-05-19,,195705190000,sunday,Sparta Rotterdam,Fortuna Sittard,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
 netherlands-1956-1957,32,1957-05-23,,195705230000,thursday,VVV-Venlo,NOAD Tilburg,2,1,3,H,W,L,,,,,,,
 netherlands-1956-1957,34,1957-05-30,,195705300000,thursday,AFC Ajax,NOAD Tilburg,2,1,3,H,W,L,,,,,,,
 netherlands-1956-1957,34,1957-06-02,,195706020000,sunday,BVV,Rapid JC Heerlen,3,1,4,H,W,L,,,,,,,
@@ -18706,3 +18706,202 @@ netherlands-2017-2018,34,2018-05-06,13:30,201805061330,sunday,PSV Eindhoven,FC G
 netherlands-2017-2018,34,2018-05-06,13:30,201805061330,sunday,SBV Excelsior,AFC Ajax,1,2,3,A,L,W,1.0,0.0,1.0,H,W,L,http://www.worldfootball.net/report/eredivisie-2017-2018-sbv-excelsior-afc-ajax/
 netherlands-2017-2018,34,2018-05-06,13:30,201805061330,sunday,Roda JC Kerkrade,ADO Den Haag,2,3,5,A,L,W,0.0,3.0,3.0,A,L,W,http://www.worldfootball.net/report/eredivisie-2017-2018-roda-jc-kerkrade-ado-den-haag/
 netherlands-2017-2018,34,2018-05-06,13:30,201805061330,sunday,FC Twente,NAC Breda,1,1,2,D,D,D,1.0,1.0,2.0,D,D,D,http://www.worldfootball.net/report/eredivisie-2017-2018-fc-twente-nac-breda/
+netherlands-2018-2019,1,2018-08-10,19:00,201808101900,friday,PEC Zwolle,sc Heerenveen,2,3,5,A,L,W,1,3,4,A,L,W,http://www.worldfootball.net/report/eredivisie-2018-2019-pec-zwolle-sc-heerenveen/
+netherlands-2018-2019,1,2018-08-11,17:30,201808111730,saturday,Willem II,VVV-Venlo,0,1,1,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/eredivisie-2018-2019-willem-ii-vvv-venlo/
+netherlands-2018-2019,1,2018-08-11,17:30,201808111730,saturday,AFC Ajax,Heracles Almelo,1,1,2,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/eredivisie-2018-2019-afc-ajax-heracles-almelo/
+netherlands-2018-2019,1,2018-08-11,19:45,201808111945,saturday,PSV Eindhoven,FC Utrecht,4,0,4,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/eredivisie-2018-2019-psv-eindhoven-fc-utrecht/
+netherlands-2018-2019,1,2018-08-11,19:45,201808111945,saturday,SBV Excelsior,Fortuna Sittard,1,1,2,D,D,D,1,0,1,H,W,L,http://www.worldfootball.net/report/eredivisie-2018-2019-sbv-excelsior-fortuna-sittard/
+netherlands-2018-2019,1,2018-08-12,11:15,201808121115,sunday,ADO Den Haag,FC Emmen,1,2,3,A,L,W,0,2,2,A,L,W,http://www.worldfootball.net/report/eredivisie-2018-2019-ado-den-haag-fc-emmen/
+netherlands-2018-2019,1,2018-08-12,13:30,201808121330,sunday,De Graafschap,Feyenoord,2,0,2,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/eredivisie-2018-2019-de-graafschap-feyenoord/
+netherlands-2018-2019,1,2018-08-12,13:30,201808121330,sunday,Vitesse,FC Groningen,5,1,6,H,W,L,2,1,3,H,W,L,http://www.worldfootball.net/report/eredivisie-2018-2019-vitesse-fc-groningen/
+netherlands-2018-2019,1,2018-08-12,15:45,201808121545,sunday,AZ Alkmaar,NAC Breda,5,0,5,H,W,L,3,0,3,H,W,L,http://www.worldfootball.net/report/eredivisie-2018-2019-az-alkmaar-nac-breda/
+netherlands-2018-2019,2,2018-08-17,19:00,201808171900,friday,FC Groningen,Willem II,0,1,1,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/eredivisie-2018-2019-fc-groningen-willem-ii/
+netherlands-2018-2019,2,2018-08-18,17:30,201808181730,saturday,NAC Breda,De Graafschap,3,0,3,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/eredivisie-2018-2019-nac-breda-de-graafschap/
+netherlands-2018-2019,2,2018-08-18,17:30,201808181730,saturday,VVV-Venlo,AFC Ajax,0,1,1,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/eredivisie-2018-2019-vvv-venlo-afc-ajax/
+netherlands-2018-2019,2,2018-08-18,19:45,201808181945,saturday,Fortuna Sittard,PSV Eindhoven,1,2,3,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/eredivisie-2018-2019-fortuna-sittard-psv-eindhoven/
+netherlands-2018-2019,2,2018-08-18,19:45,201808181945,saturday,Heracles Almelo,ADO Den Haag,4,2,6,H,W,L,3,2,5,H,W,L,http://www.worldfootball.net/report/eredivisie-2018-2019-heracles-almelo-ado-den-haag/
+netherlands-2018-2019,2,2018-08-19,11:15,201808191115,sunday,FC Utrecht,PEC Zwolle,2,0,2,H,W,L,2,0,2,H,W,L,http://www.worldfootball.net/report/eredivisie-2018-2019-fc-utrecht-pec-zwolle/
+netherlands-2018-2019,2,2018-08-19,13:30,201808191330,sunday,Feyenoord,SBV Excelsior,3,0,3,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/eredivisie-2018-2019-feyenoord-sbv-excelsior/
+netherlands-2018-2019,2,2018-08-19,13:30,201808191330,sunday,FC Emmen,AZ Alkmaar,1,4,5,A,L,W,1,3,4,A,L,W,http://www.worldfootball.net/report/eredivisie-2018-2019-fc-emmen-az-alkmaar/
+netherlands-2018-2019,2,2018-08-19,15:45,201808191545,sunday,sc Heerenveen,Vitesse,1,1,2,D,D,D,1,0,1,H,W,L,http://www.worldfootball.net/report/eredivisie-2018-2019-sc-heerenveen-vitesse/
+netherlands-2018-2019,3,2018-08-24,19:00,201808241900,friday,ADO Den Haag,Fortuna Sittard,3,1,4,H,W,L,2,0,2,H,W,L,http://www.worldfootball.net/report/eredivisie-2018-2019-ado-den-haag-fortuna-sittard/
+netherlands-2018-2019,3,2018-08-25,17:30,201808251730,saturday,AFC Ajax,FC Emmen,5,0,5,H,W,L,2,0,2,H,W,L,http://www.worldfootball.net/report/eredivisie-2018-2019-afc-ajax-fc-emmen/
+netherlands-2018-2019,3,2018-08-25,17:30,201808251730,saturday,De Graafschap,FC Groningen,0,1,1,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/eredivisie-2018-2019-de-graafschap-fc-groningen/
+netherlands-2018-2019,3,2018-08-25,19:45,201808251945,saturday,NAC Breda,SBV Excelsior,0,2,2,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/eredivisie-2018-2019-nac-breda-sbv-excelsior/
+netherlands-2018-2019,3,2018-08-25,19:45,201808251945,saturday,PEC Zwolle,PSV Eindhoven,1,2,3,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/eredivisie-2018-2019-pec-zwolle-psv-eindhoven/
+netherlands-2018-2019,3,2018-08-26,11:15,201808261115,sunday,Willem II,Heracles Almelo,5,0,5,H,W,L,3,0,3,H,W,L,http://www.worldfootball.net/report/eredivisie-2018-2019-willem-ii-heracles-almelo/
+netherlands-2018-2019,3,2018-08-26,13:30,201808261330,sunday,sc Heerenveen,Feyenoord,3,5,8,A,L,W,0,3,3,A,L,W,http://www.worldfootball.net/report/eredivisie-2018-2019-sc-heerenveen-feyenoord/
+netherlands-2018-2019,3,2018-08-26,13:30,201808261330,sunday,FC Utrecht,VVV-Venlo,1,1,2,D,D,D,1,0,1,H,W,L,http://www.worldfootball.net/report/eredivisie-2018-2019-fc-utrecht-vvv-venlo/
+netherlands-2018-2019,3,2018-08-26,15:45,201808261545,sunday,AZ Alkmaar,Vitesse,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/eredivisie-2018-2019-az-alkmaar-vitesse/
+netherlands-2018-2019,4,2018-08-31,19:00,201808311900,friday,FC Emmen,De Graafschap,1,1,2,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/eredivisie-2018-2019-fc-emmen-de-graafschap/
+netherlands-2018-2019,4,2018-09-01,17:30,201809011730,saturday,VVV-Venlo,sc Heerenveen,1,1,2,D,D,D,0,1,1,A,L,W,http://www.worldfootball.net/report/eredivisie-2018-2019-vvv-venlo-sc-heerenveen/
+netherlands-2018-2019,4,2018-09-01,18:45,201809011845,saturday,PSV Eindhoven,Willem II,6,1,7,H,W,L,4,0,4,H,W,L,http://www.worldfootball.net/report/eredivisie-2018-2019-psv-eindhoven-willem-ii/
+netherlands-2018-2019,4,2018-09-01,18:45,201809011845,saturday,SBV Excelsior,ADO Den Haag,2,4,6,A,L,W,0,2,2,A,L,W,http://www.worldfootball.net/report/eredivisie-2018-2019-sbv-excelsior-ado-den-haag/
+netherlands-2018-2019,4,2018-09-01,19:45,201809011945,saturday,Fortuna Sittard,FC Utrecht,1,1,2,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/eredivisie-2018-2019-fortuna-sittard-fc-utrecht/
+netherlands-2018-2019,4,2018-09-02,11:15,201809021115,sunday,FC Groningen,PEC Zwolle,0,1,1,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/eredivisie-2018-2019-fc-groningen-pec-zwolle/
+netherlands-2018-2019,4,2018-09-02,13:30,201809021330,sunday,Heracles Almelo,AZ Alkmaar,3,2,5,H,W,L,1,1,2,D,D,D,http://www.worldfootball.net/report/eredivisie-2018-2019-heracles-almelo-az-alkmaar/
+netherlands-2018-2019,4,2018-09-02,13:30,201809021330,sunday,Vitesse,AFC Ajax,0,4,4,A,L,W,0,3,3,A,L,W,http://www.worldfootball.net/report/eredivisie-2018-2019-vitesse-afc-ajax/
+netherlands-2018-2019,4,2018-09-02,15:45,201809021545,sunday,Feyenoord,NAC Breda,4,2,6,H,W,L,1,1,2,D,D,D,http://www.worldfootball.net/report/eredivisie-2018-2019-feyenoord-nac-breda/
+netherlands-2018-2019,5,2018-09-15,17:30,201809151730,saturday,De Graafschap,VVV-Venlo,1,2,3,A,L,W,0,2,2,A,L,W,http://www.worldfootball.net/report/eredivisie-2018-2019-de-graafschap-vvv-venlo/
+netherlands-2018-2019,5,2018-09-15,17:30,201809151730,saturday,ADO Den Haag,PSV Eindhoven,0,7,7,A,L,W,0,2,2,A,L,W,http://www.worldfootball.net/report/eredivisie-2018-2019-ado-den-haag-psv-eindhoven/
+netherlands-2018-2019,5,2018-09-15,19:45,201809151945,saturday,Willem II,SBV Excelsior,2,2,4,D,D,D,0,1,1,A,L,W,http://www.worldfootball.net/report/eredivisie-2018-2019-willem-ii-sbv-excelsior/
+netherlands-2018-2019,5,2018-09-15,19:45,201809151945,saturday,AFC Ajax,FC Groningen,3,0,3,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/eredivisie-2018-2019-afc-ajax-fc-groningen/
+netherlands-2018-2019,5,2018-09-16,11:15,201809161115,sunday,AZ Alkmaar,Feyenoord,1,1,2,D,D,D,1,1,2,D,D,D,http://www.worldfootball.net/report/eredivisie-2018-2019-az-alkmaar-feyenoord/
+netherlands-2018-2019,5,2018-09-16,13:30,201809161330,sunday,sc Heerenveen,Heracles Almelo,3,5,8,A,L,W,1,1,2,D,D,D,http://www.worldfootball.net/report/eredivisie-2018-2019-sc-heerenveen-heracles-almelo/
+netherlands-2018-2019,5,2018-09-16,13:30,201809161330,sunday,FC Utrecht,FC Emmen,1,2,3,A,L,W,1,0,1,H,W,L,http://www.worldfootball.net/report/eredivisie-2018-2019-fc-utrecht-fc-emmen/
+netherlands-2018-2019,5,2018-09-16,13:30,201809161330,sunday,NAC Breda,Fortuna Sittard,2,3,5,A,L,W,1,1,2,D,D,D,http://www.worldfootball.net/report/eredivisie-2018-2019-nac-breda-fortuna-sittard/
+netherlands-2018-2019,5,2018-09-16,15:45,201809161545,sunday,PEC Zwolle,Vitesse,0,2,2,A,L,W,0,2,2,A,L,W,http://www.worldfootball.net/report/eredivisie-2018-2019-pec-zwolle-vitesse/
+netherlands-2018-2019,6,2018-09-21,19:00,201809211900,friday,Heracles Almelo,De Graafschap,4,0,4,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/eredivisie-2018-2019-heracles-almelo-de-graafschap/
+netherlands-2018-2019,6,2018-09-22,17:30,201809221730,saturday,Fortuna Sittard,Willem II,4,4,8,D,D,D,2,2,4,D,D,D,http://www.worldfootball.net/report/eredivisie-2018-2019-fortuna-sittard-willem-ii/
+netherlands-2018-2019,6,2018-09-22,18:45,201809221845,saturday,SBV Excelsior,sc Heerenveen,3,3,6,D,D,D,2,0,2,H,W,L,http://www.worldfootball.net/report/eredivisie-2018-2019-sbv-excelsior-sc-heerenveen/
+netherlands-2018-2019,6,2018-09-22,18:45,201809221845,saturday,VVV-Venlo,NAC Breda,3,0,3,H,W,L,2,0,2,H,W,L,http://www.worldfootball.net/report/eredivisie-2018-2019-vvv-venlo-nac-breda/
+netherlands-2018-2019,6,2018-09-22,19:45,201809221945,saturday,Vitesse,ADO Den Haag,1,1,2,D,D,D,1,0,1,H,W,L,http://www.worldfootball.net/report/eredivisie-2018-2019-vitesse-ado-den-haag/
+netherlands-2018-2019,6,2018-09-23,11:15,201809231115,sunday,Feyenoord,FC Utrecht,1,0,1,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/eredivisie-2018-2019-feyenoord-fc-utrecht/
+netherlands-2018-2019,6,2018-09-23,13:30,201809231330,sunday,FC Emmen,PEC Zwolle,0,1,1,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/eredivisie-2018-2019-fc-emmen-pec-zwolle/
+netherlands-2018-2019,6,2018-09-23,13:30,201809231330,sunday,FC Groningen,AZ Alkmaar,1,3,4,A,L,W,1,1,2,D,D,D,http://www.worldfootball.net/report/eredivisie-2018-2019-fc-groningen-az-alkmaar/
+netherlands-2018-2019,6,2018-09-23,15:45,201809231545,sunday,PSV Eindhoven,AFC Ajax,3,0,3,H,W,L,3,0,3,H,W,L,http://www.worldfootball.net/report/eredivisie-2018-2019-psv-eindhoven-afc-ajax/
+netherlands-2018-2019,7,2018-09-29,17:30,201809291730,saturday,sc Heerenveen,ADO Den Haag,1,1,2,D,D,D,1,1,2,D,D,D,http://www.worldfootball.net/report/eredivisie-2018-2019-sc-heerenveen-ado-den-haag/
+netherlands-2018-2019,7,2018-09-29,17:30,201809291730,saturday,NAC Breda,PSV Eindhoven,0,2,2,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/eredivisie-2018-2019-nac-breda-psv-eindhoven/
+netherlands-2018-2019,7,2018-09-29,19:45,201809291945,saturday,Fortuna Sittard,AFC Ajax,0,2,2,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/eredivisie-2018-2019-fortuna-sittard-afc-ajax/
+netherlands-2018-2019,7,2018-09-29,19:45,201809291945,saturday,SBV Excelsior,VVV-Venlo,1,0,1,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/eredivisie-2018-2019-sbv-excelsior-vvv-venlo/
+netherlands-2018-2019,7,2018-09-30,11:15,201809301115,sunday,Heracles Almelo,FC Emmen,2,1,3,H,W,L,2,0,2,H,W,L,http://www.worldfootball.net/report/eredivisie-2018-2019-heracles-almelo-fc-emmen/
+netherlands-2018-2019,7,2018-09-30,13:30,201809301330,sunday,De Graafschap,Willem II,2,1,3,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/eredivisie-2018-2019-de-graafschap-willem-ii/
+netherlands-2018-2019,7,2018-09-30,13:30,201809301330,sunday,AZ Alkmaar,PEC Zwolle,2,2,4,D,D,D,1,1,2,D,D,D,http://www.worldfootball.net/report/eredivisie-2018-2019-az-alkmaar-pec-zwolle/
+netherlands-2018-2019,7,2018-09-30,13:30,201809301330,sunday,FC Groningen,FC Utrecht,1,1,2,D,D,D,0,1,1,A,L,W,http://www.worldfootball.net/report/eredivisie-2018-2019-fc-groningen-fc-utrecht/
+netherlands-2018-2019,7,2018-09-30,15:45,201809301545,sunday,Feyenoord,Vitesse,2,1,3,H,W,L,0,1,1,A,L,W,http://www.worldfootball.net/report/eredivisie-2018-2019-feyenoord-vitesse/
+netherlands-2018-2019,8,2018-10-05,19:00,201810051900,friday,FC Utrecht,NAC Breda,2,1,3,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/eredivisie-2018-2019-fc-utrecht-nac-breda/
+netherlands-2018-2019,8,2018-10-06,17:30,201810061730,saturday,ADO Den Haag,FC Groningen,1,0,1,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/eredivisie-2018-2019-ado-den-haag-fc-groningen/
+netherlands-2018-2019,8,2018-10-06,18:45,201810061845,saturday,PEC Zwolle,SBV Excelsior,2,0,2,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/eredivisie-2018-2019-pec-zwolle-sbv-excelsior/
+netherlands-2018-2019,8,2018-10-06,18:45,201810061845,saturday,PSV Eindhoven,VVV-Venlo,4,0,4,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/eredivisie-2018-2019-psv-eindhoven-vvv-venlo/
+netherlands-2018-2019,8,2018-10-06,19:45,201810061945,saturday,De Graafschap,sc Heerenveen,0,5,5,A,L,W,0,4,4,A,L,W,http://www.worldfootball.net/report/eredivisie-2018-2019-de-graafschap-sc-heerenveen/
+netherlands-2018-2019,8,2018-10-07,11:15,201810071115,sunday,FC Emmen,Fortuna Sittard,3,3,6,D,D,D,1,0,1,H,W,L,http://www.worldfootball.net/report/eredivisie-2018-2019-fc-emmen-fortuna-sittard/
+netherlands-2018-2019,8,2018-10-07,13:30,201810071330,sunday,Willem II,Feyenoord,1,1,2,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/eredivisie-2018-2019-willem-ii-feyenoord/
+netherlands-2018-2019,8,2018-10-07,13:30,201810071330,sunday,Vitesse,Heracles Almelo,4,0,4,H,W,L,2,0,2,H,W,L,http://www.worldfootball.net/report/eredivisie-2018-2019-vitesse-heracles-almelo/
+netherlands-2018-2019,8,2018-10-07,15:45,201810071545,sunday,AFC Ajax,AZ Alkmaar,5,0,5,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/eredivisie-2018-2019-afc-ajax-az-alkmaar/
+netherlands-2018-2019,9,2018-10-20,17:30,201810201730,saturday,PSV Eindhoven,FC Emmen,6,0,6,H,W,L,4,0,4,H,W,L,http://www.worldfootball.net/report/eredivisie-2018-2019-psv-eindhoven-fc-emmen/
+netherlands-2018-2019,9,2018-10-20,17:30,201810201730,saturday,SBV Excelsior,Vitesse,2,0,2,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/eredivisie-2018-2019-sbv-excelsior-vitesse/
+netherlands-2018-2019,9,2018-10-20,19:45,201810201945,saturday,sc Heerenveen,AFC Ajax,0,4,4,A,L,W,0,2,2,A,L,W,http://www.worldfootball.net/report/eredivisie-2018-2019-sc-heerenveen-afc-ajax/
+netherlands-2018-2019,9,2018-10-20,19:45,201810201945,saturday,FC Utrecht,AZ Alkmaar,2,1,3,H,W,L,1,1,2,D,D,D,http://www.worldfootball.net/report/eredivisie-2018-2019-fc-utrecht-az-alkmaar/
+netherlands-2018-2019,9,2018-10-21,11:15,201810211115,sunday,NAC Breda,Willem II,2,2,4,D,D,D,1,2,3,A,L,W,http://www.worldfootball.net/report/eredivisie-2018-2019-nac-breda-willem-ii/
+netherlands-2018-2019,9,2018-10-21,13:30,201810211330,sunday,Heracles Almelo,FC Groningen,4,1,5,H,W,L,1,1,2,D,D,D,http://www.worldfootball.net/report/eredivisie-2018-2019-heracles-almelo-fc-groningen/
+netherlands-2018-2019,9,2018-10-21,13:30,201810211330,sunday,Feyenoord,PEC Zwolle,3,0,3,H,W,L,2,0,2,H,W,L,http://www.worldfootball.net/report/eredivisie-2018-2019-feyenoord-pec-zwolle/
+netherlands-2018-2019,9,2018-10-21,13:30,201810211330,sunday,VVV-Venlo,ADO Den Haag,2,0,2,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/eredivisie-2018-2019-vvv-venlo-ado-den-haag/
+netherlands-2018-2019,9,2018-10-21,15:45,201810211545,sunday,Fortuna Sittard,De Graafschap,3,1,4,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/eredivisie-2018-2019-fortuna-sittard-de-graafschap/
+netherlands-2018-2019,10,2018-10-26,19:00,201810261900,friday,FC Emmen,VVV-Venlo,1,1,2,D,D,D,0,1,1,A,L,W,http://www.worldfootball.net/report/eredivisie-2018-2019-fc-emmen-vvv-venlo/
+netherlands-2018-2019,10,2018-10-27,17:30,201810271730,saturday,ADO Den Haag,NAC Breda,1,1,2,D,D,D,1,1,2,D,D,D,http://www.worldfootball.net/report/eredivisie-2018-2019-ado-den-haag-nac-breda/
+netherlands-2018-2019,10,2018-10-27,18:45,201810271845,saturday,De Graafschap,SBV Excelsior,4,1,5,H,W,L,1,1,2,D,D,D,http://www.worldfootball.net/report/eredivisie-2018-2019-de-graafschap-sbv-excelsior/
+netherlands-2018-2019,10,2018-10-27,18:45,201810271845,saturday,FC Groningen,PSV Eindhoven,1,2,3,A,L,W,1,1,2,D,D,D,http://www.worldfootball.net/report/eredivisie-2018-2019-fc-groningen-psv-eindhoven/
+netherlands-2018-2019,10,2018-10-27,19:45,201810271945,saturday,PEC Zwolle,Heracles Almelo,1,1,2,D,D,D,0,1,1,A,L,W,http://www.worldfootball.net/report/eredivisie-2018-2019-pec-zwolle-heracles-almelo/
+netherlands-2018-2019,10,2018-10-28,11:15,201810281115,sunday,Vitesse,Fortuna Sittard,2,1,3,H,W,L,1,1,2,D,D,D,http://www.worldfootball.net/report/eredivisie-2018-2019-vitesse-fortuna-sittard/
+netherlands-2018-2019,10,2018-10-28,13:30,201810281330,sunday,Willem II,FC Utrecht,0,1,1,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/eredivisie-2018-2019-willem-ii-fc-utrecht/
+netherlands-2018-2019,10,2018-10-28,13:30,201810281330,sunday,AFC Ajax,Feyenoord,3,0,3,H,W,L,2,0,2,H,W,L,http://www.worldfootball.net/report/eredivisie-2018-2019-afc-ajax-feyenoord/
+netherlands-2018-2019,10,2018-10-28,15:45,201810281545,sunday,AZ Alkmaar,sc Heerenveen,2,3,5,A,L,W,1,1,2,D,D,D,http://www.worldfootball.net/report/eredivisie-2018-2019-az-alkmaar-sc-heerenveen/
+netherlands-2018-2019,11,2018-11-02,19:00,201811021900,friday,SBV Excelsior,FC Groningen,2,4,6,A,L,W,1,2,3,A,L,W,http://www.worldfootball.net/report/eredivisie-2018-2019-sbv-excelsior-fc-groningen/
+netherlands-2018-2019,11,2018-11-03,17:30,201811031730,saturday,NAC Breda,Heracles Almelo,2,1,3,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/eredivisie-2018-2019-nac-breda-heracles-almelo/
+netherlands-2018-2019,11,2018-11-03,17:30,201811031730,saturday,PSV Eindhoven,Vitesse,1,0,1,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/eredivisie-2018-2019-psv-eindhoven-vitesse/
+netherlands-2018-2019,11,2018-11-03,19:45,201811031945,saturday,AFC Ajax,Willem II,2,0,2,H,W,L,2,0,2,H,W,L,http://www.worldfootball.net/report/eredivisie-2018-2019-afc-ajax-willem-ii/
+netherlands-2018-2019,11,2018-11-03,19:45,201811031945,saturday,AZ Alkmaar,De Graafschap,1,0,1,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/eredivisie-2018-2019-az-alkmaar-de-graafschap/
+netherlands-2018-2019,11,2018-11-04,11:15,201811041115,sunday,sc Heerenveen,FC Emmen,1,1,2,D,D,D,1,0,1,H,W,L,http://www.worldfootball.net/report/eredivisie-2018-2019-sc-heerenveen-fc-emmen/
+netherlands-2018-2019,11,2018-11-04,13:30,201811041330,sunday,FC Utrecht,ADO Den Haag,3,0,3,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/eredivisie-2018-2019-fc-utrecht-ado-den-haag/
+netherlands-2018-2019,11,2018-11-04,13:30,201811041330,sunday,Fortuna Sittard,PEC Zwolle,3,0,3,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/eredivisie-2018-2019-fortuna-sittard-pec-zwolle/
+netherlands-2018-2019,12,2018-11-09,19:00,201811091900,friday,PEC Zwolle,Willem II,2,3,5,A,L,W,0,2,2,A,L,W,http://www.worldfootball.net/report/eredivisie-2018-2019-pec-zwolle-willem-ii/
+netherlands-2018-2019,12,2018-11-10,17:30,201811101730,saturday,FC Emmen,NAC Breda,2,0,2,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/eredivisie-2018-2019-fc-emmen-nac-breda/
+netherlands-2018-2019,12,2018-11-10,18:45,201811101845,saturday,De Graafschap,PSV Eindhoven,1,4,5,A,L,W,1,2,3,A,L,W,http://www.worldfootball.net/report/eredivisie-2018-2019-de-graafschap-psv-eindhoven/
+netherlands-2018-2019,12,2018-11-10,18:45,201811101845,saturday,Vitesse,FC Utrecht,2,1,3,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/eredivisie-2018-2019-vitesse-fc-utrecht/
+netherlands-2018-2019,12,2018-11-10,19:45,201811101945,saturday,VVV-Venlo,Fortuna Sittard,3,2,5,H,W,L,2,1,3,H,W,L,http://www.worldfootball.net/report/eredivisie-2018-2019-vvv-venlo-fortuna-sittard/
+netherlands-2018-2019,12,2018-11-11,11:15,201811111115,sunday,FC Groningen,sc Heerenveen,2,0,2,H,W,L,2,0,2,H,W,L,http://www.worldfootball.net/report/eredivisie-2018-2019-fc-groningen-sc-heerenveen/
+netherlands-2018-2019,12,2018-11-11,13:30,201811111330,sunday,SBV Excelsior,AFC Ajax,1,7,8,A,L,W,0,2,2,A,L,W,http://www.worldfootball.net/report/eredivisie-2018-2019-sbv-excelsior-afc-ajax/
+netherlands-2018-2019,12,2018-11-11,13:30,201811111330,sunday,ADO Den Haag,AZ Alkmaar,0,1,1,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/eredivisie-2018-2019-ado-den-haag-az-alkmaar/
+netherlands-2018-2019,12,2018-11-11,15:45,201811111545,sunday,Heracles Almelo,Feyenoord,0,2,2,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/eredivisie-2018-2019-heracles-almelo-feyenoord/
+netherlands-2018-2019,13,2018-11-24,17:30,201811241730,saturday,PEC Zwolle,ADO Den Haag,2,3,5,A,L,W,2,2,4,D,D,D,http://www.worldfootball.net/report/eredivisie-2018-2019-pec-zwolle-ado-den-haag/
+netherlands-2018-2019,13,2018-11-24,17:30,201811241730,saturday,NAC Breda,AFC Ajax,0,3,3,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/eredivisie-2018-2019-nac-breda-afc-ajax/
+netherlands-2018-2019,13,2018-11-24,19:45,201811241945,saturday,PSV Eindhoven,sc Heerenveen,3,0,3,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/eredivisie-2018-2019-psv-eindhoven-sc-heerenveen/
+netherlands-2018-2019,13,2018-11-24,19:45,201811241945,saturday,Fortuna Sittard,Heracles Almelo,3,0,3,H,W,L,2,0,2,H,W,L,http://www.worldfootball.net/report/eredivisie-2018-2019-fortuna-sittard-heracles-almelo/
+netherlands-2018-2019,13,2018-11-25,11:15,201811251115,sunday,FC Emmen,SBV Excelsior,1,2,3,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/eredivisie-2018-2019-fc-emmen-sbv-excelsior/
+netherlands-2018-2019,13,2018-11-25,13:30,201811251330,sunday,FC Utrecht,De Graafschap,5,0,5,H,W,L,3,0,3,H,W,L,http://www.worldfootball.net/report/eredivisie-2018-2019-fc-utrecht-de-graafschap/
+netherlands-2018-2019,13,2018-11-25,13:30,201811251330,sunday,Feyenoord,FC Groningen,1,0,1,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/eredivisie-2018-2019-feyenoord-fc-groningen/
+netherlands-2018-2019,13,2018-11-25,13:30,201811251330,sunday,Willem II,Vitesse,1,3,4,A,L,W,0,3,3,A,L,W,http://www.worldfootball.net/report/eredivisie-2018-2019-willem-ii-vitesse/
+netherlands-2018-2019,13,2018-11-25,15:45,201811251545,sunday,VVV-Venlo,AZ Alkmaar,2,2,4,D,D,D,1,2,3,A,L,W,http://www.worldfootball.net/report/eredivisie-2018-2019-vvv-venlo-az-alkmaar/
+netherlands-2018-2019,14,2018-11-30,19:00,201811301900,friday,SBV Excelsior,FC Utrecht,3,3,6,D,D,D,3,0,3,H,W,L,http://www.worldfootball.net/report/eredivisie-2018-2019-sbv-excelsior-fc-utrecht/
+netherlands-2018-2019,14,2018-12-01,17:30,201812011730,saturday,Vitesse,FC Emmen,1,1,2,D,D,D,1,0,1,H,W,L,http://www.worldfootball.net/report/eredivisie-2018-2019-vitesse-fc-emmen/
+netherlands-2018-2019,14,2018-12-01,18:45,201812011845,saturday,AZ Alkmaar,Willem II,0,2,2,A,L,W,0,2,2,A,L,W,http://www.worldfootball.net/report/eredivisie-2018-2019-az-alkmaar-willem-ii/
+netherlands-2018-2019,14,2018-12-01,18:45,201812011845,saturday,De Graafschap,PEC Zwolle,0,2,2,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/eredivisie-2018-2019-de-graafschap-pec-zwolle/
+netherlands-2018-2019,14,2018-12-01,19:45,201812011945,saturday,sc Heerenveen,Fortuna Sittard,3,1,4,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/eredivisie-2018-2019-sc-heerenveen-fortuna-sittard/
+netherlands-2018-2019,14,2018-12-02,11:15,201812021115,sunday,AFC Ajax,ADO Den Haag,5,1,6,H,W,L,3,1,4,H,W,L,http://www.worldfootball.net/report/eredivisie-2018-2019-afc-ajax-ado-den-haag/
+netherlands-2018-2019,14,2018-12-02,13:30,201812021330,sunday,Feyenoord,PSV Eindhoven,2,1,3,H,W,L,2,0,2,H,W,L,http://www.worldfootball.net/report/eredivisie-2018-2019-feyenoord-psv-eindhoven/
+netherlands-2018-2019,14,2018-12-02,13:30,201812021330,sunday,Heracles Almelo,VVV-Venlo,4,1,5,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/eredivisie-2018-2019-heracles-almelo-vvv-venlo/
+netherlands-2018-2019,14,2018-12-02,15:45,201812021545,sunday,FC Groningen,NAC Breda,5,2,7,H,W,L,1,1,2,D,D,D,http://www.worldfootball.net/report/eredivisie-2018-2019-fc-groningen-nac-breda/
+netherlands-2018-2019,11,2018-12-06,19:00,201812061900,thursday,Feyenoord,VVV-Venlo,4,1,5,H,W,L,2,0,2,H,W,L,http://www.worldfootball.net/report/eredivisie-2018-2019-feyenoord-vvv-venlo/
+netherlands-2018-2019,15,2018-12-07,17:30,201812071730,friday,Fortuna Sittard,AZ Alkmaar,0,3,3,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/eredivisie-2018-2019-fortuna-sittard-az-alkmaar/
+netherlands-2018-2019,15,2018-12-07,19:45,201812071945,friday,PSV Eindhoven,SBV Excelsior,6,0,6,H,W,L,2,0,2,H,W,L,http://www.worldfootball.net/report/eredivisie-2018-2019-psv-eindhoven-sbv-excelsior/
+netherlands-2018-2019,15,2018-12-08,17:30,201812081730,saturday,Willem II,sc Heerenveen,1,5,6,A,L,W,1,2,3,A,L,W,http://www.worldfootball.net/report/eredivisie-2018-2019-willem-ii-sc-heerenveen/
+netherlands-2018-2019,15,2018-12-08,18:45,201812081845,saturday,PEC Zwolle,AFC Ajax,1,4,5,A,L,W,1,2,3,A,L,W,http://www.worldfootball.net/report/eredivisie-2018-2019-pec-zwolle-afc-ajax/
+netherlands-2018-2019,15,2018-12-08,19:45,201812081945,saturday,ADO Den Haag,De Graafschap,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/eredivisie-2018-2019-ado-den-haag-de-graafschap/
+netherlands-2018-2019,15,2018-12-09,11:15,201812091115,sunday,FC Utrecht,Heracles Almelo,3,1,4,H,W,L,3,0,3,H,W,L,http://www.worldfootball.net/report/eredivisie-2018-2019-fc-utrecht-heracles-almelo/
+netherlands-2018-2019,15,2018-12-09,13:30,201812091330,sunday,VVV-Venlo,FC Groningen,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/eredivisie-2018-2019-vvv-venlo-fc-groningen/
+netherlands-2018-2019,15,2018-12-09,13:30,201812091330,sunday,FC Emmen,Feyenoord,1,4,5,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/eredivisie-2018-2019-fc-emmen-feyenoord/
+netherlands-2018-2019,15,2018-12-09,15:45,201812091545,sunday,NAC Breda,Vitesse,2,1,3,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/eredivisie-2018-2019-nac-breda-vitesse/
+netherlands-2018-2019,16,2018-12-14,19:00,201812141900,friday,Willem II,ADO Den Haag,0,3,3,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/eredivisie-2018-2019-willem-ii-ado-den-haag/
+netherlands-2018-2019,16,2018-12-15,17:30,201812151730,saturday,PEC Zwolle,NAC Breda,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/eredivisie-2018-2019-pec-zwolle-nac-breda/
+netherlands-2018-2019,16,2018-12-15,18:45,201812151845,saturday,AZ Alkmaar,SBV Excelsior,2,1,3,H,W,L,1,1,2,D,D,D,http://www.worldfootball.net/report/eredivisie-2018-2019-az-alkmaar-sbv-excelsior/
+netherlands-2018-2019,16,2018-12-15,18:45,201812151845,saturday,Heracles Almelo,PSV Eindhoven,0,4,4,A,L,W,0,2,2,A,L,W,http://www.worldfootball.net/report/eredivisie-2018-2019-heracles-almelo-psv-eindhoven/
+netherlands-2018-2019,16,2018-12-15,19:45,201812151945,saturday,Vitesse,VVV-Venlo,2,1,3,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/eredivisie-2018-2019-vitesse-vvv-venlo/
+netherlands-2018-2019,16,2018-12-16,11:15,201812161115,sunday,sc Heerenveen,FC Utrecht,2,3,5,A,L,W,0,3,3,A,L,W,http://www.worldfootball.net/report/eredivisie-2018-2019-sc-heerenveen-fc-utrecht/
+netherlands-2018-2019,16,2018-12-16,13:30,201812161330,sunday,AFC Ajax,De Graafschap,8,0,8,H,W,L,3,0,3,H,W,L,http://www.worldfootball.net/report/eredivisie-2018-2019-afc-ajax-de-graafschap/
+netherlands-2018-2019,16,2018-12-16,13:30,201812161330,sunday,FC Groningen,FC Emmen,1,2,3,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/eredivisie-2018-2019-fc-groningen-fc-emmen/
+netherlands-2018-2019,16,2018-12-16,15:45,201812161545,sunday,Feyenoord,Fortuna Sittard,0,2,2,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/eredivisie-2018-2019-feyenoord-fortuna-sittard/
+netherlands-2018-2019,17,2018-12-21,19:00,201812211900,friday,VVV-Venlo,PEC Zwolle,2,0,2,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/eredivisie-2018-2019-vvv-venlo-pec-zwolle/
+netherlands-2018-2019,17,2018-12-22,17:30,201812221730,saturday,Fortuna Sittard,FC Groningen,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/eredivisie-2018-2019-fortuna-sittard-fc-groningen/
+netherlands-2018-2019,17,2018-12-22,18:45,201812221845,saturday,NAC Breda,sc Heerenveen,4,2,6,H,W,L,1,2,3,A,L,W,http://www.worldfootball.net/report/eredivisie-2018-2019-nac-breda-sc-heerenveen/
+netherlands-2018-2019,17,2018-12-22,18:45,201812221845,saturday,PSV Eindhoven,AZ Alkmaar,3,1,4,H,W,L,1,1,2,D,D,D,http://www.worldfootball.net/report/eredivisie-2018-2019-psv-eindhoven-az-alkmaar/
+netherlands-2018-2019,17,2018-12-22,19:45,201812221945,saturday,SBV Excelsior,Heracles Almelo,0,3,3,A,L,W,0,2,2,A,L,W,http://www.worldfootball.net/report/eredivisie-2018-2019-sbv-excelsior-heracles-almelo/
+netherlands-2018-2019,17,2018-12-23,11:15,201812231115,sunday,FC Utrecht,AFC Ajax,1,3,4,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/eredivisie-2018-2019-fc-utrecht-afc-ajax/
+netherlands-2018-2019,17,2018-12-23,13:30,201812231330,sunday,De Graafschap,Vitesse,2,2,4,D,D,D,1,1,2,D,D,D,http://www.worldfootball.net/report/eredivisie-2018-2019-de-graafschap-vitesse/
+netherlands-2018-2019,17,2018-12-23,13:30,201812231330,sunday,ADO Den Haag,Feyenoord,2,2,4,D,D,D,1,1,2,D,D,D,http://www.worldfootball.net/report/eredivisie-2018-2019-ado-den-haag-feyenoord/
+netherlands-2018-2019,17,2018-12-23,15:45,201812231545,sunday,FC Emmen,Willem II,0,2,2,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/eredivisie-2018-2019-fc-emmen-willem-ii/
+netherlands-2018-2019,18,2019-01-18,19:00,201901181900,friday,Vitesse,SBV Excelsior,3,2,5,H,W,L,2,0,2,H,W,L,http://www.worldfootball.net/report/eredivisie-2018-2019-vitesse-sbv-excelsior/
+netherlands-2018-2019,18,2019-01-19,17:30,201901191730,saturday,AZ Alkmaar,FC Utrecht,3,0,3,H,W,L,2,0,2,H,W,L,http://www.worldfootball.net/report/eredivisie-2018-2019-az-alkmaar-fc-utrecht/
+netherlands-2018-2019,18,2019-01-19,18:45,201901191845,saturday,PEC Zwolle,Feyenoord,3,1,4,H,W,L,1,1,2,D,D,D,http://www.worldfootball.net/report/eredivisie-2018-2019-pec-zwolle-feyenoord/
+netherlands-2018-2019,18,2019-01-19,18:45,201901191845,saturday,ADO Den Haag,VVV-Venlo,2,4,6,A,L,W,1,1,2,D,D,D,http://www.worldfootball.net/report/eredivisie-2018-2019-ado-den-haag-vvv-venlo/
+netherlands-2018-2019,18,2019-01-19,19:45,201901191945,saturday,FC Groningen,Heracles Almelo,3,0,3,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/eredivisie-2018-2019-fc-groningen-heracles-almelo/
+netherlands-2018-2019,18,2019-01-20,11:15,201901201115,sunday,Willem II,NAC Breda,2,0,2,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/eredivisie-2018-2019-willem-ii-nac-breda/
+netherlands-2018-2019,18,2019-01-20,13:30,201901201330,sunday,De Graafschap,Fortuna Sittard,5,1,6,H,W,L,3,0,3,H,W,L,http://www.worldfootball.net/report/eredivisie-2018-2019-de-graafschap-fortuna-sittard/
+netherlands-2018-2019,18,2019-01-20,13:30,201901201330,sunday,FC Emmen,PSV Eindhoven,2,2,4,D,D,D,0,1,1,A,L,W,http://www.worldfootball.net/report/eredivisie-2018-2019-fc-emmen-psv-eindhoven/
+netherlands-2018-2019,18,2019-01-20,15:45,201901201545,sunday,AFC Ajax,sc Heerenveen,4,4,8,D,D,D,3,1,4,H,W,L,http://www.worldfootball.net/report/eredivisie-2018-2019-afc-ajax-sc-heerenveen/
+netherlands-2018-2019,19,2019-01-25,19:00,201901251900,friday,NAC Breda,ADO Den Haag,1,1,2,D,D,D,0,1,1,A,L,W,http://www.worldfootball.net/report/eredivisie-2018-2019-nac-breda-ado-den-haag/
+netherlands-2018-2019,19,2019-01-26,17:30,201901261730,saturday,Heracles Almelo,PEC Zwolle,0,2,2,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/eredivisie-2018-2019-heracles-almelo-pec-zwolle/
+netherlands-2018-2019,19,2019-01-26,18:45,201901261845,saturday,SBV Excelsior,De Graafschap,2,0,2,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/eredivisie-2018-2019-sbv-excelsior-de-graafschap/
+netherlands-2018-2019,19,2019-01-26,18:45,201901261845,saturday,PSV Eindhoven,FC Groningen,2,1,3,H,W,L,2,1,3,H,W,L,http://www.worldfootball.net/report/eredivisie-2018-2019-psv-eindhoven-fc-groningen/
+netherlands-2018-2019,19,2019-01-26,19:45,201901261945,saturday,VVV-Venlo,FC Emmen,2,3,5,A,L,W,1,1,2,D,D,D,http://www.worldfootball.net/report/eredivisie-2018-2019-vvv-venlo-fc-emmen/
+netherlands-2018-2019,19,2019-01-27,11:15,201901271115,sunday,Fortuna Sittard,Vitesse,2,1,3,H,W,L,0,1,1,A,L,W,http://www.worldfootball.net/report/eredivisie-2018-2019-fortuna-sittard-vitesse/
+netherlands-2018-2019,19,2019-01-27,13:30,201901271330,sunday,FC Utrecht,Willem II,0,1,1,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/eredivisie-2018-2019-fc-utrecht-willem-ii/
+netherlands-2018-2019,19,2019-01-27,13:30,201901271330,sunday,Feyenoord,AFC Ajax,6,2,8,H,W,L,3,2,5,H,W,L,http://www.worldfootball.net/report/eredivisie-2018-2019-feyenoord-afc-ajax/
+netherlands-2018-2019,19,2019-01-27,15:45,201901271545,sunday,sc Heerenveen,AZ Alkmaar,0,2,2,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/eredivisie-2018-2019-sc-heerenveen-az-alkmaar/
+netherlands-2018-2019,20,2019-02-01,19:00,201902011900,friday,De Graafschap,NAC Breda,3,0,3,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/eredivisie-2018-2019-de-graafschap-nac-breda/
+netherlands-2018-2019,20,2019-02-02,17:30,201902021730,saturday,Vitesse,sc Heerenveen,2,2,4,D,D,D,1,1,2,D,D,D,http://www.worldfootball.net/report/eredivisie-2018-2019-vitesse-sc-heerenveen/
+netherlands-2018-2019,20,2019-02-02,18:45,201902021845,saturday,Willem II,FC Groningen,1,2,3,A,L,W,0,2,2,A,L,W,http://www.worldfootball.net/report/eredivisie-2018-2019-willem-ii-fc-groningen/
+netherlands-2018-2019,20,2019-02-02,18:45,201902021845,saturday,AFC Ajax,VVV-Venlo,6,0,6,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/eredivisie-2018-2019-afc-ajax-vvv-venlo/
+netherlands-2018-2019,20,2019-02-02,19:45,201902021945,saturday,AZ Alkmaar,FC Emmen,5,0,5,H,W,L,3,0,3,H,W,L,http://www.worldfootball.net/report/eredivisie-2018-2019-az-alkmaar-fc-emmen/
+netherlands-2018-2019,20,2019-02-03,11:15,201902031115,sunday,SBV Excelsior,Feyenoord,2,1,3,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/eredivisie-2018-2019-sbv-excelsior-feyenoord/
+netherlands-2018-2019,20,2019-02-03,13:30,201902031330,sunday,PEC Zwolle,FC Utrecht,4,3,7,H,W,L,1,1,2,D,D,D,http://www.worldfootball.net/report/eredivisie-2018-2019-pec-zwolle-fc-utrecht/
+netherlands-2018-2019,20,2019-02-03,13:30,201902031330,sunday,PSV Eindhoven,Fortuna Sittard,5,0,5,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/eredivisie-2018-2019-psv-eindhoven-fortuna-sittard/
+netherlands-2018-2019,20,2019-02-03,15:45,201902031545,sunday,ADO Den Haag,Heracles Almelo,2,0,2,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/eredivisie-2018-2019-ado-den-haag-heracles-almelo/
+netherlands-2018-2019,21,2019-02-08,19:00,201902081900,friday,NAC Breda,AZ Alkmaar,0,3,3,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/eredivisie-2018-2019-nac-breda-az-alkmaar/
+netherlands-2018-2019,21,2019-02-09,17:30,201902091730,saturday,Heracles Almelo,AFC Ajax,1,0,1,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/eredivisie-2018-2019-heracles-almelo-afc-ajax/
+netherlands-2018-2019,21,2019-02-09,17:30,201902091730,saturday,sc Heerenveen,PEC Zwolle,1,1,2,D,D,D,1,1,2,D,D,D,http://www.worldfootball.net/report/eredivisie-2018-2019-sc-heerenveen-pec-zwolle/
+netherlands-2018-2019,21,2019-02-09,19:45,201902091945,saturday,VVV-Venlo,Willem II,2,1,3,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/eredivisie-2018-2019-vvv-venlo-willem-ii/
+netherlands-2018-2019,21,2019-02-09,19:45,201902091945,saturday,Feyenoord,De Graafschap,4,0,4,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/eredivisie-2018-2019-feyenoord-de-graafschap/
+netherlands-2018-2019,21,2019-02-10,11:15,201902101115,sunday,Fortuna Sittard,SBV Excelsior,4,1,5,H,W,L,2,0,2,H,W,L,http://www.worldfootball.net/report/eredivisie-2018-2019-fortuna-sittard-sbv-excelsior/
+netherlands-2018-2019,21,2019-02-10,13:30,201902101330,sunday,FC Groningen,Vitesse,2,1,3,H,W,L,1,1,2,D,D,D,http://www.worldfootball.net/report/eredivisie-2018-2019-fc-groningen-vitesse/
+netherlands-2018-2019,21,2019-02-10,13:30,201902101330,sunday,FC Emmen,ADO Den Haag,3,2,5,H,W,L,2,0,2,H,W,L,http://www.worldfootball.net/report/eredivisie-2018-2019-fc-emmen-ado-den-haag/
+netherlands-2018-2019,21,2019-02-10,15:45,201902101545,sunday,FC Utrecht,PSV Eindhoven,2,2,4,D,D,D,2,0,2,H,W,L,http://www.worldfootball.net/report/eredivisie-2018-2019-fc-utrecht-psv-eindhoven/
+netherlands-2018-2019,22,2019-02-15,19:00,201902151900,friday,ADO Den Haag,PEC Zwolle,1,0,1,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/eredivisie-2018-2019-ado-den-haag-pec-zwolle/
+netherlands-2018-2019,22,2019-02-16,17:30,201902161730,saturday,AZ Alkmaar,VVV-Venlo,3,0,3,H,W,L,2,0,2,H,W,L,http://www.worldfootball.net/report/eredivisie-2018-2019-az-alkmaar-vvv-venlo/
+netherlands-2018-2019,22,2019-02-16,18:45,201902161845,saturday,sc Heerenveen,PSV Eindhoven,2,2,4,D,D,D,2,0,2,H,W,L,http://www.worldfootball.net/report/eredivisie-2018-2019-sc-heerenveen-psv-eindhoven/
+netherlands-2018-2019,22,2019-02-16,18:45,201902161845,saturday,Heracles Almelo,Fortuna Sittard,6,0,6,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/eredivisie-2018-2019-heracles-almelo-fortuna-sittard/
+netherlands-2018-2019,22,2019-02-16,19:45,201902161945,saturday,Vitesse,Willem II,3,2,5,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/eredivisie-2018-2019-vitesse-willem-ii/
+netherlands-2018-2019,22,2019-02-17,11:15,201902171115,sunday,AFC Ajax,NAC Breda,5,0,5,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/eredivisie-2018-2019-afc-ajax-nac-breda/
+netherlands-2018-2019,22,2019-02-17,13:30,201902171330,sunday,SBV Excelsior,FC Emmen,2,1,3,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/eredivisie-2018-2019-sbv-excelsior-fc-emmen/
+netherlands-2018-2019,22,2019-02-17,13:30,201902171330,sunday,FC Groningen,Feyenoord,1,0,1,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/eredivisie-2018-2019-fc-groningen-feyenoord/
+netherlands-2018-2019,22,2019-02-17,15:45,201902171545,sunday,De Graafschap,FC Utrecht,0,1,1,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/eredivisie-2018-2019-de-graafschap-fc-utrecht/
+netherlands-2018-2019,23,2019-02-22,19:00,201902221900,friday,VVV-Venlo,Heracles Almelo,0,1,1,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/eredivisie-2018-2019-vvv-venlo-heracles-almelo/

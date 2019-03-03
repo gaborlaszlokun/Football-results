@@ -10,6 +10,7 @@ import pandas as pd
 import datetime
 import calendar
 from lxml import html
+from urllib.request import urlopen
 
 def format_div(filename, country):
     filename = filename.replace("bundesliga","ger")
@@ -56,12 +57,13 @@ def format_result(result):
     if has_half_time and halftime.endswith(":") == False:
         halftime = halftime.split(":")
         halftime_letter = get_result_letters(halftime[0], halftime[1])
-        result_list.extend((halftime[0], halftime[1], int(halftime[0]) + int(halftime[1])))
+        result_list.extend((int(halftime[0]), int(halftime[1]), int(halftime[0]) + int(halftime[1])))
         result_list.extend(halftime_letter)
     elif (has_half_time == False and fulltime == ['0','0']):
         result_list.extend((0,0,0,"D","D","D"))
     else:
        result_list.extend(("","","","","",""))
+       #result_list.extend((None,None,None,None,None,None))
     return result_list 
 
 
@@ -76,11 +78,12 @@ def store_data(result_df, dest):
         res_df = res_df.sort_values(['Date', 'Time'], ascending=[True, True])
         res_df = res_df.drop_duplicates(subset=['Date','HomeTeam','AwayTeam'],keep='first')
         if len(res_df) != len(old_df):
-            res_df.to_csv(dest + "/" + country + ".csv", sep=',', encoding='utf-8', index=False, float_format='%.0f')
+            res_df.to_csv(dest + "/" + country + ".csv", sep=',', encoding='utf-8', index=False)
+            # , float_format='%.0f'
 
     else:
         result_df = result_df.sort_values(['Date', 'Time'], ascending=[True, True])
-        result_df.to_csv(dest + "/" + country + ".csv", sep=',', encoding='utf-8', index=False, float_format='%.0f')
+        result_df.to_csv(dest + "/" + country + ".csv", sep=',', encoding='utf-8', index=False)
 
 def get_results_old(url, where):
     index = 0    
@@ -92,6 +95,8 @@ def get_results_old(url, where):
     result_df = pd.DataFrame(columns=columns)
     try:
         tree = html.parse(url)
+        
+        print(tree)
         table = tree.xpath('//table[contains(@class, "standard_tabelle")]')[0]
         country = tree.findall('//h1')[0].text_content().split("»")[0].strip()
         filename = url.replace("http://www.worldfootball.net/all_matches/","").replace("/","")
@@ -131,9 +136,13 @@ def get_results_old(url, where):
                     
                     fthg, ftag, ftg, ftr, fthr, ftar, hthg, htag, htg, htr, hthr, htar = result
                     result_line_df = pd.DataFrame([[div, round_num, date, time, timestamp, day, homeTeam, awayTeam,\
-                                                    fthg, ftag, str(ftg).split(".")[0], ftr, fthr, ftar,\
-                                                    hthg, htag, str(htg).split(".")[0], htr, hthr, htar,\
+                                                    fthg, ftag, ftg, ftr, fthr, ftar,\
+                                                    hthg, htag, htg, htr, hthr, htar,\
                                                     report_url]], columns=columns, index = [index])
+#                    result_line_df = pd.DataFrame([[div, round_num, date, time, timestamp, day, homeTeam, awayTeam,\
+#                                                    fthg, ftag, str(ftg).split(".")[0], ftr, fthr, ftar,\
+#                                                    str(hthg).split(":")[0], htag, str(htg).split(".")[0], htr, hthr, htar,\
+#                                                    report_url]], columns=columns, index = [index])
                     index += 1
                     result_df = result_df.append(result_line_df)
         if result_df.empty is False:
@@ -198,13 +207,16 @@ def generate_result_df(url,tree):
 
 def get_results(url, dest):
     try:
-        tree = html.parse(url)
+#        tree = html.parse(url)
+#        print(url)
+        tree = html.parse(urlopen(url))
         
         result_df = generate_result_df(url, tree)
         
         if result_df.empty is False:
             store_data(result_df,dest)
     except:
+        print("jajj")
         return 1
 
 
@@ -213,29 +225,14 @@ def get_results(url, dest):
 #url = "http://www.worldfootball.net/all_matches/usa-major-league-soccer-2017-playoffs/"
 #url = "http://www.worldfootball.net/all_matches/usa-major-league-soccer-2016-playoffs/"
 #url = "http://www.worldfootball.net/all_matches/usa-major-league-soccer-2015-playoffs/"
-#url = "http://www.worldfootball.net/all_matches/ita-serie-a-2017-2018/"
+url = "https://www.worldfootball.net/all_matches/ita-serie-a-2017-2018/"
 #url = "http://www.worldfootball.net/all_matches/eng-premier-league-2017-2018/"
 #url = "http://www.worldfootball.net/all_matches/wm-1990-in-italien/"
+#url = "http://www.worldfootball.net/all_matches/crc-primera-division-2009-2010-invierno/"
 
-#get_results(url,"temp")
 
+#tree = html.parse("http://www.origo.hu")
 
-"""
-#TODO: out of date stuff
-def generate_readme():
-    text = "# Football-results\n\n## Main attributes:\n\n- Division\n- Date\n- Time\n- Home Team\n- Away Team\n- FullTime Home Goals\n- FullTime Away Goals\n- FullTime Result\n- HalfTime Home Goals\n- HalfTime Away Goals\n- HalfTime Result\n\n"
-    text += "#### " + str(len(os.listdir("active"))) + " countries from the present\n\n"
-    countries = "|Country|Number of seasons|\n| -------------| -------------:|\n"
-    for folder in os.listdir("archive"):
-        if "_" not in folder:
-            countries += "|" + "[" + folder + "](/archive/"+ folder + ")|" + str(len(os.listdir("archive/" + str(folder)))) + "|\n" 
-            
-    text += "#### " + str(len(os.listdir("archive")) - 1) + " countries from the past (cleaned and merged):\n\n\n" + countries + "\n[Used source](http://www.worldfootball.net/)"
-    
-    print (text)
-    
-    t = open("README.md", "w")  
-    t.write(text)
-    t.close()
-    
-"""
+#tree = html.parse(urlopen(url))
+#print(tree)
+#get_results(url,"temp2")

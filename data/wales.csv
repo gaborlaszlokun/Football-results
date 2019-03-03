@@ -1,9 +1,9 @@
 Div,Round,Date,Time,timestamp,Weekday,HomeTeam,AwayTeam,FTHG,FTAG,FTG,FTR,FTHR,FTAR,HTHG,HTAG,HTG,HTR,HTHR,HTAR,Report_url
 wales-2003-2004,1,2003-08-15,19:30,200308151930,friday,Barry Town FC,Aberystwyth Town,1,2,3,A,L,W,,,,,,,
 wales-2003-2004,1,2003-08-16,14:30,200308161430,saturday,Carmarthen Town,Newtown AFC,0,1,1,A,L,W,,,,,,,
-wales-2003-2004,1,2003-08-16,14:30,200308161430,saturday,Afan Lido FC,Bangor City,0,0,0,D,D,D,0,0,0,D,D,D,
+wales-2003-2004,1,2003-08-16,14:30,200308161430,saturday,Afan Lido FC,Bangor City,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
 wales-2003-2004,1,2003-08-16,14:30,200308161430,saturday,Caernarfon Town,Port Talbot Town,2,0,2,H,W,L,,,,,,,
-wales-2003-2004,1,2003-08-16,14:30,200308161430,saturday,Caersws FC,Haverfordwest County,0,0,0,D,D,D,0,0,0,D,D,D,
+wales-2003-2004,1,2003-08-16,14:30,200308161430,saturday,Caersws FC,Haverfordwest County,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
 wales-2003-2004,1,2003-08-16,14:30,200308161430,saturday,Connah's Quay Nomads,Porthmadog FC,1,3,4,A,L,W,,,,,,,
 wales-2003-2004,1,2003-08-16,14:30,200308161430,saturday,Rhyl FC,NEWI Cefn Druids,2,0,2,H,W,L,,,,,,,
 wales-2003-2004,1,2003-08-17,14:30,200308171430,sunday,Welshpool Town,Cwmbran Town,0,1,1,A,L,W,,,,,,,
@@ -19,7 +19,7 @@ wales-2003-2004,3,2003-08-29,19:30,200308291930,friday,Welshpool Town,Newtown AF
 wales-2003-2004,3,2003-08-30,14:30,200308301430,saturday,Afan Lido FC,Porthmadog FC,1,0,1,H,W,L,,,,,,,
 wales-2003-2004,3,2003-08-30,14:30,200308301430,saturday,Carmarthen Town,NEWI Cefn Druids,2,0,2,H,W,L,,,,,,,
 wales-2003-2004,3,2003-08-30,14:30,200308301430,saturday,Caernarfon Town,Barry Town FC,8,0,8,H,W,L,,,,,,,
-wales-2003-2004,3,2003-08-30,14:30,200308301430,saturday,Caersws FC,Aberystwyth Town,0,0,0,D,D,D,0,0,0,D,D,D,
+wales-2003-2004,3,2003-08-30,14:30,200308301430,saturday,Caersws FC,Aberystwyth Town,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
 wales-2003-2004,3,2003-08-30,14:30,200308301430,saturday,Connah's Quay Nomads,Haverfordwest County,0,1,1,A,L,W,,,,,,,
 wales-2003-2004,3,2003-08-30,14:30,200308301430,saturday,Rhyl FC,Port Talbot Town,2,1,3,H,W,L,,,,,,,
 wales-2003-2004,3,2003-08-31,14:30,200308311430,sunday,TNS Llansantffraid,Bangor City,2,1,3,H,W,L,,,,,,,
@@ -31,7 +31,7 @@ wales-2003-2004,4,2003-09-06,14:30,200309061430,saturday,Caernarfon Town,Carmart
 wales-2003-2004,4,2003-09-06,14:30,200309061430,saturday,NEWI Cefn Druids,Afan Lido FC,5,3,8,H,W,L,,,,,,,
 wales-2003-2004,4,2003-09-06,14:30,200309061430,saturday,Newtown AFC,TNS Llansantffraid,2,5,7,A,L,W,,,,,,,
 wales-2003-2004,4,2003-09-06,14:30,200309061430,saturday,Port Talbot Town,Connah's Quay Nomads,1,1,2,D,D,D,,,,,,,
-wales-2003-2004,5,2003-09-12,19:30,200309121930,friday,Afan Lido FC,Haverfordwest County,0,0,0,D,D,D,0,0,0,D,D,D,
+wales-2003-2004,5,2003-09-12,19:30,200309121930,friday,Afan Lido FC,Haverfordwest County,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
 wales-2003-2004,5,2003-09-12,19:30,200309121930,friday,Carmarthen Town,Port Talbot Town,1,2,3,A,L,W,,,,,,,
 wales-2003-2004,5,2003-09-13,14:30,200309131430,saturday,Caersws FC,Caernarfon Town,2,2,4,D,D,D,,,,,,,
 wales-2003-2004,5,2003-09-13,14:30,200309131430,saturday,Connah's Quay Nomads,Aberystwyth Town,0,4,4,A,L,W,,,,,,,
@@ -50,7 +50,7 @@ wales-2003-2004,6,2003-09-20,14:30,200309201430,saturday,Porthmadog FC,Cwmbran T
 wales-2003-2004,7,2003-09-26,19:30,200309261930,friday,Afan Lido FC,Aberystwyth Town,0,1,1,A,L,W,,,,,,,
 wales-2003-2004,7,2003-09-26,19:30,200309261930,friday,Bangor City,Porthmadog FC,4,1,5,H,W,L,,,,,,,
 wales-2003-2004,7,2003-09-26,19:30,200309261930,friday,Connah's Quay Nomads,Caernarfon Town,3,0,3,H,W,L,,,,,,,
-wales-2003-2004,7,2003-09-27,14:30,200309271430,saturday,Carmarthen Town,Barry Town FC,0,0,0,D,D,D,0,0,0,D,D,D,
+wales-2003-2004,7,2003-09-27,14:30,200309271430,saturday,Carmarthen Town,Barry Town FC,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
 wales-2003-2004,7,2003-09-27,14:30,200309271430,saturday,Cwmbran Town,NEWI Cefn Druids,0,2,2,A,L,W,,,,,,,
 wales-2003-2004,7,2003-09-27,14:30,200309271430,saturday,Rhyl FC,Caersws FC,2,1,3,H,W,L,,,,,,,
 wales-2003-2004,7,2003-09-27,14:30,200309271430,saturday,TNS Llansantffraid,Haverfordwest County,2,0,2,H,W,L,,,,,,,
@@ -70,7 +70,7 @@ wales-2003-2004,9,2003-10-18,14:30,200310181430,saturday,Barry Town FC,TNS Llans
 wales-2003-2004,9,2003-10-18,14:30,200310181430,saturday,Caernarfon Town,Welshpool Town,4,1,5,H,W,L,,,,,,,
 wales-2003-2004,9,2003-10-18,14:30,200310181430,saturday,Caersws FC,Afan Lido FC,2,2,4,D,D,D,,,,,,,
 wales-2003-2004,9,2003-10-18,14:30,200310181430,saturday,Haverfordwest County,Newtown AFC,1,0,1,H,W,L,,,,,,,
-wales-2003-2004,9,2003-10-18,14:30,200310181430,saturday,Port Talbot Town,Bangor City,0,0,0,D,D,D,0,0,0,D,D,D,
+wales-2003-2004,9,2003-10-18,14:30,200310181430,saturday,Port Talbot Town,Bangor City,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
 wales-2003-2004,9,2003-10-18,14:30,200310181430,saturday,Rhyl FC,Carmarthen Town,4,0,4,H,W,L,,,,,,,
 wales-2003-2004,10,2003-10-24,19:30,200310241930,friday,Welshpool Town,Caersws FC,1,0,1,H,W,L,,,,,,,
 wales-2003-2004,10,2003-10-25,14:30,200310251430,saturday,Afan Lido FC,Rhyl FC,1,2,3,A,L,W,,,,,,,
@@ -160,7 +160,7 @@ wales-2003-2004,21,2004-01-17,14:30,200401171430,saturday,Caersws FC,Barry Town 
 wales-2003-2004,21,2004-01-17,14:30,200401171430,saturday,Carmarthen Town,Caernarfon Town,1,4,5,A,L,W,,,,,,,
 wales-2003-2004,21,2004-01-17,14:30,200401171430,saturday,Afan Lido FC,NEWI Cefn Druids,3,1,4,H,W,L,,,,,,,
 wales-2003-2004,21,2004-01-17,14:30,200401171430,saturday,TNS Llansantffraid,Newtown AFC,2,1,3,H,W,L,,,,,,,
-wales-2003-2004,22,2004-01-23,19:30,200401231930,friday,Haverfordwest County,Afan Lido FC,0,0,0,D,D,D,0,0,0,D,D,D,
+wales-2003-2004,22,2004-01-23,19:30,200401231930,friday,Haverfordwest County,Afan Lido FC,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
 wales-2003-2004,22,2004-01-23,19:30,200401231930,friday,Port Talbot Town,Carmarthen Town,3,1,4,H,W,L,,,,,,,
 wales-2003-2004,22,2004-01-24,14:30,200401241430,saturday,Caernarfon Town,Caersws FC,2,4,6,A,L,W,,,,,,,
 wales-2003-2004,22,2004-01-24,14:30,200401241430,saturday,Aberystwyth Town,Connah's Quay Nomads,2,1,3,H,W,L,,,,,,,
@@ -179,7 +179,7 @@ wales-2003-2004,17,2004-02-10,19:30,200402101930,tuesday,Newtown AFC,Carmarthen 
 wales-2003-2004,24,2004-02-13,19:30,200402131930,friday,Aberystwyth Town,Afan Lido FC,1,2,3,A,L,W,,,,,,,
 wales-2003-2004,24,2004-02-13,19:30,200402131930,friday,Caernarfon Town,Connah's Quay Nomads,5,5,10,D,D,D,,,,,,,
 wales-2003-2004,24,2004-02-14,14:30,200402141430,saturday,Porthmadog FC,Bangor City,0,1,1,A,L,W,,,,,,,
-wales-2003-2004,24,2004-02-14,14:30,200402141430,saturday,Barry Town FC,Carmarthen Town,0,0,0,D,D,D,0,0,0,D,D,D,
+wales-2003-2004,24,2004-02-14,14:30,200402141430,saturday,Barry Town FC,Carmarthen Town,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
 wales-2003-2004,24,2004-02-14,14:30,200402141430,saturday,NEWI Cefn Druids,Cwmbran Town,0,2,2,A,L,W,,,,,,,
 wales-2003-2004,24,2004-02-14,14:30,200402141430,saturday,Caersws FC,Rhyl FC,3,3,6,D,D,D,,,,,,,
 wales-2003-2004,24,2004-02-14,14:30,200402141430,saturday,Haverfordwest County,TNS Llansantffraid,1,0,1,H,W,L,,,,,,,
@@ -198,7 +198,7 @@ wales-2003-2004,27,2004-02-21,14:30,200402211430,saturday,Haverfordwest County,P
 wales-2003-2004,16,2004-02-24,19:30,200402241930,tuesday,Porthmadog FC,Newtown AFC,3,2,5,H,W,L,,,,,,,
 wales-2003-2004,26,2004-02-28,14:30,200402281430,saturday,Cwmbran Town,Aberystwyth Town,2,1,3,H,W,L,,,,,,,
 wales-2003-2004,26,2004-02-28,14:30,200402281430,saturday,Porthmadog FC,NEWI Cefn Druids,3,1,4,H,W,L,,,,,,,
-wales-2003-2004,26,2004-02-28,14:30,200402281430,saturday,Afan Lido FC,Caersws FC,0,0,0,D,D,D,0,0,0,D,D,D,
+wales-2003-2004,26,2004-02-28,14:30,200402281430,saturday,Afan Lido FC,Caersws FC,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
 wales-2003-2004,26,2004-02-28,14:30,200402281430,saturday,Newtown AFC,Haverfordwest County,1,1,2,D,D,D,,,,,,,
 wales-2003-2004,26,2004-02-28,14:30,200402281430,saturday,TNS Llansantffraid,Barry Town FC,3,0,3,H,W,L,,,,,,,
 wales-2003-2004,26,2004-02-28,14:30,200402281430,saturday,Welshpool Town,Caernarfon Town,3,3,6,D,D,D,,,,,,,
@@ -212,7 +212,7 @@ wales-2003-2004,27,2004-03-13,14:30,200403131430,saturday,Connah's Quay Nomads,C
 wales-2003-2004,27,2004-03-13,14:30,200403131430,saturday,Port Talbot Town,Newtown AFC,2,0,2,H,W,L,,,,,,,
 wales-2003-2004,27,2004-03-13,14:30,200403131430,saturday,Rhyl FC,Afan Lido FC,3,0,3,H,W,L,,,,,,,
 wales-2003-2004,28,2004-03-19,19:30,200403191930,friday,Newtown AFC,Aberystwyth Town,1,1,2,D,D,D,,,,,,,
-wales-2003-2004,26,2004-03-20,14:30,200403201430,saturday,Carmarthen Town,Rhyl FC,0,0,0,D,D,D,0,0,0,D,D,D,
+wales-2003-2004,26,2004-03-20,14:30,200403201430,saturday,Carmarthen Town,Rhyl FC,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
 wales-2003-2004,28,2004-03-20,14:30,200403201430,saturday,Afan Lido FC,Connah's Quay Nomads,2,0,2,H,W,L,,,,,,,
 wales-2003-2004,28,2004-03-20,14:30,200403201430,saturday,Bangor City,Barry Town FC,2,1,3,H,W,L,,,,,,,
 wales-2003-2004,28,2004-03-20,14:30,200403201430,saturday,NEWI Cefn Druids,Haverfordwest County,1,0,1,H,W,L,,,,,,,
@@ -243,7 +243,7 @@ wales-2003-2004,29,2004-04-12,14:30,200404121430,monday,Aberystwyth Town,Porthma
 wales-2003-2004,31,2004-04-12,14:30,200404121430,monday,Bangor City,Caernarfon Town,1,1,2,D,D,D,,,,,,,
 wales-2003-2004,31,2004-04-12,14:30,200404121430,monday,Cwmbran Town,Barry Town FC,2,1,3,H,W,L,,,,,,,
 wales-2003-2004,31,2004-04-12,14:30,200404121430,monday,Haverfordwest County,Carmarthen Town,1,0,1,H,W,L,,,,,,,
-wales-2003-2004,31,2004-04-12,14:30,200404121430,monday,Newtown AFC,Caersws FC,0,0,0,D,D,D,0,0,0,D,D,D,
+wales-2003-2004,31,2004-04-12,14:30,200404121430,monday,Newtown AFC,Caersws FC,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
 wales-2003-2004,31,2004-04-12,14:30,200404121430,monday,Port Talbot Town,Afan Lido FC,0,2,2,A,L,W,,,,,,,
 wales-2003-2004,32,2004-04-16,19:30,200404161930,friday,Aberystwyth Town,Haverfordwest County,1,1,2,D,D,D,,,,,,,
 wales-2003-2004,32,2004-04-16,19:30,200404161930,friday,Caernarfon Town,Porthmadog FC,0,2,2,A,L,W,,,,,,,
@@ -3635,3 +3635,127 @@ wales-2018-relegation,10,2018-04-27,19:30,201804271930,friday,Barry Town United,
 wales-2018-relegation,10,2018-04-27,19:30,201804271930,friday,Prestatyn Town,Llandudno FC,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/premier-league-2018-relegation-prestatyn-town-llandudno-fc/
 wales-2018-el-playoffs,Semi-finals,2018-05-12,17:15,201805121715,saturday,Cardiff Metropolitan,Barry Town United,4,1,5,H,W,L,3.0,0.0,3.0,H,W,L,http://www.worldfootball.net/report/premier-league-2018-el-playoffs-halbfinale-cardiff-metropolitan-barry-town-united/
 wales-2018-el-playoffs,Final,2018-05-20,12:25,201805201225,sunday,Cefn Druids,Cardiff Metropolitan,1,0,1,H,W,L,1.0,0.0,1.0,H,W,L,http://www.worldfootball.net/report/premier-league-2018-el-playoffs-finale-cefn-druids-cardiff-metropolitan/
+wales-2018-2019,1,2018-08-10,19:45,201808101945,friday,Aberystwyth Town,Llandudno FC,1,0,1,H,W,L,1.0,0.0,1.0,H,W,L,http://www.worldfootball.net/report/premier-league-2018-2019-aberystwyth-town-llandudno-fc/
+wales-2018-2019,1,2018-08-10,19:45,201808101945,friday,Bala Town,Carmarthen Town,2,1,3,H,W,L,1.0,0.0,1.0,H,W,L,http://www.worldfootball.net/report/premier-league-2018-2019-bala-town-carmarthen-town/
+wales-2018-2019,1,2018-08-10,20:00,201808102000,friday,Cardiff Metropolitan,Newtown AFC,2,1,3,H,W,L,2.0,0.0,2.0,H,W,L,http://www.worldfootball.net/report/premier-league-2018-2019-cardiff-metropolitan-newtown-afc/
+wales-2018-2019,1,2018-08-12,14:30,201808121430,sunday,The New Saints,Barry Town United,5,1,6,H,W,L,3.0,1.0,4.0,H,W,L,http://www.worldfootball.net/report/premier-league-2018-2019-the-new-saints-barry-town-united/
+wales-2018-2019,1,2018-08-12,14:30,201808121430,sunday,Llanelli Town,Gap Connah's Quay FC,0,7,7,A,L,W,0.0,3.0,3.0,A,L,W,http://www.worldfootball.net/report/premier-league-2018-2019-llanelli-town-gap-connahs-quay-fc/
+wales-2018-2019,1,2018-08-12,17:15,201808121715,sunday,Caernarfon Town,Cefn Druids,1,0,1,H,W,L,1.0,0.0,1.0,H,W,L,http://www.worldfootball.net/report/premier-league-2018-2019-caernarfon-town-cefn-druids/
+wales-2018-2019,2,2018-08-17,19:35,201808171935,friday,Aberystwyth Town,Cardiff Metropolitan,1,4,5,A,L,W,0.0,3.0,3.0,A,L,W,http://www.worldfootball.net/report/premier-league-2018-2019-aberystwyth-town-cardiff-metropolitan/
+wales-2018-2019,2,2018-08-17,19:45,201808171945,friday,Newtown AFC,Caernarfon Town,2,0,2,H,W,L,1.0,0.0,1.0,H,W,L,http://www.worldfootball.net/report/premier-league-2018-2019-newtown-afc-caernarfon-town/
+wales-2018-2019,2,2018-08-18,14:30,201808181430,saturday,Carmarthen Town,Llandudno FC,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/premier-league-2018-2019-carmarthen-town-llandudno-fc/
+wales-2018-2019,2,2018-08-18,14:30,201808181430,saturday,Cefn Druids,Llanelli Town,2,3,5,A,L,W,2.0,0.0,2.0,H,W,L,http://www.worldfootball.net/report/premier-league-2018-2019-cefn-druids-llanelli-town/
+wales-2018-2019,2,2018-08-19,14:30,201808191430,sunday,Barry Town United,Bala Town,3,2,5,H,W,L,2.0,1.0,3.0,H,W,L,http://www.worldfootball.net/report/premier-league-2018-2019-barry-town-united-bala-town/
+wales-2018-2019,2,2018-08-19,16:00,201808191600,sunday,Gap Connah's Quay FC,The New Saints,1,0,1,H,W,L,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/premier-league-2018-2019-gap-connahs-quay-fc-the-new-saints/
+wales-2018-2019,3,2018-08-24,19:35,201808241935,friday,Llanelli Town,Barry Town United,1,1,2,D,D,D,1.0,0.0,1.0,H,W,L,http://www.worldfootball.net/report/premier-league-2018-2019-llanelli-town-barry-town-united/
+wales-2018-2019,3,2018-08-24,19:45,201808241945,friday,Bala Town,Cefn Druids,2,1,3,H,W,L,1.0,0.0,1.0,H,W,L,http://www.worldfootball.net/report/premier-league-2018-2019-bala-town-cefn-druids/
+wales-2018-2019,3,2018-08-24,19:45,201808241945,friday,Gap Connah's Quay FC,Aberystwyth Town,2,1,3,H,W,L,2.0,0.0,2.0,H,W,L,http://www.worldfootball.net/report/premier-league-2018-2019-gap-connahs-quay-fc-aberystwyth-town/
+wales-2018-2019,3,2018-08-25,14:30,201808251430,saturday,Llandudno FC,Newtown AFC,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/premier-league-2018-2019-llandudno-fc-newtown-afc/
+wales-2018-2019,3,2018-08-25,14:30,201808251430,saturday,The New Saints,Carmarthen Town,6,0,6,H,W,L,3.0,0.0,3.0,H,W,L,http://www.worldfootball.net/report/premier-league-2018-2019-the-new-saints-carmarthen-town/
+wales-2018-2019,3,2018-08-26,14:30,201808261430,sunday,Cardiff Metropolitan,Caernarfon Town,0,1,1,A,L,W,0.0,1.0,1.0,A,L,W,http://www.worldfootball.net/report/premier-league-2018-2019-cardiff-metropolitan-caernarfon-town/
+wales-2018-2019,4,2018-08-31,19:45,201808311945,friday,Aberystwyth Town,Llanelli Town,3,1,4,H,W,L,0.0,1.0,1.0,A,L,W,http://www.worldfootball.net/report/premier-league-2018-2019-aberystwyth-town-llanelli-town/
+wales-2018-2019,4,2018-08-31,19:45,201808311945,friday,Caernarfon Town,The New Saints,0,3,3,A,L,W,0.0,1.0,1.0,A,L,W,http://www.worldfootball.net/report/premier-league-2018-2019-caernarfon-town-the-new-saints/
+wales-2018-2019,4,2018-09-01,14:30,201809011430,saturday,Carmarthen Town,Cardiff Metropolitan,2,0,2,H,W,L,1.0,0.0,1.0,H,W,L,http://www.worldfootball.net/report/premier-league-2018-2019-carmarthen-town-cardiff-metropolitan/
+wales-2018-2019,4,2018-09-01,14:30,201809011430,saturday,Newtown AFC,Bala Town,2,0,2,H,W,L,1.0,0.0,1.0,H,W,L,http://www.worldfootball.net/report/premier-league-2018-2019-newtown-afc-bala-town/
+wales-2018-2019,4,2018-09-01,14:30,201809011430,saturday,Barry Town United,Gap Connah's Quay FC,2,0,2,H,W,L,1.0,0.0,1.0,H,W,L,http://www.worldfootball.net/report/premier-league-2018-2019-barry-town-united-gap-connahs-quay-fc/
+wales-2018-2019,4,2018-09-01,19:30,201809011930,saturday,Cefn Druids,Llandudno FC,2,1,3,H,W,L,1.0,1.0,2.0,D,D,D,http://www.worldfootball.net/report/premier-league-2018-2019-cefn-druids-llandudno-fc/
+wales-2018-2019,5,2018-09-08,14:30,201809081430,saturday,Bala Town,Llanelli Town,3,1,4,H,W,L,2.0,0.0,2.0,H,W,L,http://www.worldfootball.net/report/premier-league-2018-2019-bala-town-llanelli-town/
+wales-2018-2019,5,2018-09-08,14:30,201809081430,saturday,Carmarthen Town,Newtown AFC,3,0,3,H,W,L,1.0,0.0,1.0,H,W,L,http://www.worldfootball.net/report/premier-league-2018-2019-carmarthen-town-newtown-afc/
+wales-2018-2019,5,2018-09-08,14:30,201809081430,saturday,Llandudno FC,Barry Town United,2,0,2,H,W,L,2.0,0.0,2.0,H,W,L,http://www.worldfootball.net/report/premier-league-2018-2019-llandudno-fc-barry-town-united/
+wales-2018-2019,5,2018-09-09,14:30,201809091430,sunday,Cardiff Metropolitan,Cefn Druids,1,0,1,H,W,L,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/premier-league-2018-2019-cardiff-metropolitan-cefn-druids/
+wales-2018-2019,5,2018-09-11,19:45,201809111945,tuesday,Gap Connah's Quay FC,Caernarfon Town,0,1,1,A,L,W,0.0,1.0,1.0,A,L,W,http://www.worldfootball.net/report/premier-league-2018-2019-gap-connahs-quay-fc-caernarfon-town/
+wales-2018-2019,5,2018-09-11,19:45,201809111945,tuesday,The New Saints,Aberystwyth Town,6,0,6,H,W,L,4.0,0.0,4.0,H,W,L,http://www.worldfootball.net/report/premier-league-2018-2019-the-new-saints-aberystwyth-town/
+wales-2018-2019,6,2018-09-14,19:45,201809141945,friday,Gap Connah's Quay FC,Newtown AFC,3,1,4,H,W,L,1.0,0.0,1.0,H,W,L,http://www.worldfootball.net/report/premier-league-2018-2019-gap-connahs-quay-fc-newtown-afc/
+wales-2018-2019,6,2018-09-14,19:45,201809141945,friday,Llanelli Town,The New Saints,0,2,2,A,L,W,0.0,2.0,2.0,A,L,W,http://www.worldfootball.net/report/premier-league-2018-2019-llanelli-town-the-new-saints/
+wales-2018-2019,6,2018-09-15,14:30,201809151430,saturday,Caernarfon Town,Barry Town United,0,1,1,A,L,W,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/premier-league-2018-2019-caernarfon-town-barry-town-united/
+wales-2018-2019,6,2018-09-15,14:30,201809151430,saturday,Cefn Druids,Carmarthen Town,4,0,4,H,W,L,2.0,0.0,2.0,H,W,L,http://www.worldfootball.net/report/premier-league-2018-2019-cefn-druids-carmarthen-town/
+wales-2018-2019,6,2018-09-15,19:30,201809151930,saturday,Aberystwyth Town,Bala Town,3,2,5,H,W,L,1.0,0.0,1.0,H,W,L,http://www.worldfootball.net/report/premier-league-2018-2019-aberystwyth-town-bala-town/
+wales-2018-2019,6,2018-09-16,14:30,201809161430,sunday,Cardiff Metropolitan,Llandudno FC,0,1,1,A,L,W,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/premier-league-2018-2019-cardiff-metropolitan-llandudno-fc/
+wales-2018-2019,7,2018-09-21,19:45,201809211945,friday,The New Saints,Bala Town,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/premier-league-2018-2019-the-new-saints-bala-town/
+wales-2018-2019,7,2018-09-22,14:30,201809221430,saturday,Barry Town United,Cefn Druids,2,1,3,H,W,L,0.0,1.0,1.0,A,L,W,http://www.worldfootball.net/report/premier-league-2018-2019-barry-town-united-cefn-druids/
+wales-2018-2019,7,2018-09-22,14:30,201809221430,saturday,Caernarfon Town,Llanelli Town,3,0,3,H,W,L,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/premier-league-2018-2019-caernarfon-town-llanelli-town/
+wales-2018-2019,7,2018-09-22,14:30,201809221430,saturday,Carmarthen Town,Aberystwyth Town,2,2,4,D,D,D,2.0,0.0,2.0,H,W,L,http://www.worldfootball.net/report/premier-league-2018-2019-carmarthen-town-aberystwyth-town/
+wales-2018-2019,7,2018-09-22,14:30,201809221430,saturday,Newtown AFC,Cardiff Metropolitan,2,1,3,H,W,L,2.0,1.0,3.0,H,W,L,http://www.worldfootball.net/report/premier-league-2018-2019-newtown-afc-cardiff-metropolitan/
+wales-2018-2019,7,2018-09-22,19:30,201809221930,saturday,Llandudno FC,Gap Connah's Quay FC,0,4,4,A,L,W,0.0,2.0,2.0,A,L,W,http://www.worldfootball.net/report/premier-league-2018-2019-llandudno-fc-gap-connahs-quay-fc/
+wales-2018-2019,8,2018-09-28,19:45,201809281945,friday,Bala Town,Llandudno FC,2,1,3,H,W,L,1.0,0.0,1.0,H,W,L,http://www.worldfootball.net/report/premier-league-2018-2019-bala-town-llandudno-fc/
+wales-2018-2019,8,2018-09-28,19:45,201809281945,friday,Cefn Druids,Caernarfon Town,1,1,2,D,D,D,1.0,0.0,1.0,H,W,L,http://www.worldfootball.net/report/premier-league-2018-2019-cefn-druids-caernarfon-town/
+wales-2018-2019,8,2018-09-28,20:00,201809282000,friday,Llanelli Town,Newtown AFC,1,3,4,A,L,W,1.0,1.0,2.0,D,D,D,http://www.worldfootball.net/report/premier-league-2018-2019-llanelli-town-newtown-afc/
+wales-2018-2019,8,2018-09-29,14:30,201809291430,saturday,Aberystwyth Town,Barry Town United,0,1,1,A,L,W,0.0,1.0,1.0,A,L,W,http://www.worldfootball.net/report/premier-league-2018-2019-aberystwyth-town-barry-town-united/
+wales-2018-2019,8,2018-09-29,14:30,201809291430,saturday,Gap Connah's Quay FC,Carmarthen Town,3,1,4,H,W,L,1.0,0.0,1.0,H,W,L,http://www.worldfootball.net/report/premier-league-2018-2019-gap-connahs-quay-fc-carmarthen-town/
+wales-2018-2019,8,2018-09-30,12:45,201809301245,sunday,Cardiff Metropolitan,The New Saints,4,1,5,H,W,L,2.0,0.0,2.0,H,W,L,http://www.worldfootball.net/report/premier-league-2018-2019-cardiff-metropolitan-the-new-saints/
+wales-2018-2019,9,2018-10-05,19:45,201810051945,friday,Caernarfon Town,Bala Town,2,2,4,D,D,D,1.0,1.0,2.0,D,D,D,http://www.worldfootball.net/report/premier-league-2018-2019-caernarfon-town-bala-town/
+wales-2018-2019,9,2018-10-05,19:45,201810051945,friday,Cefn Druids,Aberystwyth Town,1,0,1,H,W,L,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/premier-league-2018-2019-cefn-druids-aberystwyth-town/
+wales-2018-2019,9,2018-10-06,14:30,201810061430,saturday,Carmarthen Town,The New Saints,0,3,3,A,L,W,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/premier-league-2018-2019-carmarthen-town-the-new-saints/
+wales-2018-2019,9,2018-10-06,14:30,201810061430,saturday,Llandudno FC,Llanelli Town,1,2,3,A,L,W,1.0,1.0,2.0,D,D,D,http://www.worldfootball.net/report/premier-league-2018-2019-llandudno-fc-llanelli-town/
+wales-2018-2019,9,2018-10-06,14:30,201810061430,saturday,Newtown AFC,Barry Town United,2,0,2,H,W,L,1.0,0.0,1.0,H,W,L,http://www.worldfootball.net/report/premier-league-2018-2019-newtown-afc-barry-town-united/
+wales-2018-2019,9,2018-10-07,14:30,201810071430,sunday,Cardiff Metropolitan,Gap Connah's Quay FC,1,3,4,A,L,W,1.0,2.0,3.0,A,L,W,http://www.worldfootball.net/report/premier-league-2018-2019-cardiff-metropolitan-gap-connahs-quay-fc/
+wales-2018-2019,10,2018-10-12,19:45,201810121945,friday,Aberystwyth Town,Caernarfon Town,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/premier-league-2018-2019-aberystwyth-town-caernarfon-town/
+wales-2018-2019,10,2018-10-12,19:45,201810121945,friday,Bala Town,Newtown AFC,3,2,5,H,W,L,1.0,0.0,1.0,H,W,L,http://www.worldfootball.net/report/premier-league-2018-2019-bala-town-newtown-afc/
+wales-2018-2019,10,2018-10-12,19:45,201810121945,friday,Llanelli Town,Cardiff Metropolitan,0,2,2,A,L,W,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/premier-league-2018-2019-llanelli-town-cardiff-metropolitan/
+wales-2018-2019,10,2018-10-13,14:30,201810131430,saturday,Barry Town United,Carmarthen Town,1,0,1,H,W,L,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/premier-league-2018-2019-barry-town-united-carmarthen-town/
+wales-2018-2019,10,2018-10-16,19:45,201810161945,tuesday,Gap Connah's Quay FC,Cefn Druids,3,1,4,H,W,L,0.0,1.0,1.0,A,L,W,http://www.worldfootball.net/report/premier-league-2018-2019-gap-connahs-quay-fc-cefn-druids/
+wales-2018-2019,10,2018-10-17,19:45,201810171945,wednesday,The New Saints,Llandudno FC,6,1,7,H,W,L,4.0,0.0,4.0,H,W,L,http://www.worldfootball.net/report/premier-league-2018-2019-the-new-saints-llandudno-fc/
+wales-2018-2019,11,2018-10-19,19:45,201810191945,friday,Barry Town United,Llanelli Town,5,2,7,H,W,L,2.0,1.0,3.0,H,W,L,http://www.worldfootball.net/report/premier-league-2018-2019-barry-town-united-llanelli-town/
+wales-2018-2019,11,2018-10-19,19:45,201810191945,friday,Caernarfon Town,Newtown AFC,0,3,3,A,L,W,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/premier-league-2018-2019-caernarfon-town-newtown-afc/
+wales-2018-2019,11,2018-10-20,14:30,201810201430,saturday,Carmarthen Town,Bala Town,1,2,3,A,L,W,1.0,1.0,2.0,D,D,D,http://www.worldfootball.net/report/premier-league-2018-2019-carmarthen-town-bala-town/
+wales-2018-2019,11,2018-10-20,14:30,201810201430,saturday,Cefn Druids,Cardiff Metropolitan,1,1,2,D,D,D,0.0,1.0,1.0,A,L,W,http://www.worldfootball.net/report/premier-league-2018-2019-cefn-druids-cardiff-metropolitan/
+wales-2018-2019,11,2018-10-20,14:30,201810201430,saturday,Llandudno FC,Aberystwyth Town,0,1,1,A,L,W,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/premier-league-2018-2019-llandudno-fc-aberystwyth-town/
+wales-2018-2019,11,2018-10-20,19:30,201810201930,saturday,The New Saints,Gap Connah's Quay FC,3,0,3,H,W,L,1.0,0.0,1.0,H,W,L,http://www.worldfootball.net/report/premier-league-2018-2019-the-new-saints-gap-connahs-quay-fc/
+wales-2018-2019,12,2018-10-26,19:45,201810261945,friday,Caernarfon Town,Gap Connah's Quay FC,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/premier-league-2018-2019-caernarfon-town-gap-connahs-quay-fc/
+wales-2018-2019,12,2018-10-26,19:45,201810261945,friday,Llandudno FC,Cefn Druids,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/premier-league-2018-2019-llandudno-fc-cefn-druids/
+wales-2018-2019,12,2018-10-26,19:45,201810261945,friday,Llanelli Town,Aberystwyth Town,1,3,4,A,L,W,1.0,2.0,3.0,A,L,W,http://www.worldfootball.net/report/premier-league-2018-2019-llanelli-town-aberystwyth-town/
+wales-2018-2019,12,2018-10-27,14:30,201810271430,saturday,Bala Town,Barry Town United,0,1,1,A,L,W,0.0,1.0,1.0,A,L,W,http://www.worldfootball.net/report/premier-league-2018-2019-bala-town-barry-town-united/
+wales-2018-2019,12,2018-10-27,14:30,201810271430,saturday,Newtown AFC,The New Saints,1,1,2,D,D,D,1.0,0.0,1.0,H,W,L,http://www.worldfootball.net/report/premier-league-2018-2019-newtown-afc-the-new-saints/
+wales-2018-2019,12,2018-10-28,14:30,201810281430,sunday,Cardiff Metropolitan,Carmarthen Town,1,1,2,D,D,D,0.0,1.0,1.0,A,L,W,http://www.worldfootball.net/report/premier-league-2018-2019-cardiff-metropolitan-carmarthen-town/
+wales-2018-2019,13,2018-11-02,19:45,201811021945,friday,Aberystwyth Town,The New Saints,1,0,1,H,W,L,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/premier-league-2018-2019-aberystwyth-town-the-new-saints/
+wales-2018-2019,13,2018-11-02,19:45,201811021945,friday,Cefn Druids,Newtown AFC,1,1,2,D,D,D,1.0,0.0,1.0,H,W,L,http://www.worldfootball.net/report/premier-league-2018-2019-cefn-druids-newtown-afc/
+wales-2018-2019,13,2018-11-03,14:30,201811031430,saturday,Carmarthen Town,Caernarfon Town,4,3,7,H,W,L,2.0,1.0,3.0,H,W,L,http://www.worldfootball.net/report/premier-league-2018-2019-carmarthen-town-caernarfon-town/
+wales-2018-2019,13,2018-11-03,14:30,201811031430,saturday,Gap Connah's Quay FC,Llanelli Town,6,0,6,H,W,L,4.0,0.0,4.0,H,W,L,http://www.worldfootball.net/report/premier-league-2018-2019-gap-connahs-quay-fc-llanelli-town/
+wales-2018-2019,13,2018-11-03,19:30,201811031930,saturday,Bala Town,Cardiff Metropolitan,3,0,3,H,W,L,1.0,0.0,1.0,H,W,L,http://www.worldfootball.net/report/premier-league-2018-2019-bala-town-cardiff-metropolitan/
+wales-2018-2019,13,2018-11-04,14:30,201811041430,sunday,Barry Town United,Llandudno FC,2,1,3,H,W,L,1.0,1.0,2.0,D,D,D,http://www.worldfootball.net/report/premier-league-2018-2019-barry-town-united-llandudno-fc/
+wales-2018-2019,14,2018-11-09,19:45,201811091945,friday,Llandudno FC,Bala Town,2,4,6,A,L,W,0.0,1.0,1.0,A,L,W,http://www.worldfootball.net/report/premier-league-2018-2019-llandudno-fc-bala-town/
+wales-2018-2019,14,2018-11-09,19:45,201811091945,friday,The New Saints,Caernarfon Town,0,1,1,A,L,W,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/premier-league-2018-2019-the-new-saints-caernarfon-town/
+wales-2018-2019,14,2018-11-10,14:30,201811101430,saturday,Carmarthen Town,Cefn Druids,2,3,5,A,L,W,2.0,0.0,2.0,H,W,L,http://www.worldfootball.net/report/premier-league-2018-2019-carmarthen-town-cefn-druids/
+wales-2018-2019,14,2018-11-10,14:30,201811101430,saturday,Gap Connah's Quay FC,Barry Town United,2,2,4,D,D,D,1.0,2.0,3.0,A,L,W,http://www.worldfootball.net/report/premier-league-2018-2019-gap-connahs-quay-fc-barry-town-united/
+wales-2018-2019,14,2018-11-10,15:45,201811101545,saturday,Newtown AFC,Llanelli Town,7,1,8,H,W,L,5.0,0.0,5.0,H,W,L,http://www.worldfootball.net/report/premier-league-2018-2019-newtown-afc-llanelli-town/
+wales-2018-2019,14,2018-11-11,14:30,201811111430,sunday,Cardiff Metropolitan,Aberystwyth Town,2,3,5,A,L,W,2.0,0.0,2.0,H,W,L,http://www.worldfootball.net/report/premier-league-2018-2019-cardiff-metropolitan-aberystwyth-town/
+wales-2018-2019,15,2018-11-17,14:30,201811171430,saturday,Bala Town,Aberystwyth Town,2,3,5,A,L,W,1.0,0.0,1.0,H,W,L,http://www.worldfootball.net/report/premier-league-2018-2019-bala-town-aberystwyth-town/
+wales-2018-2019,15,2018-11-17,14:30,201811171430,saturday,Llandudno FC,Carmarthen Town,1,2,3,A,L,W,1.0,1.0,2.0,D,D,D,http://www.worldfootball.net/report/premier-league-2018-2019-llandudno-fc-carmarthen-town/
+wales-2018-2019,15,2018-11-17,14:30,201811171430,saturday,Llanelli Town,Cefn Druids,2,0,2,H,W,L,1.0,0.0,1.0,H,W,L,http://www.worldfootball.net/report/premier-league-2018-2019-llanelli-town-cefn-druids/
+wales-2018-2019,15,2018-11-17,14:30,201811171430,saturday,Barry Town United,The New Saints,0,2,2,A,L,W,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/premier-league-2018-2019-barry-town-united-the-new-saints/
+wales-2018-2019,15,2018-11-17,17:15,201811171715,saturday,Caernarfon Town,Cardiff Metropolitan,2,0,2,H,W,L,2.0,0.0,2.0,H,W,L,http://www.worldfootball.net/report/premier-league-2018-2019-caernarfon-town-cardiff-metropolitan/
+wales-2018-2019,15,2018-11-21,19:45,201811211945,wednesday,Newtown AFC,Gap Connah's Quay FC,1,1,2,D,D,D,0.0,1.0,1.0,A,L,W,http://www.worldfootball.net/report/premier-league-2018-2019-newtown-afc-gap-connahs-quay-fc/
+wales-2018-2019,16,2018-11-30,19:45,201811301945,friday,Aberystwyth Town,Carmarthen Town,1,1,2,D,D,D,1.0,0.0,1.0,H,W,L,http://www.worldfootball.net/report/premier-league-2018-2019-aberystwyth-town-carmarthen-town/
+wales-2018-2019,16,2018-11-30,19:45,201811301945,friday,Cefn Druids,Bala Town,2,2,4,D,D,D,0.0,2.0,2.0,A,L,W,http://www.worldfootball.net/report/premier-league-2018-2019-cefn-druids-bala-town/
+wales-2018-2019,16,2018-12-01,14:30,201812011430,saturday,Gap Connah's Quay FC,Llandudno FC,3,0,3,H,W,L,1.0,0.0,1.0,H,W,L,http://www.worldfootball.net/report/premier-league-2018-2019-gap-connahs-quay-fc-llandudno-fc/
+wales-2018-2019,16,2018-12-01,14:30,201812011430,saturday,Llanelli Town,Caernarfon Town,2,2,4,D,D,D,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/premier-league-2018-2019-llanelli-town-caernarfon-town/
+wales-2018-2019,16,2018-12-01,14:30,201812011430,saturday,The New Saints,Cardiff Metropolitan,1,1,2,D,D,D,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/premier-league-2018-2019-the-new-saints-cardiff-metropolitan/
+wales-2018-2019,16,2018-12-01,19:30,201812011930,saturday,Barry Town United,Newtown AFC,4,1,5,H,W,L,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/premier-league-2018-2019-barry-town-united-newtown-afc/
+wales-2018-2019,17,2018-12-14,19:45,201812141945,friday,Bala Town,The New Saints,1,1,2,D,D,D,0.0,1.0,1.0,A,L,W,http://www.worldfootball.net/report/premier-league-2018-2019-bala-town-the-new-saints/
+wales-2018-2019,17,2018-12-14,19:45,201812141945,friday,Caernarfon Town,Aberystwyth Town,4,0,4,H,W,L,1.0,0.0,1.0,H,W,L,http://www.worldfootball.net/report/premier-league-2018-2019-caernarfon-town-aberystwyth-town/
+wales-2018-2019,17,2018-12-14,19:45,201812141945,friday,Cardiff Metropolitan,Llanelli Town,4,0,4,H,W,L,1.0,0.0,1.0,H,W,L,http://www.worldfootball.net/report/premier-league-2018-2019-cardiff-metropolitan-llanelli-town/
+wales-2018-2019,17,2018-12-14,19:45,201812141945,friday,Carmarthen Town,Barry Town United,2,3,5,A,L,W,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/premier-league-2018-2019-carmarthen-town-barry-town-united/
+wales-2018-2019,17,2018-12-14,19:45,201812141945,friday,Cefn Druids,Gap Connah's Quay FC,1,2,3,A,L,W,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/premier-league-2018-2019-cefn-druids-gap-connahs-quay-fc/
+wales-2018-2019,17,2018-12-15,19:30,201812151930,saturday,Newtown AFC,Llandudno FC,3,1,4,H,W,L,1.0,1.0,2.0,D,D,D,http://www.worldfootball.net/report/premier-league-2018-2019-newtown-afc-llandudno-fc/
+wales-2018-2019,18,2018-12-21,19:45,201812211945,friday,Aberystwyth Town,Cefn Druids,0,2,2,A,L,W,0.0,1.0,1.0,A,L,W,http://www.worldfootball.net/report/premier-league-2018-2019-aberystwyth-town-cefn-druids/
+wales-2018-2019,18,2018-12-22,14:30,201812221430,saturday,Gap Connah's Quay FC,Cardiff Metropolitan,6,1,7,H,W,L,4.0,1.0,5.0,H,W,L,http://www.worldfootball.net/report/premier-league-2018-2019-gap-connahs-quay-fc-cardiff-metropolitan/
+wales-2018-2019,18,2018-12-22,14:30,201812221430,saturday,Llandudno FC,The New Saints,0,4,4,A,L,W,0.0,2.0,2.0,A,L,W,http://www.worldfootball.net/report/premier-league-2018-2019-llandudno-fc-the-new-saints/
+wales-2018-2019,18,2018-12-22,14:30,201812221430,saturday,Llanelli Town,Bala Town,1,7,8,A,L,W,1.0,3.0,4.0,A,L,W,http://www.worldfootball.net/report/premier-league-2018-2019-llanelli-town-bala-town/
+wales-2018-2019,18,2018-12-22,14:30,201812221430,saturday,Newtown AFC,Carmarthen Town,1,1,2,D,D,D,1.0,1.0,2.0,D,D,D,http://www.worldfootball.net/report/premier-league-2018-2019-newtown-afc-carmarthen-town/
+wales-2018-2019,18,2018-12-22,19:35,201812221935,saturday,Barry Town United,Caernarfon Town,2,1,3,H,W,L,1.0,1.0,2.0,D,D,D,http://www.worldfootball.net/report/premier-league-2018-2019-barry-town-united-caernarfon-town/
+wales-2018-2019,19,2018-12-26,12:00,201812261200,wednesday,Llanelli Town,Carmarthen Town,1,1,2,D,D,D,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/premier-league-2018-2019-llanelli-town-carmarthen-town/
+wales-2018-2019,19,2018-12-26,12:30,201812261230,wednesday,Barry Town United,Cardiff Metropolitan,2,1,3,H,W,L,2.0,1.0,3.0,H,W,L,http://www.worldfootball.net/report/premier-league-2018-2019-barry-town-united-cardiff-metropolitan/
+wales-2018-2019,19,2018-12-26,14:30,201812261430,wednesday,Aberystwyth Town,Newtown AFC,0,2,2,A,L,W,0.0,1.0,1.0,A,L,W,http://www.worldfootball.net/report/premier-league-2018-2019-aberystwyth-town-newtown-afc/
+wales-2018-2019,19,2018-12-26,14:30,201812261430,wednesday,Bala Town,Gap Connah's Quay FC,2,1,3,H,W,L,2.0,1.0,3.0,H,W,L,http://www.worldfootball.net/report/premier-league-2018-2019-bala-town-gap-connahs-quay-fc/
+wales-2018-2019,19,2018-12-26,14:30,201812261430,wednesday,The New Saints,Cefn Druids,7,0,7,H,W,L,3.0,0.0,3.0,H,W,L,http://www.worldfootball.net/report/premier-league-2018-2019-the-new-saints-cefn-druids/
+wales-2018-2019,19,2018-12-29,12:00,201812291200,saturday,Caernarfon Town,Llandudno FC,3,3,6,D,D,D,2.0,3.0,5.0,A,L,W,http://www.worldfootball.net/report/premier-league-2018-2019-caernarfon-town-llandudno-fc/
+wales-2018-2019,20,2018-12-30,14:30,201812301430,sunday,Newtown AFC,Aberystwyth Town,2,1,3,H,W,L,1.0,0.0,1.0,H,W,L,http://www.worldfootball.net/report/premier-league-2018-2019-newtown-afc-aberystwyth-town/
+wales-2018-2019,20,2018-12-31,13:00,201812311300,monday,Cardiff Metropolitan,Barry Town United,3,0,3,H,W,L,1.0,0.0,1.0,H,W,L,http://www.worldfootball.net/report/premier-league-2018-2019-cardiff-metropolitan-barry-town-united/
+wales-2019-championship,1,2019-02-02,14:30,201902021430,saturday,Caernarfon Town,Barry Town United,2,0,2,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/premier-league-2019-championship-caernarfon-town-barry-town-united/
+wales-2019-championship,1,2019-02-02,14:30,201902021430,saturday,Newtown AFC,GAP Connah's Quay FC,1,2,3,A,L,W,1,0,1,H,W,L,http://www.worldfootball.net/report/premier-league-2019-championship-newtown-afc-gap-connahs-quay-fc/
+wales-2019-championship,1,2019-02-02,14:30,201902021430,saturday,Newtown AFC,Gap Connah's Quay FC,1,2,3,A,L,W,1.0,0.0,1.0,H,W,L,http://www.worldfootball.net/report/premier-league-2019-championship-newtown-afc-gap-connahs-quay-fc/
+wales-2019-championship,2,2019-02-08,19:45,201902081945,friday,GAP Connah's Quay FC,Caernarfon Town,6,2,8,H,W,L,3,1,4,H,W,L,http://www.worldfootball.net/report/premier-league-2019-championship-gap-connahs-quay-fc-caernarfon-town/
+wales-2019-championship,2,2019-02-08,19:45,201902081945,friday,The New Saints,Newtown AFC,5,0,5,H,W,L,2,0,2,H,W,L,http://www.worldfootball.net/report/premier-league-2019-championship-the-new-saints-newtown-afc/
+wales-2019-championship,3,2019-02-16,14:30,201902161430,saturday,Newtown AFC,Caernarfon Town,3,2,5,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/premier-league-2019-championship-newtown-afc-caernarfon-town/
+wales-2019-championship,3,2019-02-16,14:30,201902161430,saturday,The New Saints,Barry Town United,2,2,4,D,D,D,2,1,3,H,W,L,http://www.worldfootball.net/report/premier-league-2019-championship-the-new-saints-barry-town-united/
+wales-2019-championship,4,2019-02-22,19:45,201902221945,friday,Bala Town,Newtown AFC,2,2,4,D,D,D,1,2,3,A,L,W,http://www.worldfootball.net/report/premier-league-2019-championship-bala-town-newtown-afc/

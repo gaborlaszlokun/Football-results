@@ -27,7 +27,7 @@ croatia-1992,5,1992-03-17,,199203170000,tuesday,NK Zagreb,HNK Šibenik,3,0,3,H,W
 croatia-1992,5,1992-03-17,,199203170000,tuesday,NK Varteks,NK Istra Pula,1,1,2,D,D,D,,,,,,,
 croatia-1992,5,1992-03-17,,199203170000,tuesday,HNK Rijeka,HAŠK-Građanski,1,0,1,H,W,L,,,,,,,
 croatia-1992,5,1992-03-17,,199203170000,tuesday,NK Osijek,HNK Dubrovnik,1,0,1,H,W,L,,,,,,,
-croatia-1992,5,1992-03-17,,199203170000,tuesday,NK Inker Zaprešić,HNK Cibalia,0,0,0,D,D,D,0,0,0,D,D,D,
+croatia-1992,5,1992-03-17,,199203170000,tuesday,NK Inker Zaprešić,HNK Cibalia,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
 croatia-1992,5,1992-03-17,,199203170000,tuesday,Hajduk Split,NK Zadar,2,0,2,H,W,L,,,,,,,
 croatia-1992,6,1992-03-21,,199203210000,saturday,NK Zadar,HNK Šibenik,1,1,2,D,D,D,,,,,,,
 croatia-1992,6,1992-03-21,,199203210000,saturday,NK Istra Pula,NK Zagreb,0,2,2,A,L,W,,,,,,,
@@ -40,19 +40,19 @@ croatia-1992,7,1992-03-28,,199203280000,saturday,NK Varteks,HNK Dubrovnik,2,0,2,
 croatia-1992,7,1992-03-28,,199203280000,saturday,HNK Rijeka,NK Zadar,4,1,5,H,W,L,,,,,,,
 croatia-1992,7,1992-03-28,,199203280000,saturday,NK Osijek,Hajduk Split,3,3,6,D,D,D,,,,,,,
 croatia-1992,7,1992-03-28,,199203280000,saturday,NK Inker Zaprešić,HAŠK-Građanski,2,1,3,H,W,L,,,,,,,
-croatia-1992,7,1992-03-28,,199203280000,saturday,HNK Šibenik,NK Istra Pula,0,0,0,D,D,D,0,0,0,D,D,D,
+croatia-1992,7,1992-03-28,,199203280000,saturday,HNK Šibenik,NK Istra Pula,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
 croatia-1992,8,1992-03-31,,199203310000,tuesday,NK Zadar,NK Istra Pula,0,1,1,A,L,W,,,,,,,
 croatia-1992,8,1992-03-31,,199203310000,tuesday,HNK Rijeka,NK Osijek,2,0,2,H,W,L,,,,,,,
 croatia-1992,8,1992-03-31,,199203310000,tuesday,Hajduk Split,NK Inker Zaprešić,0,2,2,A,L,W,,,,,,,
 croatia-1992,8,1992-03-31,,199203310000,tuesday,HAŠK-Građanski,NK Varteks,4,0,4,H,W,L,,,,,,,
-croatia-1992,8,1992-03-31,,199203310000,tuesday,HNK Dubrovnik,NK Zagreb,0,0,0,D,D,D,0,0,0,D,D,D,
-croatia-1992,8,1992-03-31,,199203310000,tuesday,HNK Cibalia,HNK Šibenik,0,0,0,D,D,D,0,0,0,D,D,D,
+croatia-1992,8,1992-03-31,,199203310000,tuesday,HNK Dubrovnik,NK Zagreb,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
+croatia-1992,8,1992-03-31,,199203310000,tuesday,HNK Cibalia,HNK Šibenik,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
 croatia-1992,9,1992-04-04,,199204040000,saturday,NK Zagreb,HAŠK-Građanski,2,0,2,H,W,L,,,,,,,
 croatia-1992,9,1992-04-04,,199204040000,saturday,NK Varteks,Hajduk Split,0,1,1,A,L,W,,,,,,,
 croatia-1992,9,1992-04-04,,199204040000,saturday,NK Osijek,NK Zadar,4,0,4,H,W,L,,,,,,,
 croatia-1992,9,1992-04-04,,199204040000,saturday,NK Istra Pula,HNK Cibalia,2,0,2,H,W,L,,,,,,,
 croatia-1992,9,1992-04-04,,199204040000,saturday,NK Inker Zaprešić,HNK Rijeka,3,0,3,H,W,L,,,,,,,
-croatia-1992,9,1992-04-04,,199204040000,saturday,HNK Šibenik,HNK Dubrovnik,0,0,0,D,D,D,0,0,0,D,D,D,
+croatia-1992,9,1992-04-04,,199204040000,saturday,HNK Šibenik,HNK Dubrovnik,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
 croatia-1992,10,1992-04-11,,199204110000,saturday,NK Zadar,HNK Cibalia,2,2,4,D,D,D,,,,,,,
 croatia-1992,10,1992-04-11,,199204110000,saturday,HNK Rijeka,NK Varteks,1,0,1,H,W,L,,,,,,,
 croatia-1992,10,1992-04-11,,199204110000,saturday,NK Osijek,NK Inker Zaprešić,2,1,3,H,W,L,,,,,,,
@@ -63,10 +63,10 @@ croatia-1992,11,1992-04-14,,199204140000,tuesday,NK Zagreb,HNK Rijeka,1,0,1,H,W,
 croatia-1992,11,1992-04-14,,199204140000,tuesday,NK Varteks,NK Osijek,0,1,1,A,L,W,,,,,,,
 croatia-1992,11,1992-04-14,,199204140000,tuesday,NK Istra Pula,HAŠK-Građanski,1,1,2,D,D,D,,,,,,,
 croatia-1992,11,1992-04-14,,199204140000,tuesday,NK Inker Zaprešić,NK Zadar,2,1,3,H,W,L,,,,,,,
-croatia-1992,11,1992-04-14,,199204140000,tuesday,HNK Cibalia,HNK Dubrovnik,0,0,0,D,D,D,0,0,0,D,D,D,
+croatia-1992,11,1992-04-14,,199204140000,tuesday,HNK Cibalia,HNK Dubrovnik,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
 croatia-1992,11,1992-04-14,,199204140000,tuesday,HNK Šibenik,Hajduk Split,2,3,5,A,L,W,,,,,,,
 croatia-1992,12,1992-04-25,,199204250000,saturday,NK Zagreb,NK Osijek,2,0,2,H,W,L,,,,,,,
-croatia-1992,12,1992-04-25,,199204250000,saturday,NK Zadar,HNK Dubrovnik,0,0,0,D,D,D,0,0,0,D,D,D,
+croatia-1992,12,1992-04-25,,199204250000,saturday,NK Zadar,HNK Dubrovnik,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
 croatia-1992,12,1992-04-25,,199204250000,saturday,NK Varteks,NK Inker Zaprešić,1,1,2,D,D,D,,,,,,,
 croatia-1992,12,1992-04-25,,199204250000,saturday,NK Istra Pula,Hajduk Split,0,1,1,A,L,W,,,,,,,
 croatia-1992,12,1992-04-25,,199204250000,saturday,HNK Cibalia,HAŠK-Građanski,0,2,2,A,L,W,,,,,,,
@@ -74,7 +74,7 @@ croatia-1992,12,1992-04-25,,199204250000,saturday,HNK Šibenik,HNK Rijeka,1,2,3,
 croatia-1992,13,1992-05-02,,199205020000,saturday,NK Varteks,NK Zadar,4,0,4,H,W,L,,,,,,,
 croatia-1992,13,1992-05-02,,199205020000,saturday,HNK Rijeka,NK Istra Pula,3,0,3,H,W,L,,,,,,,
 croatia-1992,13,1992-05-02,,199205020000,saturday,NK Osijek,HNK Šibenik,3,1,4,H,W,L,,,,,,,
-croatia-1992,13,1992-05-02,,199205020000,saturday,NK Inker Zaprešić,NK Zagreb,0,0,0,D,D,D,0,0,0,D,D,D,
+croatia-1992,13,1992-05-02,,199205020000,saturday,NK Inker Zaprešić,NK Zagreb,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
 croatia-1992,13,1992-05-02,,199205020000,saturday,Hajduk Split,HNK Cibalia,1,1,2,D,D,D,,,,,,,
 croatia-1992,13,1992-05-02,,199205020000,saturday,HAŠK-Građanski,HNK Dubrovnik,2,1,3,H,W,L,,,,,,,
 croatia-1992,14,1992-05-05,,199205050000,tuesday,NK Zagreb,NK Varteks,2,2,4,D,D,D,,,,,,,
@@ -88,11 +88,11 @@ croatia-1992,15,1992-05-09,,199205090000,saturday,NK Varteks,HNK Šibenik,4,0,4,
 croatia-1992,15,1992-05-09,,199205090000,saturday,HNK Rijeka,HNK Dubrovnik,3,0,3,H,W,L,,,,,,,
 croatia-1992,15,1992-05-09,,199205090000,saturday,NK Osijek,HNK Cibalia,2,1,3,H,W,L,,,,,,,
 croatia-1992,15,1992-05-09,,199205090000,saturday,NK Inker Zaprešić,NK Istra Pula,4,1,5,H,W,L,,,,,,,
-croatia-1992,15,1992-05-09,,199205090000,saturday,Hajduk Split,HAŠK-Građanski,0,0,0,D,D,D,0,0,0,D,D,D,
+croatia-1992,15,1992-05-09,,199205090000,saturday,Hajduk Split,HAŠK-Građanski,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
 croatia-1992,16,1992-05-12,,199205120000,tuesday,NK Zadar,Hajduk Split,0,3,3,A,L,W,,,,,,,
 croatia-1992,16,1992-05-12,,199205120000,tuesday,NK Istra Pula,NK Varteks,2,1,3,H,W,L,,,,,,,
 croatia-1992,16,1992-05-12,,199205120000,tuesday,HAŠK-Građanski,HNK Rijeka,2,0,2,H,W,L,,,,,,,
-croatia-1992,16,1992-05-12,,199205120000,tuesday,HNK Dubrovnik,NK Osijek,0,0,0,D,D,D,0,0,0,D,D,D,
+croatia-1992,16,1992-05-12,,199205120000,tuesday,HNK Dubrovnik,NK Osijek,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
 croatia-1992,16,1992-05-12,,199205120000,tuesday,HNK Cibalia,NK Inker Zaprešić,1,0,1,H,W,L,,,,,,,
 croatia-1992,16,1992-05-12,,199205120000,tuesday,HNK Šibenik,NK Zagreb,0,1,1,A,L,W,,,,,,,
 croatia-1992,17,1992-05-16,,199205160000,saturday,NK Zagreb,NK Istra Pula,2,1,3,H,W,L,,,,,,,
@@ -105,18 +105,18 @@ croatia-1992,18,1992-05-23,,199205230000,saturday,NK Zadar,HNK Rijeka,1,1,2,D,D,
 croatia-1992,18,1992-05-23,,199205230000,saturday,NK Istra Pula,HNK Šibenik,1,0,1,H,W,L,,,,,,,
 croatia-1992,18,1992-05-23,,199205230000,saturday,Hajduk Split,NK Osijek,2,0,2,H,W,L,,,,,,,
 croatia-1992,18,1992-05-23,,199205230000,saturday,HAŠK-Građanski,NK Inker Zaprešić,0,2,2,A,L,W,,,,,,,
-croatia-1992,18,1992-05-23,,199205230000,saturday,HNK Dubrovnik,NK Varteks,0,0,0,D,D,D,0,0,0,D,D,D,
+croatia-1992,18,1992-05-23,,199205230000,saturday,HNK Dubrovnik,NK Varteks,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
 croatia-1992,18,1992-05-23,,199205230000,saturday,HNK Cibalia,NK Zagreb,0,1,1,A,L,W,,,,,,,
 croatia-1992,19,1992-05-26,,199205260000,tuesday,NK Zagreb,HNK Dubrovnik,3,0,3,H,W,L,,,,,,,
 croatia-1992,19,1992-05-26,,199205260000,tuesday,NK Varteks,HAŠK-Građanski,4,0,4,H,W,L,,,,,,,
 croatia-1992,19,1992-05-26,,199205260000,tuesday,NK Osijek,HNK Rijeka,3,2,5,H,W,L,,,,,,,
 croatia-1992,19,1992-05-26,,199205260000,tuesday,NK Istra Pula,NK Zadar,2,1,3,H,W,L,,,,,,,
-croatia-1992,19,1992-05-26,,199205260000,tuesday,NK Inker Zaprešić,Hajduk Split,0,0,0,D,D,D,0,0,0,D,D,D,
+croatia-1992,19,1992-05-26,,199205260000,tuesday,NK Inker Zaprešić,Hajduk Split,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
 croatia-1992,19,1992-05-26,,199205260000,tuesday,HNK Šibenik,HNK Cibalia,1,1,2,D,D,D,,,,,,,
 croatia-1992,20,1992-05-31,,199205310000,sunday,NK Zadar,NK Osijek,3,5,8,A,L,W,,,,,,,
-croatia-1992,20,1992-05-31,,199205310000,sunday,HNK Rijeka,NK Inker Zaprešić,0,0,0,D,D,D,0,0,0,D,D,D,
+croatia-1992,20,1992-05-31,,199205310000,sunday,HNK Rijeka,NK Inker Zaprešić,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
 croatia-1992,20,1992-05-31,,199205310000,sunday,Hajduk Split,NK Varteks,1,0,1,H,W,L,,,,,,,
-croatia-1992,20,1992-05-31,,199205310000,sunday,HAŠK-Građanski,NK Zagreb,0,0,0,D,D,D,0,0,0,D,D,D,
+croatia-1992,20,1992-05-31,,199205310000,sunday,HAŠK-Građanski,NK Zagreb,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
 croatia-1992,20,1992-05-31,,199205310000,sunday,HNK Dubrovnik,HNK Šibenik,2,1,3,H,W,L,,,,,,,
 croatia-1992,20,1992-05-31,,199205310000,sunday,HNK Cibalia,NK Istra Pula,1,1,2,D,D,D,,,,,,,
 croatia-1992,21,1992-06-06,,199206060000,saturday,NK Zagreb,Hajduk Split,3,0,3,H,W,L,,,,,,,
@@ -130,7 +130,7 @@ croatia-1992,22,1992-06-13,,199206130000,saturday,HNK Rijeka,NK Zagreb,1,1,2,D,D
 croatia-1992,22,1992-06-13,,199206130000,saturday,NK Osijek,NK Varteks,2,1,3,H,W,L,,,,,,,
 croatia-1992,22,1992-06-13,,199206130000,saturday,Hajduk Split,HNK Šibenik,4,1,5,H,W,L,,,,,,,
 croatia-1992,22,1992-06-13,,199206130000,saturday,HAŠK-Građanski,NK Istra Pula,3,1,4,H,W,L,,,,,,,
-croatia-1992,22,1992-06-13,,199206130000,saturday,HNK Dubrovnik,HNK Cibalia,0,0,0,D,D,D,0,0,0,D,D,D,
+croatia-1992,22,1992-06-13,,199206130000,saturday,HNK Dubrovnik,HNK Cibalia,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
 croatia-1992-1993,1,1992-08-23,,199208230000,sunday,NK Zagreb,HNK Segesta,5,1,6,H,W,L,,,,,,,
 croatia-1992-1993,1,1992-08-23,,199208230000,sunday,NK Varteks,HAŠK-Građanski,3,3,6,D,D,D,,,,,,,
 croatia-1992-1993,1,1992-08-23,,199208230000,sunday,HNK Rijeka,NK Pazinka Pazin,2,0,2,H,W,L,,,,,,,
@@ -5568,3 +5568,109 @@ croatia-2017-2018,36,2018-05-18,19:00,201805181900,friday,NK Istra 1961,NK Rude�
 croatia-2017-2018,36,2018-05-18,19:00,201805181900,friday,Lokomotiva Zagreb,HNK Cibalia,2,1,3,H,W,L,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/1-hnl-2017-2018-lokomotiva-zagreb-hnk-cibalia/
 croatia-2017-2018,36,2018-05-19,16:00,201805191600,saturday,HNK Rijeka,Hajduk Split,3,1,4,H,W,L,2.0,0.0,2.0,H,W,L,http://www.worldfootball.net/report/1-hnl-2017-2018-hnk-rijeka-hajduk-split_2/
 croatia-2017-2018,36,2018-05-19,18:00,201805191800,saturday,Dinamo Zagreb,NK Inter Zaprešić,3,1,4,H,W,L,2.0,0.0,2.0,H,W,L,http://www.worldfootball.net/report/1-hnl-2017-2018-dinamo-zagreb-nk-inter-zapresic_2/
+croatia-2018-2019,1,2018-07-27,19:00,201807271900,friday,Dinamo Zagreb,NK Rudeš,1,1,2,D,D,D,0,1,1,A,L,W,http://www.worldfootball.net/report/1-hnl-2018-2019-dinamo-zagreb-nk-rudes/
+croatia-2018-2019,1,2018-07-28,17:30,201807281730,saturday,Lokomotiva Zagreb,NK Inter Zaprešić,4,0,4,H,W,L,3,0,3,H,W,L,http://www.worldfootball.net/report/1-hnl-2018-2019-lokomotiva-zagreb-nk-inter-zapresic/
+croatia-2018-2019,1,2018-07-28,20:00,201807282000,saturday,HNK Rijeka,HNK Gorica,2,0,2,H,W,L,2,0,2,H,W,L,http://www.worldfootball.net/report/1-hnl-2018-2019-hnk-rijeka-hnk-gorica/
+croatia-2018-2019,1,2018-07-29,17:30,201807291730,sunday,NK Istra 1961,Slaven Belupo,1,1,2,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/1-hnl-2018-2019-nk-istra-1961-slaven-belupo/
+croatia-2018-2019,1,2018-07-29,20:00,201807292000,sunday,NK Osijek,Hajduk Split,4,1,5,H,W,L,2,1,3,H,W,L,http://www.worldfootball.net/report/1-hnl-2018-2019-nk-osijek-hajduk-split/
+croatia-2018-2019,2,2018-08-03,17:30,201808031730,friday,HNK Rijeka,NK Inter Zaprešić,4,0,4,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/1-hnl-2018-2019-hnk-rijeka-nk-inter-zapresic/
+croatia-2018-2019,2,2018-08-03,20:00,201808032000,friday,Dinamo Zagreb,NK Istra 1961,3,0,3,H,W,L,2,0,2,H,W,L,http://www.worldfootball.net/report/1-hnl-2018-2019-dinamo-zagreb-nk-istra-1961/
+croatia-2018-2019,2,2018-08-04,16:30,201808041630,saturday,HNK Gorica,Slaven Belupo,3,3,6,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/1-hnl-2018-2019-hnk-gorica-slaven-belupo/
+croatia-2018-2019,2,2018-08-05,17:30,201808051730,sunday,NK Osijek,NK Rudeš,3,2,5,H,W,L,2,0,2,H,W,L,http://www.worldfootball.net/report/1-hnl-2018-2019-nk-osijek-nk-rudes/
+croatia-2018-2019,2,2018-08-05,20:00,201808052000,sunday,Hajduk Split,Lokomotiva Zagreb,1,1,2,D,D,D,1,0,1,H,W,L,http://www.worldfootball.net/report/1-hnl-2018-2019-hajduk-split-lokomotiva-zagreb/
+croatia-2018-2019,3,2018-08-10,19:00,201808101900,friday,Dinamo Zagreb,Slaven Belupo,2,1,3,H,W,L,2,0,2,H,W,L,http://www.worldfootball.net/report/1-hnl-2018-2019-dinamo-zagreb-slaven-belupo/
+croatia-2018-2019,3,2018-08-11,16:30,201808111630,saturday,HNK Gorica,NK Inter Zaprešić,2,3,5,A,L,W,1,1,2,D,D,D,http://www.worldfootball.net/report/1-hnl-2018-2019-hnk-gorica-nk-inter-zapresic/
+croatia-2018-2019,3,2018-08-11,20:00,201808112000,saturday,Lokomotiva Zagreb,NK Rudeš,1,0,1,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/1-hnl-2018-2019-lokomotiva-zagreb-nk-rudes/
+croatia-2018-2019,3,2018-08-12,17:30,201808121730,sunday,NK Osijek,NK Istra 1961,3,0,3,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/1-hnl-2018-2019-nk-osijek-nk-istra-1961/
+croatia-2018-2019,3,2018-08-12,20:00,201808122000,sunday,HNK Rijeka,Hajduk Split,1,1,2,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/1-hnl-2018-2019-hnk-rijeka-hajduk-split/
+croatia-2018-2019,4,2018-08-17,19:00,201808171900,friday,Dinamo Zagreb,NK Osijek,2,1,3,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/1-hnl-2018-2019-dinamo-zagreb-nk-osijek/
+croatia-2018-2019,4,2018-08-18,20:00,201808182000,saturday,NK Istra 1961,Lokomotiva Zagreb,1,2,3,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/1-hnl-2018-2019-nk-istra-1961-lokomotiva-zagreb/
+croatia-2018-2019,4,2018-08-19,17:30,201808191730,sunday,NK Rudeš,HNK Rijeka,1,2,3,A,L,W,1,2,3,A,L,W,http://www.worldfootball.net/report/1-hnl-2018-2019-nk-rudes-hnk-rijeka/
+croatia-2018-2019,4,2018-08-19,20:00,201808192000,sunday,Hajduk Split,HNK Gorica,0,2,2,A,L,W,0,2,2,A,L,W,http://www.worldfootball.net/report/1-hnl-2018-2019-hajduk-split-hnk-gorica/
+croatia-2018-2019,5,2018-08-24,19:00,201808241900,friday,NK Osijek,Slaven Belupo,1,1,2,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/1-hnl-2018-2019-nk-osijek-slaven-belupo/
+croatia-2018-2019,5,2018-08-25,16:30,201808251630,saturday,HNK Gorica,NK Rudeš,2,0,2,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/1-hnl-2018-2019-hnk-gorica-nk-rudes/
+croatia-2018-2019,5,2018-08-25,20:00,201808252000,saturday,Dinamo Zagreb,Lokomotiva Zagreb,1,0,1,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/1-hnl-2018-2019-dinamo-zagreb-lokomotiva-zagreb/
+croatia-2018-2019,5,2018-08-26,17:30,201808261730,sunday,NK Inter Zaprešić,Hajduk Split,2,2,4,D,D,D,1,0,1,H,W,L,http://www.worldfootball.net/report/1-hnl-2018-2019-nk-inter-zapresic-hajduk-split/
+croatia-2018-2019,5,2018-08-26,20:00,201808262000,sunday,HNK Rijeka,NK Istra 1961,3,3,6,D,D,D,2,2,4,D,D,D,http://www.worldfootball.net/report/1-hnl-2018-2019-hnk-rijeka-nk-istra-1961/
+croatia-2018-2019,6,2018-08-31,19:00,201808311900,friday,NK Inter Zaprešić,NK Rudeš,3,0,3,H,W,L,3,0,3,H,W,L,http://www.worldfootball.net/report/1-hnl-2018-2019-nk-inter-zapresic-nk-rudes/
+croatia-2018-2019,6,2018-09-01,17:30,201809011730,saturday,Slaven Belupo,Hajduk Split,1,1,2,D,D,D,1,1,2,D,D,D,http://www.worldfootball.net/report/1-hnl-2018-2019-slaven-belupo-hajduk-split/
+croatia-2018-2019,6,2018-09-01,20:00,201809012000,saturday,NK Osijek,Lokomotiva Zagreb,2,1,3,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/1-hnl-2018-2019-nk-osijek-lokomotiva-zagreb/
+croatia-2018-2019,6,2018-09-02,17:30,201809021730,sunday,NK Istra 1961,HNK Gorica,0,2,2,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/1-hnl-2018-2019-nk-istra-1961-hnk-gorica/
+croatia-2018-2019,6,2018-09-02,20:00,201809022000,sunday,Dinamo Zagreb,HNK Rijeka,1,1,2,D,D,D,1,1,2,D,D,D,http://www.worldfootball.net/report/1-hnl-2018-2019-dinamo-zagreb-hnk-rijeka/
+croatia-2018-2019,4,2018-09-08,16:30,201809081630,saturday,Slaven Belupo,NK Inter Zaprešić,2,1,3,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/1-hnl-2018-2019-slaven-belupo-nk-inter-zapresic/
+croatia-2018-2019,7,2018-09-14,17:00,201809141700,friday,NK Inter Zaprešić,NK Istra 1961,1,2,3,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/1-hnl-2018-2019-nk-inter-zapresic-nk-istra-1961/
+croatia-2018-2019,7,2018-09-15,15:30,201809151530,saturday,HNK Gorica,Dinamo Zagreb,0,1,1,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/1-hnl-2018-2019-hnk-gorica-dinamo-zagreb/
+croatia-2018-2019,7,2018-09-15,18:00,201809151800,saturday,Hajduk Split,NK Rudeš,3,1,4,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/1-hnl-2018-2019-hajduk-split-nk-rudes/
+croatia-2018-2019,7,2018-09-16,15:30,201809161530,sunday,Slaven Belupo,Lokomotiva Zagreb,2,5,7,A,L,W,0,2,2,A,L,W,http://www.worldfootball.net/report/1-hnl-2018-2019-slaven-belupo-lokomotiva-zagreb/
+croatia-2018-2019,7,2018-09-16,18:00,201809161800,sunday,HNK Rijeka,NK Osijek,1,1,2,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/1-hnl-2018-2019-hnk-rijeka-nk-osijek/
+croatia-2018-2019,8,2018-09-21,17:00,201809211700,friday,Slaven Belupo,NK Rudeš,1,1,2,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/1-hnl-2018-2019-slaven-belupo-nk-rudes/
+croatia-2018-2019,8,2018-09-22,15:30,201809221530,saturday,NK Osijek,HNK Gorica,0,1,1,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/1-hnl-2018-2019-nk-osijek-hnk-gorica/
+croatia-2018-2019,8,2018-09-22,18:00,201809221800,saturday,Lokomotiva Zagreb,HNK Rijeka,2,0,2,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/1-hnl-2018-2019-lokomotiva-zagreb-hnk-rijeka/
+croatia-2018-2019,8,2018-09-23,15:30,201809231530,sunday,Dinamo Zagreb,NK Inter Zaprešić,5,3,8,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/1-hnl-2018-2019-dinamo-zagreb-nk-inter-zapresic/
+croatia-2018-2019,8,2018-09-23,18:00,201809231800,sunday,NK Istra 1961,Hajduk Split,2,4,6,A,L,W,1,3,4,A,L,W,http://www.worldfootball.net/report/1-hnl-2018-2019-nk-istra-1961-hajduk-split/
+croatia-2018-2019,9,2018-09-29,15:30,201809291530,saturday,Hajduk Split,Dinamo Zagreb,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/1-hnl-2018-2019-hajduk-split-dinamo-zagreb/
+croatia-2018-2019,9,2018-09-29,18:00,201809291800,saturday,NK Inter Zaprešić,NK Osijek,0,3,3,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/1-hnl-2018-2019-nk-inter-zapresic-nk-osijek/
+croatia-2018-2019,9,2018-09-30,15:00,201809301500,sunday,HNK Gorica,Lokomotiva Zagreb,0,3,3,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/1-hnl-2018-2019-hnk-gorica-lokomotiva-zagreb/
+croatia-2018-2019,9,2018-09-30,18:00,201809301800,sunday,HNK Rijeka,Slaven Belupo,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/1-hnl-2018-2019-hnk-rijeka-slaven-belupo/
+croatia-2018-2019,9,2018-10-01,17:00,201810011700,monday,NK Rudeš,NK Istra 1961,0,3,3,A,L,W,0,2,2,A,L,W,http://www.worldfootball.net/report/1-hnl-2018-2019-nk-rudes-nk-istra-1961/
+croatia-2018-2019,10,2018-10-05,17:00,201810051700,friday,NK Inter Zaprešić,Lokomotiva Zagreb,2,1,3,H,W,L,1,1,2,D,D,D,http://www.worldfootball.net/report/1-hnl-2018-2019-nk-inter-zapresic-lokomotiva-zagreb/
+croatia-2018-2019,10,2018-10-06,14:00,201810061400,saturday,HNK Gorica,HNK Rijeka,2,1,3,H,W,L,0,1,1,A,L,W,http://www.worldfootball.net/report/1-hnl-2018-2019-hnk-gorica-hnk-rijeka/
+croatia-2018-2019,10,2018-10-06,18:00,201810061800,saturday,Slaven Belupo,NK Istra 1961,3,1,4,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/1-hnl-2018-2019-slaven-belupo-nk-istra-1961/
+croatia-2018-2019,10,2018-10-07,15:30,201810071530,sunday,NK Rudeš,Dinamo Zagreb,0,3,3,A,L,W,0,2,2,A,L,W,http://www.worldfootball.net/report/1-hnl-2018-2019-nk-rudes-dinamo-zagreb/
+croatia-2018-2019,10,2018-10-07,18:00,201810071800,sunday,Hajduk Split,NK Osijek,0,2,2,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/1-hnl-2018-2019-hajduk-split-nk-osijek/
+croatia-2018-2019,11,2018-10-19,17:00,201810191700,friday,NK Inter Zaprešić,HNK Rijeka,1,2,3,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/1-hnl-2018-2019-nk-inter-zapresic-hnk-rijeka/
+croatia-2018-2019,11,2018-10-20,14:00,201810201400,saturday,NK Rudeš,NK Osijek,1,4,5,A,L,W,1,0,1,H,W,L,http://www.worldfootball.net/report/1-hnl-2018-2019-nk-rudes-nk-osijek/
+croatia-2018-2019,11,2018-10-20,16:30,201810201630,saturday,NK Istra 1961,Dinamo Zagreb,1,4,5,A,L,W,1,1,2,D,D,D,http://www.worldfootball.net/report/1-hnl-2018-2019-nk-istra-1961-dinamo-zagreb/
+croatia-2018-2019,11,2018-10-21,14:00,201810211400,sunday,Slaven Belupo,HNK Gorica,0,1,1,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/1-hnl-2018-2019-slaven-belupo-hnk-gorica/
+croatia-2018-2019,11,2018-10-21,16:30,201810211630,sunday,Lokomotiva Zagreb,Hajduk Split,2,0,2,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/1-hnl-2018-2019-lokomotiva-zagreb-hajduk-split/
+croatia-2018-2019,12,2018-10-26,17:00,201810261700,friday,NK Rudeš,Lokomotiva Zagreb,0,4,4,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/1-hnl-2018-2019-nk-rudes-lokomotiva-zagreb/
+croatia-2018-2019,12,2018-10-27,14:00,201810271400,saturday,NK Inter Zaprešić,HNK Gorica,1,3,4,A,L,W,1,2,3,A,L,W,http://www.worldfootball.net/report/1-hnl-2018-2019-nk-inter-zapresic-hnk-gorica/
+croatia-2018-2019,12,2018-10-27,16:30,201810271630,saturday,NK Istra 1961,NK Osijek,1,1,2,D,D,D,0,1,1,A,L,W,http://www.worldfootball.net/report/1-hnl-2018-2019-nk-istra-1961-nk-osijek/
+croatia-2018-2019,12,2018-10-28,14:00,201810281400,sunday,Hajduk Split,HNK Rijeka,1,1,2,D,D,D,1,0,1,H,W,L,http://www.worldfootball.net/report/1-hnl-2018-2019-hajduk-split-hnk-rijeka/
+croatia-2018-2019,12,2018-10-28,16:30,201810281630,sunday,Slaven Belupo,Dinamo Zagreb,0,2,2,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/1-hnl-2018-2019-slaven-belupo-dinamo-zagreb/
+croatia-2018-2019,13,2018-11-03,14:00,201811031400,saturday,Lokomotiva Zagreb,NK Istra 1961,1,0,1,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/1-hnl-2018-2019-lokomotiva-zagreb-nk-istra-1961/
+croatia-2018-2019,13,2018-11-04,14:00,201811041400,sunday,HNK Gorica,Hajduk Split,1,1,2,D,D,D,1,1,2,D,D,D,http://www.worldfootball.net/report/1-hnl-2018-2019-hnk-gorica-hajduk-split/
+croatia-2018-2019,13,2018-11-04,16:30,201811041630,sunday,NK Osijek,Dinamo Zagreb,0,2,2,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/1-hnl-2018-2019-nk-osijek-dinamo-zagreb/
+croatia-2018-2019,13,2018-11-05,17:00,201811051700,monday,NK Inter Zaprešić,Slaven Belupo,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/1-hnl-2018-2019-nk-inter-zapresic-slaven-belupo/
+croatia-2018-2019,13,2018-11-05,19:00,201811051900,monday,HNK Rijeka,NK Rudeš,5,1,6,H,W,L,2,1,3,H,W,L,http://www.worldfootball.net/report/1-hnl-2018-2019-hnk-rijeka-nk-rudes/
+croatia-2018-2019,14,2018-11-09,17:00,201811091700,friday,NK Rudeš,HNK Gorica,0,1,1,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/1-hnl-2018-2019-nk-rudes-hnk-gorica/
+croatia-2018-2019,14,2018-11-10,14:00,201811101400,saturday,Slaven Belupo,NK Osijek,0,2,2,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/1-hnl-2018-2019-slaven-belupo-nk-osijek/
+croatia-2018-2019,14,2018-11-10,16:30,201811101630,saturday,Hajduk Split,NK Inter Zaprešić,3,0,3,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/1-hnl-2018-2019-hajduk-split-nk-inter-zapresic/
+croatia-2018-2019,14,2018-11-11,14:00,201811111400,sunday,NK Istra 1961,HNK Rijeka,1,2,3,A,L,W,0,2,2,A,L,W,http://www.worldfootball.net/report/1-hnl-2018-2019-nk-istra-1961-hnk-rijeka/
+croatia-2018-2019,14,2018-11-11,16:30,201811111630,sunday,Lokomotiva Zagreb,Dinamo Zagreb,0,1,1,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/1-hnl-2018-2019-lokomotiva-zagreb-dinamo-zagreb/
+croatia-2018-2019,15,2018-11-23,17:00,201811231700,friday,NK Rudeš,NK Inter Zaprešić,0,1,1,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/1-hnl-2018-2019-nk-rudes-nk-inter-zapresic/
+croatia-2018-2019,15,2018-11-24,14:00,201811241400,saturday,HNK Rijeka,Dinamo Zagreb,1,0,1,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/1-hnl-2018-2019-hnk-rijeka-dinamo-zagreb/
+croatia-2018-2019,15,2018-11-24,16:30,201811241630,saturday,HNK Gorica,NK Istra 1961,0,2,2,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/1-hnl-2018-2019-hnk-gorica-nk-istra-1961/
+croatia-2018-2019,15,2018-11-25,14:00,201811251400,sunday,Hajduk Split,Slaven Belupo,2,2,4,D,D,D,1,1,2,D,D,D,http://www.worldfootball.net/report/1-hnl-2018-2019-hajduk-split-slaven-belupo/
+croatia-2018-2019,15,2018-11-25,16:30,201811251630,sunday,Lokomotiva Zagreb,NK Osijek,2,2,4,D,D,D,1,1,2,D,D,D,http://www.worldfootball.net/report/1-hnl-2018-2019-lokomotiva-zagreb-nk-osijek/
+croatia-2018-2019,16,2018-11-30,15:00,201811301500,friday,NK Istra 1961,NK Inter Zaprešić,0,2,2,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/1-hnl-2018-2019-nk-istra-1961-nk-inter-zapresic/
+croatia-2018-2019,16,2018-11-30,17:00,201811301700,friday,Lokomotiva Zagreb,Slaven Belupo,1,1,2,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/1-hnl-2018-2019-lokomotiva-zagreb-slaven-belupo/
+croatia-2018-2019,16,2018-12-01,14:00,201812011400,saturday,NK Osijek,HNK Rijeka,1,2,3,A,L,W,1,1,2,D,D,D,http://www.worldfootball.net/report/1-hnl-2018-2019-nk-osijek-hnk-rijeka/
+croatia-2018-2019,16,2018-12-01,16:30,201812011630,saturday,NK Rudeš,Hajduk Split,1,4,5,A,L,W,0,2,2,A,L,W,http://www.worldfootball.net/report/1-hnl-2018-2019-nk-rudes-hajduk-split/
+croatia-2018-2019,16,2018-12-02,14:00,201812021400,sunday,Dinamo Zagreb,HNK Gorica,1,0,1,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/1-hnl-2018-2019-dinamo-zagreb-hnk-gorica/
+croatia-2018-2019,17,2018-12-08,14:00,201812081400,saturday,HNK Rijeka,Lokomotiva Zagreb,3,0,3,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/1-hnl-2018-2019-hnk-rijeka-lokomotiva-zagreb/
+croatia-2018-2019,17,2018-12-08,16:30,201812081630,saturday,Hajduk Split,NK Istra 1961,3,1,4,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/1-hnl-2018-2019-hajduk-split-nk-istra-1961/
+croatia-2018-2019,17,2018-12-09,14:00,201812091400,sunday,NK Inter Zaprešić,Dinamo Zagreb,0,2,2,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/1-hnl-2018-2019-nk-inter-zapresic-dinamo-zagreb/
+croatia-2018-2019,17,2018-12-09,16:30,201812091630,sunday,HNK Gorica,NK Osijek,1,2,3,A,L,W,1,1,2,D,D,D,http://www.worldfootball.net/report/1-hnl-2018-2019-hnk-gorica-nk-osijek/
+croatia-2018-2019,17,2018-12-10,17:00,201812101700,monday,NK Rudeš,Slaven Belupo,1,1,2,D,D,D,0,1,1,A,L,W,http://www.worldfootball.net/report/1-hnl-2018-2019-nk-rudes-slaven-belupo/
+croatia-2018-2019,18,2018-12-14,17:00,201812141700,friday,Lokomotiva Zagreb,HNK Gorica,2,2,4,D,D,D,1,1,2,D,D,D,http://www.worldfootball.net/report/1-hnl-2018-2019-lokomotiva-zagreb-hnk-gorica/
+croatia-2018-2019,18,2018-12-16,12:00,201812161200,sunday,NK Osijek,NK Inter Zaprešić,6,0,6,H,W,L,3,0,3,H,W,L,http://www.worldfootball.net/report/1-hnl-2018-2019-nk-osijek-nk-inter-zapresic/
+croatia-2018-2019,18,2018-12-16,14:00,201812161400,sunday,Dinamo Zagreb,Hajduk Split,1,0,1,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/1-hnl-2018-2019-dinamo-zagreb-hajduk-split/
+croatia-2018-2019,18,2018-12-16,16:30,201812161630,sunday,NK Istra 1961,NK Rudeš,1,0,1,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/1-hnl-2018-2019-nk-istra-1961-nk-rudes/
+croatia-2018-2019,18,2019-01-30,16:00,201901301600,wednesday,Slaven Belupo,HNK Rijeka,1,1,2,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/1-hnl-2018-2019-slaven-belupo-hnk-rijeka/
+croatia-2018-2019,19,2019-02-01,17:00,201902011700,friday,Lokomotiva Zagreb,NK Inter Zaprešić,2,0,2,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/1-hnl-2018-2019-lokomotiva-zagreb-nk-inter-zapresic_2/
+croatia-2018-2019,19,2019-02-02,14:00,201902021400,saturday,Dinamo Zagreb,NK Rudeš,7,2,9,H,W,L,4,1,5,H,W,L,http://www.worldfootball.net/report/1-hnl-2018-2019-dinamo-zagreb-nk-rudes_2/
+croatia-2018-2019,19,2019-02-02,16:30,201902021630,saturday,NK Istra 1961,Slaven Belupo,1,1,2,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/1-hnl-2018-2019-nk-istra-1961-slaven-belupo_2/
+croatia-2018-2019,19,2019-02-03,14:00,201902031400,sunday,NK Osijek,Hajduk Split,0,1,1,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/1-hnl-2018-2019-nk-osijek-hajduk-split_2/
+croatia-2018-2019,19,2019-02-03,16:30,201902031630,sunday,HNK Rijeka,HNK Gorica,1,3,4,A,L,W,1,1,2,D,D,D,http://www.worldfootball.net/report/1-hnl-2018-2019-hnk-rijeka-hnk-gorica_2/
+croatia-2018-2019,20,2019-02-08,17:00,201902081700,friday,NK Rudeš,NK Osijek,0,1,1,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/1-hnl-2018-2019-nk-rudes-nk-osijek_2/
+croatia-2018-2019,20,2019-02-09,14:00,201902091400,saturday,Slaven Belupo,HNK Gorica,2,0,2,H,W,L,2,0,2,H,W,L,http://www.worldfootball.net/report/1-hnl-2018-2019-slaven-belupo-hnk-gorica_2/
+croatia-2018-2019,20,2019-02-09,16:30,201902091630,saturday,Dinamo Zagreb,NK Istra 1961,1,0,1,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/1-hnl-2018-2019-dinamo-zagreb-nk-istra-1961_2/
+croatia-2018-2019,20,2019-02-10,14:00,201902101400,sunday,NK Inter Zaprešić,HNK Rijeka,0,3,3,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/1-hnl-2018-2019-nk-inter-zapresic-hnk-rijeka_2/
+croatia-2018-2019,20,2019-02-10,16:30,201902101630,sunday,Hajduk Split,Lokomotiva Zagreb,2,1,3,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/1-hnl-2018-2019-hajduk-split-lokomotiva-zagreb_2/
+croatia-2018-2019,21,2019-02-15,17:00,201902151700,friday,Lokomotiva Zagreb,NK Rudeš,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/1-hnl-2018-2019-lokomotiva-zagreb-nk-rudes_2/
+croatia-2018-2019,21,2019-02-16,14:00,201902161400,saturday,HNK Rijeka,Hajduk Split,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/1-hnl-2018-2019-hnk-rijeka-hajduk-split_2/
+croatia-2018-2019,21,2019-02-16,16:30,201902161630,saturday,HNK Gorica,NK Inter Zaprešić,2,2,4,D,D,D,1,2,3,A,L,W,http://www.worldfootball.net/report/1-hnl-2018-2019-hnk-gorica-nk-inter-zapresic_2/
+croatia-2018-2019,21,2019-02-17,14:00,201902171400,sunday,NK Osijek,NK Istra 1961,1,0,1,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/1-hnl-2018-2019-nk-osijek-nk-istra-1961_2/
+croatia-2018-2019,21,2019-02-17,16:30,201902171630,sunday,Dinamo Zagreb,Slaven Belupo,3,0,3,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/1-hnl-2018-2019-dinamo-zagreb-slaven-belupo_2/
+croatia-2018-2019,22,2019-02-22,17:00,201902221700,friday,NK Rudeš,HNK Rijeka,2,4,6,A,L,W,1,2,3,A,L,W,http://www.worldfootball.net/report/1-hnl-2018-2019-nk-rudes-hnk-rijeka_2/

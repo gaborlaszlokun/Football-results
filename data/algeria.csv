@@ -1,18 +1,18 @@
 Div,Round,Date,Time,timestamp,Weekday,HomeTeam,AwayTeam,FTHG,FTAG,FTG,FTR,FTHR,FTAR,HTHG,HTAG,HTG,HTR,HTHR,HTAR,Report_url
 algeria-2006-2007,1,2006-08-10,,200608100000,thursday,USM Blida,MC Alger,2,2,4,D,D,D,,,,,,,
 algeria-2006-2007,1,2006-08-10,,200608100000,thursday,ASO Chlef,NA Hussein Dey,4,1,5,H,W,L,,,,,,,
-algeria-2006-2007,1,2006-08-10,,200608100000,thursday,JSM Béjaïa,OMR El Annasser,0,0,0,D,D,D,0,0,0,D,D,D,
+algeria-2006-2007,1,2006-08-10,,200608100000,thursday,JSM Béjaïa,OMR El Annasser,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
 algeria-2006-2007,1,2006-08-10,,200608100000,thursday,ASM Oran,MC Oran,0,1,1,A,L,W,,,,,,,
 algeria-2006-2007,1,2006-08-10,,200608100000,thursday,CR Bélouizdad,CA Bordj Bou Arreridj,2,0,2,H,W,L,,,,,,,
 algeria-2006-2007,1,2006-08-10,,200608100000,thursday,Paradou AC,WA Tlemcen,4,1,5,H,W,L,,,,,,,
 algeria-2006-2007,1,2006-08-10,,200608100000,thursday,USM Alger,CA Batna,2,0,2,H,W,L,,,,,,,
 algeria-2006-2007,2,2006-08-21,,200608210000,monday,USM Blida,ASM Oran,1,1,2,D,D,D,,,,,,,
-algeria-2006-2007,2,2006-08-21,,200608210000,monday,WA Tlemcen,CA Batna,0,0,0,D,D,D,0,0,0,D,D,D,
+algeria-2006-2007,2,2006-08-21,,200608210000,monday,WA Tlemcen,CA Batna,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
 algeria-2006-2007,2,2006-08-21,,200608210000,monday,CA Bordj Bou Arreridj,Paradou AC,1,1,2,D,D,D,,,,,,,
 algeria-2006-2007,2,2006-08-21,,200608210000,monday,MC Oran,USM Alger,1,0,1,H,W,L,,,,,,,
 algeria-2006-2007,2,2006-08-21,,200608210000,monday,OMR El Annasser,CR Bélouizdad,1,1,2,D,D,D,,,,,,,
-algeria-2006-2007,2,2006-08-21,,200608210000,monday,ES Sétif,JSM Béjaïa,0,0,0,D,D,D,0,0,0,D,D,D,
-algeria-2006-2007,2,2006-08-21,,200608210000,monday,NA Hussein Dey,JS Kabylie,0,0,0,D,D,D,0,0,0,D,D,D,
+algeria-2006-2007,2,2006-08-21,,200608210000,monday,ES Sétif,JSM Béjaïa,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
+algeria-2006-2007,2,2006-08-21,,200608210000,monday,NA Hussein Dey,JS Kabylie,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
 algeria-2006-2007,2,2006-08-21,,200608210000,monday,MC Alger,ASO Chlef,1,0,1,H,W,L,,,,,,,
 algeria-2006-2007,3,2006-08-25,,200608250000,friday,CA Batna,CA Bordj Bou Arreridj,3,2,5,H,W,L,,,,,,,
 algeria-2006-2007,3,2006-08-25,,200608250000,friday,ASO Chlef,USM Blida,1,1,2,D,D,D,,,,,,,
@@ -24,20 +24,20 @@ algeria-2006-2007,3,2006-08-25,,200608250000,friday,USM Alger,WA Tlemcen,3,0,3,H
 algeria-2006-2007,4,2006-08-31,,200608310000,thursday,MC Alger,JSM Béjaïa,0,1,1,A,L,W,,,,,,,
 algeria-2006-2007,4,2006-09-07,,200609070000,thursday,ASO Chlef,ASM Oran,1,1,2,D,D,D,,,,,,,
 algeria-2006-2007,4,2006-09-07,,200609070000,thursday,CA Bordj Bou Arreridj,WA Tlemcen,1,0,1,H,W,L,,,,,,,
-algeria-2006-2007,4,2006-09-07,,200609070000,thursday,MC Oran,CA Batna,0,0,0,D,D,D,0,0,0,D,D,D,
+algeria-2006-2007,4,2006-09-07,,200609070000,thursday,MC Oran,CA Batna,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
 algeria-2006-2007,4,2006-09-07,,200609070000,thursday,OMR El Annasser,Paradou AC,0,1,1,A,L,W,,,,,,,
 algeria-2006-2007,4,2006-09-07,,200609070000,thursday,ES Sétif,USM Alger,2,0,2,H,W,L,,,,,,,
 algeria-2006-2007,4,2006-09-07,,200609070000,thursday,NA Hussein Dey,CR Bélouizdad,1,1,2,D,D,D,,,,,,,
 algeria-2006-2007,5,2006-09-11,,200609110000,monday,Paradou AC,ES Sétif,0,2,2,A,L,W,,,,,,,
 algeria-2006-2007,5,2006-09-11,,200609110000,monday,USM Alger,CA Bordj Bou Arreridj,2,1,3,H,W,L,,,,,,,
 algeria-2006-2007,5,2006-09-14,,200609140000,thursday,CA Batna,OMR El Annasser,4,1,5,H,W,L,,,,,,,
-algeria-2006-2007,5,2006-09-14,,200609140000,thursday,WA Tlemcen,MC Oran,0,0,0,D,D,D,0,0,0,D,D,D,
-algeria-2006-2007,5,2006-09-14,,200609140000,thursday,JSM Béjaïa,USM Blida,0,0,0,D,D,D,0,0,0,D,D,D,
+algeria-2006-2007,5,2006-09-14,,200609140000,thursday,WA Tlemcen,MC Oran,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
+algeria-2006-2007,5,2006-09-14,,200609140000,thursday,JSM Béjaïa,USM Blida,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
 algeria-2006-2007,5,2006-09-14,,200609140000,thursday,ASM Oran,NA Hussein Dey,1,1,2,D,D,D,,,,,,,
 algeria-2006-2007,5,2006-09-15,,200609150000,friday,CR Bélouizdad,MC Alger,0,2,2,A,L,W,,,,,,,
-algeria-2006-2007,6,2006-09-21,,200609210000,thursday,USM Blida,CR Bélouizdad,0,0,0,D,D,D,0,0,0,D,D,D,
+algeria-2006-2007,6,2006-09-21,,200609210000,thursday,USM Blida,CR Bélouizdad,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
 algeria-2006-2007,6,2006-09-21,,200609210000,thursday,ASO Chlef,JSM Béjaïa,2,1,3,H,W,L,,,,,,,
-algeria-2006-2007,6,2006-09-21,,200609210000,thursday,JS Kabylie,Paradou AC,0,0,0,D,D,D,0,0,0,D,D,D,
+algeria-2006-2007,6,2006-09-21,,200609210000,thursday,JS Kabylie,Paradou AC,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
 algeria-2006-2007,6,2006-09-21,,200609210000,thursday,NA Hussein Dey,USM Alger,2,0,2,H,W,L,,,,,,,
 algeria-2006-2007,1,2006-09-25,,200609250000,monday,JS Kabylie,ES Sétif,2,3,5,A,L,W,,,,,,,
 algeria-2006-2007,6,2006-09-25,,200609250000,monday,MC Oran,CA Bordj Bou Arreridj,4,0,4,H,W,L,,,,,,,
@@ -63,8 +63,8 @@ algeria-2006-2007,9,2006-10-19,,200610190000,thursday,WA Tlemcen,MC Alger,1,0,1,
 algeria-2006-2007,9,2006-10-19,,200610190000,thursday,CA Bordj Bou Arreridj,USM Blida,2,1,3,H,W,L,,,,,,,
 algeria-2006-2007,9,2006-10-19,,200610190000,thursday,ASM Oran,JSM Béjaïa,1,1,2,D,D,D,,,,,,,
 algeria-2006-2007,9,2006-10-19,,200610190000,thursday,CR Bélouizdad,JS Kabylie,3,2,5,H,W,L,,,,,,,
-algeria-2006-2007,9,2006-10-19,,200610190000,thursday,Paradou AC,ASO Chlef,0,0,0,D,D,D,0,0,0,D,D,D,
-algeria-2006-2007,9,2006-10-19,,200610190000,thursday,USM Alger,OMR El Annasser,0,0,0,D,D,D,0,0,0,D,D,D,
+algeria-2006-2007,9,2006-10-19,,200610190000,thursday,Paradou AC,ASO Chlef,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
+algeria-2006-2007,9,2006-10-19,,200610190000,thursday,USM Alger,OMR El Annasser,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
 algeria-2006-2007,9,2006-10-20,,200610200000,friday,CA Batna,NA Hussein Dey,1,1,2,D,D,D,,,,,,,
 algeria-2006-2007,10,2006-10-26,,200610260000,thursday,NA Hussein Dey,MC Oran,3,2,5,H,W,L,,,,,,,
 algeria-2006-2007,10,2006-10-27,,200610270000,friday,USM Blida,WA Tlemcen,1,0,1,H,W,L,,,,,,,
@@ -72,7 +72,7 @@ algeria-2006-2007,10,2006-10-27,,200610270000,friday,ASO Chlef,CA Batna,1,0,1,H,
 algeria-2006-2007,10,2006-10-27,,200610270000,friday,JS Kabylie,USM Alger,1,0,1,H,W,L,,,,,,,
 algeria-2006-2007,10,2006-10-27,,200610270000,friday,JSM Béjaïa,CR Bélouizdad,1,1,2,D,D,D,,,,,,,
 algeria-2006-2007,10,2006-10-27,,200610270000,friday,ASM Oran,Paradou AC,1,1,2,D,D,D,,,,,,,
-algeria-2006-2007,10,2006-10-27,,200610270000,friday,ES Sétif,OMR El Annasser,0,0,0,D,D,D,0,0,0,D,D,D,
+algeria-2006-2007,10,2006-10-27,,200610270000,friday,ES Sétif,OMR El Annasser,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
 algeria-2006-2007,6,2006-11-02,,200611020000,thursday,OMR El Annasser,WA Tlemcen,1,2,3,A,L,W,,,,,,,
 algeria-2006-2007,9,2006-11-02,,200611020000,thursday,MC Oran,ES Sétif,0,2,2,A,L,W,,,,,,,
 algeria-2006-2007,11,2006-11-09,,200611090000,thursday,CA Batna,JS Kabylie,1,1,2,D,D,D,,,,,,,
@@ -84,7 +84,7 @@ algeria-2006-2007,11,2006-11-09,,200611090000,thursday,Paradou AC,MC Alger,2,2,4
 algeria-2006-2007,11,2006-11-09,,200611090000,thursday,USM Alger,ASO Chlef,2,0,2,H,W,L,,,,,,,
 algeria-2006-2007,11,2006-11-10,,200611100000,friday,OMR El Annasser,USM Blida,3,1,4,H,W,L,,,,,,,
 algeria-2006-2007,3,2006-11-13,,200611130000,monday,JS Kabylie,MC Alger,1,0,1,H,W,L,,,,,,,
-algeria-2006-2007,12,2006-11-23,,200611230000,thursday,USM Blida,MC Oran,0,0,0,D,D,D,0,0,0,D,D,D,
+algeria-2006-2007,12,2006-11-23,,200611230000,thursday,USM Blida,MC Oran,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
 algeria-2006-2007,12,2006-11-23,,200611230000,thursday,JS Kabylie,WA Tlemcen,1,0,1,H,W,L,,,,,,,
 algeria-2006-2007,12,2006-11-23,,200611230000,thursday,JSM Béjaïa,CA Batna,1,0,1,H,W,L,,,,,,,
 algeria-2006-2007,12,2006-11-23,,200611230000,thursday,ASM Oran,USM Alger,2,1,3,H,W,L,,,,,,,
@@ -97,7 +97,7 @@ algeria-2006-2007,13,2006-11-30,,200611300000,thursday,MC Oran,ASO Chlef,2,1,3,H
 algeria-2006-2007,13,2006-11-30,,200611300000,thursday,OMR El Annasser,NA Hussein Dey,0,1,1,A,L,W,,,,,,,
 algeria-2006-2007,13,2006-11-30,,200611300000,thursday,USM Alger,CR Bélouizdad,2,1,3,H,W,L,,,,,,,
 algeria-2006-2007,10,2006-12-04,,200612040000,monday,MC Alger,CA Bordj Bou Arreridj,3,0,3,H,W,L,,,,,,,
-algeria-2006-2007,13,2006-12-04,,200612040000,monday,Paradou AC,USM Blida,0,0,0,D,D,D,0,0,0,D,D,D,
+algeria-2006-2007,13,2006-12-04,,200612040000,monday,Paradou AC,USM Blida,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
 algeria-2006-2007,14,2006-12-07,,200612070000,thursday,ASO Chlef,OMR El Annasser,1,0,1,H,W,L,,,,,,,
 algeria-2006-2007,14,2006-12-07,,200612070000,thursday,JS Kabylie,MC Oran,2,1,3,H,W,L,,,,,,,
 algeria-2006-2007,14,2006-12-07,,200612070000,thursday,ASM Oran,WA Tlemcen,1,0,1,H,W,L,,,,,,,
@@ -108,9 +108,9 @@ algeria-2006-2007,15,2006-12-14,,200612140000,thursday,CA Batna,Paradou AC,3,0,3
 algeria-2006-2007,15,2006-12-14,,200612140000,thursday,WA Tlemcen,CR Bélouizdad,2,0,2,H,W,L,,,,,,,
 algeria-2006-2007,15,2006-12-14,,200612140000,thursday,MC Oran,MC Alger,1,2,3,A,L,W,,,,,,,
 algeria-2006-2007,15,2006-12-14,,200612140000,thursday,USM Alger,JSM Béjaïa,2,1,3,H,W,L,,,,,,,
-algeria-2006-2007,15,2006-12-15,,200612150000,friday,OMR El Annasser,JS Kabylie,0,0,0,D,D,D,0,0,0,D,D,D,
+algeria-2006-2007,15,2006-12-15,,200612150000,friday,OMR El Annasser,JS Kabylie,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
 algeria-2006-2007,13,2006-12-18,,200612180000,monday,ES Sétif,MC Alger,2,0,2,H,W,L,,,,,,,
-algeria-2006-2007,12,2006-12-21,,200612210000,thursday,NA Hussein Dey,ES Sétif,0,0,0,D,D,D,0,0,0,D,D,D,
+algeria-2006-2007,12,2006-12-21,,200612210000,thursday,NA Hussein Dey,ES Sétif,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
 algeria-2006-2007,12,2006-12-21,,200612210000,thursday,MC Alger,OMR El Annasser,1,1,2,D,D,D,,,,,,,
 algeria-2006-2007,12,2006-12-25,,200612250000,monday,ASO Chlef,CA Bordj Bou Arreridj,2,0,2,H,W,L,,,,,,,
 algeria-2006-2007,14,2006-12-25,,200612250000,monday,MC Alger,NA Hussein Dey,1,1,2,D,D,D,,,,,,,
@@ -118,10 +118,10 @@ algeria-2006-2007,14,2006-12-28,,200612280000,thursday,USM Blida,ES Sétif,2,1,3
 algeria-2006-2007,14,2006-12-28,,200612280000,thursday,JSM Béjaïa,CA Bordj Bou Arreridj,2,1,3,H,W,L,,,,,,,
 algeria-2006-2007,15,2007-01-04,,200701040000,thursday,NA Hussein Dey,USM Blida,0,4,4,A,L,W,,,,,,,
 algeria-2006-2007,15,2007-01-12,,200701120000,friday,CA Bordj Bou Arreridj,ASM Oran,3,1,4,H,W,L,,,,,,,
-algeria-2006-2007,15,2007-01-12,,200701120000,friday,ES Sétif,ASO Chlef,0,0,0,D,D,D,0,0,0,D,D,D,
+algeria-2006-2007,15,2007-01-12,,200701120000,friday,ES Sétif,ASO Chlef,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
 algeria-2006-2007,16,2007-01-15,,200701150000,monday,MC Alger,USM Blida,2,1,3,H,W,L,,,,,,,
 algeria-2006-2007,16,2007-01-15,,200701150000,monday,NA Hussein Dey,ASO Chlef,0,1,1,A,L,W,,,,,,,
-algeria-2006-2007,16,2007-01-15,,200701150000,monday,ES Sétif,JS Kabylie,0,0,0,D,D,D,0,0,0,D,D,D,
+algeria-2006-2007,16,2007-01-15,,200701150000,monday,ES Sétif,JS Kabylie,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
 algeria-2006-2007,16,2007-01-15,,200701150000,monday,OMR El Annasser,JSM Béjaïa,2,1,3,H,W,L,,,,,,,
 algeria-2006-2007,16,2007-01-15,,200701150000,monday,MC Oran,ASM Oran,2,0,2,H,W,L,,,,,,,
 algeria-2006-2007,16,2007-01-15,,200701150000,monday,CA Bordj Bou Arreridj,CR Bélouizdad,1,0,1,H,W,L,,,,,,,
@@ -133,42 +133,42 @@ algeria-2006-2007,17,2007-01-18,,200701180000,thursday,USM Alger,MC Oran,2,0,2,H
 algeria-2006-2007,17,2007-01-18,,200701180000,thursday,CR Bélouizdad,OMR El Annasser,1,0,1,H,W,L,,,,,,,
 algeria-2006-2007,17,2007-01-18,,200701180000,thursday,JSM Béjaïa,ES Sétif,1,0,1,H,W,L,,,,,,,
 algeria-2006-2007,17,2007-01-18,,200701180000,thursday,JS Kabylie,NA Hussein Dey,1,1,2,D,D,D,,,,,,,
-algeria-2006-2007,17,2007-01-18,,200701180000,thursday,ASO Chlef,MC Alger,0,0,0,D,D,D,0,0,0,D,D,D,
+algeria-2006-2007,17,2007-01-18,,200701180000,thursday,ASO Chlef,MC Alger,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
 algeria-2006-2007,17,2007-01-19,,200701190000,friday,Paradou AC,CA Bordj Bou Arreridj,3,1,4,H,W,L,,,,,,,
-algeria-2006-2007,18,2007-01-22,,200701220000,monday,MC Alger,JS Kabylie,0,0,0,D,D,D,0,0,0,D,D,D,
+algeria-2006-2007,18,2007-01-22,,200701220000,monday,MC Alger,JS Kabylie,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
 algeria-2006-2007,18,2007-01-22,,200701220000,monday,WA Tlemcen,USM Alger,1,1,2,D,D,D,,,,,,,
 algeria-2006-2007,18,2007-01-25,,200701250000,thursday,CA Bordj Bou Arreridj,CA Batna,1,0,1,H,W,L,,,,,,,
 algeria-2006-2007,18,2007-01-25,,200701250000,thursday,NA Hussein Dey,JSM Béjaïa,0,1,1,A,L,W,,,,,,,
 algeria-2006-2007,18,2007-01-25,,200701250000,thursday,OMR El Annasser,ASM Oran,2,1,3,H,W,L,,,,,,,
 algeria-2006-2007,18,2007-01-25,,200701250000,thursday,ES Sétif,CR Bélouizdad,0,1,1,A,L,W,,,,,,,
-algeria-2006-2007,18,2007-01-25,,200701250000,thursday,MC Oran,Paradou AC,0,0,0,D,D,D,0,0,0,D,D,D,
+algeria-2006-2007,18,2007-01-25,,200701250000,thursday,MC Oran,Paradou AC,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
 algeria-2006-2007,19,2007-02-01,,200702010000,thursday,JS Kabylie,USM Blida,3,0,3,H,W,L,,,,,,,
 algeria-2006-2007,19,2007-02-01,,200702010000,thursday,ASM Oran,ASO Chlef,1,1,2,D,D,D,,,,,,,
-algeria-2006-2007,19,2007-02-01,,200702010000,thursday,WA Tlemcen,CA Bordj Bou Arreridj,0,0,0,D,D,D,0,0,0,D,D,D,
+algeria-2006-2007,19,2007-02-01,,200702010000,thursday,WA Tlemcen,CA Bordj Bou Arreridj,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
 algeria-2006-2007,19,2007-02-01,,200702010000,thursday,CA Batna,MC Oran,3,2,5,H,W,L,,,,,,,
-algeria-2006-2007,19,2007-02-01,,200702010000,thursday,USM Alger,ES Sétif,0,0,0,D,D,D,0,0,0,D,D,D,
+algeria-2006-2007,19,2007-02-01,,200702010000,thursday,USM Alger,ES Sétif,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
 algeria-2006-2007,19,2007-02-01,,200702010000,thursday,CR Bélouizdad,NA Hussein Dey,0,1,1,A,L,W,,,,,,,
 algeria-2006-2007,19,2007-02-01,,200702010000,thursday,JSM Béjaïa,MC Alger,1,1,2,D,D,D,,,,,,,
-algeria-2006-2007,19,2007-02-02,,200702020000,friday,Paradou AC,OMR El Annasser,0,0,0,D,D,D,0,0,0,D,D,D,
-algeria-2006-2007,18,2007-02-12,,200702120000,monday,USM Blida,ASO Chlef,0,0,0,D,D,D,0,0,0,D,D,D,
+algeria-2006-2007,19,2007-02-02,,200702020000,friday,Paradou AC,OMR El Annasser,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
+algeria-2006-2007,18,2007-02-12,,200702120000,monday,USM Blida,ASO Chlef,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
 algeria-2006-2007,20,2007-02-19,,200702190000,monday,OMR El Annasser,CA Batna,2,0,2,H,W,L,,,,,,,
 algeria-2006-2007,20,2007-02-19,,200702190000,monday,MC Oran,WA Tlemcen,1,0,1,H,W,L,,,,,,,
-algeria-2006-2007,20,2007-02-19,,200702190000,monday,ASO Chlef,JS Kabylie,0,0,0,D,D,D,0,0,0,D,D,D,
+algeria-2006-2007,20,2007-02-19,,200702190000,monday,ASO Chlef,JS Kabylie,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
 algeria-2006-2007,20,2007-02-19,,200702190000,monday,USM Blida,JSM Béjaïa,2,2,4,D,D,D,,,,,,,
 algeria-2006-2007,20,2007-02-19,,200702190000,monday,NA Hussein Dey,ASM Oran,1,0,1,H,W,L,,,,,,,
 algeria-2006-2007,20,2007-02-19,,200702190000,monday,MC Alger,CR Bélouizdad,4,3,7,H,W,L,,,,,,,
 algeria-2006-2007,20,2007-02-19,,200702190000,monday,ES Sétif,Paradou AC,3,1,4,H,W,L,,,,,,,
 algeria-2006-2007,20,2007-02-19,,200702190000,monday,CA Bordj Bou Arreridj,USM Alger,1,0,1,H,W,L,,,,,,,
 algeria-2006-2007,21,2007-02-22,,200702220000,thursday,CR Bélouizdad,USM Blida,1,0,1,H,W,L,,,,,,,
-algeria-2006-2007,21,2007-02-22,,200702220000,thursday,JSM Béjaïa,ASO Chlef,0,0,0,D,D,D,0,0,0,D,D,D,
-algeria-2006-2007,21,2007-02-22,,200702220000,thursday,CA Bordj Bou Arreridj,MC Oran,0,0,0,D,D,D,0,0,0,D,D,D,
+algeria-2006-2007,21,2007-02-22,,200702220000,thursday,JSM Béjaïa,ASO Chlef,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
+algeria-2006-2007,21,2007-02-22,,200702220000,thursday,CA Bordj Bou Arreridj,MC Oran,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
 algeria-2006-2007,21,2007-02-22,,200702220000,thursday,WA Tlemcen,OMR El Annasser,2,0,2,H,W,L,,,,,,,
 algeria-2006-2007,21,2007-02-22,,200702220000,thursday,CA Batna,ES Sétif,1,2,3,A,L,W,,,,,,,
 algeria-2006-2007,21,2007-02-22,,200702220000,thursday,USM Alger,NA Hussein Dey,0,1,1,A,L,W,,,,,,,
 algeria-2006-2007,21,2007-02-22,,200702220000,thursday,ASM Oran,MC Alger,2,1,3,H,W,L,,,,,,,
 algeria-2006-2007,21,2007-02-23,,200702230000,friday,Paradou AC,JS Kabylie,1,2,3,A,L,W,,,,,,,
 algeria-2006-2007,22,2007-03-08,,200703080000,thursday,USM Blida,CA Batna,4,0,4,H,W,L,,,,,,,
-algeria-2006-2007,22,2007-03-08,,200703080000,thursday,ASO Chlef,WA Tlemcen,0,0,0,D,D,D,0,0,0,D,D,D,
+algeria-2006-2007,22,2007-03-08,,200703080000,thursday,ASO Chlef,WA Tlemcen,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
 algeria-2006-2007,22,2007-03-08,,200703080000,thursday,OMR El Annasser,CA Bordj Bou Arreridj,4,0,4,H,W,L,,,,,,,
 algeria-2006-2007,22,2007-03-08,,200703080000,thursday,ES Sétif,ASM Oran,1,1,2,D,D,D,,,,,,,
 algeria-2006-2007,22,2007-03-08,,200703080000,thursday,MC Oran,CR Bélouizdad,2,0,2,H,W,L,,,,,,,
@@ -178,9 +178,9 @@ algeria-2006-2007,23,2007-03-12,,200703120000,monday,ASM Oran,JS Kabylie,0,2,2,A
 algeria-2006-2007,23,2007-03-12,,200703120000,monday,CA Batna,MC Alger,1,0,1,H,W,L,,,,,,,
 algeria-2006-2007,23,2007-03-15,,200703150000,thursday,WA Tlemcen,NA Hussein Dey,1,0,1,H,W,L,,,,,,,
 algeria-2006-2007,23,2007-03-16,,200703160000,friday,MC Oran,OMR El Annasser,3,0,3,H,W,L,,,,,,,
-algeria-2006-2007,23,2007-03-19,,200703190000,monday,USM Alger,USM Blida,0,0,0,D,D,D,0,0,0,D,D,D,
-algeria-2006-2007,23,2007-03-19,,200703190000,monday,CA Bordj Bou Arreridj,ES Sétif,0,0,0,D,D,D,0,0,0,D,D,D,
-algeria-2006-2007,23,2007-03-22,,200703220000,thursday,Paradou AC,JSM Béjaïa,0,0,0,D,D,D,0,0,0,D,D,D,
+algeria-2006-2007,23,2007-03-19,,200703190000,monday,USM Alger,USM Blida,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
+algeria-2006-2007,23,2007-03-19,,200703190000,monday,CA Bordj Bou Arreridj,ES Sétif,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
+algeria-2006-2007,23,2007-03-22,,200703220000,thursday,Paradou AC,JSM Béjaïa,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
 algeria-2006-2007,24,2007-03-29,,200703290000,thursday,MC Alger,WA Tlemcen,0,1,1,A,L,W,,,,,,,
 algeria-2006-2007,24,2007-03-29,,200703290000,thursday,USM Blida,CA Bordj Bou Arreridj,1,0,1,H,W,L,,,,,,,
 algeria-2006-2007,24,2007-03-29,,200703290000,thursday,JSM Béjaïa,ASM Oran,1,0,1,H,W,L,,,,,,,
@@ -188,7 +188,7 @@ algeria-2006-2007,24,2007-03-29,,200703290000,thursday,JS Kabylie,CR Bélouizdad
 algeria-2006-2007,24,2007-03-29,,200703290000,thursday,ASO Chlef,Paradou AC,2,1,3,H,W,L,,,,,,,
 algeria-2006-2007,24,2007-03-29,,200703290000,thursday,OMR El Annasser,USM Alger,2,3,5,A,L,W,,,,,,,
 algeria-2006-2007,22,2007-04-02,,200704020000,monday,JS Kabylie,JSM Béjaïa,1,0,1,H,W,L,,,,,,,
-algeria-2006-2007,22,2007-04-02,,200704020000,monday,MC Alger,USM Alger,0,0,0,D,D,D,0,0,0,D,D,D,
+algeria-2006-2007,22,2007-04-02,,200704020000,monday,MC Alger,USM Alger,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
 algeria-2006-2007,24,2007-04-02,,200704020000,monday,NA Hussein Dey,CA Batna,2,0,2,H,W,L,,,,,,,
 algeria-2006-2007,24,2007-04-09,,200704090000,monday,ES Sétif,MC Oran,1,0,1,H,W,L,,,,,,,
 algeria-2006-2007,25,2007-04-12,,200704120000,thursday,WA Tlemcen,USM Blida,1,1,2,D,D,D,,,,,,,
@@ -216,7 +216,7 @@ algeria-2006-2007,27,2007-05-10,,200705100000,thursday,Paradou AC,CR Bélouizdad
 algeria-2006-2007,27,2007-05-10,,200705100000,thursday,ES Sétif,NA Hussein Dey,1,0,1,H,W,L,,,,,,,
 algeria-2006-2007,27,2007-05-10,,200705100000,thursday,OMR El Annasser,MC Alger,1,1,2,D,D,D,,,,,,,
 algeria-2006-2007,28,2007-05-29,,200705290000,tuesday,ASM Oran,CA Batna,2,1,3,H,W,L,,,,,,,
-algeria-2006-2007,28,2007-05-29,,200705290000,tuesday,JSM Béjaïa,WA Tlemcen,0,0,0,D,D,D,0,0,0,D,D,D,
+algeria-2006-2007,28,2007-05-29,,200705290000,tuesday,JSM Béjaïa,WA Tlemcen,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
 algeria-2006-2007,28,2007-05-29,,200705290000,tuesday,JS Kabylie,CA Bordj Bou Arreridj,2,0,2,H,W,L,,,,,,,
 algeria-2006-2007,28,2007-05-29,,200705290000,tuesday,NA Hussein Dey,OMR El Annasser,3,2,5,H,W,L,,,,,,,
 algeria-2006-2007,28,2007-05-29,,200705290000,tuesday,MC Alger,ES Sétif,1,1,2,D,D,D,,,,,,,
@@ -229,7 +229,7 @@ algeria-2006-2007,29,2007-06-08,,200706080000,friday,MC Oran,JS Kabylie,1,0,1,H,
 algeria-2006-2007,29,2007-06-08,,200706080000,friday,CA Bordj Bou Arreridj,JSM Béjaïa,1,0,1,H,W,L,,,,,,,
 algeria-2006-2007,29,2007-06-08,,200706080000,friday,WA Tlemcen,ASM Oran,2,1,3,H,W,L,,,,,,,
 algeria-2006-2007,29,2007-06-08,,200706080000,friday,CA Batna,CR Bélouizdad,2,1,3,H,W,L,,,,,,,
-algeria-2006-2007,29,2007-06-08,,200706080000,friday,USM Alger,Paradou AC,0,0,0,D,D,D,0,0,0,D,D,D,
+algeria-2006-2007,29,2007-06-08,,200706080000,friday,USM Alger,Paradou AC,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
 algeria-2006-2007,29,2007-06-08,,200706080000,friday,NA Hussein Dey,MC Alger,1,1,2,D,D,D,,,,,,,
 algeria-2006-2007,30,2007-06-11,,200706110000,monday,Paradou AC,CA Batna,6,3,9,H,W,L,,,,,,,
 algeria-2006-2007,30,2007-06-11,,200706110000,monday,CR Bélouizdad,WA Tlemcen,0,1,1,A,L,W,,,,,,,
@@ -2970,3 +2970,172 @@ algeria-2017-2018,30,2018-05-19,16:00,201805191600,saturday,MC Alger,JS Saoura,1
 algeria-2017-2018,30,2018-05-19,16:00,201805191600,saturday,Olympique Médéa,NA Hussein Dey,3,1,4,H,W,L,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/ligue-1-2017-2018-olympique-medea-na-hussein-dey/
 algeria-2017-2018,30,2018-05-19,16:00,201805191600,saturday,MC Oran,JS Kabylie,2,1,3,H,W,L,1.0,0.0,1.0,H,W,L,http://www.worldfootball.net/report/ligue-1-2017-2018-mc-oran-js-kabylie/
 algeria-2017-2018,30,2018-05-19,16:00,201805191600,saturday,USM Alger,USM Blida,1,2,3,A,L,W,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/ligue-1-2017-2018-usm-alger-usm-blida/
+algeria-2018-2019,1,2018-08-10,21:00,201808102100,friday,CS Constantine,NA Hussein Dey,1,1,2,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/ligue-1-2018-2019-cs-constantine-na-hussein-dey/
+algeria-2018-2019,1,2018-08-11,17:00,201808111700,saturday,Olympique Médéa,MO Béjaïa,2,4,6,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/ligue-1-2018-2019-olympique-medea-mo-bejaia/
+algeria-2018-2019,1,2018-08-11,19:00,201808111900,saturday,JS Kabylie,JS Saoura,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/ligue-1-2018-2019-js-kabylie-js-saoura/
+algeria-2018-2019,1,2018-08-11,20:00,201808112000,saturday,ES Sétif,USM Bel Abbes,3,0,3,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/ligue-1-2018-2019-es-setif-usm-bel-abbes/
+algeria-2018-2019,1,2018-08-11,21:00,201808112100,saturday,MC Oran,CA Bordj Bou Arreridj,1,1,2,D,D,D,0,1,1,A,L,W,http://www.worldfootball.net/report/ligue-1-2018-2019-mc-oran-ca-bordj-bou-arreridj/
+algeria-2018-2019,1,2018-08-13,20:00,201808132000,monday,MC Alger,Paradou AC,1,1,2,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/ligue-1-2018-2019-mc-alger-paradou-ac/
+algeria-2018-2019,1,2018-08-14,21:00,201808142100,tuesday,USM Alger,DRB Tadjenanet,3,1,4,H,W,L,0,1,1,A,L,W,http://www.worldfootball.net/report/ligue-1-2018-2019-usm-alger-drb-tadjenanet/
+algeria-2018-2019,2,2018-08-17,17:45,201808171745,friday,USM Bel Abbes,Olympique Médéa,1,2,3,A,L,W,1,2,3,A,L,W,http://www.worldfootball.net/report/ligue-1-2018-2019-usm-bel-abbes-olympique-medea/
+algeria-2018-2019,2,2018-08-17,17:45,201808171745,friday,MO Béjaïa,JS Kabylie,1,1,2,D,D,D,1,1,2,D,D,D,http://www.worldfootball.net/report/ligue-1-2018-2019-mo-bejaia-js-kabylie/
+algeria-2018-2019,2,2018-08-17,20:00,201808172000,friday,JS Saoura,MC Oran,2,0,2,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/ligue-1-2018-2019-js-saoura-mc-oran/
+algeria-2018-2019,2,2018-08-17,21:00,201808172100,friday,CA Bordj Bou Arreridj,CS Constantine,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/ligue-1-2018-2019-ca-bordj-bou-arreridj-cs-constantine/
+algeria-2018-2019,2,2018-08-18,21:00,201808182100,saturday,Paradou AC,CR Bélouizdad,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/ligue-1-2018-2019-paradou-ac-cr-belouizdad/
+algeria-2018-2019,2,2018-08-25,17:00,201808251700,saturday,NA Hussein Dey,USM Alger,0,1,1,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/ligue-1-2018-2019-na-hussein-dey-usm-alger/
+algeria-2018-2019,2,2018-08-25,17:00,201808251700,saturday,AS Aïn M'lila,ES Sétif,1,0,1,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/ligue-1-2018-2019-as-ain-mlila-es-setif/
+algeria-2018-2019,2,2018-08-25,17:00,201808251700,saturday,DRB Tadjenanet,MC Alger,0,1,1,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/ligue-1-2018-2019-drb-tadjenanet-mc-alger/
+algeria-2018-2019,3,2018-08-28,17:00,201808281700,tuesday,Olympique Médéa,AS Aïn M'lila,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/ligue-1-2018-2019-olympique-medea-as-ain-mlila/
+algeria-2018-2019,3,2018-08-28,17:00,201808281700,tuesday,DRB Tadjenanet,NA Hussein Dey,1,2,3,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/ligue-1-2018-2019-drb-tadjenanet-na-hussein-dey/
+algeria-2018-2019,3,2018-08-28,17:45,201808281745,tuesday,JS Kabylie,USM Bel Abbes,3,1,4,H,W,L,1,1,2,D,D,D,http://www.worldfootball.net/report/ligue-1-2018-2019-js-kabylie-usm-bel-abbes/
+algeria-2018-2019,3,2018-08-28,19:00,201808281900,tuesday,MC Oran,MO Béjaïa,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/ligue-1-2018-2019-mc-oran-mo-bejaia/
+algeria-2018-2019,3,2018-08-28,19:00,201808281900,tuesday,CS Constantine,JS Saoura,1,0,1,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/ligue-1-2018-2019-cs-constantine-js-saoura/
+algeria-2018-2019,4,2018-09-01,17:00,201809011700,saturday,CR Bélouizdad,DRB Tadjenanet,2,1,3,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/ligue-1-2018-2019-cr-belouizdad-drb-tadjenanet/
+algeria-2018-2019,4,2018-09-01,17:00,201809011700,saturday,AS Aïn M'lila,JS Kabylie,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/ligue-1-2018-2019-as-ain-mlila-js-kabylie/
+algeria-2018-2019,4,2018-09-01,17:00,201809011700,saturday,Paradou AC,Olympique Médéa,3,0,3,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/ligue-1-2018-2019-paradou-ac-olympique-medea/
+algeria-2018-2019,4,2018-09-01,17:45,201809011745,saturday,USM Bel Abbes,MC Oran,3,1,4,H,W,L,2,0,2,H,W,L,http://www.worldfootball.net/report/ligue-1-2018-2019-usm-bel-abbes-mc-oran/
+algeria-2018-2019,4,2018-09-01,17:45,201809011745,saturday,MO Béjaïa,CS Constantine,1,0,1,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/ligue-1-2018-2019-mo-bejaia-cs-constantine/
+algeria-2018-2019,4,2018-09-01,20:00,201809012000,saturday,CA Bordj Bou Arreridj,NA Hussein Dey,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/ligue-1-2018-2019-ca-bordj-bou-arreridj-na-hussein-dey/
+algeria-2018-2019,4,2018-09-01,20:00,201809012000,saturday,JS Saoura,USM Alger,3,0,3,H,W,L,3,0,3,H,W,L,http://www.worldfootball.net/report/ligue-1-2018-2019-js-saoura-usm-alger/
+algeria-2018-2019,4,2018-09-01,21:00,201809012100,saturday,MC Alger,ES Sétif,0,1,1,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/ligue-1-2018-2019-mc-alger-es-setif/
+algeria-2018-2019,3,2018-09-04,17:00,201809041700,tuesday,CR Bélouizdad,MC Alger,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/ligue-1-2018-2019-cr-belouizdad-mc-alger/
+algeria-2018-2019,3,2018-09-04,20:45,201809042045,tuesday,USM Alger,CA Bordj Bou Arreridj,3,1,4,H,W,L,2,1,3,H,W,L,http://www.worldfootball.net/report/ligue-1-2018-2019-usm-alger-ca-bordj-bou-arreridj/
+algeria-2018-2019,3,2018-09-04,21:00,201809042100,tuesday,ES Sétif,Paradou AC,1,1,2,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/ligue-1-2018-2019-es-setif-paradou-ac/
+algeria-2018-2019,5,2018-09-10,17:00,201809101700,monday,NA Hussein Dey,JS Saoura,1,0,1,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/ligue-1-2018-2019-na-hussein-dey-js-saoura/
+algeria-2018-2019,5,2018-09-10,19:00,201809101900,monday,CS Constantine,USM Bel Abbes,3,0,3,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/ligue-1-2018-2019-cs-constantine-usm-bel-abbes/
+algeria-2018-2019,5,2018-09-10,19:00,201809101900,monday,ES Sétif,CR Bélouizdad,3,2,5,H,W,L,1,2,3,A,L,W,http://www.worldfootball.net/report/ligue-1-2018-2019-es-setif-cr-belouizdad/
+algeria-2018-2019,5,2018-09-10,19:00,201809101900,monday,MC Oran,AS Aïn M'lila,3,1,4,H,W,L,2,0,2,H,W,L,http://www.worldfootball.net/report/ligue-1-2018-2019-mc-oran-as-ain-mlila/
+algeria-2018-2019,5,2018-09-11,17:00,201809111700,tuesday,Olympique Médéa,MC Alger,1,2,3,A,L,W,1,1,2,D,D,D,http://www.worldfootball.net/report/ligue-1-2018-2019-olympique-medea-mc-alger/
+algeria-2018-2019,5,2018-09-11,17:00,201809111700,tuesday,DRB Tadjenanet,CA Bordj Bou Arreridj,3,1,4,H,W,L,2,1,3,H,W,L,http://www.worldfootball.net/report/ligue-1-2018-2019-drb-tadjenanet-ca-bordj-bou-arreridj/
+algeria-2018-2019,5,2018-09-11,17:45,201809111745,tuesday,JS Kabylie,Paradou AC,1,0,1,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/ligue-1-2018-2019-js-kabylie-paradou-ac/
+algeria-2018-2019,6,2018-09-14,17:00,201809141700,friday,AS Aïn M'lila,CS Constantine,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/ligue-1-2018-2019-as-ain-mlila-cs-constantine/
+algeria-2018-2019,6,2018-09-15,17:00,201809151700,saturday,CR Bélouizdad,Olympique Médéa,0,1,1,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/ligue-1-2018-2019-cr-belouizdad-olympique-medea/
+algeria-2018-2019,6,2018-09-15,17:45,201809151745,saturday,MO Béjaïa,NA Hussein Dey,1,2,3,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/ligue-1-2018-2019-mo-bejaia-na-hussein-dey/
+algeria-2018-2019,6,2018-09-15,19:00,201809151900,saturday,Paradou AC,MC Oran,3,2,5,H,W,L,0,2,2,A,L,W,http://www.worldfootball.net/report/ligue-1-2018-2019-paradou-ac-mc-oran/
+algeria-2018-2019,6,2018-09-15,20:00,201809152000,saturday,JS Saoura,CA Bordj Bou Arreridj,0,1,1,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/ligue-1-2018-2019-js-saoura-ca-bordj-bou-arreridj/
+algeria-2018-2019,6,2018-09-16,17:00,201809161700,sunday,MC Alger,JS Kabylie,0,5,5,A,L,W,0,3,3,A,L,W,http://www.worldfootball.net/report/ligue-1-2018-2019-mc-alger-js-kabylie/
+algeria-2018-2019,6,2018-09-17,19:00,201809171900,monday,ES Sétif,DRB Tadjenanet,1,1,2,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/ligue-1-2018-2019-es-setif-drb-tadjenanet/
+algeria-2018-2019,7,2018-09-20,19:00,201809201900,thursday,USM Alger,AS Aïn M'lila,3,0,3,H,W,L,3,0,3,H,W,L,http://www.worldfootball.net/report/ligue-1-2018-2019-usm-alger-as-ain-mlila/
+algeria-2018-2019,7,2018-09-21,17:00,201809211700,friday,CS Constantine,Paradou AC,2,0,2,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/ligue-1-2018-2019-cs-constantine-paradou-ac/
+algeria-2018-2019,7,2018-09-21,17:00,201809211700,friday,JS Kabylie,CR Bélouizdad,2,0,2,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/ligue-1-2018-2019-js-kabylie-cr-belouizdad/
+algeria-2018-2019,7,2018-09-21,17:45,201809211745,friday,CA Bordj Bou Arreridj,MO Béjaïa,1,1,2,D,D,D,1,1,2,D,D,D,http://www.worldfootball.net/report/ligue-1-2018-2019-ca-bordj-bou-arreridj-mo-bejaia/
+algeria-2018-2019,7,2018-09-22,16:00,201809221600,saturday,DRB Tadjenanet,JS Saoura,1,0,1,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/ligue-1-2018-2019-drb-tadjenanet-js-saoura/
+algeria-2018-2019,7,2018-09-22,16:00,201809221600,saturday,NA Hussein Dey,USM Bel Abbes,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/ligue-1-2018-2019-na-hussein-dey-usm-bel-abbes/
+algeria-2018-2019,7,2018-09-22,19:00,201809221900,saturday,MC Oran,MC Alger,4,3,7,H,W,L,3,1,4,H,W,L,http://www.worldfootball.net/report/ligue-1-2018-2019-mc-oran-mc-alger/
+algeria-2018-2019,8,2018-09-27,20:00,201809272000,thursday,ES Sétif,JS Kabylie,0,1,1,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/ligue-1-2018-2019-es-setif-js-kabylie/
+algeria-2018-2019,8,2018-09-28,16:00,201809281600,friday,AS Aïn M'lila,NA Hussein Dey,1,1,2,D,D,D,1,1,2,D,D,D,http://www.worldfootball.net/report/ligue-1-2018-2019-as-ain-mlila-na-hussein-dey/
+algeria-2018-2019,8,2018-09-28,16:00,201809281600,friday,Olympique Médéa,DRB Tadjenanet,1,1,2,D,D,D,1,1,2,D,D,D,http://www.worldfootball.net/report/ligue-1-2018-2019-olympique-medea-drb-tadjenanet/
+algeria-2018-2019,8,2018-09-29,16:00,201809291600,saturday,CR Bélouizdad,MC Oran,0,1,1,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/ligue-1-2018-2019-cr-belouizdad-mc-oran/
+algeria-2018-2019,8,2018-09-29,17:45,201809291745,saturday,USM Bel Abbes,CA Bordj Bou Arreridj,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/ligue-1-2018-2019-usm-bel-abbes-ca-bordj-bou-arreridj/
+algeria-2018-2019,8,2018-09-29,17:45,201809291745,saturday,MO Béjaïa,JS Saoura,0,1,1,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/ligue-1-2018-2019-mo-bejaia-js-saoura/
+algeria-2018-2019,8,2018-09-29,17:45,201809291745,saturday,Paradou AC,USM Alger,1,3,4,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/ligue-1-2018-2019-paradou-ac-usm-alger/
+algeria-2018-2019,9,2018-10-05,16:00,201810051600,friday,DRB Tadjenanet,MO Béjaïa,1,2,3,A,L,W,1,0,1,H,W,L,http://www.worldfootball.net/report/ligue-1-2018-2019-drb-tadjenanet-mo-bejaia/
+algeria-2018-2019,9,2018-10-05,16:00,201810051600,friday,NA Hussein Dey,Paradou AC,2,1,3,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/ligue-1-2018-2019-na-hussein-dey-paradou-ac/
+algeria-2018-2019,9,2018-10-05,17:00,201810051700,friday,CS Constantine,CR Bélouizdad,1,1,2,D,D,D,1,0,1,H,W,L,http://www.worldfootball.net/report/ligue-1-2018-2019-cs-constantine-cr-belouizdad/
+algeria-2018-2019,9,2018-10-05,17:45,201810051745,friday,JS Kabylie,Olympique Médéa,1,1,2,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/ligue-1-2018-2019-js-kabylie-olympique-medea/
+algeria-2018-2019,9,2018-10-05,17:45,201810051745,friday,CA Bordj Bou Arreridj,AS Aïn M'lila,2,0,2,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/ligue-1-2018-2019-ca-bordj-bou-arreridj-as-ain-mlila/
+algeria-2018-2019,9,2018-10-05,19:00,201810051900,friday,JS Saoura,USM Bel Abbes,3,0,3,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/ligue-1-2018-2019-js-saoura-usm-bel-abbes/
+algeria-2018-2019,9,2018-10-06,17:45,201810061745,saturday,USM Alger,MC Alger,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/ligue-1-2018-2019-usm-alger-mc-alger/
+algeria-2018-2019,9,2018-10-07,17:00,201810071700,sunday,MC Oran,ES Sétif,0,1,1,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/ligue-1-2018-2019-mc-oran-es-setif/
+algeria-2018-2019,10,2018-10-09,15:00,201810091500,tuesday,AS Aïn M'lila,JS Saoura,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/ligue-1-2018-2019-as-ain-mlila-js-saoura/
+algeria-2018-2019,10,2018-10-09,16:00,201810091600,tuesday,USM Bel Abbes,MO Béjaïa,2,2,4,D,D,D,1,0,1,H,W,L,http://www.worldfootball.net/report/ligue-1-2018-2019-usm-bel-abbes-mo-bejaia/
+algeria-2018-2019,10,2018-10-09,17:45,201810091745,tuesday,JS Kabylie,DRB Tadjenanet,3,2,5,H,W,L,2,1,3,H,W,L,http://www.worldfootball.net/report/ligue-1-2018-2019-js-kabylie-drb-tadjenanet/
+algeria-2018-2019,10,2018-10-10,16:00,201810101600,wednesday,CR Bélouizdad,USM Alger,0,1,1,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/ligue-1-2018-2019-cr-belouizdad-usm-alger/
+algeria-2018-2019,10,2018-10-11,15:00,201810111500,thursday,Olympique Médéa,MC Oran,1,1,2,D,D,D,1,1,2,D,D,D,http://www.worldfootball.net/report/ligue-1-2018-2019-olympique-medea-mc-oran/
+algeria-2018-2019,10,2018-10-11,17:45,201810111745,thursday,MC Alger,NA Hussein Dey,2,1,3,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/ligue-1-2018-2019-mc-alger-na-hussein-dey/
+algeria-2018-2019,10,2018-10-11,17:45,201810111745,thursday,ES Sétif,CS Constantine,2,0,2,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/ligue-1-2018-2019-es-setif-cs-constantine/
+algeria-2018-2019,7,2018-10-15,15:00,201810151500,monday,Olympique Médéa,ES Sétif,2,2,4,D,D,D,1,1,2,D,D,D,http://www.worldfootball.net/report/ligue-1-2018-2019-olympique-medea-es-setif/
+algeria-2018-2019,5,2018-10-15,17:45,201810151745,monday,USM Alger,MO Béjaïa,5,1,6,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/ligue-1-2018-2019-usm-alger-mo-bejaia/
+algeria-2018-2019,8,2018-10-15,17:45,201810151745,monday,MC Alger,CS Constantine,2,1,3,H,W,L,1,1,2,D,D,D,http://www.worldfootball.net/report/ligue-1-2018-2019-mc-alger-cs-constantine/
+algeria-2018-2019,11,2018-10-19,17:00,201810191700,friday,NA Hussein Dey,CR Bélouizdad,0,2,2,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/ligue-1-2018-2019-na-hussein-dey-cr-belouizdad/
+algeria-2018-2019,6,2018-10-19,17:45,201810191745,friday,USM Bel Abbes,USM Alger,2,2,4,D,D,D,0,1,1,A,L,W,http://www.worldfootball.net/report/ligue-1-2018-2019-usm-bel-abbes-usm-alger/
+algeria-2018-2019,11,2018-10-19,17:45,201810191745,friday,MC Oran,JS Kabylie,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/ligue-1-2018-2019-mc-oran-js-kabylie/
+algeria-2018-2019,11,2018-10-19,19:00,201810191900,friday,JS Saoura,Paradou AC,2,2,4,D,D,D,1,0,1,H,W,L,http://www.worldfootball.net/report/ligue-1-2018-2019-js-saoura-paradou-ac/
+algeria-2018-2019,11,2018-10-20,17:00,201810201700,saturday,CS Constantine,Olympique Médéa,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/ligue-1-2018-2019-cs-constantine-olympique-medea/
+algeria-2018-2019,11,2018-10-20,17:45,201810201745,saturday,MO Béjaïa,AS Aïn M'lila,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/ligue-1-2018-2019-mo-bejaia-as-ain-mlila/
+algeria-2018-2019,11,2018-10-20,17:45,201810201745,saturday,CA Bordj Bou Arreridj,MC Alger,0,1,1,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/ligue-1-2018-2019-ca-bordj-bou-arreridj-mc-alger/
+algeria-2018-2019,11,2018-10-23,17:30,201810231730,tuesday,DRB Tadjenanet,USM Bel Abbes,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/ligue-1-2018-2019-drb-tadjenanet-usm-bel-abbes/
+algeria-2018-2019,12,2018-10-30,14:00,201810301400,tuesday,Olympique Médéa,USM Alger,1,3,4,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/ligue-1-2018-2019-olympique-medea-usm-alger/
+algeria-2018-2019,12,2018-10-30,15:00,201810301500,tuesday,CR Bélouizdad,CA Bordj Bou Arreridj,1,1,2,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/ligue-1-2018-2019-cr-belouizdad-ca-bordj-bou-arreridj/
+algeria-2018-2019,12,2018-10-30,16:00,201810301600,tuesday,MC Oran,DRB Tadjenanet,3,1,4,H,W,L,0,1,1,A,L,W,http://www.worldfootball.net/report/ligue-1-2018-2019-mc-oran-drb-tadjenanet/
+algeria-2018-2019,12,2018-10-30,17:00,201810301700,tuesday,Paradou AC,MO Béjaïa,3,0,3,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/ligue-1-2018-2019-paradou-ac-mo-bejaia/
+algeria-2018-2019,12,2018-10-30,17:00,201810301700,tuesday,MC Alger,JS Saoura,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/ligue-1-2018-2019-mc-alger-js-saoura/
+algeria-2018-2019,13,2018-11-05,15:00,201811051500,monday,CA Bordj Bou Arreridj,ES Sétif,1,2,3,A,L,W,1,0,1,H,W,L,http://www.worldfootball.net/report/ligue-1-2018-2019-ca-bordj-bou-arreridj-es-setif/
+algeria-2018-2019,13,2018-11-05,15:00,201811051500,monday,NA Hussein Dey,Olympique Médéa,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/ligue-1-2018-2019-na-hussein-dey-olympique-medea/
+algeria-2018-2019,13,2018-11-06,16:00,201811061600,tuesday,CS Constantine,MC Oran,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/ligue-1-2018-2019-cs-constantine-mc-oran/
+algeria-2018-2019,13,2018-11-06,16:00,201811061600,tuesday,USM Bel Abbes,Paradou AC,1,1,2,D,D,D,1,0,1,H,W,L,http://www.worldfootball.net/report/ligue-1-2018-2019-usm-bel-abbes-paradou-ac/
+algeria-2018-2019,13,2018-11-06,16:00,201811061600,tuesday,DRB Tadjenanet,AS Aïn M'lila,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/ligue-1-2018-2019-drb-tadjenanet-as-ain-mlila/
+algeria-2018-2019,13,2018-11-06,17:00,201811061700,tuesday,JS Saoura,CR Bélouizdad,2,0,2,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/ligue-1-2018-2019-js-saoura-cr-belouizdad/
+algeria-2018-2019,14,2018-11-09,14:00,201811091400,friday,Olympique Médéa,CA Bordj Bou Arreridj,1,0,1,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/ligue-1-2018-2019-olympique-medea-ca-bordj-bou-arreridj/
+algeria-2018-2019,13,2018-11-09,16:45,201811091645,friday,USM Alger,JS Kabylie,1,0,1,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/ligue-1-2018-2019-usm-alger-js-kabylie/
+algeria-2018-2019,14,2018-11-10,15:00,201811101500,saturday,CR Bélouizdad,MO Béjaïa,4,1,5,H,W,L,2,0,2,H,W,L,http://www.worldfootball.net/report/ligue-1-2018-2019-cr-belouizdad-mo-bejaia/
+algeria-2018-2019,14,2018-11-10,16:00,201811101600,saturday,CS Constantine,DRB Tadjenanet,3,3,6,D,D,D,2,2,4,D,D,D,http://www.worldfootball.net/report/ligue-1-2018-2019-cs-constantine-drb-tadjenanet/
+algeria-2018-2019,14,2018-11-10,16:00,201811101600,saturday,ES Sétif,JS Saoura,0,1,1,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/ligue-1-2018-2019-es-setif-js-saoura/
+algeria-2018-2019,14,2018-11-10,17:00,201811101700,saturday,Paradou AC,AS Aïn M'lila,3,0,3,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/ligue-1-2018-2019-paradou-ac-as-ain-mlila/
+algeria-2018-2019,14,2018-11-12,16:00,201811121600,monday,MC Oran,USM Alger,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/ligue-1-2018-2019-mc-oran-usm-alger/
+algeria-2018-2019,14,2018-11-13,16:45,201811131645,tuesday,JS Kabylie,NA Hussein Dey,2,1,3,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/ligue-1-2018-2019-js-kabylie-na-hussein-dey/
+algeria-2018-2019,14,2018-11-13,17:00,201811131700,tuesday,MC Alger,USM Bel Abbes,0,1,1,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/ligue-1-2018-2019-mc-alger-usm-bel-abbes/
+algeria-2018-2019,15,2018-11-15,16:45,201811151645,thursday,USM Alger,CS Constantine,2,1,3,H,W,L,0,1,1,A,L,W,http://www.worldfootball.net/report/ligue-1-2018-2019-usm-alger-cs-constantine/
+algeria-2018-2019,10,2018-11-16,15:00,201811161500,friday,Paradou AC,CA Bordj Bou Arreridj,2,0,2,H,W,L,2,0,2,H,W,L,http://www.worldfootball.net/report/ligue-1-2018-2019-paradou-ac-ca-bordj-bou-arreridj/
+algeria-2018-2019,12,2018-11-16,17:00,201811161700,friday,ES Sétif,NA Hussein Dey,0,1,1,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/ligue-1-2018-2019-es-setif-na-hussein-dey/
+algeria-2018-2019,12,2018-11-17,15:00,201811171500,saturday,AS Aïn M'lila,USM Bel Abbes,1,0,1,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/ligue-1-2018-2019-as-ain-mlila-usm-bel-abbes/
+algeria-2018-2019,13,2018-11-17,17:00,201811171700,saturday,MO Béjaïa,MC Alger,1,1,2,D,D,D,1,1,2,D,D,D,http://www.worldfootball.net/report/ligue-1-2018-2019-mo-bejaia-mc-alger/
+algeria-2018-2019,12,2018-11-19,16:45,201811191645,monday,JS Kabylie,CS Constantine,0,2,2,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/ligue-1-2018-2019-js-kabylie-cs-constantine/
+algeria-2018-2019,15,2018-11-21,15:00,201811211500,wednesday,NA Hussein Dey,MC Oran,1,0,1,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/ligue-1-2018-2019-na-hussein-dey-mc-oran/
+algeria-2018-2019,15,2018-11-21,17:00,201811211700,wednesday,AS Aïn M'lila,MC Alger,1,1,2,D,D,D,0,1,1,A,L,W,http://www.worldfootball.net/report/ligue-1-2018-2019-as-ain-mlila-mc-alger/
+algeria-2018-2019,15,2018-11-21,17:00,201811211700,wednesday,JS Saoura,Olympique Médéa,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/ligue-1-2018-2019-js-saoura-olympique-medea/
+algeria-2018-2019,15,2018-11-22,15:00,201811221500,thursday,USM Bel Abbes,CR Bélouizdad,1,0,1,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/ligue-1-2018-2019-usm-bel-abbes-cr-belouizdad/
+algeria-2018-2019,15,2018-11-22,17:00,201811221700,thursday,MO Béjaïa,ES Sétif,1,0,1,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/ligue-1-2018-2019-mo-bejaia-es-setif/
+algeria-2018-2019,15,2018-11-22,17:00,201811221700,thursday,DRB Tadjenanet,Paradou AC,1,0,1,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/ligue-1-2018-2019-drb-tadjenanet-paradou-ac/
+algeria-2018-2019,15,2018-11-23,15:00,201811231500,friday,CA Bordj Bou Arreridj,JS Kabylie,1,0,1,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/ligue-1-2018-2019-ca-bordj-bou-arreridj-js-kabylie/
+algeria-2018-2019,11,2018-11-29,16:45,201811291645,thursday,USM Alger,ES Sétif,0,1,1,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/ligue-1-2018-2019-usm-alger-es-setif/
+algeria-2018-2019,16,2019-01-04,14:00,201901041400,friday,AS Aïn M'lila,CR Bélouizdad,1,1,2,D,D,D,0,1,1,A,L,W,http://www.worldfootball.net/report/ligue-1-2018-2019-as-ain-mlila-cr-belouizdad/
+algeria-2018-2019,16,2019-01-04,14:00,201901041400,friday,MO Béjaïa,Olympique Médéa,1,1,2,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/ligue-1-2018-2019-mo-bejaia-olympique-medea/
+algeria-2018-2019,16,2019-01-04,14:00,201901041400,friday,CA Bordj Bou Arreridj,MC Oran,3,1,4,H,W,L,1,1,2,D,D,D,http://www.worldfootball.net/report/ligue-1-2018-2019-ca-bordj-bou-arreridj-mc-oran/
+algeria-2018-2019,16,2019-01-04,14:00,201901041400,friday,NA Hussein Dey,CS Constantine,0,1,1,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/ligue-1-2018-2019-na-hussein-dey-cs-constantine/
+algeria-2018-2019,16,2019-01-04,15:00,201901041500,friday,USM Bel Abbes,ES Sétif,2,0,2,H,W,L,2,0,2,H,W,L,http://www.worldfootball.net/report/ligue-1-2018-2019-usm-bel-abbes-es-setif/
+algeria-2018-2019,16,2019-01-04,17:00,201901041700,friday,JS Saoura,JS Kabylie,0,1,1,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/ligue-1-2018-2019-js-saoura-js-kabylie/
+algeria-2018-2019,16,2019-01-04,17:00,201901041700,friday,DRB Tadjenanet,USM Alger,1,0,1,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/ligue-1-2018-2019-drb-tadjenanet-usm-alger/
+algeria-2018-2019,16,2019-01-05,16:45,201901051645,saturday,Paradou AC,MC Alger,0,1,1,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/ligue-1-2018-2019-paradou-ac-mc-alger/
+algeria-2018-2019,17,2019-01-11,14:00,201901111400,friday,Olympique Médéa,USM Bel Abbes,2,0,2,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/ligue-1-2018-2019-olympique-medea-usm-bel-abbes/
+algeria-2018-2019,17,2019-01-11,16:50,201901111650,friday,JS Kabylie,MO Béjaïa,1,0,1,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/ligue-1-2018-2019-js-kabylie-mo-bejaia/
+algeria-2018-2019,17,2019-01-11,17:00,201901111700,friday,MC Alger,DRB Tadjenanet,4,1,5,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/ligue-1-2018-2019-mc-alger-drb-tadjenanet/
+algeria-2018-2019,17,2019-01-12,14:00,201901121400,saturday,CR Bélouizdad,Paradou AC,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/ligue-1-2018-2019-cr-belouizdad-paradou-ac/
+algeria-2018-2019,17,2019-01-15,16:45,201901151645,tuesday,CS Constantine,CA Bordj Bou Arreridj,1,0,1,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/ligue-1-2018-2019-cs-constantine-ca-bordj-bou-arreridj/
+algeria-2018-2019,17,2019-01-15,16:45,201901151645,tuesday,USM Alger,NA Hussein Dey,4,1,5,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/ligue-1-2018-2019-usm-alger-na-hussein-dey/
+algeria-2018-2019,18,2019-01-17,16:45,201901171645,thursday,MC Alger,CR Bélouizdad,1,1,2,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/ligue-1-2018-2019-mc-alger-cr-belouizdad/
+algeria-2018-2019,18,2019-01-18,14:00,201901181400,friday,CA Bordj Bou Arreridj,USM Alger,1,1,2,D,D,D,1,0,1,H,W,L,http://www.worldfootball.net/report/ligue-1-2018-2019-ca-bordj-bou-arreridj-usm-alger/
+algeria-2018-2019,18,2019-01-18,15:00,201901181500,friday,MO Béjaïa,MC Oran,0,3,3,A,L,W,0,2,2,A,L,W,http://www.worldfootball.net/report/ligue-1-2018-2019-mo-bejaia-mc-oran/
+algeria-2018-2019,18,2019-01-18,16:45,201901181645,friday,Paradou AC,ES Sétif,1,0,1,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/ligue-1-2018-2019-paradou-ac-es-setif/
+algeria-2018-2019,18,2019-01-19,14:00,201901191400,saturday,AS Aïn M'lila,Olympique Médéa,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/ligue-1-2018-2019-as-ain-mlila-olympique-medea/
+algeria-2018-2019,18,2019-01-19,15:00,201901191500,saturday,USM Bel Abbes,JS Kabylie,0,2,2,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/ligue-1-2018-2019-usm-bel-abbes-js-kabylie/
+algeria-2018-2019,17,2019-01-22,16:45,201901221645,tuesday,MC Oran,JS Saoura,1,1,2,D,D,D,1,1,2,D,D,D,http://www.worldfootball.net/report/ligue-1-2018-2019-mc-oran-js-saoura/
+algeria-2018-2019,19,2019-01-25,15:00,201901251500,friday,MC Oran,USM Bel Abbes,2,2,4,D,D,D,1,1,2,D,D,D,http://www.worldfootball.net/report/ligue-1-2018-2019-mc-oran-usm-bel-abbes/
+algeria-2018-2019,19,2019-01-25,16:45,201901251645,friday,JS Kabylie,AS Aïn M'lila,1,1,2,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/ligue-1-2018-2019-js-kabylie-as-ain-mlila/
+algeria-2018-2019,19,2019-01-26,14:00,201901261400,saturday,Olympique Médéa,Paradou AC,0,1,1,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/ligue-1-2018-2019-olympique-medea-paradou-ac/
+algeria-2018-2019,19,2019-01-26,15:00,201901261500,saturday,USM Alger,JS Saoura,2,0,2,H,W,L,2,0,2,H,W,L,http://www.worldfootball.net/report/ligue-1-2018-2019-usm-alger-js-saoura/
+algeria-2018-2019,19,2019-01-27,14:00,201901271400,sunday,NA Hussein Dey,CA Bordj Bou Arreridj,1,0,1,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/ligue-1-2018-2019-na-hussein-dey-ca-bordj-bou-arreridj/
+algeria-2018-2019,19,2019-01-27,16:00,201901271600,sunday,CS Constantine,MO Béjaïa,1,0,1,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/ligue-1-2018-2019-cs-constantine-mo-bejaia/
+algeria-2018-2019,17,2019-01-30,15:00,201901301500,wednesday,ES Sétif,AS Aïn M'lila,4,0,4,H,W,L,2,0,2,H,W,L,http://www.worldfootball.net/report/ligue-1-2018-2019-es-setif-as-ain-mlila/
+algeria-2018-2019,18,2019-01-31,14:00,201901311400,thursday,NA Hussein Dey,DRB Tadjenanet,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/ligue-1-2018-2019-na-hussein-dey-drb-tadjenanet/
+algeria-2018-2019,20,2019-02-04,14:00,201902041400,monday,AS Aïn M'lila,MC Oran,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/ligue-1-2018-2019-as-ain-mlila-mc-oran/
+algeria-2018-2019,20,2019-02-04,15:00,201902041500,monday,USM Bel Abbes,CS Constantine,0,4,4,A,L,W,0,2,2,A,L,W,http://www.worldfootball.net/report/ligue-1-2018-2019-usm-bel-abbes-cs-constantine/
+algeria-2018-2019,20,2019-02-04,16:45,201902041645,monday,Paradou AC,JS Kabylie,2,0,2,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/ligue-1-2018-2019-paradou-ac-js-kabylie/
+algeria-2018-2019,20,2019-02-05,14:00,201902051400,tuesday,CR Bélouizdad,ES Sétif,1,0,1,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/ligue-1-2018-2019-cr-belouizdad-es-setif/
+algeria-2018-2019,20,2019-02-05,16:00,201902051600,tuesday,MO Béjaïa,USM Alger,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/ligue-1-2018-2019-mo-bejaia-usm-alger/
+algeria-2018-2019,20,2019-02-05,16:00,201902051600,tuesday,CA Bordj Bou Arreridj,DRB Tadjenanet,1,0,1,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/ligue-1-2018-2019-ca-bordj-bou-arreridj-drb-tadjenanet/
+algeria-2018-2019,20,2019-02-05,17:00,201902051700,tuesday,MC Alger,Olympique Médéa,2,1,3,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/ligue-1-2018-2019-mc-alger-olympique-medea/
+algeria-2018-2019,20,2019-02-07,17:00,201902071700,thursday,JS Saoura,NA Hussein Dey,1,0,1,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/ligue-1-2018-2019-js-saoura-na-hussein-dey/
+algeria-2018-2019,21,2019-02-08,15:00,201902081500,friday,MC Oran,Paradou AC,0,2,2,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/ligue-1-2018-2019-mc-oran-paradou-ac/
+algeria-2018-2019,21,2019-02-08,16:00,201902081600,friday,CS Constantine,AS Aïn M'lila,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/ligue-1-2018-2019-cs-constantine-as-ain-mlila/
+algeria-2018-2019,21,2019-02-09,14:00,201902091400,saturday,Olympique Médéa,CR Bélouizdad,0,1,1,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/ligue-1-2018-2019-olympique-medea-cr-belouizdad/
+algeria-2018-2019,21,2019-02-09,16:45,201902091645,saturday,DRB Tadjenanet,ES Sétif,2,0,2,H,W,L,2,0,2,H,W,L,http://www.worldfootball.net/report/ligue-1-2018-2019-drb-tadjenanet-es-setif/
+algeria-2018-2019,21,2019-02-09,16:45,201902091645,saturday,JS Kabylie,MC Alger,1,1,2,D,D,D,0,1,1,A,L,W,http://www.worldfootball.net/report/ligue-1-2018-2019-js-kabylie-mc-alger/
+algeria-2018-2019,21,2019-02-09,17:00,201902091700,saturday,USM Alger,USM Bel Abbes,1,0,1,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/ligue-1-2018-2019-usm-alger-usm-bel-abbes/
+algeria-2018-2019,22,2019-02-12,16:00,201902121600,tuesday,MO Béjaïa,CA Bordj Bou Arreridj,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/ligue-1-2018-2019-mo-bejaia-ca-bordj-bou-arreridj/
+algeria-2018-2019,22,2019-02-12,16:45,201902121645,tuesday,Paradou AC,CS Constantine,1,0,1,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/ligue-1-2018-2019-paradou-ac-cs-constantine/
+algeria-2018-2019,22,2019-02-13,14:00,201902131400,wednesday,AS Aïn M'lila,USM Alger,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/ligue-1-2018-2019-as-ain-mlila-usm-alger/
+algeria-2018-2019,22,2019-02-13,14:00,201902131400,wednesday,CR Bélouizdad,JS Kabylie,2,1,3,H,W,L,1,1,2,D,D,D,http://www.worldfootball.net/report/ligue-1-2018-2019-cr-belouizdad-js-kabylie/
+algeria-2018-2019,22,2019-02-13,16:00,201902131600,wednesday,ES Sétif,Olympique Médéa,1,0,1,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/ligue-1-2018-2019-es-setif-olympique-medea/
+algeria-2018-2019,22,2019-02-16,17:00,201902161700,saturday,JS Saoura,DRB Tadjenanet,2,0,2,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/ligue-1-2018-2019-js-saoura-drb-tadjenanet/
+algeria-2018-2019,21,2019-02-22,17:00,201902221700,friday,CA Bordj Bou Arreridj,JS Saoura,2,0,2,H,W,L,2,0,2,H,W,L,http://www.worldfootball.net/report/ligue-1-2018-2019-ca-bordj-bou-arreridj-js-saoura/

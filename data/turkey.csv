@@ -1,116 +1,116 @@
 Div,Round,Date,Time,timestamp,Weekday,HomeTeam,AwayTeam,FTHG,FTAG,FTG,FTR,FTHR,FTAR,HTHG,HTAG,HTG,HTR,HTHR,HTAR,Report_url
-turkey-1959,1,1959-02-21,,195902210000,saturday,Ankara Demirspor,Galatasaray,0,2,2,A,L,W,0,1,1,A,L,W,
-turkey-1959,1,1959-02-21,,195902210000,saturday,Gençlerbirliği,Adalet Istanbul,1,1,2,D,D,D,0,1,1,A,L,W,
-turkey-1959,1,1959-02-21,,195902210000,saturday,Fenerbahçe,MKE Ankaragücü,3,1,4,H,W,L,1,1,2,D,D,D,
-turkey-1959,1,1959-02-21,,195902210000,saturday,Altay Izmir,Beşiktaş,1,2,3,A,L,W,0,1,1,A,L,W,
-turkey-1959,1,1959-02-21,,195902210000,saturday,Izmirspor,Beykozspor,2,1,3,H,W,L,2,0,2,H,W,L,
-turkey-1959,1,1959-02-21,,195902210000,saturday,Istanbulspor,Hacettepe,0,2,2,A,L,W,0,0,0,D,D,D,
-turkey-1959,1,1959-02-22,,195902220000,sunday,Ankara Demirspor,Adalet Istanbul,2,0,2,H,W,L,2,0,2,H,W,L,
-turkey-1959,1,1959-02-22,,195902220000,sunday,Gençlerbirliği,Galatasaray,0,0,0,D,D,D,0,0,0,D,D,D,
-turkey-1959,1,1959-02-22,,195902220000,sunday,Fenerbahçe,Hacettepe,2,1,3,H,W,L,1,0,1,H,W,L,
-turkey-1959,1,1959-02-22,,195902220000,sunday,Altay Izmir,Beykozspor,2,2,4,D,D,D,0,1,1,A,L,W,
-turkey-1959,1,1959-02-22,,195902220000,sunday,Izmirspor,Beşiktaş,1,1,2,D,D,D,0,1,1,A,L,W,
-turkey-1959,1,1959-02-22,,195902220000,sunday,Istanbulspor,MKE Ankaragücü,1,1,2,D,D,D,0,0,0,D,D,D,
-turkey-1959,2,1959-02-25,,195902250000,wednesday,Vefa Istanbul,Fatih Karagümrük SK,1,0,1,H,W,L,0,0,0,D,D,D,
-turkey-1959,2,1959-02-25,,195902250000,wednesday,Beykozspor,Beşiktaş,1,0,1,H,W,L,0,0,0,D,D,D,
-turkey-1959,2,1959-02-28,,195902280000,saturday,Galatasaray,Karşıyaka SK,1,1,2,D,D,D,1,0,1,H,W,L,
-turkey-1959,2,1959-02-28,,195902280000,saturday,Adalet Istanbul,Göztepe,0,0,0,D,D,D,0,0,0,D,D,D,
-turkey-1959,2,1959-02-28,,195902280000,saturday,Altay Izmir,Fenerbahçe,0,1,1,A,L,W,0,1,1,A,L,W,
-turkey-1959,2,1959-02-28,,195902280000,saturday,Izmirspor,Istanbulspor,2,0,2,H,W,L,0,0,0,D,D,D,
-turkey-1959,2,1959-03-01,,195903010000,sunday,Galatasaray,Göztepe,0,0,0,D,D,D,0,0,0,D,D,D,
-turkey-1959,2,1959-03-01,,195903010000,sunday,Adalet Istanbul,Karşıyaka SK,0,0,0,D,D,D,0,0,0,D,D,D,
-turkey-1959,2,1959-03-01,,195903010000,sunday,Altay Izmir,Istanbulspor,2,0,2,H,W,L,0,0,0,D,D,D,
-turkey-1959,2,1959-03-01,,195903010000,sunday,Izmirspor,Fenerbahçe,0,0,0,D,D,D,0,0,0,D,D,D,
-turkey-1959,3,1959-03-07,,195903070000,saturday,Ankara Demirspor,Fatih Karagümrük SK,0,0,0,D,D,D,0,0,0,D,D,D,
-turkey-1959,3,1959-03-07,,195903070000,saturday,Gençlerbirliği,Vefa Istanbul,0,3,3,A,L,W,0,2,2,A,L,W,
-turkey-1959,3,1959-03-07,,195903070000,saturday,Beşiktaş,Hacettepe,3,2,5,H,W,L,2,1,3,H,W,L,
-turkey-1959,3,1959-03-07,,195903070000,saturday,Beykozspor,MKE Ankaragücü,3,1,4,H,W,L,1,1,2,D,D,D,
-turkey-1959,3,1959-03-08,,195903080000,sunday,Ankara Demirspor,Vefa Istanbul,1,1,2,D,D,D,0,0,0,D,D,D,
-turkey-1959,3,1959-03-08,,195903080000,sunday,Göztepe,Karşıyaka SK,3,2,5,H,W,L,2,0,2,H,W,L,
-turkey-1959,3,1959-03-08,,195903080000,sunday,Gençlerbirliği,Fatih Karagümrük SK,0,1,1,A,L,W,0,1,1,A,L,W,
-turkey-1959,3,1959-03-08,,195903080000,sunday,Beşiktaş,MKE Ankaragücü,0,0,0,D,D,D,0,0,0,D,D,D,
-turkey-1959,3,1959-03-08,,195903080000,sunday,Altay Izmir,Izmirspor,1,1,2,D,D,D,0,1,1,A,L,W,
-turkey-1959,3,1959-03-08,,195903080000,sunday,Beykozspor,Hacettepe,0,1,1,A,L,W,0,0,0,D,D,D,
-turkey-1959,4,1959-03-11,,195903110000,wednesday,Vefa Istanbul,Galatasaray,0,0,0,D,D,D,0,0,0,D,D,D,
-turkey-1959,4,1959-03-11,,195903110000,wednesday,Istanbulspor,Beykozspor,2,0,2,H,W,L,1,0,1,H,W,L,
-turkey-1959,4,1959-03-14,,195903140000,saturday,Ankara Demirspor,Karşıyaka SK,1,0,1,H,W,L,1,0,1,H,W,L,
-turkey-1959,4,1959-03-14,,195903140000,saturday,Gençlerbirliği,Göztepe,2,2,4,D,D,D,2,2,4,D,D,D,
-turkey-1959,4,1959-03-14,,195903140000,saturday,Beşiktaş,Istanbulspor,2,1,3,H,W,L,1,0,1,H,W,L,
-turkey-1959,4,1959-03-14,,195903140000,saturday,Altay Izmir,Hacettepe,1,0,1,H,W,L,0,0,0,D,D,D,
-turkey-1959,4,1959-03-15,,195903150000,sunday,Galatasaray,Adalet Istanbul,2,1,3,H,W,L,2,0,2,H,W,L,
-turkey-1959,4,1959-03-15,,195903150000,sunday,Ankara Demirspor,Göztepe,1,1,2,D,D,D,0,1,1,A,L,W,
-turkey-1959,4,1959-03-15,,195903150000,sunday,Gençlerbirliği,Karşıyaka SK,1,1,2,D,D,D,0,1,1,A,L,W,
-turkey-1959,4,1959-03-15,,195903150000,sunday,Fenerbahçe,Beykozspor,2,1,3,H,W,L,0,0,0,D,D,D,
-turkey-1959,4,1959-03-15,,195903150000,sunday,Izmirspor,Hacettepe,1,0,1,H,W,L,1,0,1,H,W,L,
-turkey-1959,4,1959-03-15,,195903150000,sunday,Altay Izmir,MKE Ankaragücü,1,0,1,H,W,L,1,0,1,H,W,L,
-turkey-1959,4,1959-03-17,,195903170000,tuesday,Izmirspor,MKE Ankaragücü,1,0,1,H,W,L,1,0,1,H,W,L,
-turkey-1959,5,1959-03-18,,195903180000,wednesday,Adalet Istanbul,Fatih Karagümrük SK,1,1,2,D,D,D,0,0,0,D,D,D,
-turkey-1959,5,1959-03-18,,195903180000,wednesday,Fenerbahçe,Beşiktaş,1,0,1,H,W,L,0,0,0,D,D,D,
-turkey-1959,2,1959-03-21,,195903210000,saturday,Ankara Demirspor,Gençlerbirliği,0,0,0,D,D,D,0,0,0,D,D,D,
-turkey-1959,5,1959-03-21,,195903210000,saturday,Göztepe,Vefa Istanbul,0,1,1,A,L,W,0,0,0,D,D,D,
-turkey-1959,5,1959-03-21,,195903210000,saturday,Karşıyaka SK,Galatasaray,0,1,1,A,L,W,0,1,1,A,L,W,
-turkey-1959,5,1959-03-21,,195903210000,saturday,Beykozspor,Izmirspor,2,1,3,H,W,L,0,1,1,A,L,W,
-turkey-1959,5,1959-03-21,,195903210000,saturday,Istanbulspor,Altay Izmir,0,1,1,A,L,W,0,1,1,A,L,W,
-turkey-1959,5,1959-03-22,,195903220000,sunday,Göztepe,Galatasaray,0,5,5,A,L,W,0,2,2,A,L,W,
-turkey-1959,5,1959-03-22,,195903220000,sunday,Karşıyaka SK,Vefa Istanbul,2,0,2,H,W,L,1,0,1,H,W,L,
-turkey-1959,5,1959-03-22,,195903220000,sunday,Hacettepe,MKE Ankaragücü,1,3,4,A,L,W,0,0,0,D,D,D,
-turkey-1959,5,1959-03-22,,195903220000,sunday,Beykozspor,Altay Izmir,2,2,4,D,D,D,1,1,2,D,D,D,
-turkey-1959,5,1959-03-22,,195903220000,sunday,Istanbulspor,Izmirspor,0,0,0,D,D,D,0,0,0,D,D,D,
-turkey-1959,6,1959-03-25,,195903250000,wednesday,Galatasaray,Fatih Karagümrük SK,1,0,1,H,W,L,1,0,1,H,W,L,
-turkey-1959,6,1959-03-25,,195903250000,wednesday,Vefa Istanbul,Adalet Istanbul,2,2,4,D,D,D,1,0,1,H,W,L,
-turkey-1959,6,1959-03-28,,195903280000,saturday,Fenerbahçe,Altay Izmir,1,1,2,D,D,D,1,0,1,H,W,L,
-turkey-1959,6,1959-03-28,,195903280000,saturday,Beşiktaş,Izmirspor,2,0,2,H,W,L,1,0,1,H,W,L,
-turkey-1959,6,1959-03-28,,195903280000,saturday,MKE Ankaragücü,Beykozspor,2,2,4,D,D,D,2,1,3,H,W,L,
-turkey-1959,6,1959-03-28,,195903280000,saturday,Hacettepe,Istanbulspor,1,1,2,D,D,D,1,1,2,D,D,D,
-turkey-1959,6,1959-03-29,,195903290000,sunday,Fenerbahçe,Izmirspor,1,0,1,H,W,L,1,0,1,H,W,L,
-turkey-1959,6,1959-03-29,,195903290000,sunday,Beşiktaş,Altay Izmir,1,3,4,A,L,W,0,1,1,A,L,W,
-turkey-1959,6,1959-03-29,,195903290000,sunday,MKE Ankaragücü,Istanbulspor,1,0,1,H,W,L,1,0,1,H,W,L,
-turkey-1959,6,1959-03-29,,195903290000,sunday,Hacettepe,Beykozspor,2,1,3,H,W,L,0,0,0,D,D,D,
-turkey-1959,7,1959-04-08,,195904080000,wednesday,Fenerbahçe,Istanbulspor,3,0,3,H,W,L,1,0,1,H,W,L,
-turkey-1959,7,1959-04-08,,195904080000,wednesday,Beşiktaş,Beykozspor,3,2,5,H,W,L,1,1,2,D,D,D,
-turkey-1959,7,1959-04-11,,195904110000,saturday,Galatasaray,Ankara Demirspor,1,2,3,A,L,W,1,1,2,D,D,D,
-turkey-1959,7,1959-04-11,,195904110000,saturday,Vefa Istanbul,Gençlerbirliği,3,0,3,H,W,L,2,0,2,H,W,L,
-turkey-1959,7,1959-04-11,,195904110000,saturday,Göztepe,Adalet Istanbul,2,3,5,A,L,W,1,2,3,A,L,W,
-turkey-1959,7,1959-04-11,,195904110000,saturday,Karşıyaka SK,Fatih Karagümrük SK,0,3,3,A,L,W,0,0,0,D,D,D,
-turkey-1959,7,1959-04-11,,195904110000,saturday,MKE Ankaragücü,Izmirspor,1,0,1,H,W,L,1,0,1,H,W,L,
-turkey-1959,7,1959-04-11,,195904110000,saturday,Hacettepe,Altay Izmir,2,0,2,H,W,L,2,0,2,H,W,L,
-turkey-1959,7,1959-04-12,,195904120000,sunday,Galatasaray,Gençlerbirliği,0,0,0,D,D,D,0,0,0,D,D,D,
-turkey-1959,7,1959-04-12,,195904120000,sunday,Vefa Istanbul,Ankara Demirspor,0,0,0,D,D,D,0,0,0,D,D,D,
-turkey-1959,7,1959-04-12,,195904120000,sunday,Göztepe,Fatih Karagümrük SK,3,0,3,H,W,L,1,0,1,H,W,L,
-turkey-1959,7,1959-04-12,,195904120000,sunday,Karşıyaka SK,Adalet Istanbul,3,1,4,H,W,L,2,1,3,H,W,L,
-turkey-1959,7,1959-04-12,,195904120000,sunday,MKE Ankaragücü,Altay Izmir,2,1,3,H,W,L,1,0,1,H,W,L,
-turkey-1959,7,1959-04-12,,195904120000,sunday,Hacettepe,Izmirspor,1,0,1,H,W,L,1,0,1,H,W,L,
-turkey-1959,8,1959-04-18,,195904180000,saturday,Fatih Karagümrük SK,Ankara Demirspor,1,2,3,A,L,W,1,2,3,A,L,W,
-turkey-1959,8,1959-04-18,,195904180000,saturday,Adalet Istanbul,Gençlerbirliği,2,3,5,A,L,W,2,3,5,A,L,W,
-turkey-1959,8,1959-04-18,,195904180000,saturday,MKE Ankaragücü,Beşiktaş,1,3,4,A,L,W,0,1,1,A,L,W,
-turkey-1959,8,1959-04-18,,195904180000,saturday,Hacettepe,Fenerbahçe,1,4,5,A,L,W,0,3,3,A,L,W,
-turkey-1959,8,1959-04-19,,195904190000,sunday,Fatih Karagümrük SK,Gençlerbirliği,2,1,3,H,W,L,2,0,2,H,W,L,
-turkey-1959,8,1959-04-19,,195904190000,sunday,Karşıyaka SK,Göztepe,0,3,3,A,L,W,0,2,2,A,L,W,
-turkey-1959,8,1959-04-19,,195904190000,sunday,Adalet Istanbul,Ankara Demirspor,0,0,0,D,D,D,0,0,0,D,D,D,
-turkey-1959,8,1959-04-19,,195904190000,sunday,Izmirspor,Altay Izmir,2,2,4,D,D,D,1,1,2,D,D,D,
-turkey-1959,8,1959-04-19,,195904190000,sunday,MKE Ankaragücü,Fenerbahçe,2,3,5,A,L,W,1,2,3,A,L,W,
-turkey-1959,8,1959-04-19,,195904190000,sunday,Hacettepe,Beşiktaş,0,3,3,A,L,W,0,0,0,D,D,D,
-turkey-1959,9,1959-04-29,,195904290000,wednesday,Adalet Istanbul,Galatasaray,0,1,1,A,L,W,0,1,1,A,L,W,
-turkey-1959,9,1959-04-29,,195904290000,wednesday,Istanbulspor,Beşiktaş,1,2,3,A,L,W,1,0,1,H,W,L,
-turkey-1959,9,1959-05-02,,195905020000,saturday,Vefa Istanbul,Göztepe,3,2,5,H,W,L,0,1,1,A,L,W,
-turkey-1959,9,1959-05-02,,195905020000,saturday,Fatih Karagümrük SK,Karşıyaka SK,2,2,4,D,D,D,0,0,0,D,D,D,
-turkey-1959,9,1959-05-03,,195905030000,sunday,Vefa Istanbul,Karşıyaka SK,3,0,3,H,W,L,2,0,2,H,W,L,
-turkey-1959,9,1959-05-03,,195905030000,sunday,Fatih Karagümrük SK,Göztepe,1,1,2,D,D,D,0,1,1,A,L,W,
-turkey-1959,9,1959-05-09,,195905090000,saturday,Gençlerbirliği,Ankara Demirspor,0,0,0,D,D,D,0,0,0,D,D,D,
-turkey-1959,9,1959-05-09,,195905090000,saturday,MKE Ankaragücü,Hacettepe,1,0,1,H,W,L,0,0,0,D,D,D,
-turkey-1959,10,1959-05-13,,195905130000,wednesday,Fatih Karagümrük SK,Vefa Istanbul,1,2,3,A,L,W,1,1,2,D,D,D,
-turkey-1959,10,1959-05-13,,195905130000,wednesday,Beykozspor,Fenerbahçe,0,1,1,A,L,W,0,1,1,A,L,W,
-turkey-1959,10,1959-05-16,,195905160000,saturday,Göztepe,Gençlerbirliği,2,1,3,H,W,L,2,1,3,H,W,L,
-turkey-1959,10,1959-05-16,,195905160000,saturday,Fatih Karagümrük SK,Galatasaray,2,3,5,A,L,W,1,3,4,A,L,W,
-turkey-1959,10,1959-05-16,,195905160000,saturday,Karşıyaka SK,Ankara Demirspor,1,1,2,D,D,D,0,1,1,A,L,W,
-turkey-1959,10,1959-05-16,,195905160000,saturday,Beykozspor,Istanbulspor,0,0,0,D,D,D,0,0,0,D,D,D,
-turkey-1959,10,1959-05-17,,195905170000,sunday,Göztepe,Ankara Demirspor,4,2,6,H,W,L,2,0,2,H,W,L,
-turkey-1959,10,1959-05-17,,195905170000,sunday,Karşıyaka SK,Gençlerbirliği,1,1,2,D,D,D,1,0,1,H,W,L,
-turkey-1959,10,1959-05-17,,195905170000,sunday,Adalet Istanbul,Vefa Istanbul,1,1,2,D,D,D,1,0,1,H,W,L,
-turkey-1959,10,1959-05-17,,195905170000,sunday,Beşiktaş,Fenerbahçe,0,2,2,A,L,W,0,2,2,A,L,W,
-turkey-1959,11,1959-06-06,,195906060000,saturday,Galatasaray,Vefa Istanbul,1,1,2,D,D,D,0,0,0,D,D,D,
-turkey-1959,11,1959-06-07,,195906070000,sunday,Fatih Karagümrük SK,Adalet Istanbul,3,0,3,H,W,L,1,0,1,H,W,L,
-turkey-1959,11,1959-06-07,,195906070000,sunday,Istanbulspor,Fenerbahçe,0,5,5,A,L,W,0,3,3,A,L,W,
+turkey-1959,1,1959-02-21,,195902210000,saturday,Ankara Demirspor,Galatasaray,0,2,2,A,L,W,0.0,1.0,1.0,A,L,W,
+turkey-1959,1,1959-02-21,,195902210000,saturday,Gençlerbirliği,Adalet Istanbul,1,1,2,D,D,D,0.0,1.0,1.0,A,L,W,
+turkey-1959,1,1959-02-21,,195902210000,saturday,Fenerbahçe,MKE Ankaragücü,3,1,4,H,W,L,1.0,1.0,2.0,D,D,D,
+turkey-1959,1,1959-02-21,,195902210000,saturday,Altay Izmir,Beşiktaş,1,2,3,A,L,W,0.0,1.0,1.0,A,L,W,
+turkey-1959,1,1959-02-21,,195902210000,saturday,Izmirspor,Beykozspor,2,1,3,H,W,L,2.0,0.0,2.0,H,W,L,
+turkey-1959,1,1959-02-21,,195902210000,saturday,Istanbulspor,Hacettepe,0,2,2,A,L,W,0.0,0.0,0.0,D,D,D,
+turkey-1959,1,1959-02-22,,195902220000,sunday,Ankara Demirspor,Adalet Istanbul,2,0,2,H,W,L,2.0,0.0,2.0,H,W,L,
+turkey-1959,1,1959-02-22,,195902220000,sunday,Gençlerbirliği,Galatasaray,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
+turkey-1959,1,1959-02-22,,195902220000,sunday,Fenerbahçe,Hacettepe,2,1,3,H,W,L,1.0,0.0,1.0,H,W,L,
+turkey-1959,1,1959-02-22,,195902220000,sunday,Altay Izmir,Beykozspor,2,2,4,D,D,D,0.0,1.0,1.0,A,L,W,
+turkey-1959,1,1959-02-22,,195902220000,sunday,Izmirspor,Beşiktaş,1,1,2,D,D,D,0.0,1.0,1.0,A,L,W,
+turkey-1959,1,1959-02-22,,195902220000,sunday,Istanbulspor,MKE Ankaragücü,1,1,2,D,D,D,0.0,0.0,0.0,D,D,D,
+turkey-1959,2,1959-02-25,,195902250000,wednesday,Vefa Istanbul,Fatih Karagümrük SK,1,0,1,H,W,L,0.0,0.0,0.0,D,D,D,
+turkey-1959,2,1959-02-25,,195902250000,wednesday,Beykozspor,Beşiktaş,1,0,1,H,W,L,0.0,0.0,0.0,D,D,D,
+turkey-1959,2,1959-02-28,,195902280000,saturday,Galatasaray,Karşıyaka SK,1,1,2,D,D,D,1.0,0.0,1.0,H,W,L,
+turkey-1959,2,1959-02-28,,195902280000,saturday,Adalet Istanbul,Göztepe,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
+turkey-1959,2,1959-02-28,,195902280000,saturday,Altay Izmir,Fenerbahçe,0,1,1,A,L,W,0.0,1.0,1.0,A,L,W,
+turkey-1959,2,1959-02-28,,195902280000,saturday,Izmirspor,Istanbulspor,2,0,2,H,W,L,0.0,0.0,0.0,D,D,D,
+turkey-1959,2,1959-03-01,,195903010000,sunday,Galatasaray,Göztepe,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
+turkey-1959,2,1959-03-01,,195903010000,sunday,Adalet Istanbul,Karşıyaka SK,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
+turkey-1959,2,1959-03-01,,195903010000,sunday,Altay Izmir,Istanbulspor,2,0,2,H,W,L,0.0,0.0,0.0,D,D,D,
+turkey-1959,2,1959-03-01,,195903010000,sunday,Izmirspor,Fenerbahçe,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
+turkey-1959,3,1959-03-07,,195903070000,saturday,Ankara Demirspor,Fatih Karagümrük SK,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
+turkey-1959,3,1959-03-07,,195903070000,saturday,Gençlerbirliği,Vefa Istanbul,0,3,3,A,L,W,0.0,2.0,2.0,A,L,W,
+turkey-1959,3,1959-03-07,,195903070000,saturday,Beşiktaş,Hacettepe,3,2,5,H,W,L,2.0,1.0,3.0,H,W,L,
+turkey-1959,3,1959-03-07,,195903070000,saturday,Beykozspor,MKE Ankaragücü,3,1,4,H,W,L,1.0,1.0,2.0,D,D,D,
+turkey-1959,3,1959-03-08,,195903080000,sunday,Ankara Demirspor,Vefa Istanbul,1,1,2,D,D,D,0.0,0.0,0.0,D,D,D,
+turkey-1959,3,1959-03-08,,195903080000,sunday,Göztepe,Karşıyaka SK,3,2,5,H,W,L,2.0,0.0,2.0,H,W,L,
+turkey-1959,3,1959-03-08,,195903080000,sunday,Gençlerbirliği,Fatih Karagümrük SK,0,1,1,A,L,W,0.0,1.0,1.0,A,L,W,
+turkey-1959,3,1959-03-08,,195903080000,sunday,Beşiktaş,MKE Ankaragücü,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
+turkey-1959,3,1959-03-08,,195903080000,sunday,Altay Izmir,Izmirspor,1,1,2,D,D,D,0.0,1.0,1.0,A,L,W,
+turkey-1959,3,1959-03-08,,195903080000,sunday,Beykozspor,Hacettepe,0,1,1,A,L,W,0.0,0.0,0.0,D,D,D,
+turkey-1959,4,1959-03-11,,195903110000,wednesday,Vefa Istanbul,Galatasaray,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
+turkey-1959,4,1959-03-11,,195903110000,wednesday,Istanbulspor,Beykozspor,2,0,2,H,W,L,1.0,0.0,1.0,H,W,L,
+turkey-1959,4,1959-03-14,,195903140000,saturday,Ankara Demirspor,Karşıyaka SK,1,0,1,H,W,L,1.0,0.0,1.0,H,W,L,
+turkey-1959,4,1959-03-14,,195903140000,saturday,Gençlerbirliği,Göztepe,2,2,4,D,D,D,2.0,2.0,4.0,D,D,D,
+turkey-1959,4,1959-03-14,,195903140000,saturday,Beşiktaş,Istanbulspor,2,1,3,H,W,L,1.0,0.0,1.0,H,W,L,
+turkey-1959,4,1959-03-14,,195903140000,saturday,Altay Izmir,Hacettepe,1,0,1,H,W,L,0.0,0.0,0.0,D,D,D,
+turkey-1959,4,1959-03-15,,195903150000,sunday,Galatasaray,Adalet Istanbul,2,1,3,H,W,L,2.0,0.0,2.0,H,W,L,
+turkey-1959,4,1959-03-15,,195903150000,sunday,Ankara Demirspor,Göztepe,1,1,2,D,D,D,0.0,1.0,1.0,A,L,W,
+turkey-1959,4,1959-03-15,,195903150000,sunday,Gençlerbirliği,Karşıyaka SK,1,1,2,D,D,D,0.0,1.0,1.0,A,L,W,
+turkey-1959,4,1959-03-15,,195903150000,sunday,Fenerbahçe,Beykozspor,2,1,3,H,W,L,0.0,0.0,0.0,D,D,D,
+turkey-1959,4,1959-03-15,,195903150000,sunday,Izmirspor,Hacettepe,1,0,1,H,W,L,1.0,0.0,1.0,H,W,L,
+turkey-1959,4,1959-03-15,,195903150000,sunday,Altay Izmir,MKE Ankaragücü,1,0,1,H,W,L,1.0,0.0,1.0,H,W,L,
+turkey-1959,4,1959-03-17,,195903170000,tuesday,Izmirspor,MKE Ankaragücü,1,0,1,H,W,L,1.0,0.0,1.0,H,W,L,
+turkey-1959,5,1959-03-18,,195903180000,wednesday,Adalet Istanbul,Fatih Karagümrük SK,1,1,2,D,D,D,0.0,0.0,0.0,D,D,D,
+turkey-1959,5,1959-03-18,,195903180000,wednesday,Fenerbahçe,Beşiktaş,1,0,1,H,W,L,0.0,0.0,0.0,D,D,D,
+turkey-1959,2,1959-03-21,,195903210000,saturday,Ankara Demirspor,Gençlerbirliği,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
+turkey-1959,5,1959-03-21,,195903210000,saturday,Göztepe,Vefa Istanbul,0,1,1,A,L,W,0.0,0.0,0.0,D,D,D,
+turkey-1959,5,1959-03-21,,195903210000,saturday,Karşıyaka SK,Galatasaray,0,1,1,A,L,W,0.0,1.0,1.0,A,L,W,
+turkey-1959,5,1959-03-21,,195903210000,saturday,Beykozspor,Izmirspor,2,1,3,H,W,L,0.0,1.0,1.0,A,L,W,
+turkey-1959,5,1959-03-21,,195903210000,saturday,Istanbulspor,Altay Izmir,0,1,1,A,L,W,0.0,1.0,1.0,A,L,W,
+turkey-1959,5,1959-03-22,,195903220000,sunday,Göztepe,Galatasaray,0,5,5,A,L,W,0.0,2.0,2.0,A,L,W,
+turkey-1959,5,1959-03-22,,195903220000,sunday,Karşıyaka SK,Vefa Istanbul,2,0,2,H,W,L,1.0,0.0,1.0,H,W,L,
+turkey-1959,5,1959-03-22,,195903220000,sunday,Hacettepe,MKE Ankaragücü,1,3,4,A,L,W,0.0,0.0,0.0,D,D,D,
+turkey-1959,5,1959-03-22,,195903220000,sunday,Beykozspor,Altay Izmir,2,2,4,D,D,D,1.0,1.0,2.0,D,D,D,
+turkey-1959,5,1959-03-22,,195903220000,sunday,Istanbulspor,Izmirspor,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
+turkey-1959,6,1959-03-25,,195903250000,wednesday,Galatasaray,Fatih Karagümrük SK,1,0,1,H,W,L,1.0,0.0,1.0,H,W,L,
+turkey-1959,6,1959-03-25,,195903250000,wednesday,Vefa Istanbul,Adalet Istanbul,2,2,4,D,D,D,1.0,0.0,1.0,H,W,L,
+turkey-1959,6,1959-03-28,,195903280000,saturday,Fenerbahçe,Altay Izmir,1,1,2,D,D,D,1.0,0.0,1.0,H,W,L,
+turkey-1959,6,1959-03-28,,195903280000,saturday,Beşiktaş,Izmirspor,2,0,2,H,W,L,1.0,0.0,1.0,H,W,L,
+turkey-1959,6,1959-03-28,,195903280000,saturday,MKE Ankaragücü,Beykozspor,2,2,4,D,D,D,2.0,1.0,3.0,H,W,L,
+turkey-1959,6,1959-03-28,,195903280000,saturday,Hacettepe,Istanbulspor,1,1,2,D,D,D,1.0,1.0,2.0,D,D,D,
+turkey-1959,6,1959-03-29,,195903290000,sunday,Fenerbahçe,Izmirspor,1,0,1,H,W,L,1.0,0.0,1.0,H,W,L,
+turkey-1959,6,1959-03-29,,195903290000,sunday,Beşiktaş,Altay Izmir,1,3,4,A,L,W,0.0,1.0,1.0,A,L,W,
+turkey-1959,6,1959-03-29,,195903290000,sunday,MKE Ankaragücü,Istanbulspor,1,0,1,H,W,L,1.0,0.0,1.0,H,W,L,
+turkey-1959,6,1959-03-29,,195903290000,sunday,Hacettepe,Beykozspor,2,1,3,H,W,L,0.0,0.0,0.0,D,D,D,
+turkey-1959,7,1959-04-08,,195904080000,wednesday,Fenerbahçe,Istanbulspor,3,0,3,H,W,L,1.0,0.0,1.0,H,W,L,
+turkey-1959,7,1959-04-08,,195904080000,wednesday,Beşiktaş,Beykozspor,3,2,5,H,W,L,1.0,1.0,2.0,D,D,D,
+turkey-1959,7,1959-04-11,,195904110000,saturday,Galatasaray,Ankara Demirspor,1,2,3,A,L,W,1.0,1.0,2.0,D,D,D,
+turkey-1959,7,1959-04-11,,195904110000,saturday,Vefa Istanbul,Gençlerbirliği,3,0,3,H,W,L,2.0,0.0,2.0,H,W,L,
+turkey-1959,7,1959-04-11,,195904110000,saturday,Göztepe,Adalet Istanbul,2,3,5,A,L,W,1.0,2.0,3.0,A,L,W,
+turkey-1959,7,1959-04-11,,195904110000,saturday,Karşıyaka SK,Fatih Karagümrük SK,0,3,3,A,L,W,0.0,0.0,0.0,D,D,D,
+turkey-1959,7,1959-04-11,,195904110000,saturday,MKE Ankaragücü,Izmirspor,1,0,1,H,W,L,1.0,0.0,1.0,H,W,L,
+turkey-1959,7,1959-04-11,,195904110000,saturday,Hacettepe,Altay Izmir,2,0,2,H,W,L,2.0,0.0,2.0,H,W,L,
+turkey-1959,7,1959-04-12,,195904120000,sunday,Galatasaray,Gençlerbirliği,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
+turkey-1959,7,1959-04-12,,195904120000,sunday,Vefa Istanbul,Ankara Demirspor,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
+turkey-1959,7,1959-04-12,,195904120000,sunday,Göztepe,Fatih Karagümrük SK,3,0,3,H,W,L,1.0,0.0,1.0,H,W,L,
+turkey-1959,7,1959-04-12,,195904120000,sunday,Karşıyaka SK,Adalet Istanbul,3,1,4,H,W,L,2.0,1.0,3.0,H,W,L,
+turkey-1959,7,1959-04-12,,195904120000,sunday,MKE Ankaragücü,Altay Izmir,2,1,3,H,W,L,1.0,0.0,1.0,H,W,L,
+turkey-1959,7,1959-04-12,,195904120000,sunday,Hacettepe,Izmirspor,1,0,1,H,W,L,1.0,0.0,1.0,H,W,L,
+turkey-1959,8,1959-04-18,,195904180000,saturday,Fatih Karagümrük SK,Ankara Demirspor,1,2,3,A,L,W,1.0,2.0,3.0,A,L,W,
+turkey-1959,8,1959-04-18,,195904180000,saturday,Adalet Istanbul,Gençlerbirliği,2,3,5,A,L,W,2.0,3.0,5.0,A,L,W,
+turkey-1959,8,1959-04-18,,195904180000,saturday,MKE Ankaragücü,Beşiktaş,1,3,4,A,L,W,0.0,1.0,1.0,A,L,W,
+turkey-1959,8,1959-04-18,,195904180000,saturday,Hacettepe,Fenerbahçe,1,4,5,A,L,W,0.0,3.0,3.0,A,L,W,
+turkey-1959,8,1959-04-19,,195904190000,sunday,Fatih Karagümrük SK,Gençlerbirliği,2,1,3,H,W,L,2.0,0.0,2.0,H,W,L,
+turkey-1959,8,1959-04-19,,195904190000,sunday,Karşıyaka SK,Göztepe,0,3,3,A,L,W,0.0,2.0,2.0,A,L,W,
+turkey-1959,8,1959-04-19,,195904190000,sunday,Adalet Istanbul,Ankara Demirspor,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
+turkey-1959,8,1959-04-19,,195904190000,sunday,Izmirspor,Altay Izmir,2,2,4,D,D,D,1.0,1.0,2.0,D,D,D,
+turkey-1959,8,1959-04-19,,195904190000,sunday,MKE Ankaragücü,Fenerbahçe,2,3,5,A,L,W,1.0,2.0,3.0,A,L,W,
+turkey-1959,8,1959-04-19,,195904190000,sunday,Hacettepe,Beşiktaş,0,3,3,A,L,W,0.0,0.0,0.0,D,D,D,
+turkey-1959,9,1959-04-29,,195904290000,wednesday,Adalet Istanbul,Galatasaray,0,1,1,A,L,W,0.0,1.0,1.0,A,L,W,
+turkey-1959,9,1959-04-29,,195904290000,wednesday,Istanbulspor,Beşiktaş,1,2,3,A,L,W,1.0,0.0,1.0,H,W,L,
+turkey-1959,9,1959-05-02,,195905020000,saturday,Vefa Istanbul,Göztepe,3,2,5,H,W,L,0.0,1.0,1.0,A,L,W,
+turkey-1959,9,1959-05-02,,195905020000,saturday,Fatih Karagümrük SK,Karşıyaka SK,2,2,4,D,D,D,0.0,0.0,0.0,D,D,D,
+turkey-1959,9,1959-05-03,,195905030000,sunday,Vefa Istanbul,Karşıyaka SK,3,0,3,H,W,L,2.0,0.0,2.0,H,W,L,
+turkey-1959,9,1959-05-03,,195905030000,sunday,Fatih Karagümrük SK,Göztepe,1,1,2,D,D,D,0.0,1.0,1.0,A,L,W,
+turkey-1959,9,1959-05-09,,195905090000,saturday,Gençlerbirliği,Ankara Demirspor,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
+turkey-1959,9,1959-05-09,,195905090000,saturday,MKE Ankaragücü,Hacettepe,1,0,1,H,W,L,0.0,0.0,0.0,D,D,D,
+turkey-1959,10,1959-05-13,,195905130000,wednesday,Fatih Karagümrük SK,Vefa Istanbul,1,2,3,A,L,W,1.0,1.0,2.0,D,D,D,
+turkey-1959,10,1959-05-13,,195905130000,wednesday,Beykozspor,Fenerbahçe,0,1,1,A,L,W,0.0,1.0,1.0,A,L,W,
+turkey-1959,10,1959-05-16,,195905160000,saturday,Göztepe,Gençlerbirliği,2,1,3,H,W,L,2.0,1.0,3.0,H,W,L,
+turkey-1959,10,1959-05-16,,195905160000,saturday,Fatih Karagümrük SK,Galatasaray,2,3,5,A,L,W,1.0,3.0,4.0,A,L,W,
+turkey-1959,10,1959-05-16,,195905160000,saturday,Karşıyaka SK,Ankara Demirspor,1,1,2,D,D,D,0.0,1.0,1.0,A,L,W,
+turkey-1959,10,1959-05-16,,195905160000,saturday,Beykozspor,Istanbulspor,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
+turkey-1959,10,1959-05-17,,195905170000,sunday,Göztepe,Ankara Demirspor,4,2,6,H,W,L,2.0,0.0,2.0,H,W,L,
+turkey-1959,10,1959-05-17,,195905170000,sunday,Karşıyaka SK,Gençlerbirliği,1,1,2,D,D,D,1.0,0.0,1.0,H,W,L,
+turkey-1959,10,1959-05-17,,195905170000,sunday,Adalet Istanbul,Vefa Istanbul,1,1,2,D,D,D,1.0,0.0,1.0,H,W,L,
+turkey-1959,10,1959-05-17,,195905170000,sunday,Beşiktaş,Fenerbahçe,0,2,2,A,L,W,0.0,2.0,2.0,A,L,W,
+turkey-1959,11,1959-06-06,,195906060000,saturday,Galatasaray,Vefa Istanbul,1,1,2,D,D,D,0.0,0.0,0.0,D,D,D,
+turkey-1959,11,1959-06-07,,195906070000,sunday,Fatih Karagümrük SK,Adalet Istanbul,3,0,3,H,W,L,1.0,0.0,1.0,H,W,L,
+turkey-1959,11,1959-06-07,,195906070000,sunday,Istanbulspor,Fenerbahçe,0,5,5,A,L,W,0.0,3.0,3.0,A,L,W,
 turkey-1959-playoffs,Final,1959-06-10,,195906100000,wednesday,Galatasaray,Fenerbahçe,1,0,1,H,W,L,,,,,,,
 turkey-1959-playoffs,Final,1959-06-14,,195906140000,sunday,Fenerbahçe,Galatasaray,4,0,4,H,W,L,,,,,,,
 turkey-1959-1960,1,1959-08-26,,195908260000,wednesday,Galatasaray,Beykozspor,2,0,2,H,W,L,1.0,0.0,1.0,H,W,L,
@@ -17275,3 +17275,203 @@ turkey-2017-2018,34,2018-05-19,17:00,201805191700,saturday,Göztepe,Galatasaray,
 turkey-2017-2018,34,2018-05-19,17:00,201805191700,saturday,Fenerbahçe,Atiker Konyaspor,3,2,5,H,W,L,2.0,0.0,2.0,H,W,L,http://www.worldfootball.net/report/sueperlig-2017-2018-fenerbahce-atiker-konyaspor/
 turkey-2017-2018,34,2018-05-19,17:00,201805191700,saturday,İstanbul Başakşehir F.K.,Kasımpaşa SK,3,2,5,H,W,L,2.0,2.0,4.0,D,D,D,http://www.worldfootball.net/report/sueperlig-2017-2018-stanbul-basaksehir-f-k-kasimpasa-sk/
 turkey-2017-2018,34,2018-05-19,17:00,201805191700,saturday,Beşiktaş,Sivasspor,5,1,6,H,W,L,1.0,0.0,1.0,H,W,L,http://www.worldfootball.net/report/sueperlig-2017-2018-besiktas-sivasspor/
+turkey-2018-2019,1,2018-08-10,19:45,201808101945,friday,MKE Ankaragücü,Galatasaray,1,3,4,A,L,W,1,2,3,A,L,W,http://www.worldfootball.net/report/sueperlig-2018-2019-mke-ankaraguecue-galatasaray/
+turkey-2018-2019,1,2018-08-11,17:30,201808111730,saturday,Çaykur Rizespor,Kasımpaşa SK,2,3,5,A,L,W,1,0,1,H,W,L,http://www.worldfootball.net/report/sueperlig-2018-2019-caykur-rizespor-kasimpasa-sk/
+turkey-2018-2019,1,2018-08-11,17:30,201808111730,saturday,Sivasspor,Alanyaspor,1,0,1,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/sueperlig-2018-2019-sivasspor-alanyaspor/
+turkey-2018-2019,1,2018-08-11,19:45,201808111945,saturday,Fenerbahçe,Bursaspor,2,1,3,H,W,L,2,1,3,H,W,L,http://www.worldfootball.net/report/sueperlig-2018-2019-fenerbahce-bursaspor/
+turkey-2018-2019,1,2018-08-12,17:30,201808121730,sunday,İstanbul Başakşehir F.K.,Trabzonspor,2,0,2,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/sueperlig-2018-2019-stanbul-basaksehir-f-k-trabzonspor/
+turkey-2018-2019,1,2018-08-12,17:30,201808121730,sunday,Atiker Konyaspor,BB Erzurumspor,3,2,5,H,W,L,2,1,3,H,W,L,http://www.worldfootball.net/report/sueperlig-2018-2019-atiker-konyaspor-bb-erzurumspor/
+turkey-2018-2019,1,2018-08-12,19:45,201808121945,sunday,Beşiktaş,Akhisar Belediyespor,2,1,3,H,W,L,2,0,2,H,W,L,http://www.worldfootball.net/report/sueperlig-2018-2019-besiktas-akhisar-belediyespor/
+turkey-2018-2019,1,2018-08-12,19:45,201808121945,sunday,Göztepe,Yeni Malatyaspor,1,3,4,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/sueperlig-2018-2019-goeztepe-yeni-malatyaspor/
+turkey-2018-2019,1,2018-08-13,19:45,201808131945,monday,Kayserispor,Antalyaspor,2,0,2,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/sueperlig-2018-2019-kayserispor-antalyaspor/
+turkey-2018-2019,2,2018-08-17,19:45,201808171945,friday,Trabzonspor,Sivasspor,3,1,4,H,W,L,3,1,4,H,W,L,http://www.worldfootball.net/report/sueperlig-2018-2019-trabzonspor-sivasspor/
+turkey-2018-2019,2,2018-08-18,17:15,201808181715,saturday,Bursaspor,Kayserispor,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/sueperlig-2018-2019-bursaspor-kayserispor/
+turkey-2018-2019,2,2018-08-18,19:45,201808181945,saturday,Antalyaspor,Atiker Konyaspor,3,3,6,D,D,D,1,2,3,A,L,W,http://www.worldfootball.net/report/sueperlig-2018-2019-antalyaspor-atiker-konyaspor/
+turkey-2018-2019,2,2018-08-18,19:45,201808181945,saturday,Yeni Malatyaspor,Fenerbahçe,1,0,1,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/sueperlig-2018-2019-yeni-malatyaspor-fenerbahce/
+turkey-2018-2019,2,2018-08-19,17:15,201808191715,sunday,BB Erzurumspor,Beşiktaş,1,3,4,A,L,W,1,0,1,H,W,L,http://www.worldfootball.net/report/sueperlig-2018-2019-bb-erzurumspor-besiktas/
+turkey-2018-2019,2,2018-08-19,17:15,201808191715,sunday,Akhisar Belediyespor,Çaykur Rizespor,1,1,2,D,D,D,0,1,1,A,L,W,http://www.worldfootball.net/report/sueperlig-2018-2019-akhisar-belediyespor-caykur-rizespor/
+turkey-2018-2019,2,2018-08-19,19:45,201808191945,sunday,Alanyaspor,MKE Ankaragücü,0,2,2,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/sueperlig-2018-2019-alanyaspor-mke-ankaraguecue/
+turkey-2018-2019,2,2018-08-19,19:45,201808191945,sunday,Galatasaray,Göztepe,1,0,1,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/sueperlig-2018-2019-galatasaray-goeztepe/
+turkey-2018-2019,2,2018-08-20,19:45,201808201945,monday,Kasımpaşa SK,İstanbul Başakşehir F.K.,2,1,3,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/sueperlig-2018-2019-kasimpasa-sk-stanbul-basaksehir-f-k/
+turkey-2018-2019,3,2018-08-24,17:15,201808241715,friday,Çaykur Rizespor,BB Erzurumspor,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/sueperlig-2018-2019-caykur-rizespor-bb-erzurumspor/
+turkey-2018-2019,3,2018-08-25,17:15,201808251715,saturday,MKE Ankaragücü,Trabzonspor,2,2,4,D,D,D,1,1,2,D,D,D,http://www.worldfootball.net/report/sueperlig-2018-2019-mke-ankaraguecue-trabzonspor/
+turkey-2018-2019,3,2018-08-25,19:45,201808251945,saturday,Göztepe,Fenerbahçe,1,0,1,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/sueperlig-2018-2019-goeztepe-fenerbahce/
+turkey-2018-2019,3,2018-08-25,19:45,201808251945,saturday,Kayserispor,Yeni Malatyaspor,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/sueperlig-2018-2019-kayserispor-yeni-malatyaspor/
+turkey-2018-2019,3,2018-08-26,17:15,201808261715,sunday,Sivasspor,Kasımpaşa SK,0,3,3,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/sueperlig-2018-2019-sivasspor-kasimpasa-sk/
+turkey-2018-2019,3,2018-08-26,19:45,201808261945,sunday,Beşiktaş,Antalyaspor,2,3,5,A,L,W,1,3,4,A,L,W,http://www.worldfootball.net/report/sueperlig-2018-2019-besiktas-antalyaspor/
+turkey-2018-2019,3,2018-08-26,19:45,201808261945,sunday,Atiker Konyaspor,Bursaspor,1,1,2,D,D,D,1,1,2,D,D,D,http://www.worldfootball.net/report/sueperlig-2018-2019-atiker-konyaspor-bursaspor/
+turkey-2018-2019,3,2018-08-27,17:15,201808271715,monday,İstanbul Başakşehir F.K.,Akhisar Belediyespor,3,1,4,H,W,L,1,1,2,D,D,D,http://www.worldfootball.net/report/sueperlig-2018-2019-stanbul-basaksehir-f-k-akhisar-belediyespor/
+turkey-2018-2019,3,2018-08-27,19:45,201808271945,monday,Galatasaray,Alanyaspor,6,0,6,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/sueperlig-2018-2019-galatasaray-alanyaspor/
+turkey-2018-2019,4,2018-08-31,19:45,201808311945,friday,Yeni Malatyaspor,Atiker Konyaspor,0,1,1,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/sueperlig-2018-2019-yeni-malatyaspor-atiker-konyaspor/
+turkey-2018-2019,4,2018-09-01,17:15,201809011715,saturday,Fenerbahçe,Kayserispor,2,3,5,A,L,W,1,0,1,H,W,L,http://www.worldfootball.net/report/sueperlig-2018-2019-fenerbahce-kayserispor/
+turkey-2018-2019,4,2018-09-01,17:15,201809011715,saturday,Akhisar Belediyespor,Sivasspor,1,1,2,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/sueperlig-2018-2019-akhisar-belediyespor-sivasspor/
+turkey-2018-2019,4,2018-09-01,19:45,201809011945,saturday,Trabzonspor,Galatasaray,4,0,4,H,W,L,3,0,3,H,W,L,http://www.worldfootball.net/report/sueperlig-2018-2019-trabzonspor-galatasaray/
+turkey-2018-2019,4,2018-09-01,19:45,201809011945,saturday,Alanyaspor,Göztepe,1,0,1,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/sueperlig-2018-2019-alanyaspor-goeztepe/
+turkey-2018-2019,4,2018-09-02,17:15,201809021715,sunday,BB Erzurumspor,İstanbul Başakşehir F.K.,0,1,1,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/sueperlig-2018-2019-bb-erzurumspor-stanbul-basaksehir-f-k/
+turkey-2018-2019,4,2018-09-02,17:15,201809021715,sunday,Kasımpaşa SK,MKE Ankaragücü,2,1,3,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/sueperlig-2018-2019-kasimpasa-sk-mke-ankaraguecue/
+turkey-2018-2019,4,2018-09-02,19:45,201809021945,sunday,Antalyaspor,Çaykur Rizespor,2,1,3,H,W,L,0,1,1,A,L,W,http://www.worldfootball.net/report/sueperlig-2018-2019-antalyaspor-caykur-rizespor/
+turkey-2018-2019,4,2018-09-02,19:45,201809021945,sunday,Bursaspor,Beşiktaş,1,1,2,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/sueperlig-2018-2019-bursaspor-besiktas/
+turkey-2018-2019,5,2018-09-14,19:00,201809141900,friday,Galatasaray,Kasımpaşa SK,4,1,5,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/sueperlig-2018-2019-galatasaray-kasimpasa-sk/
+turkey-2018-2019,5,2018-09-15,15:00,201809151500,saturday,MKE Ankaragücü,Akhisar Belediyespor,1,0,1,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/sueperlig-2018-2019-mke-ankaraguecue-akhisar-belediyespor/
+turkey-2018-2019,5,2018-09-15,18:00,201809151800,saturday,Göztepe,Kayserispor,2,0,2,H,W,L,2,0,2,H,W,L,http://www.worldfootball.net/report/sueperlig-2018-2019-goeztepe-kayserispor/
+turkey-2018-2019,5,2018-09-15,18:00,201809151800,saturday,Beşiktaş,Yeni Malatyaspor,2,1,3,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/sueperlig-2018-2019-besiktas-yeni-malatyaspor/
+turkey-2018-2019,5,2018-09-16,15:00,201809161500,sunday,Sivasspor,BB Erzurumspor,2,2,4,D,D,D,1,1,2,D,D,D,http://www.worldfootball.net/report/sueperlig-2018-2019-sivasspor-bb-erzurumspor/
+turkey-2018-2019,5,2018-09-16,15:00,201809161500,sunday,İstanbul Başakşehir F.K.,Antalyaspor,4,0,4,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/sueperlig-2018-2019-stanbul-basaksehir-f-k-antalyaspor/
+turkey-2018-2019,5,2018-09-16,18:00,201809161800,sunday,Çaykur Rizespor,Bursaspor,1,1,2,D,D,D,0,1,1,A,L,W,http://www.worldfootball.net/report/sueperlig-2018-2019-caykur-rizespor-bursaspor/
+turkey-2018-2019,5,2018-09-16,18:00,201809161800,sunday,Atiker Konyaspor,Fenerbahçe,0,1,1,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/sueperlig-2018-2019-atiker-konyaspor-fenerbahce/
+turkey-2018-2019,5,2018-09-17,18:00,201809171800,monday,Alanyaspor,Trabzonspor,1,0,1,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/sueperlig-2018-2019-alanyaspor-trabzonspor/
+turkey-2018-2019,6,2018-09-21,18:00,201809211800,friday,BB Erzurumspor,MKE Ankaragücü,0,1,1,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/sueperlig-2018-2019-bb-erzurumspor-mke-ankaraguecue/
+turkey-2018-2019,6,2018-09-21,18:00,201809211800,friday,Bursaspor,İstanbul Başakşehir F.K.,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/sueperlig-2018-2019-bursaspor-stanbul-basaksehir-f-k/
+turkey-2018-2019,6,2018-09-22,11:30,201809221130,saturday,Yeni Malatyaspor,Çaykur Rizespor,1,0,1,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/sueperlig-2018-2019-yeni-malatyaspor-caykur-rizespor/
+turkey-2018-2019,6,2018-09-22,14:00,201809221400,saturday,Kayserispor,Atiker Konyaspor,0,2,2,A,L,W,0,2,2,A,L,W,http://www.worldfootball.net/report/sueperlig-2018-2019-kayserispor-atiker-konyaspor/
+turkey-2018-2019,6,2018-09-22,17:00,201809221700,saturday,Trabzonspor,Göztepe,1,2,3,A,L,W,0,2,2,A,L,W,http://www.worldfootball.net/report/sueperlig-2018-2019-trabzonspor-goeztepe/
+turkey-2018-2019,6,2018-09-23,14:00,201809231400,sunday,Kasımpaşa SK,Alanyaspor,1,2,3,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/sueperlig-2018-2019-kasimpasa-sk-alanyaspor/
+turkey-2018-2019,6,2018-09-23,17:00,201809231700,sunday,Antalyaspor,Sivasspor,2,1,3,H,W,L,2,1,3,H,W,L,http://www.worldfootball.net/report/sueperlig-2018-2019-antalyaspor-sivasspor/
+turkey-2018-2019,6,2018-09-23,17:00,201809231700,sunday,Akhisar Belediyespor,Galatasaray,3,0,3,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/sueperlig-2018-2019-akhisar-belediyespor-galatasaray/
+turkey-2018-2019,6,2018-09-24,19:00,201809241900,monday,Fenerbahçe,Beşiktaş,1,1,2,D,D,D,0,1,1,A,L,W,http://www.worldfootball.net/report/sueperlig-2018-2019-fenerbahce-besiktas/
+turkey-2018-2019,7,2018-09-28,18:00,201809281800,friday,Galatasaray,BB Erzurumspor,1,0,1,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/sueperlig-2018-2019-galatasaray-bb-erzurumspor/
+turkey-2018-2019,7,2018-09-29,14:00,201809291400,saturday,Trabzonspor,Kasımpaşa SK,4,2,6,H,W,L,1,2,3,A,L,W,http://www.worldfootball.net/report/sueperlig-2018-2019-trabzonspor-kasimpasa-sk/
+turkey-2018-2019,7,2018-09-29,14:00,201809291400,saturday,Alanyaspor,Akhisar Belediyespor,2,1,3,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/sueperlig-2018-2019-alanyaspor-akhisar-belediyespor/
+turkey-2018-2019,7,2018-09-29,17:00,201809291700,saturday,Beşiktaş,Kayserispor,2,0,2,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/sueperlig-2018-2019-besiktas-kayserispor/
+turkey-2018-2019,7,2018-09-30,11:30,201809301130,sunday,Sivasspor,Bursaspor,2,0,2,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/sueperlig-2018-2019-sivasspor-bursaspor/
+turkey-2018-2019,7,2018-09-30,14:00,201809301400,sunday,Göztepe,Atiker Konyaspor,3,2,5,H,W,L,2,0,2,H,W,L,http://www.worldfootball.net/report/sueperlig-2018-2019-goeztepe-atiker-konyaspor/
+turkey-2018-2019,7,2018-09-30,17:00,201809301700,sunday,Çaykur Rizespor,Fenerbahçe,3,0,3,H,W,L,3,0,3,H,W,L,http://www.worldfootball.net/report/sueperlig-2018-2019-caykur-rizespor-fenerbahce/
+turkey-2018-2019,7,2018-10-01,18:00,201810011800,monday,MKE Ankaragücü,Antalyaspor,0,1,1,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/sueperlig-2018-2019-mke-ankaraguecue-antalyaspor/
+turkey-2018-2019,7,2018-10-01,18:00,201810011800,monday,İstanbul Başakşehir F.K.,Yeni Malatyaspor,1,1,2,D,D,D,0,1,1,A,L,W,http://www.worldfootball.net/report/sueperlig-2018-2019-stanbul-basaksehir-f-k-yeni-malatyaspor/
+turkey-2018-2019,8,2018-10-05,18:00,201810051800,friday,Kasımpaşa SK,Göztepe,3,1,4,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/sueperlig-2018-2019-kasimpasa-sk-goeztepe/
+turkey-2018-2019,8,2018-10-06,11:30,201810061130,saturday,Kayserispor,Çaykur Rizespor,2,2,4,D,D,D,0,1,1,A,L,W,http://www.worldfootball.net/report/sueperlig-2018-2019-kayserispor-caykur-rizespor/
+turkey-2018-2019,8,2018-10-06,14:00,201810061400,saturday,BB Erzurumspor,Alanyaspor,1,0,1,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/sueperlig-2018-2019-bb-erzurumspor-alanyaspor/
+turkey-2018-2019,8,2018-10-06,14:00,201810061400,saturday,Bursaspor,MKE Ankaragücü,1,0,1,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/sueperlig-2018-2019-bursaspor-mke-ankaraguecue/
+turkey-2018-2019,8,2018-10-06,17:00,201810061700,saturday,Antalyaspor,Galatasaray,0,1,1,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/sueperlig-2018-2019-antalyaspor-galatasaray/
+turkey-2018-2019,8,2018-10-07,11:30,201810071130,sunday,Yeni Malatyaspor,Sivasspor,4,4,8,D,D,D,1,3,4,A,L,W,http://www.worldfootball.net/report/sueperlig-2018-2019-yeni-malatyaspor-sivasspor/
+turkey-2018-2019,8,2018-10-07,16:00,201810071600,sunday,Fenerbahçe,İstanbul Başakşehir F.K.,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/sueperlig-2018-2019-fenerbahce-stanbul-basaksehir-f-k/
+turkey-2018-2019,8,2018-10-07,17:00,201810071700,sunday,Akhisar Belediyespor,Trabzonspor,1,3,4,A,L,W,0,2,2,A,L,W,http://www.worldfootball.net/report/sueperlig-2018-2019-akhisar-belediyespor-trabzonspor/
+turkey-2018-2019,8,2018-10-07,18:30,201810071830,sunday,Atiker Konyaspor,Beşiktaş,2,2,4,D,D,D,1,0,1,H,W,L,http://www.worldfootball.net/report/sueperlig-2018-2019-atiker-konyaspor-besiktas/
+turkey-2018-2019,9,2018-10-19,18:30,201810191830,friday,Galatasaray,Bursaspor,1,1,2,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/sueperlig-2018-2019-galatasaray-bursaspor/
+turkey-2018-2019,9,2018-10-20,11:30,201810201130,saturday,Kasımpaşa SK,Akhisar Belediyespor,5,0,5,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/sueperlig-2018-2019-kasimpasa-sk-akhisar-belediyespor/
+turkey-2018-2019,9,2018-10-20,14:00,201810201400,saturday,İstanbul Başakşehir F.K.,Kayserispor,1,0,1,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/sueperlig-2018-2019-stanbul-basaksehir-f-k-kayserispor/
+turkey-2018-2019,9,2018-10-20,17:00,201810201700,saturday,Sivasspor,Fenerbahçe,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/sueperlig-2018-2019-sivasspor-fenerbahce/
+turkey-2018-2019,9,2018-10-21,11:30,201810211130,sunday,Çaykur Rizespor,Atiker Konyaspor,1,1,2,D,D,D,1,0,1,H,W,L,http://www.worldfootball.net/report/sueperlig-2018-2019-caykur-rizespor-atiker-konyaspor/
+turkey-2018-2019,9,2018-10-21,14:00,201810211400,sunday,MKE Ankaragücü,Yeni Malatyaspor,1,0,1,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/sueperlig-2018-2019-mke-ankaraguecue-yeni-malatyaspor/
+turkey-2018-2019,9,2018-10-21,14:00,201810211400,sunday,Alanyaspor,Antalyaspor,0,1,1,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/sueperlig-2018-2019-alanyaspor-antalyaspor/
+turkey-2018-2019,9,2018-10-21,17:00,201810211700,sunday,Göztepe,Beşiktaş,2,0,2,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/sueperlig-2018-2019-goeztepe-besiktas/
+turkey-2018-2019,9,2018-10-22,18:00,201810221800,monday,Trabzonspor,BB Erzurumspor,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/sueperlig-2018-2019-trabzonspor-bb-erzurumspor/
+turkey-2018-2019,10,2018-10-26,18:30,201810261830,friday,Bursaspor,Alanyaspor,2,0,2,H,W,L,2,0,2,H,W,L,http://www.worldfootball.net/report/sueperlig-2018-2019-bursaspor-alanyaspor/
+turkey-2018-2019,10,2018-10-27,11:30,201810271130,saturday,BB Erzurumspor,Kasımpaşa SK,1,1,2,D,D,D,1,0,1,H,W,L,http://www.worldfootball.net/report/sueperlig-2018-2019-bb-erzurumspor-kasimpasa-sk/
+turkey-2018-2019,10,2018-10-27,14:00,201810271400,saturday,Atiker Konyaspor,İstanbul Başakşehir F.K.,0,1,1,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/sueperlig-2018-2019-atiker-konyaspor-stanbul-basaksehir-f-k/
+turkey-2018-2019,10,2018-10-27,17:00,201810271700,saturday,Antalyaspor,Trabzonspor,1,1,2,D,D,D,1,1,2,D,D,D,http://www.worldfootball.net/report/sueperlig-2018-2019-antalyaspor-trabzonspor/
+turkey-2018-2019,10,2018-10-28,10:30,201810281030,sunday,Kayserispor,Sivasspor,2,0,2,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/sueperlig-2018-2019-kayserispor-sivasspor/
+turkey-2018-2019,10,2018-10-28,15:00,201810281500,sunday,Yeni Malatyaspor,Galatasaray,2,0,2,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/sueperlig-2018-2019-yeni-malatyaspor-galatasaray/
+turkey-2018-2019,10,2018-10-28,17:30,201810281730,sunday,Fenerbahçe,MKE Ankaragücü,1,3,4,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/sueperlig-2018-2019-fenerbahce-mke-ankaraguecue/
+turkey-2018-2019,10,2018-10-29,17:00,201810291700,monday,Akhisar Belediyespor,Göztepe,1,0,1,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/sueperlig-2018-2019-akhisar-belediyespor-goeztepe/
+turkey-2018-2019,10,2018-10-29,17:00,201810291700,monday,Beşiktaş,Çaykur Rizespor,4,1,5,H,W,L,2,0,2,H,W,L,http://www.worldfootball.net/report/sueperlig-2018-2019-besiktas-caykur-rizespor/
+turkey-2018-2019,11,2018-11-02,18:00,201811021800,friday,Galatasaray,Fenerbahçe,2,2,4,D,D,D,1,0,1,H,W,L,http://www.worldfootball.net/report/sueperlig-2018-2019-galatasaray-fenerbahce/
+turkey-2018-2019,11,2018-11-03,10:30,201811031030,saturday,Kasımpaşa SK,Antalyaspor,1,2,3,A,L,W,1,1,2,D,D,D,http://www.worldfootball.net/report/sueperlig-2018-2019-kasimpasa-sk-antalyaspor/
+turkey-2018-2019,11,2018-11-03,13:00,201811031300,saturday,Akhisar Belediyespor,BB Erzurumspor,1,1,2,D,D,D,1,1,2,D,D,D,http://www.worldfootball.net/report/sueperlig-2018-2019-akhisar-belediyespor-bb-erzurumspor/
+turkey-2018-2019,11,2018-11-03,16:00,201811031600,saturday,İstanbul Başakşehir F.K.,Beşiktaş,1,0,1,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/sueperlig-2018-2019-stanbul-basaksehir-f-k-besiktas/
+turkey-2018-2019,11,2018-11-04,10:30,201811041030,sunday,MKE Ankaragücü,Kayserispor,3,1,4,H,W,L,2,0,2,H,W,L,http://www.worldfootball.net/report/sueperlig-2018-2019-mke-ankaraguecue-kayserispor/
+turkey-2018-2019,11,2018-11-04,13:00,201811041300,sunday,Alanyaspor,Yeni Malatyaspor,0,1,1,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/sueperlig-2018-2019-alanyaspor-yeni-malatyaspor/
+turkey-2018-2019,11,2018-11-04,16:00,201811041600,sunday,Trabzonspor,Bursaspor,1,1,2,D,D,D,1,0,1,H,W,L,http://www.worldfootball.net/report/sueperlig-2018-2019-trabzonspor-bursaspor/
+turkey-2018-2019,11,2018-11-05,17:00,201811051700,monday,Göztepe,Çaykur Rizespor,2,0,2,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/sueperlig-2018-2019-goeztepe-caykur-rizespor/
+turkey-2018-2019,11,2018-11-05,17:00,201811051700,monday,Sivasspor,Atiker Konyaspor,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/sueperlig-2018-2019-sivasspor-atiker-konyaspor/
+turkey-2018-2019,12,2018-11-09,17:00,201811091700,friday,Yeni Malatyaspor,Trabzonspor,5,0,5,H,W,L,2,0,2,H,W,L,http://www.worldfootball.net/report/sueperlig-2018-2019-yeni-malatyaspor-trabzonspor/
+turkey-2018-2019,12,2018-11-10,10:30,201811101030,saturday,BB Erzurumspor,Göztepe,2,1,3,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/sueperlig-2018-2019-bb-erzurumspor-goeztepe/
+turkey-2018-2019,12,2018-11-10,10:30,201811101030,saturday,Atiker Konyaspor,MKE Ankaragücü,2,0,2,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/sueperlig-2018-2019-atiker-konyaspor-mke-ankaraguecue/
+turkey-2018-2019,12,2018-11-10,13:00,201811101300,saturday,Çaykur Rizespor,İstanbul Başakşehir F.K.,1,2,3,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/sueperlig-2018-2019-caykur-rizespor-stanbul-basaksehir-f-k/
+turkey-2018-2019,12,2018-11-10,16:00,201811101600,saturday,Kayserispor,Galatasaray,0,3,3,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/sueperlig-2018-2019-kayserispor-galatasaray/
+turkey-2018-2019,12,2018-11-11,10:30,201811111030,sunday,Bursaspor,Kasımpaşa SK,1,2,3,A,L,W,1,1,2,D,D,D,http://www.worldfootball.net/report/sueperlig-2018-2019-bursaspor-kasimpasa-sk/
+turkey-2018-2019,12,2018-11-11,15:00,201811111500,sunday,Fenerbahçe,Alanyaspor,2,0,2,H,W,L,2,0,2,H,W,L,http://www.worldfootball.net/report/sueperlig-2018-2019-fenerbahce-alanyaspor/
+turkey-2018-2019,12,2018-11-11,16:00,201811111600,sunday,Antalyaspor,Akhisar Belediyespor,1,2,3,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/sueperlig-2018-2019-antalyaspor-akhisar-belediyespor/
+turkey-2018-2019,12,2018-11-11,17:30,201811111730,sunday,Beşiktaş,Sivasspor,1,2,3,A,L,W,1,1,2,D,D,D,http://www.worldfootball.net/report/sueperlig-2018-2019-besiktas-sivasspor/
+turkey-2018-2019,13,2018-11-23,17:30,201811231730,friday,Galatasaray,Atiker Konyaspor,1,1,2,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/sueperlig-2018-2019-galatasaray-atiker-konyaspor/
+turkey-2018-2019,13,2018-11-24,10:30,201811241030,saturday,BB Erzurumspor,Antalyaspor,1,0,1,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/sueperlig-2018-2019-bb-erzurumspor-antalyaspor/
+turkey-2018-2019,13,2018-11-24,13:00,201811241300,saturday,Alanyaspor,Kayserispor,5,0,5,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/sueperlig-2018-2019-alanyaspor-kayserispor/
+turkey-2018-2019,13,2018-11-24,16:00,201811241600,saturday,MKE Ankaragücü,Beşiktaş,1,4,5,A,L,W,0,3,3,A,L,W,http://www.worldfootball.net/report/sueperlig-2018-2019-mke-ankaraguecue-besiktas/
+turkey-2018-2019,13,2018-11-25,10:30,201811251030,sunday,Sivasspor,Çaykur Rizespor,1,1,2,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/sueperlig-2018-2019-sivasspor-caykur-rizespor/
+turkey-2018-2019,13,2018-11-25,13:00,201811251300,sunday,Akhisar Belediyespor,Bursaspor,2,4,6,A,L,W,2,1,3,H,W,L,http://www.worldfootball.net/report/sueperlig-2018-2019-akhisar-belediyespor-bursaspor/
+turkey-2018-2019,13,2018-11-25,16:00,201811251600,sunday,Trabzonspor,Fenerbahçe,2,1,3,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/sueperlig-2018-2019-trabzonspor-fenerbahce/
+turkey-2018-2019,13,2018-11-25,16:00,201811251600,sunday,Kasımpaşa SK,Yeni Malatyaspor,3,0,3,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/sueperlig-2018-2019-kasimpasa-sk-yeni-malatyaspor/
+turkey-2018-2019,13,2018-11-26,17:00,201811261700,monday,Göztepe,İstanbul Başakşehir F.K.,0,2,2,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/sueperlig-2018-2019-goeztepe-stanbul-basaksehir-f-k/
+turkey-2018-2019,14,2018-11-30,17:00,201811301700,friday,Çaykur Rizespor,MKE Ankaragücü,1,1,2,D,D,D,0,1,1,A,L,W,http://www.worldfootball.net/report/sueperlig-2018-2019-caykur-rizespor-mke-ankaraguecue/
+turkey-2018-2019,14,2018-11-30,17:00,201811301700,friday,Atiker Konyaspor,Alanyaspor,2,0,2,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/sueperlig-2018-2019-atiker-konyaspor-alanyaspor/
+turkey-2018-2019,14,2018-12-01,13:00,201812011300,saturday,İstanbul Başakşehir F.K.,Sivasspor,0,1,1,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/sueperlig-2018-2019-stanbul-basaksehir-f-k-sivasspor/
+turkey-2018-2019,14,2018-12-01,13:00,201812011300,saturday,Antalyaspor,Göztepe,1,0,1,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/sueperlig-2018-2019-antalyaspor-goeztepe/
+turkey-2018-2019,14,2018-12-01,16:00,201812011600,saturday,Kayserispor,Trabzonspor,0,2,2,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/sueperlig-2018-2019-kayserispor-trabzonspor/
+turkey-2018-2019,14,2018-12-02,13:00,201812021300,sunday,Bursaspor,BB Erzurumspor,2,1,3,H,W,L,1,1,2,D,D,D,http://www.worldfootball.net/report/sueperlig-2018-2019-bursaspor-bb-erzurumspor/
+turkey-2018-2019,14,2018-12-02,17:00,201812021700,sunday,Beşiktaş,Galatasaray,1,0,1,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/sueperlig-2018-2019-besiktas-galatasaray/
+turkey-2018-2019,14,2018-12-03,17:00,201812031700,monday,Yeni Malatyaspor,Akhisar Belediyespor,1,1,2,D,D,D,1,0,1,H,W,L,http://www.worldfootball.net/report/sueperlig-2018-2019-yeni-malatyaspor-akhisar-belediyespor/
+turkey-2018-2019,14,2018-12-03,17:00,201812031700,monday,Fenerbahçe,Kasımpaşa SK,2,2,4,D,D,D,2,1,3,H,W,L,http://www.worldfootball.net/report/sueperlig-2018-2019-fenerbahce-kasimpasa-sk/
+turkey-2018-2019,15,2018-12-07,17:00,201812071700,friday,Alanyaspor,Beşiktaş,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/sueperlig-2018-2019-alanyaspor-besiktas/
+turkey-2018-2019,15,2018-12-08,10:30,201812081030,saturday,Sivasspor,Göztepe,2,0,2,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/sueperlig-2018-2019-sivasspor-goeztepe/
+turkey-2018-2019,15,2018-12-08,13:00,201812081300,saturday,Trabzonspor,Atiker Konyaspor,3,0,3,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/sueperlig-2018-2019-trabzonspor-atiker-konyaspor/
+turkey-2018-2019,15,2018-12-08,16:00,201812081600,saturday,Galatasaray,Çaykur Rizespor,2,2,4,D,D,D,1,0,1,H,W,L,http://www.worldfootball.net/report/sueperlig-2018-2019-galatasaray-caykur-rizespor/
+turkey-2018-2019,15,2018-12-09,10:30,201812091030,sunday,BB Erzurumspor,Yeni Malatyaspor,1,3,4,A,L,W,1,0,1,H,W,L,http://www.worldfootball.net/report/sueperlig-2018-2019-bb-erzurumspor-yeni-malatyaspor/
+turkey-2018-2019,15,2018-12-09,13:00,201812091300,sunday,Bursaspor,Antalyaspor,0,2,2,A,L,W,0,2,2,A,L,W,http://www.worldfootball.net/report/sueperlig-2018-2019-bursaspor-antalyaspor/
+turkey-2018-2019,15,2018-12-09,16:00,201812091600,sunday,Akhisar Belediyespor,Fenerbahçe,3,0,3,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/sueperlig-2018-2019-akhisar-belediyespor-fenerbahce/
+turkey-2018-2019,15,2018-12-10,17:00,201812101700,monday,MKE Ankaragücü,İstanbul Başakşehir F.K.,0,1,1,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/sueperlig-2018-2019-mke-ankaraguecue-stanbul-basaksehir-f-k/
+turkey-2018-2019,15,2018-12-10,17:00,201812101700,monday,Kasımpaşa SK,Kayserispor,0,3,3,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/sueperlig-2018-2019-kasimpasa-sk-kayserispor/
+turkey-2018-2019,16,2018-12-14,17:30,201812141730,friday,Göztepe,Bursaspor,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/sueperlig-2018-2019-goeztepe-bursaspor/
+turkey-2018-2019,16,2018-12-15,10:30,201812151030,saturday,Çaykur Rizespor,Alanyaspor,1,1,2,D,D,D,0,1,1,A,L,W,http://www.worldfootball.net/report/sueperlig-2018-2019-caykur-rizespor-alanyaspor/
+turkey-2018-2019,16,2018-12-15,10:30,201812151030,saturday,Sivasspor,MKE Ankaragücü,4,0,4,H,W,L,2,0,2,H,W,L,http://www.worldfootball.net/report/sueperlig-2018-2019-sivasspor-mke-ankaraguecue/
+turkey-2018-2019,16,2018-12-15,13:00,201812151300,saturday,Atiker Konyaspor,Kasımpaşa SK,3,2,5,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/sueperlig-2018-2019-atiker-konyaspor-kasimpasa-sk/
+turkey-2018-2019,16,2018-12-15,16:00,201812151600,saturday,İstanbul Başakşehir F.K.,Galatasaray,1,1,2,D,D,D,1,1,2,D,D,D,http://www.worldfootball.net/report/sueperlig-2018-2019-stanbul-basaksehir-f-k-galatasaray/
+turkey-2018-2019,16,2018-12-16,10:30,201812161030,sunday,Yeni Malatyaspor,Antalyaspor,2,0,2,H,W,L,2,0,2,H,W,L,http://www.worldfootball.net/report/sueperlig-2018-2019-yeni-malatyaspor-antalyaspor/
+turkey-2018-2019,16,2018-12-16,13:00,201812161300,sunday,Kayserispor,Akhisar Belediyespor,1,0,1,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/sueperlig-2018-2019-kayserispor-akhisar-belediyespor/
+turkey-2018-2019,16,2018-12-16,16:00,201812161600,sunday,Beşiktaş,Trabzonspor,2,2,4,D,D,D,0,1,1,A,L,W,http://www.worldfootball.net/report/sueperlig-2018-2019-besiktas-trabzonspor/
+turkey-2018-2019,16,2018-12-17,17:00,201812171700,monday,Fenerbahçe,BB Erzurumspor,2,2,4,D,D,D,2,0,2,H,W,L,http://www.worldfootball.net/report/sueperlig-2018-2019-fenerbahce-bb-erzurumspor/
+turkey-2018-2019,17,2018-12-22,10:30,201812221030,saturday,MKE Ankaragücü,Göztepe,0,3,3,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/sueperlig-2018-2019-mke-ankaraguecue-goeztepe/
+turkey-2018-2019,17,2018-12-22,13:00,201812221300,saturday,Alanyaspor,İstanbul Başakşehir F.K.,1,1,2,D,D,D,0,1,1,A,L,W,http://www.worldfootball.net/report/sueperlig-2018-2019-alanyaspor-stanbul-basaksehir-f-k/
+turkey-2018-2019,17,2018-12-22,16:00,201812221600,saturday,Kasımpaşa SK,Beşiktaş,4,1,5,H,W,L,2,0,2,H,W,L,http://www.worldfootball.net/report/sueperlig-2018-2019-kasimpasa-sk-besiktas/
+turkey-2018-2019,17,2018-12-23,10:30,201812231030,sunday,BB Erzurumspor,Kayserispor,1,1,2,D,D,D,1,1,2,D,D,D,http://www.worldfootball.net/report/sueperlig-2018-2019-bb-erzurumspor-kayserispor/
+turkey-2018-2019,17,2018-12-23,13:00,201812231300,sunday,Trabzonspor,Çaykur Rizespor,4,1,5,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/sueperlig-2018-2019-trabzonspor-caykur-rizespor/
+turkey-2018-2019,17,2018-12-23,13:00,201812231300,sunday,Bursaspor,Yeni Malatyaspor,1,1,2,D,D,D,1,0,1,H,W,L,http://www.worldfootball.net/report/sueperlig-2018-2019-bursaspor-yeni-malatyaspor/
+turkey-2018-2019,17,2018-12-23,16:00,201812231600,sunday,Galatasaray,Sivasspor,4,2,6,H,W,L,2,2,4,D,D,D,http://www.worldfootball.net/report/sueperlig-2018-2019-galatasaray-sivasspor/
+turkey-2018-2019,17,2018-12-24,17:00,201812241700,monday,Antalyaspor,Fenerbahçe,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/sueperlig-2018-2019-antalyaspor-fenerbahce/
+turkey-2018-2019,17,2018-12-24,17:00,201812241700,monday,Akhisar Belediyespor,Atiker Konyaspor,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/sueperlig-2018-2019-akhisar-belediyespor-atiker-konyaspor/
+turkey-2018-2019,18,2019-01-18,17:30,201901181730,friday,Akhisar Belediyespor,Beşiktaş,1,3,4,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/sueperlig-2018-2019-akhisar-belediyespor-besiktas/
+turkey-2018-2019,18,2019-01-19,10:30,201901191030,saturday,BB Erzurumspor,Atiker Konyaspor,1,2,3,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/sueperlig-2018-2019-bb-erzurumspor-atiker-konyaspor/
+turkey-2018-2019,18,2019-01-19,10:30,201901191030,saturday,Yeni Malatyaspor,Göztepe,3,2,5,H,W,L,2,2,4,D,D,D,http://www.worldfootball.net/report/sueperlig-2018-2019-yeni-malatyaspor-goeztepe/
+turkey-2018-2019,18,2019-01-19,13:00,201901191300,saturday,Antalyaspor,Kayserispor,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/sueperlig-2018-2019-antalyaspor-kayserispor/
+turkey-2018-2019,18,2019-01-19,16:00,201901191600,saturday,Galatasaray,MKE Ankaragücü,6,0,6,H,W,L,3,0,3,H,W,L,http://www.worldfootball.net/report/sueperlig-2018-2019-galatasaray-mke-ankaraguecue/
+turkey-2018-2019,18,2019-01-20,13:00,201901201300,sunday,Alanyaspor,Sivasspor,2,0,2,H,W,L,2,0,2,H,W,L,http://www.worldfootball.net/report/sueperlig-2018-2019-alanyaspor-sivasspor/
+turkey-2018-2019,18,2019-01-20,16:00,201901201600,sunday,Trabzonspor,İstanbul Başakşehir F.K.,2,4,6,A,L,W,0,2,2,A,L,W,http://www.worldfootball.net/report/sueperlig-2018-2019-trabzonspor-stanbul-basaksehir-f-k/
+turkey-2018-2019,18,2019-01-21,17:00,201901211700,monday,Kasımpaşa SK,Çaykur Rizespor,0,1,1,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/sueperlig-2018-2019-kasimpasa-sk-caykur-rizespor/
+turkey-2018-2019,18,2019-01-21,17:00,201901211700,monday,Bursaspor,Fenerbahçe,1,1,2,D,D,D,0,1,1,A,L,W,http://www.worldfootball.net/report/sueperlig-2018-2019-bursaspor-fenerbahce/
+turkey-2018-2019,19,2019-01-25,17:30,201901251730,friday,Beşiktaş,BB Erzurumspor,1,1,2,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/sueperlig-2018-2019-besiktas-bb-erzurumspor/
+turkey-2018-2019,19,2019-01-26,13:00,201901261300,saturday,Kayserispor,Bursaspor,1,1,2,D,D,D,0,1,1,A,L,W,http://www.worldfootball.net/report/sueperlig-2018-2019-kayserispor-bursaspor/
+turkey-2018-2019,19,2019-01-26,16:00,201901261600,saturday,Göztepe,Galatasaray,0,1,1,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/sueperlig-2018-2019-goeztepe-galatasaray/
+turkey-2018-2019,19,2019-01-27,10:30,201901271030,sunday,Çaykur Rizespor,Akhisar Belediyespor,3,1,4,H,W,L,0,1,1,A,L,W,http://www.worldfootball.net/report/sueperlig-2018-2019-caykur-rizespor-akhisar-belediyespor/
+turkey-2018-2019,19,2019-01-27,13:00,201901271300,sunday,Atiker Konyaspor,Antalyaspor,2,0,2,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/sueperlig-2018-2019-atiker-konyaspor-antalyaspor/
+turkey-2018-2019,19,2019-01-27,16:00,201901271600,sunday,Sivasspor,Trabzonspor,1,1,2,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/sueperlig-2018-2019-sivasspor-trabzonspor/
+turkey-2018-2019,19,2019-01-28,17:00,201901281700,monday,İstanbul Başakşehir F.K.,Kasımpaşa SK,2,0,2,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/sueperlig-2018-2019-stanbul-basaksehir-f-k-kasimpasa-sk/
+turkey-2018-2019,19,2019-01-28,17:00,201901281700,monday,MKE Ankaragücü,Alanyaspor,0,2,2,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/sueperlig-2018-2019-mke-ankaraguecue-alanyaspor/
+turkey-2018-2019,19,2019-01-28,17:00,201901281700,monday,Fenerbahçe,Yeni Malatyaspor,3,2,5,H,W,L,2,2,4,D,D,D,http://www.worldfootball.net/report/sueperlig-2018-2019-fenerbahce-yeni-malatyaspor/
+turkey-2018-2019,20,2019-02-01,17:30,201902011730,friday,Fenerbahçe,Göztepe,2,0,2,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/sueperlig-2018-2019-fenerbahce-goeztepe/
+turkey-2018-2019,20,2019-02-02,10:30,201902021030,saturday,Yeni Malatyaspor,Kayserispor,1,1,2,D,D,D,1,1,2,D,D,D,http://www.worldfootball.net/report/sueperlig-2018-2019-yeni-malatyaspor-kayserispor/
+turkey-2018-2019,20,2019-02-02,13:00,201902021300,saturday,Kasımpaşa SK,Sivasspor,1,3,4,A,L,W,1,1,2,D,D,D,http://www.worldfootball.net/report/sueperlig-2018-2019-kasimpasa-sk-sivasspor/
+turkey-2018-2019,20,2019-02-02,13:00,201902021300,saturday,Trabzonspor,MKE Ankaragücü,1,0,1,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/sueperlig-2018-2019-trabzonspor-mke-ankaraguecue/
+turkey-2018-2019,20,2019-02-02,16:00,201902021600,saturday,Alanyaspor,Galatasaray,1,1,2,D,D,D,1,0,1,H,W,L,http://www.worldfootball.net/report/sueperlig-2018-2019-alanyaspor-galatasaray/
+turkey-2018-2019,20,2019-02-03,10:30,201902031030,sunday,BB Erzurumspor,Çaykur Rizespor,0,1,1,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/sueperlig-2018-2019-bb-erzurumspor-caykur-rizespor/
+turkey-2018-2019,20,2019-02-03,13:00,201902031300,sunday,Akhisar Belediyespor,İstanbul Başakşehir F.K.,0,3,3,A,L,W,0,2,2,A,L,W,http://www.worldfootball.net/report/sueperlig-2018-2019-akhisar-belediyespor-stanbul-basaksehir-f-k/
+turkey-2018-2019,20,2019-02-03,16:00,201902031600,sunday,Antalyaspor,Beşiktaş,2,6,8,A,L,W,0,3,3,A,L,W,http://www.worldfootball.net/report/sueperlig-2018-2019-antalyaspor-besiktas/
+turkey-2018-2019,20,2019-02-04,17:00,201902041700,monday,Bursaspor,Atiker Konyaspor,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/sueperlig-2018-2019-bursaspor-atiker-konyaspor/
+turkey-2018-2019,21,2019-02-08,17:30,201902081730,friday,Kayserispor,Fenerbahçe,1,0,1,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/sueperlig-2018-2019-kayserispor-fenerbahce/
+turkey-2018-2019,21,2019-02-09,13:00,201902091300,saturday,İstanbul Başakşehir F.K.,BB Erzurumspor,1,1,2,D,D,D,1,0,1,H,W,L,http://www.worldfootball.net/report/sueperlig-2018-2019-stanbul-basaksehir-f-k-bb-erzurumspor/
+turkey-2018-2019,21,2019-02-09,13:00,201902091300,saturday,Çaykur Rizespor,Antalyaspor,1,1,2,D,D,D,1,0,1,H,W,L,http://www.worldfootball.net/report/sueperlig-2018-2019-caykur-rizespor-antalyaspor/
+turkey-2018-2019,21,2019-02-09,16:00,201902091600,saturday,Beşiktaş,Bursaspor,2,0,2,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/sueperlig-2018-2019-besiktas-bursaspor/
+turkey-2018-2019,21,2019-02-10,10:30,201902101030,sunday,Atiker Konyaspor,Yeni Malatyaspor,1,1,2,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/sueperlig-2018-2019-atiker-konyaspor-yeni-malatyaspor/
+turkey-2018-2019,21,2019-02-10,13:00,201902101300,sunday,Göztepe,Alanyaspor,3,2,5,H,W,L,2,1,3,H,W,L,http://www.worldfootball.net/report/sueperlig-2018-2019-goeztepe-alanyaspor/
+turkey-2018-2019,21,2019-02-10,16:00,201902101600,sunday,Galatasaray,Trabzonspor,3,1,4,H,W,L,2,1,3,H,W,L,http://www.worldfootball.net/report/sueperlig-2018-2019-galatasaray-trabzonspor/
+turkey-2018-2019,21,2019-02-11,17:00,201902111700,monday,MKE Ankaragücü,Kasımpaşa SK,3,0,3,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/sueperlig-2018-2019-mke-ankaraguecue-kasimpasa-sk/
+turkey-2018-2019,21,2019-02-11,17:00,201902111700,monday,Sivasspor,Akhisar Belediyespor,2,1,3,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/sueperlig-2018-2019-sivasspor-akhisar-belediyespor/
+turkey-2018-2019,22,2019-02-15,17:30,201902151730,friday,Yeni Malatyaspor,Beşiktaş,1,2,3,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/sueperlig-2018-2019-yeni-malatyaspor-besiktas/
+turkey-2018-2019,22,2019-02-16,10:30,201902161030,saturday,Akhisar Belediyespor,MKE Ankaragücü,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/sueperlig-2018-2019-akhisar-belediyespor-mke-ankaraguecue/
+turkey-2018-2019,22,2019-02-16,13:00,201902161300,saturday,Bursaspor,Çaykur Rizespor,0,2,2,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/sueperlig-2018-2019-bursaspor-caykur-rizespor/
+turkey-2018-2019,22,2019-02-16,16:00,201902161600,saturday,Fenerbahçe,Atiker Konyaspor,1,1,2,D,D,D,1,1,2,D,D,D,http://www.worldfootball.net/report/sueperlig-2018-2019-fenerbahce-atiker-konyaspor/
+turkey-2018-2019,22,2019-02-17,10:30,201902171030,sunday,BB Erzurumspor,Sivasspor,4,2,6,H,W,L,2,1,3,H,W,L,http://www.worldfootball.net/report/sueperlig-2018-2019-bb-erzurumspor-sivasspor/
+turkey-2018-2019,22,2019-02-17,13:00,201902171300,sunday,Trabzonspor,Alanyaspor,0,2,2,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/sueperlig-2018-2019-trabzonspor-alanyaspor/
+turkey-2018-2019,22,2019-02-17,13:00,201902171300,sunday,Kayserispor,Göztepe,2,1,3,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/sueperlig-2018-2019-kayserispor-goeztepe/
+turkey-2018-2019,22,2019-02-17,16:00,201902171600,sunday,Kasımpaşa SK,Galatasaray,1,4,5,A,L,W,1,2,3,A,L,W,http://www.worldfootball.net/report/sueperlig-2018-2019-kasimpasa-sk-galatasaray/
+turkey-2018-2019,22,2019-02-18,17:00,201902181700,monday,Antalyaspor,İstanbul Başakşehir F.K.,0,1,1,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/sueperlig-2018-2019-antalyaspor-stanbul-basaksehir-f-k/
+turkey-2018-2019,23,2019-02-22,17:30,201902221730,friday,Göztepe,Trabzonspor,1,3,4,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/sueperlig-2018-2019-goeztepe-trabzonspor/
+turkey-2018-2019,23,2019-02-22,17:30,201902221730,friday,Çaykur Rizespor,Yeni Malatyaspor,3,0,3,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/sueperlig-2018-2019-caykur-rizespor-yeni-malatyaspor/

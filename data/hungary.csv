@@ -5801,201 +5801,339 @@ hungary-2016-2017,33,2017-05-27,18:00,201705271800,saturday,Paksi SE,MTK Budapes
 hungary-2016-2017,33,2017-05-27,18:00,201705271800,saturday,Diósgyöri VTK,Debreceni VSC,1,3,4,A,L,W,0.0,2.0,2.0,A,L,W,http://www.worldfootball.net/report/nb-i-2016-2017-diosgyoeri-vtk-debreceni-vsc_2/
 hungary-2016-2017,33,2017-05-27,18:00,201705271800,saturday,Budapest Honvéd,Videoton FC,1,0,1,H,W,L,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/nb-i-2016-2017-budapest-honved-videoton-fc_2/
 hungary-2016-2017,33,2017-05-27,18:00,201705271800,saturday,Szombathelyi Haladás,Gyirmót SE,1,2,3,A,L,W,0.0,1.0,1.0,A,L,W,http://www.worldfootball.net/report/nb-i-2016-2017-szombathelyi-haladas-gyirmot-se_2/
-hungary-2017-2018,1,2017-07-15,17:00,201707151700,saturday,Debreceni VSC,Mezõkövesd-Zsóry,1,2,3,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/nb-i-2017-2018-debreceni-vsc-mezokoevesd-zsory/
-hungary-2017-2018,1,2017-07-15,17:00,201707151700,saturday,Paksi SE,Újpest FC,2,2,4,D,D,D,1,1,2,D,D,D,http://www.worldfootball.net/report/nb-i-2017-2018-paksi-se-ujpest-fc/
-hungary-2017-2018,1,2017-07-15,19:30,201707151930,saturday,Budapest Honvéd,Szombathelyi Haladás,2,0,2,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/nb-i-2017-2018-budapest-honved-szombathelyi-haladas/
-hungary-2017-2018,1,2017-07-16,16:00,201707161600,sunday,Ferencvárosi TC,Puskás FC,1,1,2,D,D,D,1,1,2,D,D,D,http://www.worldfootball.net/report/nb-i-2017-2018-ferencvarosi-tc-puskas-fc/
-hungary-2017-2018,1,2017-07-16,16:00,201707161600,sunday,Budapesti Vasas,Diósgyöri VTK,0,2,2,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/nb-i-2017-2018-budapesti-vasas-diosgyoeri-vtk/
-hungary-2017-2018,1,2017-07-16,16:00,201707161600,sunday,Videoton FC,Balmazújvárosi FC,1,1,2,D,D,D,0,1,1,A,L,W,http://www.worldfootball.net/report/nb-i-2017-2018-videoton-fc-balmazujvarosi-fc/
-hungary-2017-2018,2,2017-07-22,17:00,201707221700,saturday,Budapest Honvéd,Diósgyöri VTK,2,2,4,D,D,D,0,1,1,A,L,W,http://www.worldfootball.net/report/nb-i-2017-2018-budapest-honved-diosgyoeri-vtk/
-hungary-2017-2018,2,2017-07-22,17:00,201707221700,saturday,Mezõkövesd-Zsóry,Paksi SE,3,2,5,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/nb-i-2017-2018-mezokoevesd-zsory-paksi-se/
-hungary-2017-2018,2,2017-07-22,19:30,201707221930,saturday,Szombathelyi Haladás,Debreceni VSC,1,0,1,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/nb-i-2017-2018-szombathelyi-haladas-debreceni-vsc/
-hungary-2017-2018,2,2017-07-23,17:00,201707231700,sunday,Balmazújvárosi FC,Budapesti Vasas,0,1,1,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/nb-i-2017-2018-balmazujvarosi-fc-budapesti-vasas/
-hungary-2017-2018,2,2017-07-23,17:00,201707231700,sunday,Puskás FC,Videoton FC,1,3,4,A,L,W,1,2,3,A,L,W,http://www.worldfootball.net/report/nb-i-2017-2018-puskas-fc-videoton-fc/
-hungary-2017-2018,2,2017-07-23,17:00,201707231700,sunday,Újpest FC,Ferencvárosi TC,2,2,4,D,D,D,1,1,2,D,D,D,http://www.worldfootball.net/report/nb-i-2017-2018-ujpest-fc-ferencvarosi-tc/
-hungary-2017-2018,3,2017-07-29,17:00,201707291700,saturday,Szombathelyi Haladás,Diósgyöri VTK,0,3,3,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/nb-i-2017-2018-szombathelyi-haladas-diosgyoeri-vtk/
-hungary-2017-2018,3,2017-07-29,17:00,201707291700,saturday,Paksi SE,Debreceni VSC,1,1,2,D,D,D,0,1,1,A,L,W,http://www.worldfootball.net/report/nb-i-2017-2018-paksi-se-debreceni-vsc/
-hungary-2017-2018,3,2017-07-29,19:30,201707291930,saturday,Budapest Honvéd,Balmazújvárosi FC,2,2,4,D,D,D,0,1,1,A,L,W,http://www.worldfootball.net/report/nb-i-2017-2018-budapest-honved-balmazujvarosi-fc/
-hungary-2017-2018,3,2017-07-30,17:00,201707301700,sunday,Ferencvárosi TC,Mezõkövesd-Zsóry,5,0,5,H,W,L,3,0,3,H,W,L,http://www.worldfootball.net/report/nb-i-2017-2018-ferencvarosi-tc-mezokoevesd-zsory/
-hungary-2017-2018,3,2017-07-30,17:00,201707301700,sunday,Budapesti Vasas,Puskás FC,2,0,2,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/nb-i-2017-2018-budapesti-vasas-puskas-fc/
-hungary-2017-2018,3,2017-07-30,17:00,201707301700,sunday,Videoton FC,Újpest FC,2,2,4,D,D,D,0,1,1,A,L,W,http://www.worldfootball.net/report/nb-i-2017-2018-videoton-fc-ujpest-fc/
-hungary-2017-2018,4,2017-08-05,17:00,201708051700,saturday,Balmazújvárosi FC,Diósgyöri VTK,4,0,4,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/nb-i-2017-2018-balmazujvarosi-fc-diosgyoeri-vtk/
-hungary-2017-2018,4,2017-08-05,19:00,201708051900,saturday,Paksi SE,Szombathelyi Haladás,2,0,2,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/nb-i-2017-2018-paksi-se-szombathelyi-haladas/
-hungary-2017-2018,4,2017-08-05,19:30,201708051930,saturday,Puskás FC,Budapest Honvéd,0,2,2,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/nb-i-2017-2018-puskas-fc-budapest-honved/
-hungary-2017-2018,4,2017-08-06,17:00,201708061700,sunday,Debreceni VSC,Ferencvárosi TC,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/nb-i-2017-2018-debreceni-vsc-ferencvarosi-tc/
-hungary-2017-2018,4,2017-08-06,19:00,201708061900,sunday,Mezõkövesd-Zsóry,Videoton FC,0,2,2,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/nb-i-2017-2018-mezokoevesd-zsory-videoton-fc/
-hungary-2017-2018,4,2017-08-06,19:00,201708061900,sunday,Újpest FC,Budapesti Vasas,1,0,1,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/nb-i-2017-2018-ujpest-fc-budapesti-vasas/
-hungary-2017-2018,5,2017-08-12,17:00,201708121700,saturday,Diósgyöri VTK,Puskás FC,2,2,4,D,D,D,1,1,2,D,D,D,http://www.worldfootball.net/report/nb-i-2017-2018-diosgyoeri-vtk-puskas-fc/
-hungary-2017-2018,5,2017-08-12,17:00,201708121700,saturday,Ferencvárosi TC,Paksi SE,1,1,2,D,D,D,1,0,1,H,W,L,http://www.worldfootball.net/report/nb-i-2017-2018-ferencvarosi-tc-paksi-se/
-hungary-2017-2018,5,2017-08-12,17:00,201708121700,saturday,Szombathelyi Haladás,Balmazújvárosi FC,3,1,4,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/nb-i-2017-2018-szombathelyi-haladas-balmazujvarosi-fc/
-hungary-2017-2018,5,2017-08-12,17:00,201708121700,saturday,Budapest Honvéd,Újpest FC,2,1,3,H,W,L,0,1,1,A,L,W,http://www.worldfootball.net/report/nb-i-2017-2018-budapest-honved-ujpest-fc/
-hungary-2017-2018,5,2017-08-12,17:00,201708121700,saturday,Budapesti Vasas,Mezõkövesd-Zsóry,1,1,2,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/nb-i-2017-2018-budapesti-vasas-mezokoevesd-zsory/
-hungary-2017-2018,5,2017-08-12,19:30,201708121930,saturday,Videoton FC,Debreceni VSC,1,0,1,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/nb-i-2017-2018-videoton-fc-debreceni-vsc/
-hungary-2017-2018,6,2017-08-17,17:00,201708171700,thursday,Ferencvárosi TC,Szombathelyi Haladás,2,0,2,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/nb-i-2017-2018-ferencvarosi-tc-szombathelyi-haladas/
-hungary-2017-2018,6,2017-08-18,18:30,201708181830,friday,Debreceni VSC,Budapesti Vasas,4,1,5,H,W,L,4,0,4,H,W,L,http://www.worldfootball.net/report/nb-i-2017-2018-debreceni-vsc-budapesti-vasas/
-hungary-2017-2018,6,2017-08-19,17:00,201708191700,saturday,Mezõkövesd-Zsóry,Budapest Honvéd,1,2,3,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/nb-i-2017-2018-mezokoevesd-zsory-budapest-honved/
-hungary-2017-2018,6,2017-08-19,17:00,201708191700,saturday,Puskás FC,Balmazújvárosi FC,2,1,3,H,W,L,2,0,2,H,W,L,http://www.worldfootball.net/report/nb-i-2017-2018-puskas-fc-balmazujvarosi-fc/
-hungary-2017-2018,6,2017-08-19,19:30,201708191930,saturday,Újpest FC,Diósgyöri VTK,1,1,2,D,D,D,0,1,1,A,L,W,http://www.worldfootball.net/report/nb-i-2017-2018-ujpest-fc-diosgyoeri-vtk/
-hungary-2017-2018,7,2017-08-26,17:00,201708261700,saturday,Balmazújvárosi FC,Újpest FC,0,1,1,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/nb-i-2017-2018-balmazujvarosi-fc-ujpest-fc/
-hungary-2017-2018,7,2017-08-26,17:00,201708261700,saturday,Diósgyöri VTK,Mezõkövesd-Zsóry,2,1,3,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/nb-i-2017-2018-diosgyoeri-vtk-mezokoevesd-zsory/
-hungary-2017-2018,7,2017-08-26,17:00,201708261700,saturday,Szombathelyi Haladás,Puskás FC,1,5,6,A,L,W,1,1,2,D,D,D,http://www.worldfootball.net/report/nb-i-2017-2018-szombathelyi-haladas-puskas-fc/
-hungary-2017-2018,7,2017-08-26,17:00,201708261700,saturday,Budapesti Vasas,Paksi SE,3,1,4,H,W,L,2,1,3,H,W,L,http://www.worldfootball.net/report/nb-i-2017-2018-budapesti-vasas-paksi-se/
-hungary-2017-2018,7,2017-08-26,19:30,201708261930,saturday,Budapest Honvéd,Debreceni VSC,1,3,4,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/nb-i-2017-2018-budapest-honved-debreceni-vsc/
-hungary-2017-2018,7,2017-08-27,18:30,201708271830,sunday,Videoton FC,Ferencvárosi TC,3,1,4,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/nb-i-2017-2018-videoton-fc-ferencvarosi-tc/
-hungary-2017-2018,6,2017-09-06,18:30,201709061830,wednesday,Paksi SE,Videoton FC,1,4,5,A,L,W,0,2,2,A,L,W,http://www.worldfootball.net/report/nb-i-2017-2018-paksi-se-videoton-fc/
-hungary-2017-2018,8,2017-09-09,17:00,201709091700,saturday,Debreceni VSC,Diósgyöri VTK,3,1,4,H,W,L,1,1,2,D,D,D,http://www.worldfootball.net/report/nb-i-2017-2018-debreceni-vsc-diosgyoeri-vtk/
-hungary-2017-2018,8,2017-09-09,17:00,201709091700,saturday,Ferencvárosi TC,Budapesti Vasas,5,2,7,H,W,L,1,1,2,D,D,D,http://www.worldfootball.net/report/nb-i-2017-2018-ferencvarosi-tc-budapesti-vasas/
-hungary-2017-2018,8,2017-09-09,17:00,201709091700,saturday,Mezõkövesd-Zsóry,Balmazújvárosi FC,2,2,4,D,D,D,0,1,1,A,L,W,http://www.worldfootball.net/report/nb-i-2017-2018-mezokoevesd-zsory-balmazujvarosi-fc/
-hungary-2017-2018,8,2017-09-09,19:30,201709091930,saturday,Újpest FC,Puskás FC,1,3,4,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/nb-i-2017-2018-ujpest-fc-puskas-fc/
-hungary-2017-2018,8,2017-09-10,16:00,201709101600,sunday,Paksi SE,Budapest Honvéd,2,2,4,D,D,D,0,1,1,A,L,W,http://www.worldfootball.net/report/nb-i-2017-2018-paksi-se-budapest-honved/
-hungary-2017-2018,8,2017-09-10,16:00,201709101600,sunday,Videoton FC,Szombathelyi Haladás,3,1,4,H,W,L,0,1,1,A,L,W,http://www.worldfootball.net/report/nb-i-2017-2018-videoton-fc-szombathelyi-haladas/
-hungary-2017-2018,9,2017-09-16,17:00,201709161700,saturday,Balmazújvárosi FC,Debreceni VSC,0,1,1,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/nb-i-2017-2018-balmazujvarosi-fc-debreceni-vsc/
-hungary-2017-2018,9,2017-09-16,17:00,201709161700,saturday,Diósgyöri VTK,Paksi SE,2,4,6,A,L,W,1,2,3,A,L,W,http://www.worldfootball.net/report/nb-i-2017-2018-diosgyoeri-vtk-paksi-se/
-hungary-2017-2018,9,2017-09-16,17:00,201709161700,saturday,Szombathelyi Haladás,Újpest FC,1,0,1,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/nb-i-2017-2018-szombathelyi-haladas-ujpest-fc/
-hungary-2017-2018,9,2017-09-16,17:00,201709161700,saturday,Puskás FC,Mezõkövesd-Zsóry,1,0,1,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/nb-i-2017-2018-puskas-fc-mezokoevesd-zsory/
-hungary-2017-2018,9,2017-09-16,17:00,201709161700,saturday,Budapesti Vasas,Videoton FC,3,1,4,H,W,L,2,1,3,H,W,L,http://www.worldfootball.net/report/nb-i-2017-2018-budapesti-vasas-videoton-fc/
-hungary-2017-2018,9,2017-09-16,19:30,201709161930,saturday,Budapest Honvéd,Ferencvárosi TC,1,3,4,A,L,W,1,1,2,D,D,D,http://www.worldfootball.net/report/nb-i-2017-2018-budapest-honved-ferencvarosi-tc/
-hungary-2017-2018,10,2017-09-23,17:00,201709231700,saturday,Debreceni VSC,Puskás FC,3,0,3,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/nb-i-2017-2018-debreceni-vsc-puskas-fc/
-hungary-2017-2018,10,2017-09-23,17:00,201709231700,saturday,Ferencvárosi TC,Diósgyöri VTK,2,0,2,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/nb-i-2017-2018-ferencvarosi-tc-diosgyoeri-vtk/
-hungary-2017-2018,10,2017-09-23,17:00,201709231700,saturday,Paksi SE,Balmazújvárosi FC,1,0,1,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/nb-i-2017-2018-paksi-se-balmazujvarosi-fc/
-hungary-2017-2018,10,2017-09-23,17:15,201709231715,saturday,Mezõkövesd-Zsóry,Újpest FC,2,4,6,A,L,W,1,0,1,H,W,L,http://www.worldfootball.net/report/nb-i-2017-2018-mezokoevesd-zsory-ujpest-fc/
-hungary-2017-2018,10,2017-09-23,19:30,201709231930,saturday,Videoton FC,Budapest Honvéd,1,1,2,D,D,D,1,1,2,D,D,D,http://www.worldfootball.net/report/nb-i-2017-2018-videoton-fc-budapest-honved/
-hungary-2017-2018,11,2017-09-30,17:00,201709301700,saturday,Balmazújvárosi FC,Ferencvárosi TC,2,3,5,A,L,W,2,1,3,H,W,L,http://www.worldfootball.net/report/nb-i-2017-2018-balmazujvarosi-fc-ferencvarosi-tc/
-hungary-2017-2018,11,2017-09-30,17:00,201709301700,saturday,Diósgyöri VTK,Videoton FC,2,3,5,A,L,W,1,0,1,H,W,L,http://www.worldfootball.net/report/nb-i-2017-2018-diosgyoeri-vtk-videoton-fc/
-hungary-2017-2018,11,2017-09-30,17:00,201709301700,saturday,Szombathelyi Haladás,Mezõkövesd-Zsóry,2,2,4,D,D,D,1,1,2,D,D,D,http://www.worldfootball.net/report/nb-i-2017-2018-szombathelyi-haladas-mezokoevesd-zsory/
-hungary-2017-2018,11,2017-09-30,17:00,201709301700,saturday,Puskás FC,Paksi SE,1,2,3,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/nb-i-2017-2018-puskas-fc-paksi-se/
-hungary-2017-2018,11,2017-09-30,17:00,201709301700,saturday,Újpest FC,Debreceni VSC,1,1,2,D,D,D,1,1,2,D,D,D,http://www.worldfootball.net/report/nb-i-2017-2018-ujpest-fc-debreceni-vsc/
-hungary-2017-2018,11,2017-09-30,19:30,201709301930,saturday,Budapest Honvéd,Budapesti Vasas,1,4,5,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/nb-i-2017-2018-budapest-honved-budapesti-vasas/
-hungary-2017-2018,12,2017-10-14,14:30,201710141430,saturday,Balmazújvárosi FC,Videoton FC,1,1,2,D,D,D,1,1,2,D,D,D,http://www.worldfootball.net/report/nb-i-2017-2018-balmazujvarosi-fc-videoton-fc/
-hungary-2017-2018,12,2017-10-14,14:30,201710141430,saturday,Diósgyöri VTK,Budapesti Vasas,5,0,5,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/nb-i-2017-2018-diosgyoeri-vtk-budapesti-vasas/
-hungary-2017-2018,12,2017-10-14,14:30,201710141430,saturday,Szombathelyi Haladás,Budapest Honvéd,1,2,3,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/nb-i-2017-2018-szombathelyi-haladas-budapest-honved/
-hungary-2017-2018,12,2017-10-14,14:30,201710141430,saturday,Mezõkövesd-Zsóry,Debreceni VSC,0,2,2,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/nb-i-2017-2018-mezokoevesd-zsory-debreceni-vsc/
-hungary-2017-2018,12,2017-10-14,14:30,201710141430,saturday,Újpest FC,Paksi SE,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/nb-i-2017-2018-ujpest-fc-paksi-se/
-hungary-2017-2018,12,2017-10-14,18:30,201710141830,saturday,Puskás FC,Ferencvárosi TC,1,1,2,D,D,D,0,1,1,A,L,W,http://www.worldfootball.net/report/nb-i-2017-2018-puskas-fc-ferencvarosi-tc/
-hungary-2017-2018,10,2017-10-17,17:00,201710171700,tuesday,Budapesti Vasas,Szombathelyi Haladás,1,0,1,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/nb-i-2017-2018-budapesti-vasas-szombathelyi-haladas/
-hungary-2017-2018,13,2017-10-21,14:30,201710211430,saturday,Debreceni VSC,Szombathelyi Haladás,1,1,2,D,D,D,0,1,1,A,L,W,http://www.worldfootball.net/report/nb-i-2017-2018-debreceni-vsc-szombathelyi-haladas/
-hungary-2017-2018,13,2017-10-21,14:30,201710211430,saturday,Ferencvárosi TC,Újpest FC,1,0,1,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/nb-i-2017-2018-ferencvarosi-tc-ujpest-fc/
-hungary-2017-2018,13,2017-10-21,14:30,201710211430,saturday,Paksi SE,Mezõkövesd-Zsóry,1,1,2,D,D,D,1,1,2,D,D,D,http://www.worldfootball.net/report/nb-i-2017-2018-paksi-se-mezokoevesd-zsory/
-hungary-2017-2018,13,2017-10-21,14:30,201710211430,saturday,Budapesti Vasas,Balmazújvárosi FC,1,2,3,A,L,W,0,2,2,A,L,W,http://www.worldfootball.net/report/nb-i-2017-2018-budapesti-vasas-balmazujvarosi-fc/
-hungary-2017-2018,13,2017-10-21,14:30,201710211430,saturday,Videoton FC,Puskás FC,2,0,2,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/nb-i-2017-2018-videoton-fc-puskas-fc/
-hungary-2017-2018,13,2017-10-21,17:00,201710211700,saturday,Diósgyöri VTK,Budapest Honvéd,2,1,3,H,W,L,1,1,2,D,D,D,http://www.worldfootball.net/report/nb-i-2017-2018-diosgyoeri-vtk-budapest-honved/
-hungary-2017-2018,14,2017-10-28,14:30,201710281430,saturday,Balmazújvárosi FC,Budapest Honvéd,0,3,3,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/nb-i-2017-2018-balmazujvarosi-fc-budapest-honved/
-hungary-2017-2018,14,2017-10-28,14:30,201710281430,saturday,Debreceni VSC,Paksi SE,3,2,5,H,W,L,1,1,2,D,D,D,http://www.worldfootball.net/report/nb-i-2017-2018-debreceni-vsc-paksi-se/
-hungary-2017-2018,14,2017-10-28,14:30,201710281430,saturday,Szombathelyi Haladás,Diósgyöri VTK,0,3,3,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/nb-i-2017-2018-szombathelyi-haladas-diosgyoeri-vtk_2/
-hungary-2017-2018,14,2017-10-28,14:30,201710281430,saturday,Mezõkövesd-Zsóry,Ferencvárosi TC,0,1,1,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/nb-i-2017-2018-mezokoevesd-zsory-ferencvarosi-tc/
-hungary-2017-2018,14,2017-10-28,14:30,201710281430,saturday,Újpest FC,Videoton FC,2,2,4,D,D,D,0,2,2,A,L,W,http://www.worldfootball.net/report/nb-i-2017-2018-ujpest-fc-videoton-fc/
-hungary-2017-2018,14,2017-10-28,16:45,201710281645,saturday,Puskás FC,Budapesti Vasas,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/nb-i-2017-2018-puskas-fc-budapesti-vasas/
-hungary-2017-2018,15,2017-11-04,14:30,201711041430,saturday,Diósgyöri VTK,Balmazújvárosi FC,1,2,3,A,L,W,1,1,2,D,D,D,http://www.worldfootball.net/report/nb-i-2017-2018-diosgyoeri-vtk-balmazujvarosi-fc/
-hungary-2017-2018,15,2017-11-04,14:30,201711041430,saturday,Ferencvárosi TC,Debreceni VSC,2,1,3,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/nb-i-2017-2018-ferencvarosi-tc-debreceni-vsc/
-hungary-2017-2018,15,2017-11-04,14:30,201711041430,saturday,Szombathelyi Haladás,Paksi SE,1,2,3,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/nb-i-2017-2018-szombathelyi-haladas-paksi-se/
-hungary-2017-2018,15,2017-11-04,14:30,201711041430,saturday,Budapesti Vasas,Újpest FC,0,1,1,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/nb-i-2017-2018-budapesti-vasas-ujpest-fc/
-hungary-2017-2018,15,2017-11-04,14:30,201711041430,saturday,Videoton FC,Mezõkövesd-Zsóry,4,0,4,H,W,L,3,0,3,H,W,L,http://www.worldfootball.net/report/nb-i-2017-2018-videoton-fc-mezokoevesd-zsory/
-hungary-2017-2018,15,2017-11-04,18:30,201711041830,saturday,Budapest Honvéd,Puskás FC,4,3,7,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/nb-i-2017-2018-budapest-honved-puskas-fc/
-hungary-2017-2018,16,2017-11-18,14:30,201711181430,saturday,Balmazújvárosi FC,Szombathelyi Haladás,2,1,3,H,W,L,0,1,1,A,L,W,http://www.worldfootball.net/report/nb-i-2017-2018-balmazujvarosi-fc-szombathelyi-haladas/
-hungary-2017-2018,16,2017-11-18,14:30,201711181430,saturday,Mezõkövesd-Zsóry,Budapesti Vasas,3,3,6,D,D,D,1,1,2,D,D,D,http://www.worldfootball.net/report/nb-i-2017-2018-mezokoevesd-zsory-budapesti-vasas/
-hungary-2017-2018,16,2017-11-18,14:30,201711181430,saturday,Paksi SE,Ferencvárosi TC,0,2,2,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/nb-i-2017-2018-paksi-se-ferencvarosi-tc/
-hungary-2017-2018,16,2017-11-18,14:30,201711181430,saturday,Puskás FC,Diósgyöri VTK,1,0,1,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/nb-i-2017-2018-puskas-fc-diosgyoeri-vtk/
-hungary-2017-2018,16,2017-11-18,14:30,201711181430,saturday,Újpest FC,Budapest Honvéd,2,1,3,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/nb-i-2017-2018-ujpest-fc-budapest-honved/
-hungary-2017-2018,16,2017-11-18,18:30,201711181830,saturday,Debreceni VSC,Videoton FC,2,5,7,A,L,W,1,2,3,A,L,W,http://www.worldfootball.net/report/nb-i-2017-2018-debreceni-vsc-videoton-fc/
-hungary-2017-2018,17,2017-11-25,14:30,201711251430,saturday,Balmazújvárosi FC,Puskás FC,2,2,4,D,D,D,1,1,2,D,D,D,http://www.worldfootball.net/report/nb-i-2017-2018-balmazujvarosi-fc-puskas-fc/
-hungary-2017-2018,17,2017-11-25,14:30,201711251430,saturday,Diósgyöri VTK,Újpest FC,1,2,3,A,L,W,1,2,3,A,L,W,http://www.worldfootball.net/report/nb-i-2017-2018-diosgyoeri-vtk-ujpest-fc/
-hungary-2017-2018,17,2017-11-25,14:30,201711251430,saturday,Budapest Honvéd,Mezõkövesd-Zsóry,1,2,3,A,L,W,1,1,2,D,D,D,http://www.worldfootball.net/report/nb-i-2017-2018-budapest-honved-mezokoevesd-zsory/
-hungary-2017-2018,17,2017-11-25,14:30,201711251430,saturday,Budapesti Vasas,Debreceni VSC,1,5,6,A,L,W,0,2,2,A,L,W,http://www.worldfootball.net/report/nb-i-2017-2018-budapesti-vasas-debreceni-vsc/
-hungary-2017-2018,17,2017-11-25,14:30,201711251430,saturday,Videoton FC,Paksi SE,2,0,2,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/nb-i-2017-2018-videoton-fc-paksi-se/
-hungary-2017-2018,17,2017-11-25,18:30,201711251830,saturday,Szombathelyi Haladás,Ferencvárosi TC,2,1,3,H,W,L,1,1,2,D,D,D,http://www.worldfootball.net/report/nb-i-2017-2018-szombathelyi-haladas-ferencvarosi-tc/
-hungary-2017-2018,18,2017-12-02,14:30,201712021430,saturday,Debreceni VSC,Budapest Honvéd,1,0,1,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/nb-i-2017-2018-debreceni-vsc-budapest-honved/
-hungary-2017-2018,18,2017-12-02,14:30,201712021430,saturday,Mezõkövesd-Zsóry,Diósgyöri VTK,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/nb-i-2017-2018-mezokoevesd-zsory-diosgyoeri-vtk/
-hungary-2017-2018,18,2017-12-02,14:30,201712021430,saturday,Paksi SE,Budapesti Vasas,3,1,4,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/nb-i-2017-2018-paksi-se-budapesti-vasas/
-hungary-2017-2018,18,2017-12-02,14:30,201712021430,saturday,Puskás FC,Szombathelyi Haladás,1,3,4,A,L,W,1,1,2,D,D,D,http://www.worldfootball.net/report/nb-i-2017-2018-puskas-fc-szombathelyi-haladas/
-hungary-2017-2018,18,2017-12-02,14:30,201712021430,saturday,Újpest FC,Balmazújvárosi FC,2,2,4,D,D,D,0,1,1,A,L,W,http://www.worldfootball.net/report/nb-i-2017-2018-ujpest-fc-balmazujvarosi-fc/
-hungary-2017-2018,18,2017-12-02,18:30,201712021830,saturday,Ferencvárosi TC,Videoton FC,3,1,4,H,W,L,2,0,2,H,W,L,http://www.worldfootball.net/report/nb-i-2017-2018-ferencvarosi-tc-videoton-fc/
-hungary-2017-2018,19,2017-12-09,14:30,201712091430,saturday,Balmazújvárosi FC,Mezõkövesd-Zsóry,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/nb-i-2017-2018-balmazujvarosi-fc-mezokoevesd-zsory/
-hungary-2017-2018,19,2017-12-09,14:30,201712091430,saturday,Szombathelyi Haladás,Videoton FC,1,0,1,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/nb-i-2017-2018-szombathelyi-haladas-videoton-fc/
-hungary-2017-2018,19,2017-12-09,14:30,201712091430,saturday,Budapest Honvéd,Paksi SE,1,0,1,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/nb-i-2017-2018-budapest-honved-paksi-se/
-hungary-2017-2018,19,2017-12-09,14:30,201712091430,saturday,Puskás FC,Újpest FC,2,1,3,H,W,L,2,0,2,H,W,L,http://www.worldfootball.net/report/nb-i-2017-2018-puskas-fc-ujpest-fc/
-hungary-2017-2018,19,2017-12-09,15:00,201712091500,saturday,Diósgyöri VTK,Debreceni VSC,3,2,5,H,W,L,2,1,3,H,W,L,http://www.worldfootball.net/report/nb-i-2017-2018-diosgyoeri-vtk-debreceni-vsc/
-hungary-2017-2018,19,2017-12-09,18:30,201712091830,saturday,Budapesti Vasas,Ferencvárosi TC,0,2,2,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/nb-i-2017-2018-budapesti-vasas-ferencvarosi-tc/
-hungary-2017-2018,20,2018-02-24,16:00,201802241600,saturday,Debreceni VSC,Balmazújvárosi FC,0,2,2,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/nb-i-2017-2018-debreceni-vsc-balmazujvarosi-fc/
-hungary-2017-2018,20,2018-02-24,16:00,201802241600,saturday,Mezõkövesd-Zsóry,Puskás FC,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/nb-i-2017-2018-mezokoevesd-zsory-puskas-fc/
-hungary-2017-2018,20,2018-02-24,16:00,201802241600,saturday,Paksi SE,Diósgyöri VTK,2,1,3,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/nb-i-2017-2018-paksi-se-diosgyoeri-vtk/
-hungary-2017-2018,20,2018-02-24,16:00,201802241600,saturday,Újpest FC,Szombathelyi Haladás,1,0,1,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/nb-i-2017-2018-ujpest-fc-szombathelyi-haladas/
-hungary-2017-2018,20,2018-02-24,16:00,201802241600,saturday,Videoton FC,Budapesti Vasas,2,1,3,H,W,L,1,1,2,D,D,D,http://www.worldfootball.net/report/nb-i-2017-2018-videoton-fc-budapesti-vasas/
-hungary-2017-2018,20,2018-02-24,18:30,201802241830,saturday,Ferencvárosi TC,Budapest Honvéd,5,2,7,H,W,L,3,1,4,H,W,L,http://www.worldfootball.net/report/nb-i-2017-2018-ferencvarosi-tc-budapest-honved/
-hungary-2017-2018,21,2018-03-03,16:00,201803031600,saturday,Balmazújvárosi FC,Paksi SE,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/nb-i-2017-2018-balmazujvarosi-fc-paksi-se/
-hungary-2017-2018,21,2018-03-03,16:00,201803031600,saturday,Diósgyöri VTK,Ferencvárosi TC,2,1,3,H,W,L,0,1,1,A,L,W,http://www.worldfootball.net/report/nb-i-2017-2018-diosgyoeri-vtk-ferencvarosi-tc/
-hungary-2017-2018,21,2018-03-03,16:00,201803031600,saturday,Szombathelyi Haladás,Budapesti Vasas,3,0,3,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/nb-i-2017-2018-szombathelyi-haladas-budapesti-vasas/
-hungary-2017-2018,21,2018-03-03,16:00,201803031600,saturday,Puskás FC,Debreceni VSC,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/nb-i-2017-2018-puskas-fc-debreceni-vsc/
-hungary-2017-2018,21,2018-03-03,16:00,201803031600,saturday,Újpest FC,Mezõkövesd-Zsóry,2,3,5,A,L,W,1,1,2,D,D,D,http://www.worldfootball.net/report/nb-i-2017-2018-ujpest-fc-mezokoevesd-zsory/
-hungary-2017-2018,22,2018-03-10,13:30,201803101330,saturday,Debreceni VSC,Újpest FC,1,2,3,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/nb-i-2017-2018-debreceni-vsc-ujpest-fc/
-hungary-2017-2018,22,2018-03-10,16:00,201803101600,saturday,Ferencvárosi TC,Balmazújvárosi FC,5,0,5,H,W,L,2,0,2,H,W,L,http://www.worldfootball.net/report/nb-i-2017-2018-ferencvarosi-tc-balmazujvarosi-fc/
-hungary-2017-2018,22,2018-03-10,16:00,201803101600,saturday,Mezõkövesd-Zsóry,Szombathelyi Haladás,2,1,3,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/nb-i-2017-2018-mezokoevesd-zsory-szombathelyi-haladas/
-hungary-2017-2018,22,2018-03-10,16:00,201803101600,saturday,Paksi SE,Puskás FC,3,1,4,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/nb-i-2017-2018-paksi-se-puskas-fc/
-hungary-2017-2018,22,2018-03-10,16:00,201803101600,saturday,Budapesti Vasas,Budapest Honvéd,2,1,3,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/nb-i-2017-2018-budapesti-vasas-budapest-honved/
-hungary-2017-2018,22,2018-03-10,18:30,201803101830,saturday,Videoton FC,Diósgyöri VTK,4,1,5,H,W,L,2,0,2,H,W,L,http://www.worldfootball.net/report/nb-i-2017-2018-videoton-fc-diosgyoeri-vtk/
-hungary-2017-2018,23,2018-03-17,16:00,201803171600,saturday,Debreceni VSC,Mezõkövesd-Zsóry,2,3,5,A,L,W,1,2,3,A,L,W,http://www.worldfootball.net/report/nb-i-2017-2018-debreceni-vsc-mezokoevesd-zsory_2/
-hungary-2017-2018,23,2018-03-17,16:00,201803171600,saturday,Budapest Honvéd,Szombathelyi Haladás,2,1,3,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/nb-i-2017-2018-budapest-honved-szombathelyi-haladas_2/
-hungary-2017-2018,23,2018-03-17,16:00,201803171600,saturday,Paksi SE,Újpest FC,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/nb-i-2017-2018-paksi-se-ujpest-fc_2/
-hungary-2017-2018,23,2018-03-17,16:00,201803171600,saturday,Budapesti Vasas,Diósgyöri VTK,1,1,2,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/nb-i-2017-2018-budapesti-vasas-diosgyoeri-vtk_2/
-hungary-2017-2018,23,2018-03-17,16:00,201803171600,saturday,Videoton FC,Balmazújvárosi FC,1,0,1,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/nb-i-2017-2018-videoton-fc-balmazujvarosi-fc_2/
-hungary-2017-2018,23,2018-03-17,18:30,201803171830,saturday,Ferencvárosi TC,Puskás FC,3,1,4,H,W,L,1,1,2,D,D,D,http://www.worldfootball.net/report/nb-i-2017-2018-ferencvarosi-tc-puskas-fc_2/
-hungary-2017-2018,24,2018-03-31,16:00,201803311600,saturday,Balmazújvárosi FC,Budapesti Vasas,1,1,2,D,D,D,1,0,1,H,W,L,http://www.worldfootball.net/report/nb-i-2017-2018-balmazujvarosi-fc-budapesti-vasas_2/
-hungary-2017-2018,24,2018-03-31,16:00,201803311600,saturday,Diósgyöri VTK,Budapest Honvéd,1,1,2,D,D,D,1,0,1,H,W,L,http://www.worldfootball.net/report/nb-i-2017-2018-diosgyoeri-vtk-budapest-honved_2/
-hungary-2017-2018,24,2018-03-31,16:00,201803311600,saturday,Mezõkövesd-Zsóry,Paksi SE,2,3,5,A,L,W,0,2,2,A,L,W,http://www.worldfootball.net/report/nb-i-2017-2018-mezokoevesd-zsory-paksi-se_2/
-hungary-2017-2018,24,2018-03-31,16:00,201803311600,saturday,Puskás FC,Videoton FC,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/nb-i-2017-2018-puskas-fc-videoton-fc_2/
-hungary-2017-2018,24,2018-03-31,16:00,201803311600,saturday,Újpest FC,Ferencvárosi TC,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/nb-i-2017-2018-ujpest-fc-ferencvarosi-tc_2/
-hungary-2017-2018,24,2018-03-31,18:30,201803311830,saturday,Szombathelyi Haladás,Debreceni VSC,1,1,2,D,D,D,0,1,1,A,L,W,http://www.worldfootball.net/report/nb-i-2017-2018-szombathelyi-haladas-debreceni-vsc_2/
-hungary-2017-2018,25,2018-04-07,13:30,201804071330,saturday,Ferencvárosi TC,Mezõkövesd-Zsóry,3,0,3,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/nb-i-2017-2018-ferencvarosi-tc-mezokoevesd-zsory_2/
-hungary-2017-2018,25,2018-04-07,16:00,201804071600,saturday,Diósgyöri VTK,Szombathelyi Haladás,1,2,3,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/nb-i-2017-2018-diosgyoeri-vtk-szombathelyi-haladas/
-hungary-2017-2018,25,2018-04-07,16:00,201804071600,saturday,Budapest Honvéd,Balmazújvárosi FC,2,0,2,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/nb-i-2017-2018-budapest-honved-balmazujvarosi-fc_2/
-hungary-2017-2018,25,2018-04-07,16:00,201804071600,saturday,Paksi SE,Debreceni VSC,2,5,7,A,L,W,0,2,2,A,L,W,http://www.worldfootball.net/report/nb-i-2017-2018-paksi-se-debreceni-vsc_2/
-hungary-2017-2018,25,2018-04-07,16:00,201804071600,saturday,Budapesti Vasas,Puskás FC,1,2,3,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/nb-i-2017-2018-budapesti-vasas-puskas-fc_2/
-hungary-2017-2018,25,2018-04-07,18:30,201804071830,saturday,Videoton FC,Újpest FC,3,0,3,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/nb-i-2017-2018-videoton-fc-ujpest-fc_2/
-hungary-2017-2018,21,2018-04-11,17:00,201804111700,wednesday,Budapest Honvéd,Videoton FC,1,4,5,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/nb-i-2017-2018-budapest-honved-videoton-fc/
-hungary-2017-2018,26,2018-04-14,16:00,201804141600,saturday,Balmazújvárosi FC,Diósgyöri VTK,2,1,3,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/nb-i-2017-2018-balmazujvarosi-fc-diosgyoeri-vtk_2/
-hungary-2017-2018,26,2018-04-14,16:00,201804141600,saturday,Mezõkövesd-Zsóry,Videoton FC,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/nb-i-2017-2018-mezokoevesd-zsory-videoton-fc_2/
-hungary-2017-2018,26,2018-04-14,16:00,201804141600,saturday,Paksi SE,Szombathelyi Haladás,1,2,3,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/nb-i-2017-2018-paksi-se-szombathelyi-haladas_2/
-hungary-2017-2018,26,2018-04-14,16:00,201804141600,saturday,Puskás FC,Budapest Honvéd,1,1,2,D,D,D,1,0,1,H,W,L,http://www.worldfootball.net/report/nb-i-2017-2018-puskas-fc-budapest-honved_2/
-hungary-2017-2018,26,2018-04-14,16:00,201804141600,saturday,Újpest FC,Budapesti Vasas,4,2,6,H,W,L,1,1,2,D,D,D,http://www.worldfootball.net/report/nb-i-2017-2018-ujpest-fc-budapesti-vasas_2/
-hungary-2017-2018,26,2018-04-14,18:30,201804141830,saturday,Debreceni VSC,Ferencvárosi TC,1,1,2,D,D,D,1,1,2,D,D,D,http://www.worldfootball.net/report/nb-i-2017-2018-debreceni-vsc-ferencvarosi-tc_2/
-hungary-2017-2018,27,2018-04-21,16:00,201804211600,saturday,Diósgyöri VTK,Puskás FC,0,1,1,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/nb-i-2017-2018-diosgyoeri-vtk-puskas-fc_2/
-hungary-2017-2018,27,2018-04-21,16:00,201804211600,saturday,Ferencvárosi TC,Paksi SE,2,2,4,D,D,D,0,1,1,A,L,W,http://www.worldfootball.net/report/nb-i-2017-2018-ferencvarosi-tc-paksi-se_2/
-hungary-2017-2018,27,2018-04-21,16:00,201804211600,saturday,Szombathelyi Haladás,Balmazújvárosi FC,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/nb-i-2017-2018-szombathelyi-haladas-balmazujvarosi-fc_2/
-hungary-2017-2018,27,2018-04-21,16:00,201804211600,saturday,Budapest Honvéd,Újpest FC,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/nb-i-2017-2018-budapest-honved-ujpest-fc_2/
-hungary-2017-2018,27,2018-04-21,16:00,201804211600,saturday,Budapesti Vasas,Mezõkövesd-Zsóry,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/nb-i-2017-2018-budapesti-vasas-mezokoevesd-zsory_2/
-hungary-2017-2018,27,2018-04-21,18:30,201804211830,saturday,Videoton FC,Debreceni VSC,1,0,1,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/nb-i-2017-2018-videoton-fc-debreceni-vsc_2/
-hungary-2017-2018,28,2018-04-28,16:00,201804281600,saturday,Debreceni VSC,Budapesti Vasas,2,3,5,A,L,W,0,2,2,A,L,W,http://www.worldfootball.net/report/nb-i-2017-2018-debreceni-vsc-budapesti-vasas_2/
-hungary-2017-2018,28,2018-04-28,16:00,201804281600,saturday,Mezõkövesd-Zsóry,Budapest Honvéd,1,2,3,A,L,W,1,2,3,A,L,W,http://www.worldfootball.net/report/nb-i-2017-2018-mezokoevesd-zsory-budapest-honved_2/
-hungary-2017-2018,28,2018-04-28,16:00,201804281600,saturday,Paksi SE,Videoton FC,1,0,1,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/nb-i-2017-2018-paksi-se-videoton-fc_2/
-hungary-2017-2018,28,2018-04-28,16:00,201804281600,saturday,Puskás FC,Balmazújvárosi FC,3,1,4,H,W,L,1,1,2,D,D,D,http://www.worldfootball.net/report/nb-i-2017-2018-puskas-fc-balmazujvarosi-fc_2/
-hungary-2017-2018,28,2018-04-28,16:00,201804281600,saturday,Újpest FC,Diósgyöri VTK,1,0,1,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/nb-i-2017-2018-ujpest-fc-diosgyoeri-vtk_2/
-hungary-2017-2018,28,2018-04-28,18:30,201804281830,saturday,Ferencvárosi TC,Szombathelyi Haladás,2,1,3,H,W,L,1,1,2,D,D,D,http://www.worldfootball.net/report/nb-i-2017-2018-ferencvarosi-tc-szombathelyi-haladas_2/
-hungary-2017-2018,29,2018-05-05,16:00,201805051600,saturday,Balmazújvárosi FC,Újpest FC,1,1,2,D,D,D,1,0,1,H,W,L,http://www.worldfootball.net/report/nb-i-2017-2018-balmazujvarosi-fc-ujpest-fc_2/
-hungary-2017-2018,29,2018-05-05,16:00,201805051600,saturday,Diósgyöri VTK,Mezõkövesd-Zsóry,0,1,1,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/nb-i-2017-2018-diosgyoeri-vtk-mezokoevesd-zsory_2/
-hungary-2017-2018,29,2018-05-05,16:00,201805051600,saturday,Szombathelyi Haladás,Puskás FC,3,2,5,H,W,L,1,1,2,D,D,D,http://www.worldfootball.net/report/nb-i-2017-2018-szombathelyi-haladas-puskas-fc_2/
-hungary-2017-2018,29,2018-05-05,16:00,201805051600,saturday,Budapest Honvéd,Debreceni VSC,1,3,4,A,L,W,1,2,3,A,L,W,http://www.worldfootball.net/report/nb-i-2017-2018-budapest-honved-debreceni-vsc_2/
-hungary-2017-2018,29,2018-05-05,16:00,201805051600,saturday,Budapesti Vasas,Paksi SE,0,1,1,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/nb-i-2017-2018-budapesti-vasas-paksi-se_2/
-hungary-2017-2018,29,2018-05-05,18:30,201805051830,saturday,Videoton FC,Ferencvárosi TC,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/nb-i-2017-2018-videoton-fc-ferencvarosi-tc_2/
-hungary-2017-2018,30,2018-05-12,16:00,201805121600,saturday,Debreceni VSC,Diósgyöri VTK,2,1,3,H,W,L,2,0,2,H,W,L,http://www.worldfootball.net/report/nb-i-2017-2018-debreceni-vsc-diosgyoeri-vtk_2/
-hungary-2017-2018,30,2018-05-12,16:00,201805121600,saturday,Mezõkövesd-Zsóry,Balmazújvárosi FC,1,0,1,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/nb-i-2017-2018-mezokoevesd-zsory-balmazujvarosi-fc_2/
-hungary-2017-2018,30,2018-05-12,16:00,201805121600,saturday,Paksi SE,Budapest Honvéd,1,2,3,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/nb-i-2017-2018-paksi-se-budapest-honved_2/
-hungary-2017-2018,30,2018-05-12,16:00,201805121600,saturday,Újpest FC,Puskás FC,0,1,1,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/nb-i-2017-2018-ujpest-fc-puskas-fc_2/
-hungary-2017-2018,30,2018-05-12,16:00,201805121600,saturday,Videoton FC,Szombathelyi Haladás,3,0,3,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/nb-i-2017-2018-videoton-fc-szombathelyi-haladas_2/
-hungary-2017-2018,30,2018-05-12,18:30,201805121830,saturday,Ferencvárosi TC,Budapesti Vasas,1,1,2,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/nb-i-2017-2018-ferencvarosi-tc-budapesti-vasas_2/
-hungary-2017-2018,31,2018-05-19,16:00,201805191600,saturday,Balmazújvárosi FC,Debreceni VSC,4,0,4,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/nb-i-2017-2018-balmazujvarosi-fc-debreceni-vsc_2/
-hungary-2017-2018,31,2018-05-19,16:00,201805191600,saturday,Diósgyöri VTK,Paksi SE,1,0,1,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/nb-i-2017-2018-diosgyoeri-vtk-paksi-se_2/
-hungary-2017-2018,31,2018-05-19,16:00,201805191600,saturday,Szombathelyi Haladás,Újpest FC,1,1,2,D,D,D,1,0,1,H,W,L,http://www.worldfootball.net/report/nb-i-2017-2018-szombathelyi-haladas-ujpest-fc_2/
-hungary-2017-2018,31,2018-05-19,16:00,201805191600,saturday,Puskás FC,Mezõkövesd-Zsóry,1,2,3,A,L,W,0,2,2,A,L,W,http://www.worldfootball.net/report/nb-i-2017-2018-puskas-fc-mezokoevesd-zsory_2/
-hungary-2017-2018,31,2018-05-19,16:00,201805191600,saturday,Budapesti Vasas,Videoton FC,0,3,3,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/nb-i-2017-2018-budapesti-vasas-videoton-fc_2/
-hungary-2017-2018,31,2018-05-19,18:30,201805191830,saturday,Budapest Honvéd,Ferencvárosi TC,1,1,2,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/nb-i-2017-2018-budapest-honved-ferencvarosi-tc_2/
-hungary-2017-2018,32,2018-05-27,16:00,201805271600,sunday,Debreceni VSC,Puskás FC,1,1,2,D,D,D,0,1,1,A,L,W,http://www.worldfootball.net/report/nb-i-2017-2018-debreceni-vsc-puskas-fc_2/
-hungary-2017-2018,32,2018-05-27,16:00,201805271600,sunday,Mezõkövesd-Zsóry,Újpest FC,0,1,1,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/nb-i-2017-2018-mezokoevesd-zsory-ujpest-fc_2/
-hungary-2017-2018,32,2018-05-27,16:00,201805271600,sunday,Paksi SE,Balmazújvárosi FC,0,1,1,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/nb-i-2017-2018-paksi-se-balmazujvarosi-fc_2/
-hungary-2017-2018,32,2018-05-27,16:00,201805271600,sunday,Budapesti Vasas,Szombathelyi Haladás,1,0,1,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/nb-i-2017-2018-budapesti-vasas-szombathelyi-haladas_2/
-hungary-2017-2018,32,2018-05-27,16:30,201805271630,sunday,Ferencvárosi TC,Diósgyöri VTK,4,0,4,H,W,L,2,0,2,H,W,L,http://www.worldfootball.net/report/nb-i-2017-2018-ferencvarosi-tc-diosgyoeri-vtk_2/
-hungary-2017-2018,32,2018-05-27,18:30,201805271830,sunday,Videoton FC,Budapest Honvéd,2,0,2,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/nb-i-2017-2018-videoton-fc-budapest-honved_2/
-hungary-2017-2018,33,2018-06-02,18:00,201806021800,saturday,Balmazújvárosi FC,Ferencvárosi TC,3,3,6,D,D,D,2,3,5,A,L,W,http://www.worldfootball.net/report/nb-i-2017-2018-balmazujvarosi-fc-ferencvarosi-tc_2/
-hungary-2017-2018,33,2018-06-02,18:00,201806021800,saturday,Diósgyöri VTK,Videoton FC,2,1,3,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/nb-i-2017-2018-diosgyoeri-vtk-videoton-fc_2/
-hungary-2017-2018,33,2018-06-02,18:00,201806021800,saturday,Szombathelyi Haladás,Mezõkövesd-Zsóry,1,0,1,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/nb-i-2017-2018-szombathelyi-haladas-mezokoevesd-zsory_2/
-hungary-2017-2018,33,2018-06-02,18:00,201806021800,saturday,Budapest Honvéd,Budapesti Vasas,3,1,4,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/nb-i-2017-2018-budapest-honved-budapesti-vasas_2/
-hungary-2017-2018,33,2018-06-02,18:00,201806021800,saturday,Puskás FC,Paksi SE,1,0,1,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/nb-i-2017-2018-puskas-fc-paksi-se_2/
-hungary-2017-2018,33,2018-06-02,18:00,201806021800,saturday,Újpest FC,Debreceni VSC,2,1,3,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/nb-i-2017-2018-ujpest-fc-debreceni-vsc_2/
+hungary-2017-2018,1,2017-07-15,17:00,201707151700,saturday,Debreceni VSC,Mezõkövesd-Zsóry,1,2,3,A,L,W,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/nb-i-2017-2018-debreceni-vsc-mezokoevesd-zsory/
+hungary-2017-2018,1,2017-07-15,17:00,201707151700,saturday,Paksi SE,Újpest FC,2,2,4,D,D,D,1.0,1.0,2.0,D,D,D,http://www.worldfootball.net/report/nb-i-2017-2018-paksi-se-ujpest-fc/
+hungary-2017-2018,1,2017-07-15,19:30,201707151930,saturday,Budapest Honvéd,Szombathelyi Haladás,2,0,2,H,W,L,1.0,0.0,1.0,H,W,L,http://www.worldfootball.net/report/nb-i-2017-2018-budapest-honved-szombathelyi-haladas/
+hungary-2017-2018,1,2017-07-16,16:00,201707161600,sunday,Ferencvárosi TC,Puskás FC,1,1,2,D,D,D,1.0,1.0,2.0,D,D,D,http://www.worldfootball.net/report/nb-i-2017-2018-ferencvarosi-tc-puskas-fc/
+hungary-2017-2018,1,2017-07-16,16:00,201707161600,sunday,Budapesti Vasas,Diósgyöri VTK,0,2,2,A,L,W,0.0,1.0,1.0,A,L,W,http://www.worldfootball.net/report/nb-i-2017-2018-budapesti-vasas-diosgyoeri-vtk/
+hungary-2017-2018,1,2017-07-16,16:00,201707161600,sunday,Videoton FC,Balmazújvárosi FC,1,1,2,D,D,D,0.0,1.0,1.0,A,L,W,http://www.worldfootball.net/report/nb-i-2017-2018-videoton-fc-balmazujvarosi-fc/
+hungary-2017-2018,2,2017-07-22,17:00,201707221700,saturday,Budapest Honvéd,Diósgyöri VTK,2,2,4,D,D,D,0.0,1.0,1.0,A,L,W,http://www.worldfootball.net/report/nb-i-2017-2018-budapest-honved-diosgyoeri-vtk/
+hungary-2017-2018,2,2017-07-22,17:00,201707221700,saturday,Mezõkövesd-Zsóry,Paksi SE,3,2,5,H,W,L,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/nb-i-2017-2018-mezokoevesd-zsory-paksi-se/
+hungary-2017-2018,2,2017-07-22,19:30,201707221930,saturday,Szombathelyi Haladás,Debreceni VSC,1,0,1,H,W,L,1.0,0.0,1.0,H,W,L,http://www.worldfootball.net/report/nb-i-2017-2018-szombathelyi-haladas-debreceni-vsc/
+hungary-2017-2018,2,2017-07-23,17:00,201707231700,sunday,Balmazújvárosi FC,Budapesti Vasas,0,1,1,A,L,W,0.0,1.0,1.0,A,L,W,http://www.worldfootball.net/report/nb-i-2017-2018-balmazujvarosi-fc-budapesti-vasas/
+hungary-2017-2018,2,2017-07-23,17:00,201707231700,sunday,Puskás FC,Videoton FC,1,3,4,A,L,W,1.0,2.0,3.0,A,L,W,http://www.worldfootball.net/report/nb-i-2017-2018-puskas-fc-videoton-fc/
+hungary-2017-2018,2,2017-07-23,17:00,201707231700,sunday,Újpest FC,Ferencvárosi TC,2,2,4,D,D,D,1.0,1.0,2.0,D,D,D,http://www.worldfootball.net/report/nb-i-2017-2018-ujpest-fc-ferencvarosi-tc/
+hungary-2017-2018,3,2017-07-29,17:00,201707291700,saturday,Szombathelyi Haladás,Diósgyöri VTK,0,3,3,A,L,W,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/nb-i-2017-2018-szombathelyi-haladas-diosgyoeri-vtk/
+hungary-2017-2018,3,2017-07-29,17:00,201707291700,saturday,Paksi SE,Debreceni VSC,1,1,2,D,D,D,0.0,1.0,1.0,A,L,W,http://www.worldfootball.net/report/nb-i-2017-2018-paksi-se-debreceni-vsc/
+hungary-2017-2018,3,2017-07-29,19:30,201707291930,saturday,Budapest Honvéd,Balmazújvárosi FC,2,2,4,D,D,D,0.0,1.0,1.0,A,L,W,http://www.worldfootball.net/report/nb-i-2017-2018-budapest-honved-balmazujvarosi-fc/
+hungary-2017-2018,3,2017-07-30,17:00,201707301700,sunday,Ferencvárosi TC,Mezõkövesd-Zsóry,5,0,5,H,W,L,3.0,0.0,3.0,H,W,L,http://www.worldfootball.net/report/nb-i-2017-2018-ferencvarosi-tc-mezokoevesd-zsory/
+hungary-2017-2018,3,2017-07-30,17:00,201707301700,sunday,Budapesti Vasas,Puskás FC,2,0,2,H,W,L,1.0,0.0,1.0,H,W,L,http://www.worldfootball.net/report/nb-i-2017-2018-budapesti-vasas-puskas-fc/
+hungary-2017-2018,3,2017-07-30,17:00,201707301700,sunday,Videoton FC,Újpest FC,2,2,4,D,D,D,0.0,1.0,1.0,A,L,W,http://www.worldfootball.net/report/nb-i-2017-2018-videoton-fc-ujpest-fc/
+hungary-2017-2018,4,2017-08-05,17:00,201708051700,saturday,Balmazújvárosi FC,Diósgyöri VTK,4,0,4,H,W,L,1.0,0.0,1.0,H,W,L,http://www.worldfootball.net/report/nb-i-2017-2018-balmazujvarosi-fc-diosgyoeri-vtk/
+hungary-2017-2018,4,2017-08-05,19:00,201708051900,saturday,Paksi SE,Szombathelyi Haladás,2,0,2,H,W,L,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/nb-i-2017-2018-paksi-se-szombathelyi-haladas/
+hungary-2017-2018,4,2017-08-05,19:30,201708051930,saturday,Puskás FC,Budapest Honvéd,0,2,2,A,L,W,0.0,1.0,1.0,A,L,W,http://www.worldfootball.net/report/nb-i-2017-2018-puskas-fc-budapest-honved/
+hungary-2017-2018,4,2017-08-06,17:00,201708061700,sunday,Debreceni VSC,Ferencvárosi TC,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/nb-i-2017-2018-debreceni-vsc-ferencvarosi-tc/
+hungary-2017-2018,4,2017-08-06,19:00,201708061900,sunday,Mezõkövesd-Zsóry,Videoton FC,0,2,2,A,L,W,0.0,1.0,1.0,A,L,W,http://www.worldfootball.net/report/nb-i-2017-2018-mezokoevesd-zsory-videoton-fc/
+hungary-2017-2018,4,2017-08-06,19:00,201708061900,sunday,Újpest FC,Budapesti Vasas,1,0,1,H,W,L,1.0,0.0,1.0,H,W,L,http://www.worldfootball.net/report/nb-i-2017-2018-ujpest-fc-budapesti-vasas/
+hungary-2017-2018,5,2017-08-12,17:00,201708121700,saturday,Diósgyöri VTK,Puskás FC,2,2,4,D,D,D,1.0,1.0,2.0,D,D,D,http://www.worldfootball.net/report/nb-i-2017-2018-diosgyoeri-vtk-puskas-fc/
+hungary-2017-2018,5,2017-08-12,17:00,201708121700,saturday,Ferencvárosi TC,Paksi SE,1,1,2,D,D,D,1.0,0.0,1.0,H,W,L,http://www.worldfootball.net/report/nb-i-2017-2018-ferencvarosi-tc-paksi-se/
+hungary-2017-2018,5,2017-08-12,17:00,201708121700,saturday,Szombathelyi Haladás,Balmazújvárosi FC,3,1,4,H,W,L,1.0,0.0,1.0,H,W,L,http://www.worldfootball.net/report/nb-i-2017-2018-szombathelyi-haladas-balmazujvarosi-fc/
+hungary-2017-2018,5,2017-08-12,17:00,201708121700,saturday,Budapest Honvéd,Újpest FC,2,1,3,H,W,L,0.0,1.0,1.0,A,L,W,http://www.worldfootball.net/report/nb-i-2017-2018-budapest-honved-ujpest-fc/
+hungary-2017-2018,5,2017-08-12,17:00,201708121700,saturday,Budapesti Vasas,Mezõkövesd-Zsóry,1,1,2,D,D,D,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/nb-i-2017-2018-budapesti-vasas-mezokoevesd-zsory/
+hungary-2017-2018,5,2017-08-12,19:30,201708121930,saturday,Videoton FC,Debreceni VSC,1,0,1,H,W,L,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/nb-i-2017-2018-videoton-fc-debreceni-vsc/
+hungary-2017-2018,6,2017-08-17,17:00,201708171700,thursday,Ferencvárosi TC,Szombathelyi Haladás,2,0,2,H,W,L,1.0,0.0,1.0,H,W,L,http://www.worldfootball.net/report/nb-i-2017-2018-ferencvarosi-tc-szombathelyi-haladas/
+hungary-2017-2018,6,2017-08-18,18:30,201708181830,friday,Debreceni VSC,Budapesti Vasas,4,1,5,H,W,L,4.0,0.0,4.0,H,W,L,http://www.worldfootball.net/report/nb-i-2017-2018-debreceni-vsc-budapesti-vasas/
+hungary-2017-2018,6,2017-08-19,17:00,201708191700,saturday,Mezõkövesd-Zsóry,Budapest Honvéd,1,2,3,A,L,W,0.0,1.0,1.0,A,L,W,http://www.worldfootball.net/report/nb-i-2017-2018-mezokoevesd-zsory-budapest-honved/
+hungary-2017-2018,6,2017-08-19,17:00,201708191700,saturday,Puskás FC,Balmazújvárosi FC,2,1,3,H,W,L,2.0,0.0,2.0,H,W,L,http://www.worldfootball.net/report/nb-i-2017-2018-puskas-fc-balmazujvarosi-fc/
+hungary-2017-2018,6,2017-08-19,19:30,201708191930,saturday,Újpest FC,Diósgyöri VTK,1,1,2,D,D,D,0.0,1.0,1.0,A,L,W,http://www.worldfootball.net/report/nb-i-2017-2018-ujpest-fc-diosgyoeri-vtk/
+hungary-2017-2018,7,2017-08-26,17:00,201708261700,saturday,Balmazújvárosi FC,Újpest FC,0,1,1,A,L,W,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/nb-i-2017-2018-balmazujvarosi-fc-ujpest-fc/
+hungary-2017-2018,7,2017-08-26,17:00,201708261700,saturday,Diósgyöri VTK,Mezõkövesd-Zsóry,2,1,3,H,W,L,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/nb-i-2017-2018-diosgyoeri-vtk-mezokoevesd-zsory/
+hungary-2017-2018,7,2017-08-26,17:00,201708261700,saturday,Szombathelyi Haladás,Puskás FC,1,5,6,A,L,W,1.0,1.0,2.0,D,D,D,http://www.worldfootball.net/report/nb-i-2017-2018-szombathelyi-haladas-puskas-fc/
+hungary-2017-2018,7,2017-08-26,17:00,201708261700,saturday,Budapesti Vasas,Paksi SE,3,1,4,H,W,L,2.0,1.0,3.0,H,W,L,http://www.worldfootball.net/report/nb-i-2017-2018-budapesti-vasas-paksi-se/
+hungary-2017-2018,7,2017-08-26,19:30,201708261930,saturday,Budapest Honvéd,Debreceni VSC,1,3,4,A,L,W,0.0,1.0,1.0,A,L,W,http://www.worldfootball.net/report/nb-i-2017-2018-budapest-honved-debreceni-vsc/
+hungary-2017-2018,7,2017-08-27,18:30,201708271830,sunday,Videoton FC,Ferencvárosi TC,3,1,4,H,W,L,1.0,0.0,1.0,H,W,L,http://www.worldfootball.net/report/nb-i-2017-2018-videoton-fc-ferencvarosi-tc/
+hungary-2017-2018,6,2017-09-06,18:30,201709061830,wednesday,Paksi SE,Videoton FC,1,4,5,A,L,W,0.0,2.0,2.0,A,L,W,http://www.worldfootball.net/report/nb-i-2017-2018-paksi-se-videoton-fc/
+hungary-2017-2018,8,2017-09-09,17:00,201709091700,saturday,Debreceni VSC,Diósgyöri VTK,3,1,4,H,W,L,1.0,1.0,2.0,D,D,D,http://www.worldfootball.net/report/nb-i-2017-2018-debreceni-vsc-diosgyoeri-vtk/
+hungary-2017-2018,8,2017-09-09,17:00,201709091700,saturday,Ferencvárosi TC,Budapesti Vasas,5,2,7,H,W,L,1.0,1.0,2.0,D,D,D,http://www.worldfootball.net/report/nb-i-2017-2018-ferencvarosi-tc-budapesti-vasas/
+hungary-2017-2018,8,2017-09-09,17:00,201709091700,saturday,Mezõkövesd-Zsóry,Balmazújvárosi FC,2,2,4,D,D,D,0.0,1.0,1.0,A,L,W,http://www.worldfootball.net/report/nb-i-2017-2018-mezokoevesd-zsory-balmazujvarosi-fc/
+hungary-2017-2018,8,2017-09-09,19:30,201709091930,saturday,Újpest FC,Puskás FC,1,3,4,A,L,W,0.0,1.0,1.0,A,L,W,http://www.worldfootball.net/report/nb-i-2017-2018-ujpest-fc-puskas-fc/
+hungary-2017-2018,8,2017-09-10,16:00,201709101600,sunday,Paksi SE,Budapest Honvéd,2,2,4,D,D,D,0.0,1.0,1.0,A,L,W,http://www.worldfootball.net/report/nb-i-2017-2018-paksi-se-budapest-honved/
+hungary-2017-2018,8,2017-09-10,16:00,201709101600,sunday,Videoton FC,Szombathelyi Haladás,3,1,4,H,W,L,0.0,1.0,1.0,A,L,W,http://www.worldfootball.net/report/nb-i-2017-2018-videoton-fc-szombathelyi-haladas/
+hungary-2017-2018,9,2017-09-16,17:00,201709161700,saturday,Balmazújvárosi FC,Debreceni VSC,0,1,1,A,L,W,0.0,1.0,1.0,A,L,W,http://www.worldfootball.net/report/nb-i-2017-2018-balmazujvarosi-fc-debreceni-vsc/
+hungary-2017-2018,9,2017-09-16,17:00,201709161700,saturday,Diósgyöri VTK,Paksi SE,2,4,6,A,L,W,1.0,2.0,3.0,A,L,W,http://www.worldfootball.net/report/nb-i-2017-2018-diosgyoeri-vtk-paksi-se/
+hungary-2017-2018,9,2017-09-16,17:00,201709161700,saturday,Szombathelyi Haladás,Újpest FC,1,0,1,H,W,L,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/nb-i-2017-2018-szombathelyi-haladas-ujpest-fc/
+hungary-2017-2018,9,2017-09-16,17:00,201709161700,saturday,Puskás FC,Mezõkövesd-Zsóry,1,0,1,H,W,L,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/nb-i-2017-2018-puskas-fc-mezokoevesd-zsory/
+hungary-2017-2018,9,2017-09-16,17:00,201709161700,saturday,Budapesti Vasas,Videoton FC,3,1,4,H,W,L,2.0,1.0,3.0,H,W,L,http://www.worldfootball.net/report/nb-i-2017-2018-budapesti-vasas-videoton-fc/
+hungary-2017-2018,9,2017-09-16,19:30,201709161930,saturday,Budapest Honvéd,Ferencvárosi TC,1,3,4,A,L,W,1.0,1.0,2.0,D,D,D,http://www.worldfootball.net/report/nb-i-2017-2018-budapest-honved-ferencvarosi-tc/
+hungary-2017-2018,10,2017-09-23,17:00,201709231700,saturday,Debreceni VSC,Puskás FC,3,0,3,H,W,L,1.0,0.0,1.0,H,W,L,http://www.worldfootball.net/report/nb-i-2017-2018-debreceni-vsc-puskas-fc/
+hungary-2017-2018,10,2017-09-23,17:00,201709231700,saturday,Ferencvárosi TC,Diósgyöri VTK,2,0,2,H,W,L,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/nb-i-2017-2018-ferencvarosi-tc-diosgyoeri-vtk/
+hungary-2017-2018,10,2017-09-23,17:00,201709231700,saturday,Paksi SE,Balmazújvárosi FC,1,0,1,H,W,L,1.0,0.0,1.0,H,W,L,http://www.worldfootball.net/report/nb-i-2017-2018-paksi-se-balmazujvarosi-fc/
+hungary-2017-2018,10,2017-09-23,17:15,201709231715,saturday,Mezõkövesd-Zsóry,Újpest FC,2,4,6,A,L,W,1.0,0.0,1.0,H,W,L,http://www.worldfootball.net/report/nb-i-2017-2018-mezokoevesd-zsory-ujpest-fc/
+hungary-2017-2018,10,2017-09-23,19:30,201709231930,saturday,Videoton FC,Budapest Honvéd,1,1,2,D,D,D,1.0,1.0,2.0,D,D,D,http://www.worldfootball.net/report/nb-i-2017-2018-videoton-fc-budapest-honved/
+hungary-2017-2018,11,2017-09-30,17:00,201709301700,saturday,Balmazújvárosi FC,Ferencvárosi TC,2,3,5,A,L,W,2.0,1.0,3.0,H,W,L,http://www.worldfootball.net/report/nb-i-2017-2018-balmazujvarosi-fc-ferencvarosi-tc/
+hungary-2017-2018,11,2017-09-30,17:00,201709301700,saturday,Diósgyöri VTK,Videoton FC,2,3,5,A,L,W,1.0,0.0,1.0,H,W,L,http://www.worldfootball.net/report/nb-i-2017-2018-diosgyoeri-vtk-videoton-fc/
+hungary-2017-2018,11,2017-09-30,17:00,201709301700,saturday,Szombathelyi Haladás,Mezõkövesd-Zsóry,2,2,4,D,D,D,1.0,1.0,2.0,D,D,D,http://www.worldfootball.net/report/nb-i-2017-2018-szombathelyi-haladas-mezokoevesd-zsory/
+hungary-2017-2018,11,2017-09-30,17:00,201709301700,saturday,Puskás FC,Paksi SE,1,2,3,A,L,W,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/nb-i-2017-2018-puskas-fc-paksi-se/
+hungary-2017-2018,11,2017-09-30,17:00,201709301700,saturday,Újpest FC,Debreceni VSC,1,1,2,D,D,D,1.0,1.0,2.0,D,D,D,http://www.worldfootball.net/report/nb-i-2017-2018-ujpest-fc-debreceni-vsc/
+hungary-2017-2018,11,2017-09-30,19:30,201709301930,saturday,Budapest Honvéd,Budapesti Vasas,1,4,5,A,L,W,0.0,1.0,1.0,A,L,W,http://www.worldfootball.net/report/nb-i-2017-2018-budapest-honved-budapesti-vasas/
+hungary-2017-2018,12,2017-10-14,14:30,201710141430,saturday,Balmazújvárosi FC,Videoton FC,1,1,2,D,D,D,1.0,1.0,2.0,D,D,D,http://www.worldfootball.net/report/nb-i-2017-2018-balmazujvarosi-fc-videoton-fc/
+hungary-2017-2018,12,2017-10-14,14:30,201710141430,saturday,Diósgyöri VTK,Budapesti Vasas,5,0,5,H,W,L,1.0,0.0,1.0,H,W,L,http://www.worldfootball.net/report/nb-i-2017-2018-diosgyoeri-vtk-budapesti-vasas/
+hungary-2017-2018,12,2017-10-14,14:30,201710141430,saturday,Szombathelyi Haladás,Budapest Honvéd,1,2,3,A,L,W,0.0,1.0,1.0,A,L,W,http://www.worldfootball.net/report/nb-i-2017-2018-szombathelyi-haladas-budapest-honved/
+hungary-2017-2018,12,2017-10-14,14:30,201710141430,saturday,Mezõkövesd-Zsóry,Debreceni VSC,0,2,2,A,L,W,0.0,1.0,1.0,A,L,W,http://www.worldfootball.net/report/nb-i-2017-2018-mezokoevesd-zsory-debreceni-vsc/
+hungary-2017-2018,12,2017-10-14,14:30,201710141430,saturday,Újpest FC,Paksi SE,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/nb-i-2017-2018-ujpest-fc-paksi-se/
+hungary-2017-2018,12,2017-10-14,18:30,201710141830,saturday,Puskás FC,Ferencvárosi TC,1,1,2,D,D,D,0.0,1.0,1.0,A,L,W,http://www.worldfootball.net/report/nb-i-2017-2018-puskas-fc-ferencvarosi-tc/
+hungary-2017-2018,10,2017-10-17,17:00,201710171700,tuesday,Budapesti Vasas,Szombathelyi Haladás,1,0,1,H,W,L,1.0,0.0,1.0,H,W,L,http://www.worldfootball.net/report/nb-i-2017-2018-budapesti-vasas-szombathelyi-haladas/
+hungary-2017-2018,13,2017-10-21,14:30,201710211430,saturday,Debreceni VSC,Szombathelyi Haladás,1,1,2,D,D,D,0.0,1.0,1.0,A,L,W,http://www.worldfootball.net/report/nb-i-2017-2018-debreceni-vsc-szombathelyi-haladas/
+hungary-2017-2018,13,2017-10-21,14:30,201710211430,saturday,Ferencvárosi TC,Újpest FC,1,0,1,H,W,L,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/nb-i-2017-2018-ferencvarosi-tc-ujpest-fc/
+hungary-2017-2018,13,2017-10-21,14:30,201710211430,saturday,Paksi SE,Mezõkövesd-Zsóry,1,1,2,D,D,D,1.0,1.0,2.0,D,D,D,http://www.worldfootball.net/report/nb-i-2017-2018-paksi-se-mezokoevesd-zsory/
+hungary-2017-2018,13,2017-10-21,14:30,201710211430,saturday,Budapesti Vasas,Balmazújvárosi FC,1,2,3,A,L,W,0.0,2.0,2.0,A,L,W,http://www.worldfootball.net/report/nb-i-2017-2018-budapesti-vasas-balmazujvarosi-fc/
+hungary-2017-2018,13,2017-10-21,14:30,201710211430,saturday,Videoton FC,Puskás FC,2,0,2,H,W,L,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/nb-i-2017-2018-videoton-fc-puskas-fc/
+hungary-2017-2018,13,2017-10-21,17:00,201710211700,saturday,Diósgyöri VTK,Budapest Honvéd,2,1,3,H,W,L,1.0,1.0,2.0,D,D,D,http://www.worldfootball.net/report/nb-i-2017-2018-diosgyoeri-vtk-budapest-honved/
+hungary-2017-2018,14,2017-10-28,14:30,201710281430,saturday,Balmazújvárosi FC,Budapest Honvéd,0,3,3,A,L,W,0.0,1.0,1.0,A,L,W,http://www.worldfootball.net/report/nb-i-2017-2018-balmazujvarosi-fc-budapest-honved/
+hungary-2017-2018,14,2017-10-28,14:30,201710281430,saturday,Debreceni VSC,Paksi SE,3,2,5,H,W,L,1.0,1.0,2.0,D,D,D,http://www.worldfootball.net/report/nb-i-2017-2018-debreceni-vsc-paksi-se/
+hungary-2017-2018,14,2017-10-28,14:30,201710281430,saturday,Szombathelyi Haladás,Diósgyöri VTK,0,3,3,A,L,W,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/nb-i-2017-2018-szombathelyi-haladas-diosgyoeri-vtk_2/
+hungary-2017-2018,14,2017-10-28,14:30,201710281430,saturday,Mezõkövesd-Zsóry,Ferencvárosi TC,0,1,1,A,L,W,0.0,1.0,1.0,A,L,W,http://www.worldfootball.net/report/nb-i-2017-2018-mezokoevesd-zsory-ferencvarosi-tc/
+hungary-2017-2018,14,2017-10-28,14:30,201710281430,saturday,Újpest FC,Videoton FC,2,2,4,D,D,D,0.0,2.0,2.0,A,L,W,http://www.worldfootball.net/report/nb-i-2017-2018-ujpest-fc-videoton-fc/
+hungary-2017-2018,14,2017-10-28,16:45,201710281645,saturday,Puskás FC,Budapesti Vasas,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/nb-i-2017-2018-puskas-fc-budapesti-vasas/
+hungary-2017-2018,15,2017-11-04,14:30,201711041430,saturday,Diósgyöri VTK,Balmazújvárosi FC,1,2,3,A,L,W,1.0,1.0,2.0,D,D,D,http://www.worldfootball.net/report/nb-i-2017-2018-diosgyoeri-vtk-balmazujvarosi-fc/
+hungary-2017-2018,15,2017-11-04,14:30,201711041430,saturday,Ferencvárosi TC,Debreceni VSC,2,1,3,H,W,L,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/nb-i-2017-2018-ferencvarosi-tc-debreceni-vsc/
+hungary-2017-2018,15,2017-11-04,14:30,201711041430,saturday,Szombathelyi Haladás,Paksi SE,1,2,3,A,L,W,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/nb-i-2017-2018-szombathelyi-haladas-paksi-se/
+hungary-2017-2018,15,2017-11-04,14:30,201711041430,saturday,Budapesti Vasas,Újpest FC,0,1,1,A,L,W,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/nb-i-2017-2018-budapesti-vasas-ujpest-fc/
+hungary-2017-2018,15,2017-11-04,14:30,201711041430,saturday,Videoton FC,Mezõkövesd-Zsóry,4,0,4,H,W,L,3.0,0.0,3.0,H,W,L,http://www.worldfootball.net/report/nb-i-2017-2018-videoton-fc-mezokoevesd-zsory/
+hungary-2017-2018,15,2017-11-04,18:30,201711041830,saturday,Budapest Honvéd,Puskás FC,4,3,7,H,W,L,1.0,0.0,1.0,H,W,L,http://www.worldfootball.net/report/nb-i-2017-2018-budapest-honved-puskas-fc/
+hungary-2017-2018,16,2017-11-18,14:30,201711181430,saturday,Balmazújvárosi FC,Szombathelyi Haladás,2,1,3,H,W,L,0.0,1.0,1.0,A,L,W,http://www.worldfootball.net/report/nb-i-2017-2018-balmazujvarosi-fc-szombathelyi-haladas/
+hungary-2017-2018,16,2017-11-18,14:30,201711181430,saturday,Mezõkövesd-Zsóry,Budapesti Vasas,3,3,6,D,D,D,1.0,1.0,2.0,D,D,D,http://www.worldfootball.net/report/nb-i-2017-2018-mezokoevesd-zsory-budapesti-vasas/
+hungary-2017-2018,16,2017-11-18,14:30,201711181430,saturday,Paksi SE,Ferencvárosi TC,0,2,2,A,L,W,0.0,1.0,1.0,A,L,W,http://www.worldfootball.net/report/nb-i-2017-2018-paksi-se-ferencvarosi-tc/
+hungary-2017-2018,16,2017-11-18,14:30,201711181430,saturday,Puskás FC,Diósgyöri VTK,1,0,1,H,W,L,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/nb-i-2017-2018-puskas-fc-diosgyoeri-vtk/
+hungary-2017-2018,16,2017-11-18,14:30,201711181430,saturday,Újpest FC,Budapest Honvéd,2,1,3,H,W,L,1.0,0.0,1.0,H,W,L,http://www.worldfootball.net/report/nb-i-2017-2018-ujpest-fc-budapest-honved/
+hungary-2017-2018,16,2017-11-18,18:30,201711181830,saturday,Debreceni VSC,Videoton FC,2,5,7,A,L,W,1.0,2.0,3.0,A,L,W,http://www.worldfootball.net/report/nb-i-2017-2018-debreceni-vsc-videoton-fc/
+hungary-2017-2018,17,2017-11-25,14:30,201711251430,saturday,Balmazújvárosi FC,Puskás FC,2,2,4,D,D,D,1.0,1.0,2.0,D,D,D,http://www.worldfootball.net/report/nb-i-2017-2018-balmazujvarosi-fc-puskas-fc/
+hungary-2017-2018,17,2017-11-25,14:30,201711251430,saturday,Diósgyöri VTK,Újpest FC,1,2,3,A,L,W,1.0,2.0,3.0,A,L,W,http://www.worldfootball.net/report/nb-i-2017-2018-diosgyoeri-vtk-ujpest-fc/
+hungary-2017-2018,17,2017-11-25,14:30,201711251430,saturday,Budapest Honvéd,Mezõkövesd-Zsóry,1,2,3,A,L,W,1.0,1.0,2.0,D,D,D,http://www.worldfootball.net/report/nb-i-2017-2018-budapest-honved-mezokoevesd-zsory/
+hungary-2017-2018,17,2017-11-25,14:30,201711251430,saturday,Budapesti Vasas,Debreceni VSC,1,5,6,A,L,W,0.0,2.0,2.0,A,L,W,http://www.worldfootball.net/report/nb-i-2017-2018-budapesti-vasas-debreceni-vsc/
+hungary-2017-2018,17,2017-11-25,14:30,201711251430,saturday,Videoton FC,Paksi SE,2,0,2,H,W,L,1.0,0.0,1.0,H,W,L,http://www.worldfootball.net/report/nb-i-2017-2018-videoton-fc-paksi-se/
+hungary-2017-2018,17,2017-11-25,18:30,201711251830,saturday,Szombathelyi Haladás,Ferencvárosi TC,2,1,3,H,W,L,1.0,1.0,2.0,D,D,D,http://www.worldfootball.net/report/nb-i-2017-2018-szombathelyi-haladas-ferencvarosi-tc/
+hungary-2017-2018,18,2017-12-02,14:30,201712021430,saturday,Debreceni VSC,Budapest Honvéd,1,0,1,H,W,L,1.0,0.0,1.0,H,W,L,http://www.worldfootball.net/report/nb-i-2017-2018-debreceni-vsc-budapest-honved/
+hungary-2017-2018,18,2017-12-02,14:30,201712021430,saturday,Mezõkövesd-Zsóry,Diósgyöri VTK,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/nb-i-2017-2018-mezokoevesd-zsory-diosgyoeri-vtk/
+hungary-2017-2018,18,2017-12-02,14:30,201712021430,saturday,Paksi SE,Budapesti Vasas,3,1,4,H,W,L,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/nb-i-2017-2018-paksi-se-budapesti-vasas/
+hungary-2017-2018,18,2017-12-02,14:30,201712021430,saturday,Puskás FC,Szombathelyi Haladás,1,3,4,A,L,W,1.0,1.0,2.0,D,D,D,http://www.worldfootball.net/report/nb-i-2017-2018-puskas-fc-szombathelyi-haladas/
+hungary-2017-2018,18,2017-12-02,14:30,201712021430,saturday,Újpest FC,Balmazújvárosi FC,2,2,4,D,D,D,0.0,1.0,1.0,A,L,W,http://www.worldfootball.net/report/nb-i-2017-2018-ujpest-fc-balmazujvarosi-fc/
+hungary-2017-2018,18,2017-12-02,18:30,201712021830,saturday,Ferencvárosi TC,Videoton FC,3,1,4,H,W,L,2.0,0.0,2.0,H,W,L,http://www.worldfootball.net/report/nb-i-2017-2018-ferencvarosi-tc-videoton-fc/
+hungary-2017-2018,19,2017-12-09,14:30,201712091430,saturday,Balmazújvárosi FC,Mezõkövesd-Zsóry,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/nb-i-2017-2018-balmazujvarosi-fc-mezokoevesd-zsory/
+hungary-2017-2018,19,2017-12-09,14:30,201712091430,saturday,Szombathelyi Haladás,Videoton FC,1,0,1,H,W,L,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/nb-i-2017-2018-szombathelyi-haladas-videoton-fc/
+hungary-2017-2018,19,2017-12-09,14:30,201712091430,saturday,Budapest Honvéd,Paksi SE,1,0,1,H,W,L,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/nb-i-2017-2018-budapest-honved-paksi-se/
+hungary-2017-2018,19,2017-12-09,14:30,201712091430,saturday,Puskás FC,Újpest FC,2,1,3,H,W,L,2.0,0.0,2.0,H,W,L,http://www.worldfootball.net/report/nb-i-2017-2018-puskas-fc-ujpest-fc/
+hungary-2017-2018,19,2017-12-09,15:00,201712091500,saturday,Diósgyöri VTK,Debreceni VSC,3,2,5,H,W,L,2.0,1.0,3.0,H,W,L,http://www.worldfootball.net/report/nb-i-2017-2018-diosgyoeri-vtk-debreceni-vsc/
+hungary-2017-2018,19,2017-12-09,18:30,201712091830,saturday,Budapesti Vasas,Ferencvárosi TC,0,2,2,A,L,W,0.0,1.0,1.0,A,L,W,http://www.worldfootball.net/report/nb-i-2017-2018-budapesti-vasas-ferencvarosi-tc/
+hungary-2017-2018,20,2018-02-24,16:00,201802241600,saturday,Debreceni VSC,Balmazújvárosi FC,0,2,2,A,L,W,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/nb-i-2017-2018-debreceni-vsc-balmazujvarosi-fc/
+hungary-2017-2018,20,2018-02-24,16:00,201802241600,saturday,Mezõkövesd-Zsóry,Puskás FC,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/nb-i-2017-2018-mezokoevesd-zsory-puskas-fc/
+hungary-2017-2018,20,2018-02-24,16:00,201802241600,saturday,Paksi SE,Diósgyöri VTK,2,1,3,H,W,L,1.0,0.0,1.0,H,W,L,http://www.worldfootball.net/report/nb-i-2017-2018-paksi-se-diosgyoeri-vtk/
+hungary-2017-2018,20,2018-02-24,16:00,201802241600,saturday,Újpest FC,Szombathelyi Haladás,1,0,1,H,W,L,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/nb-i-2017-2018-ujpest-fc-szombathelyi-haladas/
+hungary-2017-2018,20,2018-02-24,16:00,201802241600,saturday,Videoton FC,Budapesti Vasas,2,1,3,H,W,L,1.0,1.0,2.0,D,D,D,http://www.worldfootball.net/report/nb-i-2017-2018-videoton-fc-budapesti-vasas/
+hungary-2017-2018,20,2018-02-24,18:30,201802241830,saturday,Ferencvárosi TC,Budapest Honvéd,5,2,7,H,W,L,3.0,1.0,4.0,H,W,L,http://www.worldfootball.net/report/nb-i-2017-2018-ferencvarosi-tc-budapest-honved/
+hungary-2017-2018,21,2018-03-03,16:00,201803031600,saturday,Balmazújvárosi FC,Paksi SE,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/nb-i-2017-2018-balmazujvarosi-fc-paksi-se/
+hungary-2017-2018,21,2018-03-03,16:00,201803031600,saturday,Diósgyöri VTK,Ferencvárosi TC,2,1,3,H,W,L,0.0,1.0,1.0,A,L,W,http://www.worldfootball.net/report/nb-i-2017-2018-diosgyoeri-vtk-ferencvarosi-tc/
+hungary-2017-2018,21,2018-03-03,16:00,201803031600,saturday,Szombathelyi Haladás,Budapesti Vasas,3,0,3,H,W,L,1.0,0.0,1.0,H,W,L,http://www.worldfootball.net/report/nb-i-2017-2018-szombathelyi-haladas-budapesti-vasas/
+hungary-2017-2018,21,2018-03-03,16:00,201803031600,saturday,Puskás FC,Debreceni VSC,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/nb-i-2017-2018-puskas-fc-debreceni-vsc/
+hungary-2017-2018,21,2018-03-03,16:00,201803031600,saturday,Újpest FC,Mezõkövesd-Zsóry,2,3,5,A,L,W,1.0,1.0,2.0,D,D,D,http://www.worldfootball.net/report/nb-i-2017-2018-ujpest-fc-mezokoevesd-zsory/
+hungary-2017-2018,22,2018-03-10,13:30,201803101330,saturday,Debreceni VSC,Újpest FC,1,2,3,A,L,W,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/nb-i-2017-2018-debreceni-vsc-ujpest-fc/
+hungary-2017-2018,22,2018-03-10,16:00,201803101600,saturday,Ferencvárosi TC,Balmazújvárosi FC,5,0,5,H,W,L,2.0,0.0,2.0,H,W,L,http://www.worldfootball.net/report/nb-i-2017-2018-ferencvarosi-tc-balmazujvarosi-fc/
+hungary-2017-2018,22,2018-03-10,16:00,201803101600,saturday,Mezõkövesd-Zsóry,Szombathelyi Haladás,2,1,3,H,W,L,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/nb-i-2017-2018-mezokoevesd-zsory-szombathelyi-haladas/
+hungary-2017-2018,22,2018-03-10,16:00,201803101600,saturday,Paksi SE,Puskás FC,3,1,4,H,W,L,1.0,0.0,1.0,H,W,L,http://www.worldfootball.net/report/nb-i-2017-2018-paksi-se-puskas-fc/
+hungary-2017-2018,22,2018-03-10,16:00,201803101600,saturday,Budapesti Vasas,Budapest Honvéd,2,1,3,H,W,L,1.0,0.0,1.0,H,W,L,http://www.worldfootball.net/report/nb-i-2017-2018-budapesti-vasas-budapest-honved/
+hungary-2017-2018,22,2018-03-10,18:30,201803101830,saturday,Videoton FC,Diósgyöri VTK,4,1,5,H,W,L,2.0,0.0,2.0,H,W,L,http://www.worldfootball.net/report/nb-i-2017-2018-videoton-fc-diosgyoeri-vtk/
+hungary-2017-2018,23,2018-03-17,16:00,201803171600,saturday,Debreceni VSC,Mezõkövesd-Zsóry,2,3,5,A,L,W,1.0,2.0,3.0,A,L,W,http://www.worldfootball.net/report/nb-i-2017-2018-debreceni-vsc-mezokoevesd-zsory_2/
+hungary-2017-2018,23,2018-03-17,16:00,201803171600,saturday,Budapest Honvéd,Szombathelyi Haladás,2,1,3,H,W,L,1.0,0.0,1.0,H,W,L,http://www.worldfootball.net/report/nb-i-2017-2018-budapest-honved-szombathelyi-haladas_2/
+hungary-2017-2018,23,2018-03-17,16:00,201803171600,saturday,Paksi SE,Újpest FC,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/nb-i-2017-2018-paksi-se-ujpest-fc_2/
+hungary-2017-2018,23,2018-03-17,16:00,201803171600,saturday,Budapesti Vasas,Diósgyöri VTK,1,1,2,D,D,D,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/nb-i-2017-2018-budapesti-vasas-diosgyoeri-vtk_2/
+hungary-2017-2018,23,2018-03-17,16:00,201803171600,saturday,Videoton FC,Balmazújvárosi FC,1,0,1,H,W,L,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/nb-i-2017-2018-videoton-fc-balmazujvarosi-fc_2/
+hungary-2017-2018,23,2018-03-17,18:30,201803171830,saturday,Ferencvárosi TC,Puskás FC,3,1,4,H,W,L,1.0,1.0,2.0,D,D,D,http://www.worldfootball.net/report/nb-i-2017-2018-ferencvarosi-tc-puskas-fc_2/
+hungary-2017-2018,24,2018-03-31,16:00,201803311600,saturday,Balmazújvárosi FC,Budapesti Vasas,1,1,2,D,D,D,1.0,0.0,1.0,H,W,L,http://www.worldfootball.net/report/nb-i-2017-2018-balmazujvarosi-fc-budapesti-vasas_2/
+hungary-2017-2018,24,2018-03-31,16:00,201803311600,saturday,Diósgyöri VTK,Budapest Honvéd,1,1,2,D,D,D,1.0,0.0,1.0,H,W,L,http://www.worldfootball.net/report/nb-i-2017-2018-diosgyoeri-vtk-budapest-honved_2/
+hungary-2017-2018,24,2018-03-31,16:00,201803311600,saturday,Mezõkövesd-Zsóry,Paksi SE,2,3,5,A,L,W,0.0,2.0,2.0,A,L,W,http://www.worldfootball.net/report/nb-i-2017-2018-mezokoevesd-zsory-paksi-se_2/
+hungary-2017-2018,24,2018-03-31,16:00,201803311600,saturday,Puskás FC,Videoton FC,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/nb-i-2017-2018-puskas-fc-videoton-fc_2/
+hungary-2017-2018,24,2018-03-31,16:00,201803311600,saturday,Újpest FC,Ferencvárosi TC,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/nb-i-2017-2018-ujpest-fc-ferencvarosi-tc_2/
+hungary-2017-2018,24,2018-03-31,18:30,201803311830,saturday,Szombathelyi Haladás,Debreceni VSC,1,1,2,D,D,D,0.0,1.0,1.0,A,L,W,http://www.worldfootball.net/report/nb-i-2017-2018-szombathelyi-haladas-debreceni-vsc_2/
+hungary-2017-2018,25,2018-04-07,13:30,201804071330,saturday,Ferencvárosi TC,Mezõkövesd-Zsóry,3,0,3,H,W,L,1.0,0.0,1.0,H,W,L,http://www.worldfootball.net/report/nb-i-2017-2018-ferencvarosi-tc-mezokoevesd-zsory_2/
+hungary-2017-2018,25,2018-04-07,16:00,201804071600,saturday,Diósgyöri VTK,Szombathelyi Haladás,1,2,3,A,L,W,0.0,1.0,1.0,A,L,W,http://www.worldfootball.net/report/nb-i-2017-2018-diosgyoeri-vtk-szombathelyi-haladas/
+hungary-2017-2018,25,2018-04-07,16:00,201804071600,saturday,Budapest Honvéd,Balmazújvárosi FC,2,0,2,H,W,L,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/nb-i-2017-2018-budapest-honved-balmazujvarosi-fc_2/
+hungary-2017-2018,25,2018-04-07,16:00,201804071600,saturday,Paksi SE,Debreceni VSC,2,5,7,A,L,W,0.0,2.0,2.0,A,L,W,http://www.worldfootball.net/report/nb-i-2017-2018-paksi-se-debreceni-vsc_2/
+hungary-2017-2018,25,2018-04-07,16:00,201804071600,saturday,Budapesti Vasas,Puskás FC,1,2,3,A,L,W,0.0,1.0,1.0,A,L,W,http://www.worldfootball.net/report/nb-i-2017-2018-budapesti-vasas-puskas-fc_2/
+hungary-2017-2018,25,2018-04-07,18:30,201804071830,saturday,Videoton FC,Újpest FC,3,0,3,H,W,L,1.0,0.0,1.0,H,W,L,http://www.worldfootball.net/report/nb-i-2017-2018-videoton-fc-ujpest-fc_2/
+hungary-2017-2018,21,2018-04-11,17:00,201804111700,wednesday,Budapest Honvéd,Videoton FC,1,4,5,A,L,W,0.0,1.0,1.0,A,L,W,http://www.worldfootball.net/report/nb-i-2017-2018-budapest-honved-videoton-fc/
+hungary-2017-2018,26,2018-04-14,16:00,201804141600,saturday,Balmazújvárosi FC,Diósgyöri VTK,2,1,3,H,W,L,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/nb-i-2017-2018-balmazujvarosi-fc-diosgyoeri-vtk_2/
+hungary-2017-2018,26,2018-04-14,16:00,201804141600,saturday,Mezõkövesd-Zsóry,Videoton FC,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/nb-i-2017-2018-mezokoevesd-zsory-videoton-fc_2/
+hungary-2017-2018,26,2018-04-14,16:00,201804141600,saturday,Paksi SE,Szombathelyi Haladás,1,2,3,A,L,W,0.0,1.0,1.0,A,L,W,http://www.worldfootball.net/report/nb-i-2017-2018-paksi-se-szombathelyi-haladas_2/
+hungary-2017-2018,26,2018-04-14,16:00,201804141600,saturday,Puskás FC,Budapest Honvéd,1,1,2,D,D,D,1.0,0.0,1.0,H,W,L,http://www.worldfootball.net/report/nb-i-2017-2018-puskas-fc-budapest-honved_2/
+hungary-2017-2018,26,2018-04-14,16:00,201804141600,saturday,Újpest FC,Budapesti Vasas,4,2,6,H,W,L,1.0,1.0,2.0,D,D,D,http://www.worldfootball.net/report/nb-i-2017-2018-ujpest-fc-budapesti-vasas_2/
+hungary-2017-2018,26,2018-04-14,18:30,201804141830,saturday,Debreceni VSC,Ferencvárosi TC,1,1,2,D,D,D,1.0,1.0,2.0,D,D,D,http://www.worldfootball.net/report/nb-i-2017-2018-debreceni-vsc-ferencvarosi-tc_2/
+hungary-2017-2018,27,2018-04-21,16:00,201804211600,saturday,Diósgyöri VTK,Puskás FC,0,1,1,A,L,W,0.0,1.0,1.0,A,L,W,http://www.worldfootball.net/report/nb-i-2017-2018-diosgyoeri-vtk-puskas-fc_2/
+hungary-2017-2018,27,2018-04-21,16:00,201804211600,saturday,Ferencvárosi TC,Paksi SE,2,2,4,D,D,D,0.0,1.0,1.0,A,L,W,http://www.worldfootball.net/report/nb-i-2017-2018-ferencvarosi-tc-paksi-se_2/
+hungary-2017-2018,27,2018-04-21,16:00,201804211600,saturday,Szombathelyi Haladás,Balmazújvárosi FC,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/nb-i-2017-2018-szombathelyi-haladas-balmazujvarosi-fc_2/
+hungary-2017-2018,27,2018-04-21,16:00,201804211600,saturday,Budapest Honvéd,Újpest FC,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/nb-i-2017-2018-budapest-honved-ujpest-fc_2/
+hungary-2017-2018,27,2018-04-21,16:00,201804211600,saturday,Budapesti Vasas,Mezõkövesd-Zsóry,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/nb-i-2017-2018-budapesti-vasas-mezokoevesd-zsory_2/
+hungary-2017-2018,27,2018-04-21,18:30,201804211830,saturday,Videoton FC,Debreceni VSC,1,0,1,H,W,L,1.0,0.0,1.0,H,W,L,http://www.worldfootball.net/report/nb-i-2017-2018-videoton-fc-debreceni-vsc_2/
+hungary-2017-2018,28,2018-04-28,16:00,201804281600,saturday,Debreceni VSC,Budapesti Vasas,2,3,5,A,L,W,0.0,2.0,2.0,A,L,W,http://www.worldfootball.net/report/nb-i-2017-2018-debreceni-vsc-budapesti-vasas_2/
+hungary-2017-2018,28,2018-04-28,16:00,201804281600,saturday,Mezõkövesd-Zsóry,Budapest Honvéd,1,2,3,A,L,W,1.0,2.0,3.0,A,L,W,http://www.worldfootball.net/report/nb-i-2017-2018-mezokoevesd-zsory-budapest-honved_2/
+hungary-2017-2018,28,2018-04-28,16:00,201804281600,saturday,Paksi SE,Videoton FC,1,0,1,H,W,L,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/nb-i-2017-2018-paksi-se-videoton-fc_2/
+hungary-2017-2018,28,2018-04-28,16:00,201804281600,saturday,Puskás FC,Balmazújvárosi FC,3,1,4,H,W,L,1.0,1.0,2.0,D,D,D,http://www.worldfootball.net/report/nb-i-2017-2018-puskas-fc-balmazujvarosi-fc_2/
+hungary-2017-2018,28,2018-04-28,16:00,201804281600,saturday,Újpest FC,Diósgyöri VTK,1,0,1,H,W,L,1.0,0.0,1.0,H,W,L,http://www.worldfootball.net/report/nb-i-2017-2018-ujpest-fc-diosgyoeri-vtk_2/
+hungary-2017-2018,28,2018-04-28,18:30,201804281830,saturday,Ferencvárosi TC,Szombathelyi Haladás,2,1,3,H,W,L,1.0,1.0,2.0,D,D,D,http://www.worldfootball.net/report/nb-i-2017-2018-ferencvarosi-tc-szombathelyi-haladas_2/
+hungary-2017-2018,29,2018-05-05,16:00,201805051600,saturday,Balmazújvárosi FC,Újpest FC,1,1,2,D,D,D,1.0,0.0,1.0,H,W,L,http://www.worldfootball.net/report/nb-i-2017-2018-balmazujvarosi-fc-ujpest-fc_2/
+hungary-2017-2018,29,2018-05-05,16:00,201805051600,saturday,Diósgyöri VTK,Mezõkövesd-Zsóry,0,1,1,A,L,W,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/nb-i-2017-2018-diosgyoeri-vtk-mezokoevesd-zsory_2/
+hungary-2017-2018,29,2018-05-05,16:00,201805051600,saturday,Szombathelyi Haladás,Puskás FC,3,2,5,H,W,L,1.0,1.0,2.0,D,D,D,http://www.worldfootball.net/report/nb-i-2017-2018-szombathelyi-haladas-puskas-fc_2/
+hungary-2017-2018,29,2018-05-05,16:00,201805051600,saturday,Budapest Honvéd,Debreceni VSC,1,3,4,A,L,W,1.0,2.0,3.0,A,L,W,http://www.worldfootball.net/report/nb-i-2017-2018-budapest-honved-debreceni-vsc_2/
+hungary-2017-2018,29,2018-05-05,16:00,201805051600,saturday,Budapesti Vasas,Paksi SE,0,1,1,A,L,W,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/nb-i-2017-2018-budapesti-vasas-paksi-se_2/
+hungary-2017-2018,29,2018-05-05,18:30,201805051830,saturday,Videoton FC,Ferencvárosi TC,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/nb-i-2017-2018-videoton-fc-ferencvarosi-tc_2/
+hungary-2017-2018,30,2018-05-12,16:00,201805121600,saturday,Debreceni VSC,Diósgyöri VTK,2,1,3,H,W,L,2.0,0.0,2.0,H,W,L,http://www.worldfootball.net/report/nb-i-2017-2018-debreceni-vsc-diosgyoeri-vtk_2/
+hungary-2017-2018,30,2018-05-12,16:00,201805121600,saturday,Mezõkövesd-Zsóry,Balmazújvárosi FC,1,0,1,H,W,L,1.0,0.0,1.0,H,W,L,http://www.worldfootball.net/report/nb-i-2017-2018-mezokoevesd-zsory-balmazujvarosi-fc_2/
+hungary-2017-2018,30,2018-05-12,16:00,201805121600,saturday,Paksi SE,Budapest Honvéd,1,2,3,A,L,W,0.0,1.0,1.0,A,L,W,http://www.worldfootball.net/report/nb-i-2017-2018-paksi-se-budapest-honved_2/
+hungary-2017-2018,30,2018-05-12,16:00,201805121600,saturday,Újpest FC,Puskás FC,0,1,1,A,L,W,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/nb-i-2017-2018-ujpest-fc-puskas-fc_2/
+hungary-2017-2018,30,2018-05-12,16:00,201805121600,saturday,Videoton FC,Szombathelyi Haladás,3,0,3,H,W,L,1.0,0.0,1.0,H,W,L,http://www.worldfootball.net/report/nb-i-2017-2018-videoton-fc-szombathelyi-haladas_2/
+hungary-2017-2018,30,2018-05-12,18:30,201805121830,saturday,Ferencvárosi TC,Budapesti Vasas,1,1,2,D,D,D,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/nb-i-2017-2018-ferencvarosi-tc-budapesti-vasas_2/
+hungary-2017-2018,31,2018-05-19,16:00,201805191600,saturday,Balmazújvárosi FC,Debreceni VSC,4,0,4,H,W,L,1.0,0.0,1.0,H,W,L,http://www.worldfootball.net/report/nb-i-2017-2018-balmazujvarosi-fc-debreceni-vsc_2/
+hungary-2017-2018,31,2018-05-19,16:00,201805191600,saturday,Diósgyöri VTK,Paksi SE,1,0,1,H,W,L,1.0,0.0,1.0,H,W,L,http://www.worldfootball.net/report/nb-i-2017-2018-diosgyoeri-vtk-paksi-se_2/
+hungary-2017-2018,31,2018-05-19,16:00,201805191600,saturday,Szombathelyi Haladás,Újpest FC,1,1,2,D,D,D,1.0,0.0,1.0,H,W,L,http://www.worldfootball.net/report/nb-i-2017-2018-szombathelyi-haladas-ujpest-fc_2/
+hungary-2017-2018,31,2018-05-19,16:00,201805191600,saturday,Puskás FC,Mezõkövesd-Zsóry,1,2,3,A,L,W,0.0,2.0,2.0,A,L,W,http://www.worldfootball.net/report/nb-i-2017-2018-puskas-fc-mezokoevesd-zsory_2/
+hungary-2017-2018,31,2018-05-19,16:00,201805191600,saturday,Budapesti Vasas,Videoton FC,0,3,3,A,L,W,0.0,1.0,1.0,A,L,W,http://www.worldfootball.net/report/nb-i-2017-2018-budapesti-vasas-videoton-fc_2/
+hungary-2017-2018,31,2018-05-19,18:30,201805191830,saturday,Budapest Honvéd,Ferencvárosi TC,1,1,2,D,D,D,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/nb-i-2017-2018-budapest-honved-ferencvarosi-tc_2/
+hungary-2017-2018,32,2018-05-27,16:00,201805271600,sunday,Debreceni VSC,Puskás FC,1,1,2,D,D,D,0.0,1.0,1.0,A,L,W,http://www.worldfootball.net/report/nb-i-2017-2018-debreceni-vsc-puskas-fc_2/
+hungary-2017-2018,32,2018-05-27,16:00,201805271600,sunday,Mezõkövesd-Zsóry,Újpest FC,0,1,1,A,L,W,0.0,1.0,1.0,A,L,W,http://www.worldfootball.net/report/nb-i-2017-2018-mezokoevesd-zsory-ujpest-fc_2/
+hungary-2017-2018,32,2018-05-27,16:00,201805271600,sunday,Paksi SE,Balmazújvárosi FC,0,1,1,A,L,W,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/nb-i-2017-2018-paksi-se-balmazujvarosi-fc_2/
+hungary-2017-2018,32,2018-05-27,16:00,201805271600,sunday,Budapesti Vasas,Szombathelyi Haladás,1,0,1,H,W,L,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/nb-i-2017-2018-budapesti-vasas-szombathelyi-haladas_2/
+hungary-2017-2018,32,2018-05-27,16:30,201805271630,sunday,Ferencvárosi TC,Diósgyöri VTK,4,0,4,H,W,L,2.0,0.0,2.0,H,W,L,http://www.worldfootball.net/report/nb-i-2017-2018-ferencvarosi-tc-diosgyoeri-vtk_2/
+hungary-2017-2018,32,2018-05-27,18:30,201805271830,sunday,Videoton FC,Budapest Honvéd,2,0,2,H,W,L,1.0,0.0,1.0,H,W,L,http://www.worldfootball.net/report/nb-i-2017-2018-videoton-fc-budapest-honved_2/
+hungary-2017-2018,33,2018-06-02,18:00,201806021800,saturday,Balmazújvárosi FC,Ferencvárosi TC,3,3,6,D,D,D,2.0,3.0,5.0,A,L,W,http://www.worldfootball.net/report/nb-i-2017-2018-balmazujvarosi-fc-ferencvarosi-tc_2/
+hungary-2017-2018,33,2018-06-02,18:00,201806021800,saturday,Diósgyöri VTK,Videoton FC,2,1,3,H,W,L,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/nb-i-2017-2018-diosgyoeri-vtk-videoton-fc_2/
+hungary-2017-2018,33,2018-06-02,18:00,201806021800,saturday,Szombathelyi Haladás,Mezõkövesd-Zsóry,1,0,1,H,W,L,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/nb-i-2017-2018-szombathelyi-haladas-mezokoevesd-zsory_2/
+hungary-2017-2018,33,2018-06-02,18:00,201806021800,saturday,Budapest Honvéd,Budapesti Vasas,3,1,4,H,W,L,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/nb-i-2017-2018-budapest-honved-budapesti-vasas_2/
+hungary-2017-2018,33,2018-06-02,18:00,201806021800,saturday,Puskás FC,Paksi SE,1,0,1,H,W,L,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/nb-i-2017-2018-puskas-fc-paksi-se_2/
+hungary-2017-2018,33,2018-06-02,18:00,201806021800,saturday,Újpest FC,Debreceni VSC,2,1,3,H,W,L,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/nb-i-2017-2018-ujpest-fc-debreceni-vsc_2/
+hungary-2018-2019,1,2018-07-21,16:00,201807211600,saturday,Puskás FC,Debreceni VSC,0,1,1,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/nb-i-2018-2019-puskas-fc-debreceni-vsc/
+hungary-2018-2019,1,2018-07-21,19:15,201807211915,saturday,Budapest Honvéd,Szombathelyi Haladás,3,2,5,H,W,L,1,1,2,D,D,D,http://www.worldfootball.net/report/nb-i-2018-2019-budapest-honved-szombathelyi-haladas/
+hungary-2018-2019,1,2018-07-21,19:15,201807211915,saturday,MOL Vidi FC,Kisvárda FC,4,0,4,H,W,L,3,0,3,H,W,L,http://www.worldfootball.net/report/nb-i-2018-2019-mol-vidi-fc-kisvarda-fc/
+hungary-2018-2019,1,2018-07-21,19:15,201807211915,saturday,Mezõkövesd-Zsóry,Paksi SE,3,1,4,H,W,L,2,1,3,H,W,L,http://www.worldfootball.net/report/nb-i-2018-2019-mezokoevesd-zsory-paksi-se/
+hungary-2018-2019,1,2018-07-21,19:15,201807211915,saturday,MOL Vidi FC,Várda SE,4,0,4,H,W,L,3.0,0.0,3.0,H,W,L,http://www.worldfootball.net/report/nb-i-2018-2019-videoton-fc-varda-se/
+hungary-2018-2019,1,2018-07-21,19:15,201807211915,saturday,Videoton FC,Várda SE,4,0,4,H,W,L,3.0,0.0,3.0,H,W,L,http://www.worldfootball.net/report/nb-i-2018-2019-videoton-fc-varda-se/
+hungary-2018-2019,1,2018-07-22,16:30,201807221630,sunday,Ferencvárosi TC,Diósgyöri VTK,4,1,5,H,W,L,3,1,4,H,W,L,http://www.worldfootball.net/report/nb-i-2018-2019-ferencvarosi-tc-diosgyoeri-vtk/
+hungary-2018-2019,1,2018-07-22,18:30,201807221830,sunday,Újpest FC,MTK Budapest,0,2,2,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/nb-i-2018-2019-ujpest-fc-mtk-budapest/
+hungary-2018-2019,2,2018-07-28,16:00,201807281600,saturday,Diósgyöri VTK,Puskás FC,2,2,4,D,D,D,1,2,3,A,L,W,http://www.worldfootball.net/report/nb-i-2018-2019-diosgyoeri-vtk-puskas-fc/
+hungary-2018-2019,2,2018-07-28,18:30,201807281830,saturday,MOL Vidi FC,Paksi SE,1,1,2,D,D,D,1,1,2,D,D,D,http://www.worldfootball.net/report/nb-i-2018-2019-mol-vidi-fc-paksi-se/
+hungary-2018-2019,2,2018-07-28,18:30,201807281830,saturday,Debreceni VSC,Mezõkövesd-Zsóry,1,1,2,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/nb-i-2018-2019-debreceni-vsc-mezokoevesd-zsory/
+hungary-2018-2019,2,2018-07-29,17:00,201807291700,sunday,Budapest Honvéd,Kisvárda FC,4,0,4,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/nb-i-2018-2019-budapest-honved-varda-se/
+hungary-2018-2019,2,2018-07-29,17:00,201807291700,sunday,Szombathelyi Haladás,Újpest FC,2,2,4,D,D,D,1,2,3,A,L,W,http://www.worldfootball.net/report/nb-i-2018-2019-szombathelyi-haladas-ujpest-fc/
+hungary-2018-2019,2,2018-07-29,17:00,201807291700,sunday,MTK Budapest,Ferencvárosi TC,1,4,5,A,L,W,0,3,3,A,L,W,http://www.worldfootball.net/report/nb-i-2018-2019-mtk-budapest-ferencvarosi-tc/
+hungary-2018-2019,2,2018-07-29,17:00,201807291700,sunday,Budapest Honvéd,Várda SE,4,0,4,H,W,L,1.0,0.0,1.0,H,W,L,http://www.worldfootball.net/report/nb-i-2018-2019-budapest-honved-varda-se/
+hungary-2018-2019,3,2018-08-04,16:00,201808041600,saturday,Puskás FC,MTK Budapest,1,2,3,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/nb-i-2018-2019-puskas-fc-mtk-budapest/
+hungary-2018-2019,3,2018-08-04,17:00,201808041700,saturday,Debreceni VSC,Diósgyöri VTK,2,0,2,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/nb-i-2018-2019-debreceni-vsc-diosgyoeri-vtk/
+hungary-2018-2019,3,2018-08-04,19:15,201808041915,saturday,Ferencvárosi TC,Szombathelyi Haladás,3,1,4,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/nb-i-2018-2019-ferencvarosi-tc-szombathelyi-haladas/
+hungary-2018-2019,3,2018-08-05,17:00,201808051700,sunday,Újpest FC,Kisvárda FC,1,0,1,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/nb-i-2018-2019-ujpest-fc-varda-se/
+hungary-2018-2019,3,2018-08-05,17:00,201808051700,sunday,Budapest Honvéd,Paksi SE,1,0,1,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/nb-i-2018-2019-budapest-honved-paksi-se/
+hungary-2018-2019,3,2018-08-05,17:00,201808051700,sunday,Újpest FC,Várda SE,1,0,1,H,W,L,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/nb-i-2018-2019-ujpest-fc-varda-se/
+hungary-2018-2019,4,2018-08-10,19:00,201808101900,friday,MOL Vidi FC,Debreceni VSC,1,1,2,D,D,D,0,1,1,A,L,W,http://www.worldfootball.net/report/nb-i-2018-2019-videoton-fc-debreceni-vsc/
+hungary-2018-2019,4,2018-08-11,18:30,201808111830,saturday,Kisvárda FC,Ferencvárosi TC,0,2,2,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/nb-i-2018-2019-varda-se-ferencvarosi-tc/
+hungary-2018-2019,4,2018-08-11,18:30,201808111830,saturday,Szombathelyi Haladás,Puskás FC,2,1,3,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/nb-i-2018-2019-szombathelyi-haladas-puskas-fc/
+hungary-2018-2019,4,2018-08-11,18:30,201808111830,saturday,MTK Budapest,Diósgyöri VTK,1,0,1,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/nb-i-2018-2019-mtk-budapest-diosgyoeri-vtk/
+hungary-2018-2019,4,2018-08-11,18:30,201808111830,saturday,Várda SE,Ferencvárosi TC,0,2,2,A,L,W,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/nb-i-2018-2019-varda-se-ferencvarosi-tc/
+hungary-2018-2019,4,2018-08-12,16:00,201808121600,sunday,Paksi SE,Újpest FC,1,1,2,D,D,D,1,1,2,D,D,D,http://www.worldfootball.net/report/nb-i-2018-2019-paksi-se-ujpest-fc/
+hungary-2018-2019,4,2018-08-12,18:00,201808121800,sunday,Mezõkövesd-Zsóry,Budapest Honvéd,0,1,1,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/nb-i-2018-2019-mezokoevesd-zsory-budapest-honved/
+hungary-2018-2019,5,2018-08-17,19:00,201808171900,friday,Debreceni VSC,MTK Budapest,3,3,6,D,D,D,1,2,3,A,L,W,http://www.worldfootball.net/report/nb-i-2018-2019-debreceni-vsc-mtk-budapest/
+hungary-2018-2019,5,2018-08-18,16:00,201808181600,saturday,Ferencvárosi TC,Paksi SE,1,1,2,D,D,D,1,1,2,D,D,D,http://www.worldfootball.net/report/nb-i-2018-2019-ferencvarosi-tc-paksi-se/
+hungary-2018-2019,5,2018-08-18,18:30,201808181830,saturday,Puskás FC,Kisvárda FC,1,1,2,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/nb-i-2018-2019-puskas-fc-varda-se/
+hungary-2018-2019,5,2018-08-18,18:30,201808181830,saturday,Újpest FC,Mezõkövesd-Zsóry,1,1,2,D,D,D,0,1,1,A,L,W,http://www.worldfootball.net/report/nb-i-2018-2019-ujpest-fc-mezokoevesd-zsory/
+hungary-2018-2019,5,2018-08-18,18:30,201808181830,saturday,Budapest Honvéd,MOL Vidi FC,0,3,3,A,L,W,0,2,2,A,L,W,http://www.worldfootball.net/report/nb-i-2018-2019-budapest-honved-videoton-fc/
+hungary-2018-2019,5,2018-08-18,18:30,201808181830,saturday,Diósgyöri VTK,Szombathelyi Haladás,1,0,1,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/nb-i-2018-2019-diosgyoeri-vtk-szombathelyi-haladas/
+hungary-2018-2019,5,2018-08-18,18:30,201808181830,saturday,Puskás FC,Várda SE,1,1,2,D,D,D,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/nb-i-2018-2019-puskas-fc-varda-se/
+hungary-2018-2019,6,2018-08-25,16:00,201808251600,saturday,Budapest Honvéd,Debreceni VSC,3,0,3,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/nb-i-2018-2019-budapest-honved-debreceni-vsc/
+hungary-2018-2019,6,2018-08-25,18:30,201808251830,saturday,Mezõkövesd-Zsóry,Ferencvárosi TC,0,1,1,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/nb-i-2018-2019-mezokoevesd-zsory-ferencvarosi-tc/
+hungary-2018-2019,6,2018-08-25,18:30,201808251830,saturday,Paksi SE,Puskás FC,3,2,5,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/nb-i-2018-2019-paksi-se-puskas-fc/
+hungary-2018-2019,6,2018-08-25,18:30,201808251830,saturday,Kisvárda FC,Diósgyöri VTK,1,1,2,D,D,D,0,1,1,A,L,W,http://www.worldfootball.net/report/nb-i-2018-2019-varda-se-diosgyoeri-vtk/
+hungary-2018-2019,6,2018-08-25,18:30,201808251830,saturday,Várda SE,Diósgyöri VTK,1,1,2,D,D,D,0.0,1.0,1.0,A,L,W,http://www.worldfootball.net/report/nb-i-2018-2019-varda-se-diosgyoeri-vtk/
+hungary-2018-2019,6,2018-08-25,19:45,201808251945,saturday,Szombathelyi Haladás,MTK Budapest,1,2,3,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/nb-i-2018-2019-szombathelyi-haladas-mtk-budapest/
+hungary-2018-2019,7,2018-09-01,16:00,201809011600,saturday,Debreceni VSC,Szombathelyi Haladás,1,1,2,D,D,D,1,1,2,D,D,D,http://www.worldfootball.net/report/nb-i-2018-2019-debreceni-vsc-szombathelyi-haladas/
+hungary-2018-2019,7,2018-09-01,18:30,201809011830,saturday,Mezõkövesd-Zsóry,Puskás FC,2,0,2,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/nb-i-2018-2019-mezokoevesd-zsory-puskas-fc/
+hungary-2018-2019,7,2018-09-01,18:30,201809011830,saturday,Újpest FC,Budapest Honvéd,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/nb-i-2018-2019-ujpest-fc-budapest-honved/
+hungary-2018-2019,7,2018-09-01,18:30,201809011830,saturday,MTK Budapest,Kisvárda FC,0,1,1,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/nb-i-2018-2019-mtk-budapest-varda-se/
+hungary-2018-2019,7,2018-09-01,18:30,201809011830,saturday,Diósgyöri VTK,Paksi SE,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/nb-i-2018-2019-diosgyoeri-vtk-paksi-se/
+hungary-2018-2019,7,2018-09-01,18:30,201809011830,saturday,MTK Budapest,Várda SE,0,1,1,A,L,W,0.0,1.0,1.0,A,L,W,http://www.worldfootball.net/report/nb-i-2018-2019-mtk-budapest-varda-se/
+hungary-2018-2019,7,2018-09-02,17:00,201809021700,sunday,Ferencvárosi TC,MOL Vidi FC,2,2,4,D,D,D,2,1,3,H,W,L,http://www.worldfootball.net/report/nb-i-2018-2019-ferencvarosi-tc-mol-vidi-fc/
+hungary-2018-2019,8,2018-09-15,16:00,201809151600,saturday,Újpest FC,Debreceni VSC,1,0,1,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/nb-i-2018-2019-ujpest-fc-debreceni-vsc/
+hungary-2018-2019,8,2018-09-15,16:00,201809151600,saturday,Puskás FC,MOL Vidi FC,2,1,3,H,W,L,1,1,2,D,D,D,http://www.worldfootball.net/report/nb-i-2018-2019-puskas-fc-mol-vidi-fc/
+hungary-2018-2019,8,2018-09-15,16:00,201809151600,saturday,Mezõkövesd-Zsóry,Diósgyöri VTK,4,2,6,H,W,L,3,0,3,H,W,L,http://www.worldfootball.net/report/nb-i-2018-2019-mezokoevesd-zsory-diosgyoeri-vtk/
+hungary-2018-2019,8,2018-09-15,16:00,201809151600,saturday,Paksi SE,MTK Budapest,3,0,3,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/nb-i-2018-2019-paksi-se-mtk-budapest/
+hungary-2018-2019,8,2018-09-15,16:00,201809151600,saturday,Kisvárda FC,Szombathelyi Haladás,4,1,5,H,W,L,2,0,2,H,W,L,http://www.worldfootball.net/report/nb-i-2018-2019-varda-se-szombathelyi-haladas/
+hungary-2018-2019,8,2018-09-15,16:00,201809151600,saturday,Várda SE,Szombathelyi Haladás,4,1,5,H,W,L,2.0,0.0,2.0,H,W,L,http://www.worldfootball.net/report/nb-i-2018-2019-varda-se-szombathelyi-haladas/
+hungary-2018-2019,8,2018-09-15,18:30,201809151830,saturday,Budapest Honvéd,Ferencvárosi TC,0,1,1,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/nb-i-2018-2019-budapest-honved-ferencvarosi-tc/
+hungary-2018-2019,3,2018-09-26,19:00,201809261900,wednesday,MOL Vidi FC,Mezõkövesd-Zsóry,3,1,4,H,W,L,2,0,2,H,W,L,http://www.worldfootball.net/report/nb-i-2018-2019-mol-vidi-fc-mezokoevesd-zsory/
+hungary-2018-2019,9,2018-09-29,16:00,201809291600,saturday,Puskás FC,Budapest Honvéd,1,0,1,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/nb-i-2018-2019-puskas-fc-budapest-honved/
+hungary-2018-2019,9,2018-09-29,16:00,201809291600,saturday,Szombathelyi Haladás,Paksi SE,1,2,3,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/nb-i-2018-2019-szombathelyi-haladas-paksi-se/
+hungary-2018-2019,9,2018-09-29,16:00,201809291600,saturday,MTK Budapest,Mezõkövesd-Zsóry,2,2,4,D,D,D,1,0,1,H,W,L,http://www.worldfootball.net/report/nb-i-2018-2019-mtk-budapest-mezokoevesd-zsory/
+hungary-2018-2019,9,2018-09-29,16:00,201809291600,saturday,Debreceni VSC,Kisvárda FC,3,1,4,H,W,L,0,1,1,A,L,W,http://www.worldfootball.net/report/nb-i-2018-2019-debreceni-vsc-varda-se/
+hungary-2018-2019,9,2018-09-29,16:00,201809291600,saturday,Debreceni VSC,Várda SE,3,1,4,H,W,L,0.0,1.0,1.0,A,L,W,http://www.worldfootball.net/report/nb-i-2018-2019-debreceni-vsc-varda-se/
+hungary-2018-2019,9,2018-09-29,18:30,201809291830,saturday,Ferencvárosi TC,Újpest FC,1,0,1,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/nb-i-2018-2019-ferencvarosi-tc-ujpest-fc/
+hungary-2018-2019,9,2018-09-30,17:00,201809301700,sunday,Diósgyöri VTK,MOL Vidi FC,0,1,1,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/nb-i-2018-2019-diosgyoeri-vtk-mol-vidi-fc/
+hungary-2018-2019,10,2018-10-06,13:45,201810061345,saturday,Budapest Honvéd,Diósgyöri VTK,1,0,1,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/nb-i-2018-2019-budapest-honved-diosgyoeri-vtk/
+hungary-2018-2019,10,2018-10-06,16:00,201810061600,saturday,Újpest FC,Puskás FC,2,0,2,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/nb-i-2018-2019-ujpest-fc-puskas-fc/
+hungary-2018-2019,10,2018-10-06,16:00,201810061600,saturday,Mezõkövesd-Zsóry,Szombathelyi Haladás,2,0,2,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/nb-i-2018-2019-mezokoevesd-zsory-szombathelyi-haladas/
+hungary-2018-2019,10,2018-10-06,16:00,201810061600,saturday,Paksi SE,Kisvárda FC,4,1,5,H,W,L,3,1,4,H,W,L,http://www.worldfootball.net/report/nb-i-2018-2019-paksi-se-varda-se/
+hungary-2018-2019,10,2018-10-06,16:00,201810061600,saturday,Paksi SE,Várda SE,4,1,5,H,W,L,3.0,1.0,4.0,H,W,L,http://www.worldfootball.net/report/nb-i-2018-2019-paksi-se-varda-se/
+hungary-2018-2019,10,2018-10-06,18:30,201810061830,saturday,Ferencvárosi TC,Debreceni VSC,2,2,4,D,D,D,0,1,1,A,L,W,http://www.worldfootball.net/report/nb-i-2018-2019-ferencvarosi-tc-debreceni-vsc/
+hungary-2018-2019,10,2018-10-07,17:00,201810071700,sunday,MOL Vidi FC,MTK Budapest,0,3,3,A,L,W,0,2,2,A,L,W,http://www.worldfootball.net/report/nb-i-2018-2019-mol-vidi-fc-mtk-budapest/
+hungary-2018-2019,11,2018-10-20,16:00,201810201600,saturday,Kisvárda FC,Mezõkövesd-Zsóry,1,2,3,A,L,W,1,0,1,H,W,L,http://www.worldfootball.net/report/nb-i-2018-2019-varda-se-mezokoevesd-zsory/
+hungary-2018-2019,11,2018-10-20,16:00,201810201600,saturday,Szombathelyi Haladás,MOL Vidi FC,0,2,2,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/nb-i-2018-2019-szombathelyi-haladas-mol-vidi-fc/
+hungary-2018-2019,11,2018-10-20,16:00,201810201600,saturday,MTK Budapest,Budapest Honvéd,1,1,2,D,D,D,0,1,1,A,L,W,http://www.worldfootball.net/report/nb-i-2018-2019-mtk-budapest-budapest-honved/
+hungary-2018-2019,11,2018-10-20,16:00,201810201600,saturday,Diósgyöri VTK,Újpest FC,1,2,3,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/nb-i-2018-2019-diosgyoeri-vtk-ujpest-fc/
+hungary-2018-2019,11,2018-10-20,16:00,201810201600,saturday,Debreceni VSC,Paksi SE,2,1,3,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/nb-i-2018-2019-debreceni-vsc-paksi-se/
+hungary-2018-2019,11,2018-10-20,16:00,201810201600,saturday,Várda SE,Mezõkövesd-Zsóry,1,2,3,A,L,W,1.0,0.0,1.0,H,W,L,http://www.worldfootball.net/report/nb-i-2018-2019-varda-se-mezokoevesd-zsory/
+hungary-2018-2019,11,2018-10-20,18:30,201810201830,saturday,Puskás FC,Ferencvárosi TC,1,0,1,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/nb-i-2018-2019-puskas-fc-ferencvarosi-tc/
+hungary-2018-2019,12,2018-10-27,13:30,201810271330,saturday,MTK Budapest,Újpest FC,1,0,1,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/nb-i-2018-2019-mtk-budapest-ujpest-fc/
+hungary-2018-2019,12,2018-10-27,16:00,201810271600,saturday,Debreceni VSC,Puskás FC,2,1,3,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/nb-i-2018-2019-debreceni-vsc-puskas-fc/
+hungary-2018-2019,12,2018-10-27,16:00,201810271600,saturday,Diósgyöri VTK,Ferencvárosi TC,1,4,5,A,L,W,0,3,3,A,L,W,http://www.worldfootball.net/report/nb-i-2018-2019-diosgyoeri-vtk-ferencvarosi-tc/
+hungary-2018-2019,12,2018-10-27,16:00,201810271600,saturday,Szombathelyi Haladás,Budapest Honvéd,0,1,1,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/nb-i-2018-2019-szombathelyi-haladas-budapest-honved/
+hungary-2018-2019,12,2018-10-27,16:00,201810271600,saturday,Paksi SE,Mezõkövesd-Zsóry,2,1,3,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/nb-i-2018-2019-paksi-se-mezokoevesd-zsory/
+hungary-2018-2019,12,2018-10-28,16:00,201810281600,sunday,Kisvárda FC,MOL Vidi FC,2,2,4,D,D,D,1,2,3,A,L,W,http://www.worldfootball.net/report/nb-i-2018-2019-varda-se-mol-vidi-fc/
+hungary-2018-2019,13,2018-11-03,16:00,201811031600,saturday,Paksi SE,MOL Vidi FC,0,4,4,A,L,W,0,3,3,A,L,W,http://www.worldfootball.net/report/nb-i-2018-2019-paksi-se-mol-vidi-fc/
+hungary-2018-2019,13,2018-11-03,16:00,201811031600,saturday,Kisvárda FC,Budapest Honvéd,0,3,3,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/nb-i-2018-2019-varda-se-budapest-honved/
+hungary-2018-2019,13,2018-11-03,16:00,201811031600,saturday,Újpest FC,Szombathelyi Haladás,2,0,2,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/nb-i-2018-2019-ujpest-fc-szombathelyi-haladas/
+hungary-2018-2019,13,2018-11-03,16:00,201811031600,saturday,Puskás FC,Diósgyöri VTK,2,1,3,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/nb-i-2018-2019-puskas-fc-diosgyoeri-vtk/
+hungary-2018-2019,13,2018-11-03,16:00,201811031600,saturday,Mezõkövesd-Zsóry,Debreceni VSC,2,2,4,D,D,D,1,1,2,D,D,D,http://www.worldfootball.net/report/nb-i-2018-2019-mezokoevesd-zsory-debreceni-vsc/
+hungary-2018-2019,13,2018-11-03,18:30,201811031830,saturday,Ferencvárosi TC,MTK Budapest,2,0,2,H,W,L,2,0,2,H,W,L,http://www.worldfootball.net/report/nb-i-2018-2019-ferencvarosi-tc-mtk-budapest/
+hungary-2018-2019,14,2018-11-10,13:30,201811101330,saturday,Diósgyöri VTK,Debreceni VSC,1,0,1,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/nb-i-2018-2019-diosgyoeri-vtk-debreceni-vsc/
+hungary-2018-2019,14,2018-11-10,16:00,201811101600,saturday,MTK Budapest,Puskás FC,3,2,5,H,W,L,1,1,2,D,D,D,http://www.worldfootball.net/report/nb-i-2018-2019-mtk-budapest-puskas-fc/
+hungary-2018-2019,14,2018-11-10,16:00,201811101600,saturday,Kisvárda FC,Újpest FC,1,4,5,A,L,W,1,1,2,D,D,D,http://www.worldfootball.net/report/nb-i-2018-2019-kisvarda-fc-ujpest-fc/
+hungary-2018-2019,14,2018-11-10,16:00,201811101600,saturday,Paksi SE,Budapest Honvéd,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/nb-i-2018-2019-paksi-se-budapest-honved/
+hungary-2018-2019,14,2018-11-10,18:30,201811101830,saturday,Szombathelyi Haladás,Ferencvárosi TC,1,0,1,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/nb-i-2018-2019-szombathelyi-haladas-ferencvarosi-tc/
+hungary-2018-2019,14,2018-11-11,14:30,201811111430,sunday,Mezõkövesd-Zsóry,MOL Vidi FC,1,0,1,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/nb-i-2018-2019-mezokoevesd-zsory-mol-vidi-fc/
+hungary-2018-2019,6,2018-11-21,18:00,201811211800,wednesday,MOL Vidi FC,Újpest FC,1,0,1,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/nb-i-2018-2019-mol-vidi-fc-ujpest-fc/
+hungary-2018-2019,15,2018-11-24,16:00,201811241600,saturday,Budapest Honvéd,Mezõkövesd-Zsóry,1,1,2,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/nb-i-2018-2019-budapest-honved-mezokoevesd-zsory/
+hungary-2018-2019,15,2018-11-24,16:00,201811241600,saturday,Újpest FC,Paksi SE,1,1,2,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/nb-i-2018-2019-ujpest-fc-paksi-se/
+hungary-2018-2019,15,2018-11-24,16:00,201811241600,saturday,Ferencvárosi TC,Kisvárda FC,2,0,2,H,W,L,2,0,2,H,W,L,http://www.worldfootball.net/report/nb-i-2018-2019-ferencvarosi-tc-kisvarda-fc/
+hungary-2018-2019,15,2018-11-24,16:00,201811241600,saturday,Puskás FC,Szombathelyi Haladás,2,0,2,H,W,L,2,0,2,H,W,L,http://www.worldfootball.net/report/nb-i-2018-2019-puskas-fc-szombathelyi-haladas/
+hungary-2018-2019,15,2018-11-24,18:30,201811241830,saturday,Diósgyöri VTK,MTK Budapest,3,2,5,H,W,L,2,0,2,H,W,L,http://www.worldfootball.net/report/nb-i-2018-2019-diosgyoeri-vtk-mtk-budapest/
+hungary-2018-2019,15,2018-11-25,16:00,201811251600,sunday,Debreceni VSC,MOL Vidi FC,0,1,1,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/nb-i-2018-2019-debreceni-vsc-mol-vidi-fc/
+hungary-2018-2019,16,2018-12-01,16:00,201812011600,saturday,Kisvárda FC,Puskás FC,1,0,1,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/nb-i-2018-2019-kisvarda-fc-puskas-fc/
+hungary-2018-2019,16,2018-12-01,16:00,201812011600,saturday,Mezõkövesd-Zsóry,Újpest FC,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/nb-i-2018-2019-mezokoevesd-zsory-ujpest-fc/
+hungary-2018-2019,16,2018-12-01,16:00,201812011600,saturday,Szombathelyi Haladás,Diósgyöri VTK,1,1,2,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/nb-i-2018-2019-szombathelyi-haladas-diosgyoeri-vtk/
+hungary-2018-2019,16,2018-12-01,16:00,201812011600,saturday,MTK Budapest,Debreceni VSC,0,1,1,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/nb-i-2018-2019-mtk-budapest-debreceni-vsc/
+hungary-2018-2019,16,2018-12-01,18:30,201812011830,saturday,Paksi SE,Ferencvárosi TC,0,3,3,A,L,W,0,2,2,A,L,W,http://www.worldfootball.net/report/nb-i-2018-2019-paksi-se-ferencvarosi-tc/
+hungary-2018-2019,16,2018-12-02,17:00,201812021700,sunday,MOL Vidi FC,Budapest Honvéd,2,0,2,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/nb-i-2018-2019-mol-vidi-fc-budapest-honved/
+hungary-2018-2019,17,2018-12-08,16:00,201812081600,saturday,Debreceni VSC,Budapest Honvéd,2,0,2,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/nb-i-2018-2019-debreceni-vsc-budapest-honved/
+hungary-2018-2019,17,2018-12-08,16:00,201812081600,saturday,Ferencvárosi TC,Mezõkövesd-Zsóry,3,2,5,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/nb-i-2018-2019-ferencvarosi-tc-mezokoevesd-zsory/
+hungary-2018-2019,17,2018-12-08,16:00,201812081600,saturday,Puskás FC,Paksi SE,1,1,2,D,D,D,0,1,1,A,L,W,http://www.worldfootball.net/report/nb-i-2018-2019-puskas-fc-paksi-se/
+hungary-2018-2019,17,2018-12-08,16:00,201812081600,saturday,Diósgyöri VTK,Kisvárda FC,1,1,2,D,D,D,1,1,2,D,D,D,http://www.worldfootball.net/report/nb-i-2018-2019-diosgyoeri-vtk-kisvarda-fc/
+hungary-2018-2019,17,2018-12-08,16:00,201812081600,saturday,MTK Budapest,Szombathelyi Haladás,4,0,4,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/nb-i-2018-2019-mtk-budapest-szombathelyi-haladas/
+hungary-2018-2019,17,2018-12-08,18:30,201812081830,saturday,Újpest FC,MOL Vidi FC,2,0,2,H,W,L,2,0,2,H,W,L,http://www.worldfootball.net/report/nb-i-2018-2019-ujpest-fc-mol-vidi-fc/
+hungary-2018-2019,18,2018-12-15,16:00,201812151600,saturday,Puskás FC,Mezõkövesd-Zsóry,2,0,2,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/nb-i-2018-2019-puskas-fc-mezokoevesd-zsory/
+hungary-2018-2019,18,2018-12-15,16:00,201812151600,saturday,Kisvárda FC,MTK Budapest,1,0,1,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/nb-i-2018-2019-kisvarda-fc-mtk-budapest/
+hungary-2018-2019,18,2018-12-15,16:00,201812151600,saturday,Paksi SE,Diósgyöri VTK,1,2,3,A,L,W,1,1,2,D,D,D,http://www.worldfootball.net/report/nb-i-2018-2019-paksi-se-diosgyoeri-vtk/
+hungary-2018-2019,18,2018-12-15,16:00,201812151600,saturday,Szombathelyi Haladás,Debreceni VSC,0,2,2,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/nb-i-2018-2019-szombathelyi-haladas-debreceni-vsc/
+hungary-2018-2019,18,2018-12-15,18:30,201812151830,saturday,Budapest Honvéd,Újpest FC,2,2,4,D,D,D,1,0,1,H,W,L,http://www.worldfootball.net/report/nb-i-2018-2019-budapest-honved-ujpest-fc/
+hungary-2018-2019,18,2018-12-16,19:15,201812161915,sunday,MOL Vidi FC,Ferencvárosi TC,2,1,3,H,W,L,1,1,2,D,D,D,http://www.worldfootball.net/report/nb-i-2018-2019-mol-vidi-fc-ferencvarosi-tc/
+hungary-2018-2019,19,2019-02-02,13:00,201902021300,saturday,MTK Budapest,Paksi SE,1,2,3,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/nb-i-2018-2019-mtk-budapest-paksi-se/
+hungary-2018-2019,19,2019-02-02,16:00,201902021600,saturday,Debreceni VSC,Újpest FC,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/nb-i-2018-2019-debreceni-vsc-ujpest-fc/
+hungary-2018-2019,19,2019-02-02,16:00,201902021600,saturday,MOL Vidi FC,Puskás FC,0,3,3,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/nb-i-2018-2019-mol-vidi-fc-puskas-fc/
+hungary-2018-2019,19,2019-02-02,16:00,201902021600,saturday,Diósgyöri VTK,Mezõkövesd-Zsóry,1,1,2,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/nb-i-2018-2019-diosgyoeri-vtk-mezokoevesd-zsory/
+hungary-2018-2019,19,2019-02-02,16:00,201902021600,saturday,Szombathelyi Haladás,Kisvárda FC,0,1,1,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/nb-i-2018-2019-szombathelyi-haladas-kisvarda-fc/
+hungary-2018-2019,19,2019-02-02,18:30,201902021830,saturday,Ferencvárosi TC,Budapest Honvéd,1,0,1,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/nb-i-2018-2019-ferencvarosi-tc-budapest-honved/
+hungary-2018-2019,20,2019-02-09,16:00,201902091600,saturday,Budapest Honvéd,Puskás FC,2,1,3,H,W,L,2,0,2,H,W,L,http://www.worldfootball.net/report/nb-i-2018-2019-budapest-honved-puskas-fc/
+hungary-2018-2019,20,2019-02-09,16:00,201902091600,saturday,Paksi SE,Szombathelyi Haladás,1,1,2,D,D,D,1,0,1,H,W,L,http://www.worldfootball.net/report/nb-i-2018-2019-paksi-se-szombathelyi-haladas/
+hungary-2018-2019,20,2019-02-09,16:00,201902091600,saturday,Mezõkövesd-Zsóry,MTK Budapest,2,3,5,A,L,W,1,1,2,D,D,D,http://www.worldfootball.net/report/nb-i-2018-2019-mezokoevesd-zsory-mtk-budapest/
+hungary-2018-2019,20,2019-02-09,16:00,201902091600,saturday,MOL Vidi FC,Diósgyöri VTK,1,2,3,A,L,W,1,2,3,A,L,W,http://www.worldfootball.net/report/nb-i-2018-2019-mol-vidi-fc-diosgyoeri-vtk/
+hungary-2018-2019,20,2019-02-09,16:00,201902091600,saturday,Kisvárda FC,Debreceni VSC,3,0,3,H,W,L,2,0,2,H,W,L,http://www.worldfootball.net/report/nb-i-2018-2019-kisvarda-fc-debreceni-vsc/
+hungary-2018-2019,20,2019-02-09,18:30,201902091830,saturday,Újpest FC,Ferencvárosi TC,1,1,2,D,D,D,0,1,1,A,L,W,http://www.worldfootball.net/report/nb-i-2018-2019-ujpest-fc-ferencvarosi-tc/
+hungary-2018-2019,21,2019-02-16,13:00,201902161300,saturday,Debreceni VSC,Ferencvárosi TC,2,1,3,H,W,L,0,1,1,A,L,W,http://www.worldfootball.net/report/nb-i-2018-2019-debreceni-vsc-ferencvarosi-tc/
+hungary-2018-2019,21,2019-02-16,16:00,201902161600,saturday,Puskás FC,Újpest FC,0,1,1,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/nb-i-2018-2019-puskas-fc-ujpest-fc/
+hungary-2018-2019,21,2019-02-16,16:00,201902161600,saturday,Diósgyöri VTK,Budapest Honvéd,2,1,3,H,W,L,0,1,1,A,L,W,http://www.worldfootball.net/report/nb-i-2018-2019-diosgyoeri-vtk-budapest-honved/
+hungary-2018-2019,21,2019-02-16,16:00,201902161600,saturday,Szombathelyi Haladás,Mezõkövesd-Zsóry,1,2,3,A,L,W,1,2,3,A,L,W,http://www.worldfootball.net/report/nb-i-2018-2019-szombathelyi-haladas-mezokoevesd-zsory/
+hungary-2018-2019,21,2019-02-16,16:00,201902161600,saturday,Kisvárda FC,Paksi SE,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/nb-i-2018-2019-kisvarda-fc-paksi-se/
+hungary-2018-2019,21,2019-02-16,18:30,201902161830,saturday,MTK Budapest,MOL Vidi FC,1,3,4,A,L,W,0,3,3,A,L,W,http://www.worldfootball.net/report/nb-i-2018-2019-mtk-budapest-mol-vidi-fc/

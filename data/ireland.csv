@@ -2813,122 +2813,193 @@ ireland-2017,33,2017-10-27,19:45,201710271945,friday,Derry City,St Patrick's Ath
 ireland-2017,33,2017-10-27,19:45,201710271945,friday,Drogheda United,Sligo Rovers,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/premier-division-2017-drogheda-united-sligo-rovers_2/
 ireland-2017,33,2017-10-27,19:45,201710271945,friday,Galway United,Dundalk FC,3,4,7,A,L,W,1.0,3.0,4.0,A,L,W,http://www.worldfootball.net/report/premier-division-2017-galway-united-dundalk-fc_2/
 ireland-2017,33,2017-10-27,19:45,201710271945,friday,Shamrock Rovers,Limerick FC,2,1,3,H,W,L,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/premier-division-2017-shamrock-rovers-limerick-fc_2/
-ireland-2018,1,2018-02-16,19:30,201802161930,friday,Bohemian FC,Shamrock Rovers,3,1,4,H,W,L,0,1,1,A,L,W,http://www.worldfootball.net/report/premier-division-2018-bohemian-fc-shamrock-rovers/
-ireland-2018,1,2018-02-16,19:45,201802161945,friday,Dundalk FC,Bray Wanderers,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/premier-division-2018-dundalk-fc-bray-wanderers/
-ireland-2018,1,2018-02-16,19:45,201802161945,friday,St Patrick's Athletic,Cork City,2,3,5,A,L,W,1,2,3,A,L,W,http://www.worldfootball.net/report/premier-division-2018-st-patricks-athletic-cork-city/
-ireland-2018,1,2018-02-16,19:45,201802161945,friday,Waterford United,Derry City,2,1,3,H,W,L,1,1,2,D,D,D,http://www.worldfootball.net/report/premier-division-2018-waterford-united-derry-city/
-ireland-2018,1,2018-02-17,19:45,201802171945,saturday,Sligo Rovers,Limerick FC,0,1,1,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/premier-division-2018-sligo-rovers-limerick-fc/
-ireland-2018,2,2018-02-23,19:45,201802231945,friday,Bray Wanderers,St Patrick's Athletic,1,2,3,A,L,W,1,2,3,A,L,W,http://www.worldfootball.net/report/premier-division-2018-bray-wanderers-st-patricks-athletic/
-ireland-2018,2,2018-02-23,19:45,201802231945,friday,Cork City,Waterford United,2,0,2,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/premier-division-2018-cork-city-waterford-united/
-ireland-2018,2,2018-02-23,19:45,201802231945,friday,Sligo Rovers,Derry City,2,1,3,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/premier-division-2018-sligo-rovers-derry-city/
-ireland-2018,2,2018-02-23,20:00,201802232000,friday,Shamrock Rovers,Dundalk FC,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/premier-division-2018-shamrock-rovers-dundalk-fc/
-ireland-2018,2,2018-02-24,18:30,201802241830,saturday,Limerick FC,Bohemian FC,1,1,2,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/premier-division-2018-limerick-fc-bohemian-fc/
-ireland-2018,3,2018-02-26,19:45,201802261945,monday,Waterford United,St Patrick's Athletic,2,0,2,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/premier-division-2018-waterford-united-st-patricks-athletic/
-ireland-2018,3,2018-02-26,19:45,201802261945,monday,Sligo Rovers,Cork City,1,4,5,A,L,W,0,2,2,A,L,W,http://www.worldfootball.net/report/premier-division-2018-sligo-rovers-cork-city/
-ireland-2018,3,2018-02-26,20:00,201802262000,monday,Shamrock Rovers,Bray Wanderers,6,0,6,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/premier-division-2018-shamrock-rovers-bray-wanderers/
-ireland-2018,3,2018-02-27,19:45,201802271945,tuesday,Bohemian FC,Derry City,0,1,1,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/premier-division-2018-bohemian-fc-derry-city/
-ireland-2018,3,2018-02-27,19:45,201802271945,tuesday,Dundalk FC,Limerick FC,8,0,8,H,W,L,4,0,4,H,W,L,http://www.worldfootball.net/report/premier-division-2018-dundalk-fc-limerick-fc/
-ireland-2018,5,2018-03-09,19:45,201803091945,friday,Bohemian FC,St Patrick's Athletic,0,1,1,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/premier-division-2018-bohemian-fc-st-patricks-athletic/
-ireland-2018,5,2018-03-09,19:45,201803091945,friday,Limerick FC,Bray Wanderers,1,0,1,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/premier-division-2018-limerick-fc-bray-wanderers/
-ireland-2018,5,2018-03-09,19:45,201803091945,friday,Sligo Rovers,Waterford United,1,2,3,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/premier-division-2018-sligo-rovers-waterford-united/
-ireland-2018,5,2018-03-09,20:00,201803092000,friday,Dundalk FC,Cork City,1,0,1,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/premier-division-2018-dundalk-fc-cork-city/
-ireland-2018,5,2018-03-09,20:00,201803092000,friday,Shamrock Rovers,Derry City,6,1,7,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/premier-division-2018-shamrock-rovers-derry-city/
-ireland-2018,6,2018-03-12,19:45,201803121945,monday,Bray Wanderers,Sligo Rovers,1,2,3,A,L,W,0,2,2,A,L,W,http://www.worldfootball.net/report/premier-division-2018-bray-wanderers-sligo-rovers/
-ireland-2018,6,2018-03-12,19:45,201803121945,monday,Cork City,Shamrock Rovers,1,0,1,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/premier-division-2018-cork-city-shamrock-rovers/
-ireland-2018,6,2018-03-12,19:45,201803121945,monday,Derry City,Limerick FC,5,0,5,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/premier-division-2018-derry-city-limerick-fc/
-ireland-2018,6,2018-03-12,19:45,201803121945,monday,St Patrick's Athletic,Dundalk FC,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/premier-division-2018-st-patricks-athletic-dundalk-fc/
-ireland-2018,6,2018-03-12,19:45,201803121945,monday,Waterford United,Bohemian FC,1,0,1,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/premier-division-2018-waterford-united-bohemian-fc/
-ireland-2018,7,2018-03-16,19:45,201803161945,friday,Bohemian FC,Sligo Rovers,2,2,4,D,D,D,1,1,2,D,D,D,http://www.worldfootball.net/report/premier-division-2018-bohemian-fc-sligo-rovers/
-ireland-2018,7,2018-03-16,19:45,201803161945,friday,Derry City,Bray Wanderers,5,1,6,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/premier-division-2018-derry-city-bray-wanderers/
-ireland-2018,7,2018-03-16,19:45,201803161945,friday,Dundalk FC,Waterford United,1,0,1,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/premier-division-2018-dundalk-fc-waterford-united/
-ireland-2018,7,2018-03-16,19:45,201803161945,friday,Limerick FC,Cork City,1,1,2,D,D,D,1,1,2,D,D,D,http://www.worldfootball.net/report/premier-division-2018-limerick-fc-cork-city/
-ireland-2018,7,2018-03-16,20:00,201803162000,friday,Shamrock Rovers,St Patrick's Athletic,1,0,1,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/premier-division-2018-shamrock-rovers-st-patricks-athletic/
-ireland-2018,4,2018-03-19,15:00,201803191500,monday,Cork City,Bohemian FC,3,0,3,H,W,L,2,0,2,H,W,L,http://www.worldfootball.net/report/premier-division-2018-cork-city-bohemian-fc/
-ireland-2018,4,2018-03-19,18:30,201803191830,monday,Limerick FC,Shamrock Rovers,0,1,1,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/premier-division-2018-limerick-fc-shamrock-rovers/
-ireland-2018,8,2018-03-23,19:45,201803231945,friday,Bohemian FC,Bray Wanderers,2,1,3,H,W,L,1,1,2,D,D,D,http://www.worldfootball.net/report/premier-division-2018-bohemian-fc-bray-wanderers/
-ireland-2018,8,2018-03-23,19:45,201803231945,friday,St Patrick's Athletic,Limerick FC,1,0,1,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/premier-division-2018-st-patricks-athletic-limerick-fc/
-ireland-2018,8,2018-03-23,19:45,201803231945,friday,Waterford United,Shamrock Rovers,2,1,3,H,W,L,2,1,3,H,W,L,http://www.worldfootball.net/report/premier-division-2018-waterford-united-shamrock-rovers/
-ireland-2018,8,2018-03-24,19:45,201803241945,saturday,Sligo Rovers,Dundalk FC,0,2,2,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/premier-division-2018-sligo-rovers-dundalk-fc/
-ireland-2018,9,2018-03-30,19:30,201803301930,friday,Derry City,St Patrick's Athletic,2,1,3,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/premier-division-2018-derry-city-st-patricks-athletic/
-ireland-2018,9,2018-03-30,19:45,201803301945,friday,Bray Wanderers,Cork City,0,4,4,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/premier-division-2018-bray-wanderers-cork-city/
-ireland-2018,9,2018-03-30,19:45,201803301945,friday,Dundalk FC,Bohemian FC,3,0,3,H,W,L,2,0,2,H,W,L,http://www.worldfootball.net/report/premier-division-2018-dundalk-fc-bohemian-fc/
-ireland-2018,9,2018-03-30,19:45,201803301945,friday,Limerick FC,Waterford United,0,2,2,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/premier-division-2018-limerick-fc-waterford-united/
-ireland-2018,9,2018-03-30,20:00,201803302000,friday,Shamrock Rovers,Sligo Rovers,1,0,1,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/premier-division-2018-shamrock-rovers-sligo-rovers/
-ireland-2018,10,2018-04-06,19:30,201804061930,friday,Dundalk FC,Shamrock Rovers,2,1,3,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/premier-division-2018-dundalk-fc-shamrock-rovers/
-ireland-2018,10,2018-04-06,19:45,201804061945,friday,Bohemian FC,Limerick FC,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/premier-division-2018-bohemian-fc-limerick-fc/
-ireland-2018,10,2018-04-06,19:45,201804061945,friday,St Patrick's Athletic,Bray Wanderers,5,0,5,H,W,L,3,0,3,H,W,L,http://www.worldfootball.net/report/premier-division-2018-st-patricks-athletic-bray-wanderers/
-ireland-2018,10,2018-04-06,19:45,201804061945,friday,Waterford United,Cork City,2,1,3,H,W,L,0,1,1,A,L,W,http://www.worldfootball.net/report/premier-division-2018-waterford-united-cork-city/
-ireland-2018,10,2018-04-07,19:45,201804071945,saturday,Sligo Rovers,Derry City,0,2,2,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/premier-division-2018-sligo-rovers-derry-city_2/
-ireland-2018,11,2018-04-13,19:45,201804131945,friday,Bray Wanderers,Dundalk FC,0,2,2,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/premier-division-2018-bray-wanderers-dundalk-fc/
-ireland-2018,11,2018-04-13,19:45,201804131945,friday,Cork City,St Patrick's Athletic,1,0,1,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/premier-division-2018-cork-city-st-patricks-athletic/
-ireland-2018,11,2018-04-13,19:45,201804131945,friday,Derry City,Waterford United,1,0,1,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/premier-division-2018-derry-city-waterford-united/
-ireland-2018,11,2018-04-13,20:00,201804132000,friday,Shamrock Rovers,Bohemian FC,1,2,3,A,L,W,1,0,1,H,W,L,http://www.worldfootball.net/report/premier-division-2018-shamrock-rovers-bohemian-fc/
-ireland-2018,11,2018-04-14,18:30,201804141830,saturday,Limerick FC,Sligo Rovers,1,2,3,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/premier-division-2018-limerick-fc-sligo-rovers/
-ireland-2018,12,2018-04-16,19:45,201804161945,monday,Bray Wanderers,Shamrock Rovers,1,0,1,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/premier-division-2018-bray-wanderers-shamrock-rovers/
-ireland-2018,12,2018-04-16,19:45,201804161945,monday,Derry City,Bohemian FC,3,1,4,H,W,L,1,1,2,D,D,D,http://www.worldfootball.net/report/premier-division-2018-derry-city-bohemian-fc/
-ireland-2018,12,2018-04-16,19:45,201804161945,monday,St Patrick's Athletic,Waterford United,1,0,1,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/premier-division-2018-st-patricks-athletic-waterford-united/
-ireland-2018,12,2018-04-17,19:45,201804171945,tuesday,Cork City,Sligo Rovers,1,0,1,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/premier-division-2018-cork-city-sligo-rovers/
-ireland-2018,12,2018-04-17,19:45,201804171945,tuesday,Limerick FC,Dundalk FC,0,3,3,A,L,W,0,2,2,A,L,W,http://www.worldfootball.net/report/premier-division-2018-limerick-fc-dundalk-fc/
-ireland-2018,13,2018-04-20,19:45,201804201945,friday,Dundalk FC,Derry City,2,2,4,D,D,D,2,1,3,H,W,L,http://www.worldfootball.net/report/premier-division-2018-dundalk-fc-derry-city/
-ireland-2018,13,2018-04-20,19:45,201804201945,friday,Waterford United,Bray Wanderers,3,0,3,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/premier-division-2018-waterford-united-bray-wanderers/
-ireland-2018,13,2018-04-20,20:00,201804202000,friday,Bohemian FC,Cork City,0,2,2,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/premier-division-2018-bohemian-fc-cork-city/
-ireland-2018,13,2018-04-20,20:00,201804202000,friday,Shamrock Rovers,Limerick FC,1,1,2,D,D,D,1,0,1,H,W,L,http://www.worldfootball.net/report/premier-division-2018-shamrock-rovers-limerick-fc/
-ireland-2018,13,2018-04-21,19:45,201804211945,saturday,Sligo Rovers,St Patrick's Athletic,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/premier-division-2018-sligo-rovers-st-patricks-athletic/
-ireland-2018,14,2018-04-27,19:15,201804271915,friday,Cork City,Dundalk FC,1,0,1,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/premier-division-2018-cork-city-dundalk-fc/
-ireland-2018,14,2018-04-27,19:45,201804271945,friday,Bray Wanderers,Limerick FC,0,1,1,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/premier-division-2018-bray-wanderers-limerick-fc/
-ireland-2018,14,2018-04-27,19:45,201804271945,friday,Derry City,Shamrock Rovers,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/premier-division-2018-derry-city-shamrock-rovers/
-ireland-2018,14,2018-04-27,19:45,201804271945,friday,St Patrick's Athletic,Bohemian FC,2,2,4,D,D,D,1,0,1,H,W,L,http://www.worldfootball.net/report/premier-division-2018-st-patricks-athletic-bohemian-fc/
-ireland-2018,14,2018-04-27,19:45,201804271945,friday,Waterford United,Sligo Rovers,1,1,2,D,D,D,1,1,2,D,D,D,http://www.worldfootball.net/report/premier-division-2018-waterford-united-sligo-rovers/
-ireland-2018,15,2018-04-30,19:45,201804301945,monday,Bohemian FC,Waterford United,0,1,1,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/premier-division-2018-bohemian-fc-waterford-united/
-ireland-2018,15,2018-04-30,19:45,201804301945,monday,Dundalk FC,St Patrick's Athletic,5,0,5,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/premier-division-2018-dundalk-fc-st-patricks-athletic/
-ireland-2018,15,2018-04-30,19:45,201804301945,monday,Limerick FC,Derry City,0,3,3,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/premier-division-2018-limerick-fc-derry-city/
-ireland-2018,15,2018-04-30,19:45,201804301945,monday,Sligo Rovers,Bray Wanderers,2,1,3,H,W,L,2,0,2,H,W,L,http://www.worldfootball.net/report/premier-division-2018-sligo-rovers-bray-wanderers/
-ireland-2018,15,2018-04-30,20:00,201804302000,monday,Shamrock Rovers,Cork City,3,0,3,H,W,L,2,0,2,H,W,L,http://www.worldfootball.net/report/premier-division-2018-shamrock-rovers-cork-city/
-ireland-2018,16,2018-05-04,19:45,201805041945,friday,Bray Wanderers,Derry City,2,1,3,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/premier-division-2018-bray-wanderers-derry-city/
-ireland-2018,16,2018-05-04,19:45,201805041945,friday,St Patrick's Athletic,Shamrock Rovers,2,0,2,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/premier-division-2018-st-patricks-athletic-shamrock-rovers/
-ireland-2018,16,2018-05-04,19:45,201805041945,friday,Waterford United,Dundalk FC,2,1,3,H,W,L,2,1,3,H,W,L,http://www.worldfootball.net/report/premier-division-2018-waterford-united-dundalk-fc/
-ireland-2018,16,2018-05-05,14:00,201805051400,saturday,Cork City,Limerick FC,2,1,3,H,W,L,1,1,2,D,D,D,http://www.worldfootball.net/report/premier-division-2018-cork-city-limerick-fc/
-ireland-2018,16,2018-05-05,19:45,201805051945,saturday,Sligo Rovers,Bohemian FC,0,2,2,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/premier-division-2018-sligo-rovers-bohemian-fc/
-ireland-2018,17,2018-05-11,19:45,201805111945,friday,Bray Wanderers,Bohemian FC,1,3,4,A,L,W,1,2,3,A,L,W,http://www.worldfootball.net/report/premier-division-2018-bray-wanderers-bohemian-fc/
-ireland-2018,17,2018-05-11,19:45,201805111945,friday,Derry City,Cork City,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/premier-division-2018-derry-city-cork-city/
-ireland-2018,17,2018-05-11,19:45,201805111945,friday,Dundalk FC,Sligo Rovers,2,1,3,H,W,L,1,1,2,D,D,D,http://www.worldfootball.net/report/premier-division-2018-dundalk-fc-sligo-rovers/
-ireland-2018,17,2018-05-11,19:45,201805111945,friday,Limerick FC,St Patrick's Athletic,0,1,1,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/premier-division-2018-limerick-fc-st-patricks-athletic/
-ireland-2018,17,2018-05-11,20:00,201805112000,friday,Shamrock Rovers,Waterford United,1,1,2,D,D,D,0,1,1,A,L,W,http://www.worldfootball.net/report/premier-division-2018-shamrock-rovers-waterford-united/
-ireland-2018,4,2018-05-14,19:45,201805141945,monday,Bray Wanderers,Waterford United,2,2,4,D,D,D,1,1,2,D,D,D,http://www.worldfootball.net/report/premier-division-2018-bray-wanderers-waterford-united/
-ireland-2018,4,2018-05-14,19:45,201805141945,monday,Derry City,Dundalk FC,1,4,5,A,L,W,1,2,3,A,L,W,http://www.worldfootball.net/report/premier-division-2018-derry-city-dundalk-fc/
-ireland-2018,4,2018-05-15,19:45,201805151945,tuesday,St Patrick's Athletic,Sligo Rovers,2,0,2,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/premier-division-2018-st-patricks-athletic-sligo-rovers/
-ireland-2018,18,2018-05-18,19:45,201805181945,friday,Bohemian FC,Dundalk FC,0,2,2,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/premier-division-2018-bohemian-fc-dundalk-fc/
-ireland-2018,18,2018-05-18,19:45,201805181945,friday,Cork City,Bray Wanderers,4,0,4,H,W,L,2,0,2,H,W,L,http://www.worldfootball.net/report/premier-division-2018-cork-city-bray-wanderers/
-ireland-2018,18,2018-05-18,19:45,201805181945,friday,St Patrick's Athletic,Derry City,5,2,7,H,W,L,3,2,5,H,W,L,http://www.worldfootball.net/report/premier-division-2018-st-patricks-athletic-derry-city/
-ireland-2018,18,2018-05-18,19:45,201805181945,friday,Waterford United,Limerick FC,3,6,9,A,L,W,1,3,4,A,L,W,http://www.worldfootball.net/report/premier-division-2018-waterford-united-limerick-fc/
-ireland-2018,18,2018-05-19,19:45,201805191945,saturday,Sligo Rovers,Shamrock Rovers,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/premier-division-2018-sligo-rovers-shamrock-rovers/
-ireland-2018,19,2018-05-21,19:45,201805211945,monday,Limerick FC,Cork City,0,2,2,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/premier-division-2018-limerick-fc-cork-city_2/
-ireland-2018,19,2018-05-21,19:45,201805211945,monday,Derry City,Bray Wanderers,2,0,2,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/premier-division-2018-derry-city-bray-wanderers_2/
-ireland-2018,19,2018-05-21,19:45,201805211945,monday,Dundalk FC,Waterford United,2,0,2,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/premier-division-2018-dundalk-fc-waterford-united_2/
-ireland-2018,19,2018-05-22,20:00,201805222000,tuesday,Shamrock Rovers,St Patrick's Athletic,3,0,3,H,W,L,2,0,2,H,W,L,http://www.worldfootball.net/report/premier-division-2018-shamrock-rovers-st-patricks-athletic_2/
-ireland-2018,20,2018-05-25,19:45,201805251945,friday,Bohemian FC,Shamrock Rovers,1,1,2,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/premier-division-2018-bohemian-fc-shamrock-rovers_2/
-ireland-2018,20,2018-05-25,19:45,201805251945,friday,Dundalk FC,Bray Wanderers,5,0,5,H,W,L,3,0,3,H,W,L,http://www.worldfootball.net/report/premier-division-2018-dundalk-fc-bray-wanderers_2/
-ireland-2018,20,2018-05-25,19:45,201805251945,friday,St Patrick's Athletic,Cork City,1,3,4,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/premier-division-2018-st-patricks-athletic-cork-city_2/
-ireland-2018,20,2018-05-25,19:45,201805251945,friday,Sligo Rovers,Limerick FC,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/premier-division-2018-sligo-rovers-limerick-fc_2/
-ireland-2018,20,2018-05-25,19:45,201805251945,friday,Waterford United,Derry City,4,0,4,H,W,L,3,0,3,H,W,L,http://www.worldfootball.net/report/premier-division-2018-waterford-united-derry-city_2/
-ireland-2018,21,2018-06-01,19:45,201806011945,friday,Bray Wanderers,St Patrick's Athletic,3,1,4,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/premier-division-2018-bray-wanderers-st-patricks-athletic_2/
-ireland-2018,21,2018-06-01,19:45,201806011945,friday,Cork City,Waterford United,3,0,3,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/premier-division-2018-cork-city-waterford-united_2/
-ireland-2018,21,2018-06-01,19:45,201806011945,friday,Derry City,Sligo Rovers,0,2,2,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/premier-division-2018-derry-city-sligo-rovers/
-ireland-2018,21,2018-06-01,19:45,201806011945,friday,Limerick FC,Bohemian FC,1,1,2,D,D,D,1,0,1,H,W,L,http://www.worldfootball.net/report/premier-division-2018-limerick-fc-bohemian-fc_2/
-ireland-2018,21,2018-06-01,20:00,201806012000,friday,Shamrock Rovers,Dundalk FC,2,5,7,A,L,W,1,1,2,D,D,D,http://www.worldfootball.net/report/premier-division-2018-shamrock-rovers-dundalk-fc_2/
-ireland-2018,8,2018-06-04,15:00,201806041500,monday,Cork City,Derry City,4,2,6,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/premier-division-2018-cork-city-derry-city/
-ireland-2018,22,2018-06-08,19:45,201806081945,friday,Bohemian FC,Derry City,1,2,3,A,L,W,0,2,2,A,L,W,http://www.worldfootball.net/report/premier-division-2018-bohemian-fc-derry-city_2/
-ireland-2018,22,2018-06-08,19:45,201806081945,friday,Dundalk FC,Limerick FC,4,0,4,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/premier-division-2018-dundalk-fc-limerick-fc_2/
-ireland-2018,22,2018-06-08,19:45,201806081945,friday,Waterford United,St Patrick's Athletic,2,0,2,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/premier-division-2018-waterford-united-st-patricks-athletic_2/
-ireland-2018,22,2018-06-09,19:00,201806091900,saturday,Shamrock Rovers,Bray Wanderers,5,0,5,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/premier-division-2018-shamrock-rovers-bray-wanderers_2/
-ireland-2018,22,2018-06-09,19:45,201806091945,saturday,Sligo Rovers,Cork City,0,2,2,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/premier-division-2018-sligo-rovers-cork-city_2/
-ireland-2018,23,2018-06-15,19:45,201806151945,friday,Bray Wanderers,Waterford United,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/premier-division-2018-bray-wanderers-waterford-united_2/
-ireland-2018,23,2018-06-15,19:45,201806151945,friday,Cork City,Bohemian FC,1,0,1,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/premier-division-2018-cork-city-bohemian-fc_2/
-ireland-2018,23,2018-06-15,19:45,201806151945,friday,Derry City,Dundalk FC,0,4,4,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/premier-division-2018-derry-city-dundalk-fc_2/
-ireland-2018,23,2018-06-15,19:45,201806151945,friday,Limerick FC,Shamrock Rovers,0,2,2,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/premier-division-2018-limerick-fc-shamrock-rovers_2/
-ireland-2018,23,2018-06-15,19:45,201806151945,friday,St Patrick's Athletic,Sligo Rovers,0,3,3,A,L,W,0,2,2,A,L,W,http://www.worldfootball.net/report/premier-division-2018-st-patricks-athletic-sligo-rovers_2/
-ireland-2018,24,2018-06-29,19:35,201806291935,friday,Dundalk FC,Cork City,2,1,3,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/premier-division-2018-dundalk-fc-cork-city-spiel/
-ireland-2018,24,2018-06-29,19:45,201806291945,friday,Bohemian FC,St Patrick's Athletic,1,0,1,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/premier-division-2018-bohemian-fc-st-patricks-athletic-spiel/
-ireland-2018,24,2018-06-29,19:45,201806291945,friday,Limerick FC,Bray Wanderers,2,1,3,H,W,L,2,1,3,H,W,L,http://www.worldfootball.net/report/premier-division-2018-limerick-fc-bray-wanderers-spiel/
-ireland-2018,24,2018-06-29,20:00,201806292000,friday,Shamrock Rovers,Derry City,2,0,2,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/premier-division-2018-shamrock-rovers-derry-city-spiel/
-ireland-2018,24,2018-06-30,19:45,201806301945,saturday,Sligo Rovers,Waterford United,2,3,5,A,L,W,2,3,5,A,L,W,http://www.worldfootball.net/report/premier-division-2018-sligo-rovers-waterford-united-spiel/
+ireland-2018,1,2018-02-16,19:30,201802161930,friday,Bohemian FC,Shamrock Rovers,3,1,4,H,W,L,0.0,1.0,1.0,A,L,W,http://www.worldfootball.net/report/premier-division-2018-bohemian-fc-shamrock-rovers/
+ireland-2018,1,2018-02-16,19:45,201802161945,friday,Dundalk FC,Bray Wanderers,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/premier-division-2018-dundalk-fc-bray-wanderers/
+ireland-2018,1,2018-02-16,19:45,201802161945,friday,St Patrick's Athletic,Cork City,2,3,5,A,L,W,1.0,2.0,3.0,A,L,W,http://www.worldfootball.net/report/premier-division-2018-st-patricks-athletic-cork-city/
+ireland-2018,1,2018-02-16,19:45,201802161945,friday,Waterford United,Derry City,2,1,3,H,W,L,1.0,1.0,2.0,D,D,D,http://www.worldfootball.net/report/premier-division-2018-waterford-united-derry-city/
+ireland-2018,1,2018-02-17,19:45,201802171945,saturday,Sligo Rovers,Limerick FC,0,1,1,A,L,W,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/premier-division-2018-sligo-rovers-limerick-fc/
+ireland-2018,2,2018-02-23,19:45,201802231945,friday,Bray Wanderers,St Patrick's Athletic,1,2,3,A,L,W,1.0,2.0,3.0,A,L,W,http://www.worldfootball.net/report/premier-division-2018-bray-wanderers-st-patricks-athletic/
+ireland-2018,2,2018-02-23,19:45,201802231945,friday,Cork City,Waterford United,2,0,2,H,W,L,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/premier-division-2018-cork-city-waterford-united/
+ireland-2018,2,2018-02-23,19:45,201802231945,friday,Sligo Rovers,Derry City,2,1,3,H,W,L,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/premier-division-2018-sligo-rovers-derry-city/
+ireland-2018,2,2018-02-23,20:00,201802232000,friday,Shamrock Rovers,Dundalk FC,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/premier-division-2018-shamrock-rovers-dundalk-fc/
+ireland-2018,2,2018-02-24,18:30,201802241830,saturday,Limerick FC,Bohemian FC,1,1,2,D,D,D,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/premier-division-2018-limerick-fc-bohemian-fc/
+ireland-2018,3,2018-02-26,19:45,201802261945,monday,Waterford United,St Patrick's Athletic,2,0,2,H,W,L,1.0,0.0,1.0,H,W,L,http://www.worldfootball.net/report/premier-division-2018-waterford-united-st-patricks-athletic/
+ireland-2018,3,2018-02-26,19:45,201802261945,monday,Sligo Rovers,Cork City,1,4,5,A,L,W,0.0,2.0,2.0,A,L,W,http://www.worldfootball.net/report/premier-division-2018-sligo-rovers-cork-city/
+ireland-2018,3,2018-02-26,20:00,201802262000,monday,Shamrock Rovers,Bray Wanderers,6,0,6,H,W,L,1.0,0.0,1.0,H,W,L,http://www.worldfootball.net/report/premier-division-2018-shamrock-rovers-bray-wanderers/
+ireland-2018,3,2018-02-27,19:45,201802271945,tuesday,Bohemian FC,Derry City,0,1,1,A,L,W,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/premier-division-2018-bohemian-fc-derry-city/
+ireland-2018,3,2018-02-27,19:45,201802271945,tuesday,Dundalk FC,Limerick FC,8,0,8,H,W,L,4.0,0.0,4.0,H,W,L,http://www.worldfootball.net/report/premier-division-2018-dundalk-fc-limerick-fc/
+ireland-2018,5,2018-03-09,19:45,201803091945,friday,Bohemian FC,St Patrick's Athletic,0,1,1,A,L,W,0.0,1.0,1.0,A,L,W,http://www.worldfootball.net/report/premier-division-2018-bohemian-fc-st-patricks-athletic/
+ireland-2018,5,2018-03-09,19:45,201803091945,friday,Limerick FC,Bray Wanderers,1,0,1,H,W,L,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/premier-division-2018-limerick-fc-bray-wanderers/
+ireland-2018,5,2018-03-09,19:45,201803091945,friday,Sligo Rovers,Waterford United,1,2,3,A,L,W,0.0,1.0,1.0,A,L,W,http://www.worldfootball.net/report/premier-division-2018-sligo-rovers-waterford-united/
+ireland-2018,5,2018-03-09,20:00,201803092000,friday,Dundalk FC,Cork City,1,0,1,H,W,L,1.0,0.0,1.0,H,W,L,http://www.worldfootball.net/report/premier-division-2018-dundalk-fc-cork-city/
+ireland-2018,5,2018-03-09,20:00,201803092000,friday,Shamrock Rovers,Derry City,6,1,7,H,W,L,1.0,0.0,1.0,H,W,L,http://www.worldfootball.net/report/premier-division-2018-shamrock-rovers-derry-city/
+ireland-2018,6,2018-03-12,19:45,201803121945,monday,Bray Wanderers,Sligo Rovers,1,2,3,A,L,W,0.0,2.0,2.0,A,L,W,http://www.worldfootball.net/report/premier-division-2018-bray-wanderers-sligo-rovers/
+ireland-2018,6,2018-03-12,19:45,201803121945,monday,Cork City,Shamrock Rovers,1,0,1,H,W,L,1.0,0.0,1.0,H,W,L,http://www.worldfootball.net/report/premier-division-2018-cork-city-shamrock-rovers/
+ireland-2018,6,2018-03-12,19:45,201803121945,monday,Derry City,Limerick FC,5,0,5,H,W,L,1.0,0.0,1.0,H,W,L,http://www.worldfootball.net/report/premier-division-2018-derry-city-limerick-fc/
+ireland-2018,6,2018-03-12,19:45,201803121945,monday,St Patrick's Athletic,Dundalk FC,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/premier-division-2018-st-patricks-athletic-dundalk-fc/
+ireland-2018,6,2018-03-12,19:45,201803121945,monday,Waterford United,Bohemian FC,1,0,1,H,W,L,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/premier-division-2018-waterford-united-bohemian-fc/
+ireland-2018,7,2018-03-16,19:45,201803161945,friday,Bohemian FC,Sligo Rovers,2,2,4,D,D,D,1.0,1.0,2.0,D,D,D,http://www.worldfootball.net/report/premier-division-2018-bohemian-fc-sligo-rovers/
+ireland-2018,7,2018-03-16,19:45,201803161945,friday,Derry City,Bray Wanderers,5,1,6,H,W,L,1.0,0.0,1.0,H,W,L,http://www.worldfootball.net/report/premier-division-2018-derry-city-bray-wanderers/
+ireland-2018,7,2018-03-16,19:45,201803161945,friday,Dundalk FC,Waterford United,1,0,1,H,W,L,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/premier-division-2018-dundalk-fc-waterford-united/
+ireland-2018,7,2018-03-16,19:45,201803161945,friday,Limerick FC,Cork City,1,1,2,D,D,D,1.0,1.0,2.0,D,D,D,http://www.worldfootball.net/report/premier-division-2018-limerick-fc-cork-city/
+ireland-2018,7,2018-03-16,20:00,201803162000,friday,Shamrock Rovers,St Patrick's Athletic,1,0,1,H,W,L,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/premier-division-2018-shamrock-rovers-st-patricks-athletic/
+ireland-2018,4,2018-03-19,15:00,201803191500,monday,Cork City,Bohemian FC,3,0,3,H,W,L,2.0,0.0,2.0,H,W,L,http://www.worldfootball.net/report/premier-division-2018-cork-city-bohemian-fc/
+ireland-2018,4,2018-03-19,18:30,201803191830,monday,Limerick FC,Shamrock Rovers,0,1,1,A,L,W,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/premier-division-2018-limerick-fc-shamrock-rovers/
+ireland-2018,8,2018-03-23,19:45,201803231945,friday,Bohemian FC,Bray Wanderers,2,1,3,H,W,L,1.0,1.0,2.0,D,D,D,http://www.worldfootball.net/report/premier-division-2018-bohemian-fc-bray-wanderers/
+ireland-2018,8,2018-03-23,19:45,201803231945,friday,St Patrick's Athletic,Limerick FC,1,0,1,H,W,L,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/premier-division-2018-st-patricks-athletic-limerick-fc/
+ireland-2018,8,2018-03-23,19:45,201803231945,friday,Waterford United,Shamrock Rovers,2,1,3,H,W,L,2.0,1.0,3.0,H,W,L,http://www.worldfootball.net/report/premier-division-2018-waterford-united-shamrock-rovers/
+ireland-2018,8,2018-03-24,19:45,201803241945,saturday,Sligo Rovers,Dundalk FC,0,2,2,A,L,W,0.0,1.0,1.0,A,L,W,http://www.worldfootball.net/report/premier-division-2018-sligo-rovers-dundalk-fc/
+ireland-2018,9,2018-03-30,19:30,201803301930,friday,Derry City,St Patrick's Athletic,2,1,3,H,W,L,1.0,0.0,1.0,H,W,L,http://www.worldfootball.net/report/premier-division-2018-derry-city-st-patricks-athletic/
+ireland-2018,9,2018-03-30,19:45,201803301945,friday,Bray Wanderers,Cork City,0,4,4,A,L,W,0.0,1.0,1.0,A,L,W,http://www.worldfootball.net/report/premier-division-2018-bray-wanderers-cork-city/
+ireland-2018,9,2018-03-30,19:45,201803301945,friday,Dundalk FC,Bohemian FC,3,0,3,H,W,L,2.0,0.0,2.0,H,W,L,http://www.worldfootball.net/report/premier-division-2018-dundalk-fc-bohemian-fc/
+ireland-2018,9,2018-03-30,19:45,201803301945,friday,Limerick FC,Waterford United,0,2,2,A,L,W,0.0,1.0,1.0,A,L,W,http://www.worldfootball.net/report/premier-division-2018-limerick-fc-waterford-united/
+ireland-2018,9,2018-03-30,20:00,201803302000,friday,Shamrock Rovers,Sligo Rovers,1,0,1,H,W,L,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/premier-division-2018-shamrock-rovers-sligo-rovers/
+ireland-2018,10,2018-04-06,19:30,201804061930,friday,Dundalk FC,Shamrock Rovers,2,1,3,H,W,L,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/premier-division-2018-dundalk-fc-shamrock-rovers/
+ireland-2018,10,2018-04-06,19:45,201804061945,friday,Bohemian FC,Limerick FC,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/premier-division-2018-bohemian-fc-limerick-fc/
+ireland-2018,10,2018-04-06,19:45,201804061945,friday,St Patrick's Athletic,Bray Wanderers,5,0,5,H,W,L,3.0,0.0,3.0,H,W,L,http://www.worldfootball.net/report/premier-division-2018-st-patricks-athletic-bray-wanderers/
+ireland-2018,10,2018-04-06,19:45,201804061945,friday,Waterford United,Cork City,2,1,3,H,W,L,0.0,1.0,1.0,A,L,W,http://www.worldfootball.net/report/premier-division-2018-waterford-united-cork-city/
+ireland-2018,10,2018-04-07,19:45,201804071945,saturday,Sligo Rovers,Derry City,0,2,2,A,L,W,0.0,1.0,1.0,A,L,W,http://www.worldfootball.net/report/premier-division-2018-sligo-rovers-derry-city_2/
+ireland-2018,11,2018-04-13,19:45,201804131945,friday,Bray Wanderers,Dundalk FC,0,2,2,A,L,W,0.0,1.0,1.0,A,L,W,http://www.worldfootball.net/report/premier-division-2018-bray-wanderers-dundalk-fc/
+ireland-2018,11,2018-04-13,19:45,201804131945,friday,Cork City,St Patrick's Athletic,1,0,1,H,W,L,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/premier-division-2018-cork-city-st-patricks-athletic/
+ireland-2018,11,2018-04-13,19:45,201804131945,friday,Derry City,Waterford United,1,0,1,H,W,L,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/premier-division-2018-derry-city-waterford-united/
+ireland-2018,11,2018-04-13,20:00,201804132000,friday,Shamrock Rovers,Bohemian FC,1,2,3,A,L,W,1.0,0.0,1.0,H,W,L,http://www.worldfootball.net/report/premier-division-2018-shamrock-rovers-bohemian-fc/
+ireland-2018,11,2018-04-14,18:30,201804141830,saturday,Limerick FC,Sligo Rovers,1,2,3,A,L,W,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/premier-division-2018-limerick-fc-sligo-rovers/
+ireland-2018,12,2018-04-16,19:45,201804161945,monday,Bray Wanderers,Shamrock Rovers,1,0,1,H,W,L,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/premier-division-2018-bray-wanderers-shamrock-rovers/
+ireland-2018,12,2018-04-16,19:45,201804161945,monday,Derry City,Bohemian FC,3,1,4,H,W,L,1.0,1.0,2.0,D,D,D,http://www.worldfootball.net/report/premier-division-2018-derry-city-bohemian-fc/
+ireland-2018,12,2018-04-16,19:45,201804161945,monday,St Patrick's Athletic,Waterford United,1,0,1,H,W,L,1.0,0.0,1.0,H,W,L,http://www.worldfootball.net/report/premier-division-2018-st-patricks-athletic-waterford-united/
+ireland-2018,12,2018-04-17,19:45,201804171945,tuesday,Cork City,Sligo Rovers,1,0,1,H,W,L,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/premier-division-2018-cork-city-sligo-rovers/
+ireland-2018,12,2018-04-17,19:45,201804171945,tuesday,Limerick FC,Dundalk FC,0,3,3,A,L,W,0.0,2.0,2.0,A,L,W,http://www.worldfootball.net/report/premier-division-2018-limerick-fc-dundalk-fc/
+ireland-2018,13,2018-04-20,19:45,201804201945,friday,Dundalk FC,Derry City,2,2,4,D,D,D,2.0,1.0,3.0,H,W,L,http://www.worldfootball.net/report/premier-division-2018-dundalk-fc-derry-city/
+ireland-2018,13,2018-04-20,19:45,201804201945,friday,Waterford United,Bray Wanderers,3,0,3,H,W,L,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/premier-division-2018-waterford-united-bray-wanderers/
+ireland-2018,13,2018-04-20,20:00,201804202000,friday,Bohemian FC,Cork City,0,2,2,A,L,W,0.0,1.0,1.0,A,L,W,http://www.worldfootball.net/report/premier-division-2018-bohemian-fc-cork-city/
+ireland-2018,13,2018-04-20,20:00,201804202000,friday,Shamrock Rovers,Limerick FC,1,1,2,D,D,D,1.0,0.0,1.0,H,W,L,http://www.worldfootball.net/report/premier-division-2018-shamrock-rovers-limerick-fc/
+ireland-2018,13,2018-04-21,19:45,201804211945,saturday,Sligo Rovers,St Patrick's Athletic,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/premier-division-2018-sligo-rovers-st-patricks-athletic/
+ireland-2018,14,2018-04-27,19:15,201804271915,friday,Cork City,Dundalk FC,1,0,1,H,W,L,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/premier-division-2018-cork-city-dundalk-fc/
+ireland-2018,14,2018-04-27,19:45,201804271945,friday,Bray Wanderers,Limerick FC,0,1,1,A,L,W,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/premier-division-2018-bray-wanderers-limerick-fc/
+ireland-2018,14,2018-04-27,19:45,201804271945,friday,Derry City,Shamrock Rovers,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/premier-division-2018-derry-city-shamrock-rovers/
+ireland-2018,14,2018-04-27,19:45,201804271945,friday,St Patrick's Athletic,Bohemian FC,2,2,4,D,D,D,1.0,0.0,1.0,H,W,L,http://www.worldfootball.net/report/premier-division-2018-st-patricks-athletic-bohemian-fc/
+ireland-2018,14,2018-04-27,19:45,201804271945,friday,Waterford United,Sligo Rovers,1,1,2,D,D,D,1.0,1.0,2.0,D,D,D,http://www.worldfootball.net/report/premier-division-2018-waterford-united-sligo-rovers/
+ireland-2018,15,2018-04-30,19:45,201804301945,monday,Bohemian FC,Waterford United,0,1,1,A,L,W,0.0,1.0,1.0,A,L,W,http://www.worldfootball.net/report/premier-division-2018-bohemian-fc-waterford-united/
+ireland-2018,15,2018-04-30,19:45,201804301945,monday,Dundalk FC,St Patrick's Athletic,5,0,5,H,W,L,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/premier-division-2018-dundalk-fc-st-patricks-athletic/
+ireland-2018,15,2018-04-30,19:45,201804301945,monday,Limerick FC,Derry City,0,3,3,A,L,W,0.0,1.0,1.0,A,L,W,http://www.worldfootball.net/report/premier-division-2018-limerick-fc-derry-city/
+ireland-2018,15,2018-04-30,19:45,201804301945,monday,Sligo Rovers,Bray Wanderers,2,1,3,H,W,L,2.0,0.0,2.0,H,W,L,http://www.worldfootball.net/report/premier-division-2018-sligo-rovers-bray-wanderers/
+ireland-2018,15,2018-04-30,20:00,201804302000,monday,Shamrock Rovers,Cork City,3,0,3,H,W,L,2.0,0.0,2.0,H,W,L,http://www.worldfootball.net/report/premier-division-2018-shamrock-rovers-cork-city/
+ireland-2018,16,2018-05-04,19:45,201805041945,friday,Bray Wanderers,Derry City,2,1,3,H,W,L,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/premier-division-2018-bray-wanderers-derry-city/
+ireland-2018,16,2018-05-04,19:45,201805041945,friday,St Patrick's Athletic,Shamrock Rovers,2,0,2,H,W,L,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/premier-division-2018-st-patricks-athletic-shamrock-rovers/
+ireland-2018,16,2018-05-04,19:45,201805041945,friday,Waterford United,Dundalk FC,2,1,3,H,W,L,2.0,1.0,3.0,H,W,L,http://www.worldfootball.net/report/premier-division-2018-waterford-united-dundalk-fc/
+ireland-2018,16,2018-05-05,14:00,201805051400,saturday,Cork City,Limerick FC,2,1,3,H,W,L,1.0,1.0,2.0,D,D,D,http://www.worldfootball.net/report/premier-division-2018-cork-city-limerick-fc/
+ireland-2018,16,2018-05-05,19:45,201805051945,saturday,Sligo Rovers,Bohemian FC,0,2,2,A,L,W,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/premier-division-2018-sligo-rovers-bohemian-fc/
+ireland-2018,17,2018-05-11,19:45,201805111945,friday,Bray Wanderers,Bohemian FC,1,3,4,A,L,W,1.0,2.0,3.0,A,L,W,http://www.worldfootball.net/report/premier-division-2018-bray-wanderers-bohemian-fc/
+ireland-2018,17,2018-05-11,19:45,201805111945,friday,Derry City,Cork City,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/premier-division-2018-derry-city-cork-city/
+ireland-2018,17,2018-05-11,19:45,201805111945,friday,Dundalk FC,Sligo Rovers,2,1,3,H,W,L,1.0,1.0,2.0,D,D,D,http://www.worldfootball.net/report/premier-division-2018-dundalk-fc-sligo-rovers/
+ireland-2018,17,2018-05-11,19:45,201805111945,friday,Limerick FC,St Patrick's Athletic,0,1,1,A,L,W,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/premier-division-2018-limerick-fc-st-patricks-athletic/
+ireland-2018,17,2018-05-11,20:00,201805112000,friday,Shamrock Rovers,Waterford United,1,1,2,D,D,D,0.0,1.0,1.0,A,L,W,http://www.worldfootball.net/report/premier-division-2018-shamrock-rovers-waterford-united/
+ireland-2018,4,2018-05-14,19:45,201805141945,monday,Bray Wanderers,Waterford United,2,2,4,D,D,D,1.0,1.0,2.0,D,D,D,http://www.worldfootball.net/report/premier-division-2018-bray-wanderers-waterford-united/
+ireland-2018,4,2018-05-14,19:45,201805141945,monday,Derry City,Dundalk FC,1,4,5,A,L,W,1.0,2.0,3.0,A,L,W,http://www.worldfootball.net/report/premier-division-2018-derry-city-dundalk-fc/
+ireland-2018,4,2018-05-15,19:45,201805151945,tuesday,St Patrick's Athletic,Sligo Rovers,2,0,2,H,W,L,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/premier-division-2018-st-patricks-athletic-sligo-rovers/
+ireland-2018,18,2018-05-18,19:45,201805181945,friday,Bohemian FC,Dundalk FC,0,2,2,A,L,W,0.0,1.0,1.0,A,L,W,http://www.worldfootball.net/report/premier-division-2018-bohemian-fc-dundalk-fc/
+ireland-2018,18,2018-05-18,19:45,201805181945,friday,Cork City,Bray Wanderers,4,0,4,H,W,L,2.0,0.0,2.0,H,W,L,http://www.worldfootball.net/report/premier-division-2018-cork-city-bray-wanderers/
+ireland-2018,18,2018-05-18,19:45,201805181945,friday,St Patrick's Athletic,Derry City,5,2,7,H,W,L,3.0,2.0,5.0,H,W,L,http://www.worldfootball.net/report/premier-division-2018-st-patricks-athletic-derry-city/
+ireland-2018,18,2018-05-18,19:45,201805181945,friday,Waterford United,Limerick FC,3,6,9,A,L,W,1.0,3.0,4.0,A,L,W,http://www.worldfootball.net/report/premier-division-2018-waterford-united-limerick-fc/
+ireland-2018,18,2018-05-19,19:45,201805191945,saturday,Sligo Rovers,Shamrock Rovers,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/premier-division-2018-sligo-rovers-shamrock-rovers/
+ireland-2018,19,2018-05-21,19:45,201805211945,monday,Limerick FC,Cork City,0,2,2,A,L,W,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/premier-division-2018-limerick-fc-cork-city_2/
+ireland-2018,19,2018-05-21,19:45,201805211945,monday,Derry City,Bray Wanderers,2,0,2,H,W,L,1.0,0.0,1.0,H,W,L,http://www.worldfootball.net/report/premier-division-2018-derry-city-bray-wanderers_2/
+ireland-2018,19,2018-05-21,19:45,201805211945,monday,Dundalk FC,Waterford United,2,0,2,H,W,L,1.0,0.0,1.0,H,W,L,http://www.worldfootball.net/report/premier-division-2018-dundalk-fc-waterford-united_2/
+ireland-2018,19,2018-05-22,20:00,201805222000,tuesday,Shamrock Rovers,St Patrick's Athletic,3,0,3,H,W,L,2.0,0.0,2.0,H,W,L,http://www.worldfootball.net/report/premier-division-2018-shamrock-rovers-st-patricks-athletic_2/
+ireland-2018,20,2018-05-25,19:45,201805251945,friday,Bohemian FC,Shamrock Rovers,1,1,2,D,D,D,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/premier-division-2018-bohemian-fc-shamrock-rovers_2/
+ireland-2018,20,2018-05-25,19:45,201805251945,friday,Dundalk FC,Bray Wanderers,5,0,5,H,W,L,3.0,0.0,3.0,H,W,L,http://www.worldfootball.net/report/premier-division-2018-dundalk-fc-bray-wanderers_2/
+ireland-2018,20,2018-05-25,19:45,201805251945,friday,St Patrick's Athletic,Cork City,1,3,4,A,L,W,0.0,1.0,1.0,A,L,W,http://www.worldfootball.net/report/premier-division-2018-st-patricks-athletic-cork-city_2/
+ireland-2018,20,2018-05-25,19:45,201805251945,friday,Sligo Rovers,Limerick FC,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/premier-division-2018-sligo-rovers-limerick-fc_2/
+ireland-2018,20,2018-05-25,19:45,201805251945,friday,Waterford United,Derry City,4,0,4,H,W,L,3.0,0.0,3.0,H,W,L,http://www.worldfootball.net/report/premier-division-2018-waterford-united-derry-city_2/
+ireland-2018,21,2018-06-01,19:45,201806011945,friday,Bray Wanderers,St Patrick's Athletic,3,1,4,H,W,L,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/premier-division-2018-bray-wanderers-st-patricks-athletic_2/
+ireland-2018,21,2018-06-01,19:45,201806011945,friday,Cork City,Waterford United,3,0,3,H,W,L,1.0,0.0,1.0,H,W,L,http://www.worldfootball.net/report/premier-division-2018-cork-city-waterford-united_2/
+ireland-2018,21,2018-06-01,19:45,201806011945,friday,Derry City,Sligo Rovers,0,2,2,A,L,W,0.0,1.0,1.0,A,L,W,http://www.worldfootball.net/report/premier-division-2018-derry-city-sligo-rovers/
+ireland-2018,21,2018-06-01,19:45,201806011945,friday,Limerick FC,Bohemian FC,1,1,2,D,D,D,1.0,0.0,1.0,H,W,L,http://www.worldfootball.net/report/premier-division-2018-limerick-fc-bohemian-fc_2/
+ireland-2018,21,2018-06-01,20:00,201806012000,friday,Shamrock Rovers,Dundalk FC,2,5,7,A,L,W,1.0,1.0,2.0,D,D,D,http://www.worldfootball.net/report/premier-division-2018-shamrock-rovers-dundalk-fc_2/
+ireland-2018,8,2018-06-04,15:00,201806041500,monday,Cork City,Derry City,4,2,6,H,W,L,1.0,0.0,1.0,H,W,L,http://www.worldfootball.net/report/premier-division-2018-cork-city-derry-city/
+ireland-2018,22,2018-06-08,19:45,201806081945,friday,Bohemian FC,Derry City,1,2,3,A,L,W,0.0,2.0,2.0,A,L,W,http://www.worldfootball.net/report/premier-division-2018-bohemian-fc-derry-city_2/
+ireland-2018,22,2018-06-08,19:45,201806081945,friday,Dundalk FC,Limerick FC,4,0,4,H,W,L,1.0,0.0,1.0,H,W,L,http://www.worldfootball.net/report/premier-division-2018-dundalk-fc-limerick-fc_2/
+ireland-2018,22,2018-06-08,19:45,201806081945,friday,Waterford United,St Patrick's Athletic,2,0,2,H,W,L,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/premier-division-2018-waterford-united-st-patricks-athletic_2/
+ireland-2018,22,2018-06-09,19:00,201806091900,saturday,Shamrock Rovers,Bray Wanderers,5,0,5,H,W,L,1.0,0.0,1.0,H,W,L,http://www.worldfootball.net/report/premier-division-2018-shamrock-rovers-bray-wanderers_2/
+ireland-2018,22,2018-06-09,19:45,201806091945,saturday,Sligo Rovers,Cork City,0,2,2,A,L,W,0.0,1.0,1.0,A,L,W,http://www.worldfootball.net/report/premier-division-2018-sligo-rovers-cork-city_2/
+ireland-2018,23,2018-06-15,19:45,201806151945,friday,Bray Wanderers,Waterford United,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/premier-division-2018-bray-wanderers-waterford-united_2/
+ireland-2018,23,2018-06-15,19:45,201806151945,friday,Cork City,Bohemian FC,1,0,1,H,W,L,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/premier-division-2018-cork-city-bohemian-fc_2/
+ireland-2018,23,2018-06-15,19:45,201806151945,friday,Derry City,Dundalk FC,0,4,4,A,L,W,0.0,1.0,1.0,A,L,W,http://www.worldfootball.net/report/premier-division-2018-derry-city-dundalk-fc_2/
+ireland-2018,23,2018-06-15,19:45,201806151945,friday,Limerick FC,Shamrock Rovers,0,2,2,A,L,W,0.0,1.0,1.0,A,L,W,http://www.worldfootball.net/report/premier-division-2018-limerick-fc-shamrock-rovers_2/
+ireland-2018,23,2018-06-15,19:45,201806151945,friday,St Patrick's Athletic,Sligo Rovers,0,3,3,A,L,W,0.0,2.0,2.0,A,L,W,http://www.worldfootball.net/report/premier-division-2018-st-patricks-athletic-sligo-rovers_2/
+ireland-2018,24,2018-06-29,19:35,201806291935,friday,Dundalk FC,Cork City,2,1,3,H,W,L,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/premier-division-2018-dundalk-fc-cork-city_2/
+ireland-2018,24,2018-06-29,19:45,201806291945,friday,Bohemian FC,St Patrick's Athletic,1,0,1,H,W,L,1.0,0.0,1.0,H,W,L,http://www.worldfootball.net/report/premier-division-2018-bohemian-fc-st-patricks-athletic_2/
+ireland-2018,24,2018-06-29,19:45,201806291945,friday,Limerick FC,Bray Wanderers,2,1,3,H,W,L,2.0,1.0,3.0,H,W,L,http://www.worldfootball.net/report/premier-division-2018-limerick-fc-bray-wanderers_2/
+ireland-2018,24,2018-06-29,20:00,201806292000,friday,Shamrock Rovers,Derry City,2,0,2,H,W,L,1.0,0.0,1.0,H,W,L,http://www.worldfootball.net/report/premier-division-2018-shamrock-rovers-derry-city_2/
+ireland-2018,24,2018-06-30,19:45,201806301945,saturday,Sligo Rovers,Waterford United,2,3,5,A,L,W,2.0,3.0,5.0,A,L,W,http://www.worldfootball.net/report/premier-division-2018-sligo-rovers-waterford-united_2/
+ireland-2018,25,2018-07-06,19:45,201807061945,friday,Cork City,Shamrock Rovers,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/premier-division-2018-cork-city-shamrock-rovers_2/
+ireland-2018,25,2018-07-06,19:45,201807061945,friday,Derry City,Limerick FC,2,1,3,H,W,L,1.0,1.0,2.0,D,D,D,http://www.worldfootball.net/report/premier-division-2018-derry-city-limerick-fc_2/
+ireland-2018,25,2018-07-06,19:45,201807061945,friday,St Patrick's Athletic,Dundalk FC,1,3,4,A,L,W,1.0,0.0,1.0,H,W,L,http://www.worldfootball.net/report/premier-division-2018-st-patricks-athletic-dundalk-fc_2/
+ireland-2018,25,2018-07-06,19:45,201807061945,friday,Waterford United,Bohemian FC,1,1,2,D,D,D,0.0,1.0,1.0,A,L,W,http://www.worldfootball.net/report/premier-division-2018-waterford-united-bohemian-fc_2/
+ireland-2018,25,2018-07-08,16:00,201807081600,sunday,Bray Wanderers,Sligo Rovers,2,1,3,H,W,L,1.0,0.0,1.0,H,W,L,http://www.worldfootball.net/report/premier-division-2018-bray-wanderers-sligo-rovers_2/
+ireland-2018,19,2018-07-13,19:45,201807131945,friday,Bohemian FC,Sligo Rovers,0,3,3,A,L,W,0.0,2.0,2.0,A,L,W,http://www.worldfootball.net/report/premier-division-2018-bohemian-fc-sligo-rovers_2/
+ireland-2018,26,2018-07-20,19:45,201807201945,friday,Bohemian FC,Bray Wanderers,6,0,6,H,W,L,4.0,0.0,4.0,H,W,L,http://www.worldfootball.net/report/premier-division-2018-bohemian-fc-bray-wanderers_2/
+ireland-2018,26,2018-07-20,20:00,201807202000,friday,St Patrick's Athletic,Limerick FC,2,1,3,H,W,L,0.0,1.0,1.0,A,L,W,http://www.worldfootball.net/report/premier-division-2018-st-patricks-athletic-limerick-fc_2/
+ireland-2018,26,2018-07-22,15:00,201807221500,sunday,Waterford United,Shamrock Rovers,0,1,1,A,L,W,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/premier-division-2018-waterford-united-shamrock-rovers_2/
+ireland-2018,26,2018-07-23,19:45,201807231945,monday,Cork City,Derry City,5,0,5,H,W,L,2.0,0.0,2.0,H,W,L,http://www.worldfootball.net/report/premier-division-2018-cork-city-derry-city_2/
+ireland-2018,27,2018-07-27,19:45,201807271945,friday,Bray Wanderers,Cork City,1,3,4,A,L,W,0.0,3.0,3.0,A,L,W,http://www.worldfootball.net/report/premier-division-2018-bray-wanderers-cork-city_2/
+ireland-2018,27,2018-07-27,19:45,201807271945,friday,Derry City,St Patrick's Athletic,2,1,3,H,W,L,1.0,1.0,2.0,D,D,D,http://www.worldfootball.net/report/premier-division-2018-derry-city-st-patricks-athletic_2/
+ireland-2018,27,2018-07-27,19:45,201807271945,friday,Limerick FC,Waterford United,2,1,3,H,W,L,1.0,0.0,1.0,H,W,L,http://www.worldfootball.net/report/premier-division-2018-limerick-fc-waterford-united_2/
+ireland-2018,27,2018-07-27,20:00,201807272000,friday,Shamrock Rovers,Sligo Rovers,2,0,2,H,W,L,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/premier-division-2018-shamrock-rovers-sligo-rovers_2/
+ireland-2018,27,2018-07-29,19:00,201807291900,sunday,Dundalk FC,Bohemian FC,2,0,2,H,W,L,1.0,0.0,1.0,H,W,L,http://www.worldfootball.net/report/premier-division-2018-dundalk-fc-bohemian-fc_2/
+ireland-2018,28,2018-08-03,19:45,201808031945,friday,Bohemian FC,Limerick FC,5,0,5,H,W,L,2.0,0.0,2.0,H,W,L,http://www.worldfootball.net/report/premier-division-2018-bohemian-fc-limerick-fc_2/
+ireland-2018,28,2018-08-03,19:45,201808031945,friday,St Patrick's Athletic,Bray Wanderers,3,0,3,H,W,L,1.0,0.0,1.0,H,W,L,http://www.worldfootball.net/report/premier-division-2018-st-patricks-athletic-bray-wanderers_2/
+ireland-2018,28,2018-08-03,19:45,201808031945,friday,Derry City,Sligo Rovers,1,2,3,A,L,W,1.0,0.0,1.0,H,W,L,http://www.worldfootball.net/report/premier-division-2018-derry-city-sligo-rovers_2/
+ireland-2018,28,2018-08-03,20:00,201808032000,friday,Waterford United,Cork City,1,2,3,A,L,W,1.0,1.0,2.0,D,D,D,http://www.worldfootball.net/report/premier-division-2018-waterford-united-cork-city_2/
+ireland-2018,29,2018-08-17,19:45,201808171945,friday,Bray Wanderers,Dundalk FC,1,3,4,A,L,W,0.0,2.0,2.0,A,L,W,http://www.worldfootball.net/report/premier-division-2018-bray-wanderers-dundalk-fc_2/
+ireland-2018,29,2018-08-17,19:45,201808171945,friday,Derry City,Waterford United,1,2,3,A,L,W,1.0,2.0,3.0,A,L,W,http://www.worldfootball.net/report/premier-division-2018-derry-city-waterford-united_2/
+ireland-2018,29,2018-08-17,19:45,201808171945,friday,Limerick FC,Sligo Rovers,1,3,4,A,L,W,0.0,1.0,1.0,A,L,W,http://www.worldfootball.net/report/premier-division-2018-limerick-fc-sligo-rovers_2/
+ireland-2018,29,2018-08-17,20:00,201808172000,friday,Shamrock Rovers,Bohemian FC,0,1,1,A,L,W,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/premier-division-2018-shamrock-rovers-bohemian-fc_2/
+ireland-2018,29,2018-08-19,19:00,201808191900,sunday,Cork City,St Patrick's Athletic,1,1,2,D,D,D,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/premier-division-2018-cork-city-st-patricks-athletic_2/
+ireland-2018,26,2018-08-20,19:45,201808201945,monday,Sligo Rovers,Dundalk FC,0,2,2,A,L,W,0.0,1.0,1.0,A,L,W,http://www.worldfootball.net/report/premier-division-2018-sligo-rovers-dundalk-fc_2/
+ireland-2018,28,2018-08-28,19:45,201808281945,tuesday,Dundalk FC,Shamrock Rovers,1,2,3,A,L,W,0.0,1.0,1.0,A,L,W,http://www.worldfootball.net/report/premier-division-2018-dundalk-fc-shamrock-rovers_2/
+ireland-2018,30,2018-08-31,19:45,201808311945,friday,Bray Wanderers,Shamrock Rovers,0,3,3,A,L,W,0.0,1.0,1.0,A,L,W,http://www.worldfootball.net/report/premier-division-2018-bray-wanderers-shamrock-rovers_2/
+ireland-2018,30,2018-08-31,19:45,201808311945,friday,Cork City,Sligo Rovers,1,2,3,A,L,W,1.0,0.0,1.0,H,W,L,http://www.worldfootball.net/report/premier-division-2018-cork-city-sligo-rovers_2/
+ireland-2018,30,2018-08-31,19:45,201808311945,friday,Derry City,Bohemian FC,0,2,2,A,L,W,0.0,1.0,1.0,A,L,W,http://www.worldfootball.net/report/premier-division-2018-derry-city-bohemian-fc_2/
+ireland-2018,30,2018-08-31,19:45,201808311945,friday,St Patrick's Athletic,Waterford United,3,0,3,H,W,L,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/premier-division-2018-st-patricks-athletic-waterford-united_2/
+ireland-2018,30,2018-08-31,19:45,201808311945,friday,Limerick FC,Dundalk FC,0,1,1,A,L,W,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/premier-division-2018-limerick-fc-dundalk-fc_2/
+ireland-2018,31,2018-09-14,19:35,201809141935,friday,Bohemian FC,Cork City,4,2,6,H,W,L,4.0,1.0,5.0,H,W,L,http://www.worldfootball.net/report/premier-division-2018-bohemian-fc-cork-city_2/
+ireland-2018,31,2018-09-14,19:45,201809141945,friday,Waterford United,Bray Wanderers,2,0,2,H,W,L,1.0,0.0,1.0,H,W,L,http://www.worldfootball.net/report/premier-division-2018-waterford-united-bray-wanderers_2/
+ireland-2018,31,2018-09-14,20:00,201809142000,friday,Shamrock Rovers,Limerick FC,5,0,5,H,W,L,4.0,0.0,4.0,H,W,L,http://www.worldfootball.net/report/premier-division-2018-shamrock-rovers-limerick-fc_2/
+ireland-2018,31,2018-09-15,19:45,201809151945,saturday,Sligo Rovers,St Patrick's Athletic,1,2,3,A,L,W,1.0,1.0,2.0,D,D,D,http://www.worldfootball.net/report/premier-division-2018-sligo-rovers-st-patricks-athletic_2/
+ireland-2018,32,2018-09-21,19:15,201809211915,friday,Cork City,Dundalk FC,0,1,1,A,L,W,0.0,1.0,1.0,A,L,W,http://www.worldfootball.net/report/premier-division-2018-cork-city-dundalk-fc_2/
+ireland-2018,32,2018-09-21,19:45,201809211945,friday,Bray Wanderers,Limerick FC,0,2,2,A,L,W,0.0,2.0,2.0,A,L,W,http://www.worldfootball.net/report/premier-division-2018-bray-wanderers-limerick-fc_2/
+ireland-2018,32,2018-09-21,19:45,201809211945,friday,Waterford United,Sligo Rovers,1,0,1,H,W,L,1.0,0.0,1.0,H,W,L,http://www.worldfootball.net/report/premier-division-2018-waterford-united-sligo-rovers_2/
+ireland-2018,32,2018-09-22,17:00,201809221700,saturday,Derry City,Shamrock Rovers,0,1,1,A,L,W,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/premier-division-2018-derry-city-shamrock-rovers_2/
+ireland-2018,32,2018-09-22,17:30,201809221730,saturday,St Patrick's Athletic,Bohemian FC,1,3,4,A,L,W,1.0,1.0,2.0,D,D,D,http://www.worldfootball.net/report/premier-division-2018-st-patricks-athletic-bohemian-fc_2/
+ireland-2018,31,2018-09-25,20:00,201809252000,tuesday,Dundalk FC,Derry City,3,2,5,H,W,L,3.0,0.0,3.0,H,W,L,http://www.worldfootball.net/report/premier-division-2018-dundalk-fc-derry-city_2/
+ireland-2018,33,2018-10-05,19:45,201810051945,friday,Bohemian FC,Waterford United,1,3,4,A,L,W,1.0,2.0,3.0,A,L,W,http://www.worldfootball.net/report/premier-division-2018-bohemian-fc-waterford-united_2/
+ireland-2018,33,2018-10-05,19:45,201810051945,friday,Dundalk FC,St Patrick's Athletic,1,1,2,D,D,D,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/premier-division-2018-dundalk-fc-st-patricks-athletic_2/
+ireland-2018,33,2018-10-05,19:45,201810051945,friday,Shamrock Rovers,Cork City,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/premier-division-2018-shamrock-rovers-cork-city_2/
+ireland-2018,33,2018-10-05,19:45,201810051945,friday,Limerick FC,Derry City,0,1,1,A,L,W,0.0,1.0,1.0,A,L,W,http://www.worldfootball.net/report/premier-division-2018-limerick-fc-derry-city_2/
+ireland-2018,33,2018-10-06,19:45,201810061945,saturday,Sligo Rovers,Bray Wanderers,2,1,3,H,W,L,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/premier-division-2018-sligo-rovers-bray-wanderers_2/
+ireland-2018,34,2018-10-12,19:45,201810121945,friday,Cork City,Limerick FC,3,0,3,H,W,L,1.0,0.0,1.0,H,W,L,http://www.worldfootball.net/report/premier-division-2018-cork-city-limerick-fc_2/
+ireland-2018,34,2018-10-12,19:45,201810121945,friday,St Patrick's Athletic,Shamrock Rovers,0,1,1,A,L,W,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/premier-division-2018-st-patricks-athletic-shamrock-rovers_2/
+ireland-2018,34,2018-10-12,19:45,201810121945,friday,Waterford United,Dundalk FC,1,2,3,A,L,W,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/premier-division-2018-waterford-united-dundalk-fc_2/
+ireland-2018,35,2018-10-19,19:45,201810191945,friday,Limerick FC,St Patrick's Athletic,0,4,4,A,L,W,0.0,2.0,2.0,A,L,W,http://www.worldfootball.net/report/premier-division-2018-limerick-fc-st-patricks-athletic_2/
+ireland-2018,35,2018-10-19,19:45,201810191945,friday,Bray Wanderers,Bohemian FC,0,5,5,A,L,W,0.0,4.0,4.0,A,L,W,http://www.worldfootball.net/report/premier-division-2018-bray-wanderers-bohemian-fc_2/
+ireland-2018,35,2018-10-19,19:45,201810191945,friday,Derry City,Cork City,0,3,3,A,L,W,0.0,1.0,1.0,A,L,W,http://www.worldfootball.net/report/premier-division-2018-derry-city-cork-city_2/
+ireland-2018,35,2018-10-19,19:45,201810191945,friday,Dundalk FC,Sligo Rovers,5,0,5,H,W,L,3.0,0.0,3.0,H,W,L,http://www.worldfootball.net/report/premier-division-2018-dundalk-fc-sligo-rovers_2/
+ireland-2018,35,2018-10-19,20:00,201810192000,friday,Shamrock Rovers,Waterford United,3,1,4,H,W,L,2.0,0.0,2.0,H,W,L,http://www.worldfootball.net/report/premier-division-2018-shamrock-rovers-waterford-united_2/
+ireland-2018,34,2018-10-22,19:45,201810221945,monday,Bray Wanderers,Derry City,2,1,3,H,W,L,1.0,1.0,2.0,D,D,D,http://www.worldfootball.net/report/premier-division-2018-bray-wanderers-derry-city_2/
+ireland-2018,34,2018-10-22,19:45,201810221945,monday,Sligo Rovers,Bohemian FC,1,1,2,D,D,D,1.0,1.0,2.0,D,D,D,http://www.worldfootball.net/report/premier-division-2018-sligo-rovers-bohemian-fc_2/
+ireland-2018,36,2018-10-26,19:45,201810261945,friday,Bohemian FC,Dundalk FC,1,1,2,D,D,D,1.0,0.0,1.0,H,W,L,http://www.worldfootball.net/report/premier-division-2018-bohemian-fc-dundalk-fc_2/
+ireland-2018,36,2018-10-26,19:45,201810261945,friday,Cork City,Bray Wanderers,5,1,6,H,W,L,4.0,0.0,4.0,H,W,L,http://www.worldfootball.net/report/premier-division-2018-cork-city-bray-wanderers_2/
+ireland-2018,36,2018-10-26,19:45,201810261945,friday,St Patrick's Athletic,Derry City,5,0,5,H,W,L,3.0,0.0,3.0,H,W,L,http://www.worldfootball.net/report/premier-division-2018-st-patricks-athletic-derry-city_2/
+ireland-2018,36,2018-10-26,19:45,201810261945,friday,Sligo Rovers,Shamrock Rovers,2,0,2,H,W,L,1.0,0.0,1.0,H,W,L,http://www.worldfootball.net/report/premier-division-2018-sligo-rovers-shamrock-rovers_2/
+ireland-2018,36,2018-10-26,19:45,201810261945,friday,Waterford United,Limerick FC,4,1,5,H,W,L,2.0,1.0,3.0,H,W,L,http://www.worldfootball.net/report/premier-division-2018-waterford-united-limerick-fc_2/
+ireland-2019,1,2019-02-15,19:45,201902151945,friday,Bohemian FC,Finn Harps,1,0,1,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/premier-division-2019-bohemian-fc-finn-harps/
+ireland-2019,1,2019-02-15,19:45,201902151945,friday,Derry City,UC Dublin,3,0,3,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/premier-division-2019-derry-city-uc-dublin/
+ireland-2019,1,2019-02-15,19:45,201902151945,friday,Dundalk FC,Sligo Rovers,1,1,2,D,D,D,0,1,1,A,L,W,http://www.worldfootball.net/report/premier-division-2019-dundalk-fc-sligo-rovers/
+ireland-2019,1,2019-02-15,19:45,201902151945,friday,St Patrick's Athletic,Cork City,1,0,1,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/premier-division-2019-st-patricks-athletic-cork-city/
+ireland-2019,1,2019-02-15,19:45,201902151945,friday,Waterford United,Shamrock Rovers,1,2,3,A,L,W,1,0,1,H,W,L,http://www.worldfootball.net/report/premier-division-2019-waterford-united-shamrock-rovers/
+ireland-2019,2,2019-02-22,19:45,201902221945,friday,Cork City,Waterford United,0,2,2,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/premier-division-2019-cork-city-waterford-united/
+ireland-2019,2,2019-02-22,19:45,201902221945,friday,Sligo Rovers,St Patrick's Athletic,0,1,1,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/premier-division-2019-sligo-rovers-st-patricks-athletic/
+ireland-2019,2,2019-02-22,19:45,201902221945,friday,UC Dublin,Bohemian FC,0,2,2,A,L,W,0,2,2,A,L,W,http://www.worldfootball.net/report/premier-division-2019-uc-dublin-bohemian-fc/
+ireland-2019,2,2019-02-22,20:00,201902222000,friday,Finn Harps,Dundalk FC,1,1,2,D,D,D,1,0,1,H,W,L,http://www.worldfootball.net/report/premier-division-2019-finn-harps-dundalk-fc/
+ireland-2019,2,2019-02-22,20:00,201902222000,friday,Shamrock Rovers,Derry City,2,0,2,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/premier-division-2019-shamrock-rovers-derry-city/

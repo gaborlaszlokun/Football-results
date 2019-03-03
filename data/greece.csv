@@ -3,13 +3,13 @@ greece-1994-1995,1,1994-09-24,,199409240000,saturday,Ethnikos Piräus,OFI Herakl
 greece-1994-1995,1,1994-09-24,,199409240000,saturday,AO Edessaikos,Levadiakos,1,0,1,H,W,L,,,,,,,
 greece-1994-1995,1,1994-09-24,,199409240000,saturday,Apollon Smyrnis,Panathinaikos,2,3,5,A,L,W,,,,,,,
 greece-1994-1995,1,1994-09-24,,199409240000,saturday,Doxa Dramas FC,Olympiakos Piräus,0,1,1,A,L,W,,,,,,,
-greece-1994-1995,1,1994-09-24,,199409240000,saturday,AE Larisa,Aris Saloniki,0,0,0,D,D,D,0,0,0,D,D,D,
+greece-1994-1995,1,1994-09-24,,199409240000,saturday,AE Larisa,Aris Saloniki,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
 greece-1994-1995,1,1994-09-24,,199409240000,saturday,Skoda Xanthi,Panionios GSS,4,1,5,H,W,L,,,,,,,
 greece-1994-1995,1,1994-09-24,,199409240000,saturday,Iraklis Saloniki,Ionikos Nikea,6,1,7,H,W,L,,,,,,,
-greece-1994-1995,1,1994-09-24,,199409240000,saturday,AEK Athen,Athinaikos,0,0,0,D,D,D,0,0,0,D,D,D,
+greece-1994-1995,1,1994-09-24,,199409240000,saturday,AEK Athen,Athinaikos,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
 greece-1994-1995,1,1994-09-24,,199409240000,saturday,PAOK Saloniki,AO Kavala,4,0,4,H,W,L,,,,,,,
 greece-1994-1995,2,1994-10-01,,199410010000,saturday,Athinaikos,Ethnikos Piräus,1,1,2,D,D,D,,,,,,,
-greece-1994-1995,2,1994-10-01,,199410010000,saturday,AO Kavala,AEK Athen,0,0,0,D,D,D,0,0,0,D,D,D,
+greece-1994-1995,2,1994-10-01,,199410010000,saturday,AO Kavala,AEK Athen,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
 greece-1994-1995,2,1994-10-01,,199410010000,saturday,Aris Saloniki,Doxa Dramas FC,3,1,4,H,W,L,,,,,,,
 greece-1994-1995,2,1994-10-01,,199410010000,saturday,Ionikos Nikea,Levadiakos,2,0,2,H,W,L,,,,,,,
 greece-1994-1995,2,1994-10-01,,199410010000,saturday,OFI Heraklion,Iraklis Saloniki,2,1,3,H,W,L,,,,,,,
@@ -31,12 +31,12 @@ greece-1994-1995,4,1994-10-15,,199410150000,saturday,AO Kavala,Iraklis Saloniki,
 greece-1994-1995,4,1994-10-15,,199410150000,saturday,AE Larisa,Doxa Dramas FC,3,1,4,H,W,L,,,,,,,
 greece-1994-1995,4,1994-10-15,,199410150000,saturday,Aris Saloniki,AO Edessaikos,4,0,4,H,W,L,,,,,,,
 greece-1994-1995,4,1994-10-15,,199410150000,saturday,OFI Heraklion,Panathinaikos,0,2,2,A,L,W,,,,,,,
-greece-1994-1995,4,1994-10-15,,199410150000,saturday,Panionios GSS,Apollon Smyrnis,0,0,0,D,D,D,0,0,0,D,D,D,
+greece-1994-1995,4,1994-10-15,,199410150000,saturday,Panionios GSS,Apollon Smyrnis,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
 greece-1994-1995,4,1994-10-15,,199410150000,saturday,AEK Athen,Skoda Xanthi,1,1,2,D,D,D,,,,,,,
 greece-1994-1995,4,1994-10-15,,199410150000,saturday,PAOK Saloniki,Ethnikos Piräus,4,0,4,H,W,L,,,,,,,
 greece-1994-1995,4,1994-10-15,,199410150000,saturday,Olympiakos Piräus,Ionikos Nikea,6,1,7,H,W,L,,,,,,,
 greece-1994-1995,5,1994-10-22,,199410220000,saturday,Ethnikos Piräus,AEK Athen,0,2,2,A,L,W,,,,,,,
-greece-1994-1995,5,1994-10-22,,199410220000,saturday,AO Edessaikos,Panionios GSS,0,0,0,D,D,D,0,0,0,D,D,D,
+greece-1994-1995,5,1994-10-22,,199410220000,saturday,AO Edessaikos,Panionios GSS,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
 greece-1994-1995,5,1994-10-22,,199410220000,saturday,Apollon Smyrnis,AE Larisa,2,1,3,H,W,L,,,,,,,
 greece-1994-1995,5,1994-10-22,,199410220000,saturday,Levadiakos,AO Kavala,2,1,3,H,W,L,,,,,,,
 greece-1994-1995,5,1994-10-22,,199410220000,saturday,Ionikos Nikea,Aris Saloniki,2,0,2,H,W,L,,,,,,,
@@ -44,7 +44,7 @@ greece-1994-1995,5,1994-10-22,,199410220000,saturday,OFI Heraklion,Olympiakos Pi
 greece-1994-1995,5,1994-10-22,,199410220000,saturday,Skoda Xanthi,Doxa Dramas FC,5,1,6,H,W,L,,,,,,,
 greece-1994-1995,5,1994-10-22,,199410220000,saturday,Iraklis Saloniki,PAOK Saloniki,1,2,3,A,L,W,,,,,,,
 greece-1994-1995,5,1994-10-22,,199410220000,saturday,Panathinaikos,Athinaikos,1,0,1,H,W,L,,,,,,,
-greece-1994-1995,6,1994-10-29,,199410290000,saturday,Ethnikos Piräus,Skoda Xanthi,0,0,0,D,D,D,0,0,0,D,D,D,
+greece-1994-1995,6,1994-10-29,,199410290000,saturday,Ethnikos Piräus,Skoda Xanthi,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
 greece-1994-1995,6,1994-10-29,,199410290000,saturday,Athinaikos,Olympiakos Piräus,1,0,1,H,W,L,,,,,,,
 greece-1994-1995,6,1994-10-29,,199410290000,saturday,AO Kavala,Panathinaikos,1,5,6,A,L,W,,,,,,,
 greece-1994-1995,6,1994-10-29,,199410290000,saturday,Doxa Dramas FC,Apollon Smyrnis,2,1,3,H,W,L,,,,,,,
@@ -52,11 +52,11 @@ greece-1994-1995,6,1994-10-29,,199410290000,saturday,AE Larisa,AO Edessaikos,0,1
 greece-1994-1995,6,1994-10-29,,199410290000,saturday,Aris Saloniki,OFI Heraklion,0,1,1,A,L,W,,,,,,,
 greece-1994-1995,6,1994-10-29,,199410290000,saturday,Panionios GSS,Ionikos Nikea,4,2,6,H,W,L,,,,,,,
 greece-1994-1995,6,1994-10-29,,199410290000,saturday,AEK Athen,Iraklis Saloniki,4,1,5,H,W,L,,,,,,,
-greece-1994-1995,6,1994-10-29,,199410290000,saturday,PAOK Saloniki,Levadiakos,0,0,0,D,D,D,0,0,0,D,D,D,
+greece-1994-1995,6,1994-10-29,,199410290000,saturday,PAOK Saloniki,Levadiakos,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
 greece-1994-1995,7,1994-11-05,,199411050000,saturday,AO Edessaikos,Doxa Dramas FC,5,1,6,H,W,L,,,,,,,
 greece-1994-1995,7,1994-11-05,,199411050000,saturday,Athinaikos,Aris Saloniki,0,1,1,A,L,W,,,,,,,
 greece-1994-1995,7,1994-11-05,,199411050000,saturday,Levadiakos,AEK Athen,2,1,3,H,W,L,,,,,,,
-greece-1994-1995,7,1994-11-05,,199411050000,saturday,Ionikos Nikea,AE Larisa,0,0,0,D,D,D,0,0,0,D,D,D,
+greece-1994-1995,7,1994-11-05,,199411050000,saturday,Ionikos Nikea,AE Larisa,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
 greece-1994-1995,7,1994-11-05,,199411050000,saturday,OFI Heraklion,Panionios GSS,2,0,2,H,W,L,,,,,,,
 greece-1994-1995,7,1994-11-05,,199411050000,saturday,Skoda Xanthi,Apollon Smyrnis,2,2,4,D,D,D,,,,,,,
 greece-1994-1995,7,1994-11-05,,199411050000,saturday,Iraklis Saloniki,Ethnikos Piräus,4,0,4,H,W,L,,,,,,,
@@ -65,14 +65,14 @@ greece-1994-1995,7,1994-11-05,,199411050000,saturday,Panathinaikos,PAOK Saloniki
 greece-1994-1995,8,1994-11-12,,199411120000,saturday,Ethnikos Piräus,Levadiakos,1,1,2,D,D,D,,,,,,,
 greece-1994-1995,8,1994-11-12,,199411120000,saturday,Apollon Smyrnis,AO Edessaikos,3,1,4,H,W,L,,,,,,,
 greece-1994-1995,8,1994-11-12,,199411120000,saturday,AO Kavala,Aris Saloniki,0,2,2,A,L,W,,,,,,,
-greece-1994-1995,8,1994-11-12,,199411120000,saturday,Doxa Dramas FC,Ionikos Nikea,0,0,0,D,D,D,0,0,0,D,D,D,
+greece-1994-1995,8,1994-11-12,,199411120000,saturday,Doxa Dramas FC,Ionikos Nikea,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
 greece-1994-1995,8,1994-11-12,,199411120000,saturday,AE Larisa,OFI Heraklion,1,1,2,D,D,D,,,,,,,
 greece-1994-1995,8,1994-11-12,,199411120000,saturday,Iraklis Saloniki,Skoda Xanthi,3,2,5,H,W,L,,,,,,,
-greece-1994-1995,8,1994-11-12,,199411120000,saturday,Panionios GSS,Athinaikos,0,0,0,D,D,D,0,0,0,D,D,D,
+greece-1994-1995,8,1994-11-12,,199411120000,saturday,Panionios GSS,Athinaikos,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
 greece-1994-1995,8,1994-11-12,,199411120000,saturday,AEK Athen,Panathinaikos,0,1,1,A,L,W,,,,,,,
 greece-1994-1995,8,1994-11-12,,199411120000,saturday,PAOK Saloniki,Olympiakos Piräus,3,0,3,H,W,L,,,,,,,
 greece-1994-1995,9,1994-11-19,,199411190000,saturday,Olympiakos Piräus,AEK Athen,0,1,1,A,L,W,,,,,,,
-greece-1994-1995,9,1994-11-20,,199411200000,sunday,Athinaikos,AE Larisa,0,0,0,D,D,D,0,0,0,D,D,D,
+greece-1994-1995,9,1994-11-20,,199411200000,sunday,Athinaikos,AE Larisa,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
 greece-1994-1995,9,1994-11-20,,199411200000,sunday,AO Kavala,Panionios GSS,1,0,1,H,W,L,,,,,,,
 greece-1994-1995,9,1994-11-20,,199411200000,sunday,Levadiakos,Iraklis Saloniki,1,2,3,A,L,W,,,,,,,
 greece-1994-1995,9,1994-11-20,,199411200000,sunday,Ionikos Nikea,Apollon Smyrnis,0,3,3,A,L,W,,,,,,,
@@ -84,25 +84,25 @@ greece-1994-1995,10,1994-11-27,,199411270000,sunday,AO Edessaikos,Ionikos Nikea,
 greece-1994-1995,10,1994-11-27,,199411270000,sunday,Apollon Smyrnis,OFI Heraklion,1,2,3,A,L,W,,,,,,,
 greece-1994-1995,10,1994-11-27,,199411270000,sunday,Doxa Dramas FC,Athinaikos,1,0,1,H,W,L,,,,,,,
 greece-1994-1995,10,1994-11-27,,199411270000,sunday,AE Larisa,AO Kavala,1,0,1,H,W,L,,,,,,,
-greece-1994-1995,10,1994-11-27,,199411270000,sunday,Levadiakos,Skoda Xanthi,0,0,0,D,D,D,0,0,0,D,D,D,
-greece-1994-1995,10,1994-11-27,,199411270000,sunday,Iraklis Saloniki,Panathinaikos,0,0,0,D,D,D,0,0,0,D,D,D,
+greece-1994-1995,10,1994-11-27,,199411270000,sunday,Levadiakos,Skoda Xanthi,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
+greece-1994-1995,10,1994-11-27,,199411270000,sunday,Iraklis Saloniki,Panathinaikos,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
 greece-1994-1995,10,1994-11-27,,199411270000,sunday,Panionios GSS,PAOK Saloniki,3,1,4,H,W,L,,,,,,,
 greece-1994-1995,10,1994-11-27,,199411270000,sunday,AEK Athen,Aris Saloniki,3,1,4,H,W,L,,,,,,,
 greece-1994-1995,11,1994-12-04,,199412040000,sunday,Athinaikos,Apollon Smyrnis,0,1,1,A,L,W,,,,,,,
 greece-1994-1995,11,1994-12-04,,199412040000,sunday,AO Kavala,Doxa Dramas FC,1,1,2,D,D,D,,,,,,,
-greece-1994-1995,11,1994-12-04,,199412040000,sunday,Aris Saloniki,Ethnikos Piräus,0,0,0,D,D,D,0,0,0,D,D,D,
+greece-1994-1995,11,1994-12-04,,199412040000,sunday,Aris Saloniki,Ethnikos Piräus,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
 greece-1994-1995,11,1994-12-04,,199412040000,sunday,OFI Heraklion,AO Edessaikos,1,0,1,H,W,L,,,,,,,
 greece-1994-1995,11,1994-12-04,,199412040000,sunday,Skoda Xanthi,Ionikos Nikea,1,0,1,H,W,L,,,,,,,
 greece-1994-1995,11,1994-12-04,,199412040000,sunday,Panionios GSS,AEK Athen,2,3,5,A,L,W,,,,,,,
 greece-1994-1995,11,1994-12-04,,199412040000,sunday,PAOK Saloniki,AE Larisa,5,0,5,H,W,L,,,,,,,
-greece-1994-1995,11,1994-12-04,,199412040000,sunday,Olympiakos Piräus,Iraklis Saloniki,0,0,0,D,D,D,0,0,0,D,D,D,
+greece-1994-1995,11,1994-12-04,,199412040000,sunday,Olympiakos Piräus,Iraklis Saloniki,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
 greece-1994-1995,11,1994-12-04,,199412040000,sunday,Panathinaikos,Levadiakos,5,0,5,H,W,L,,,,,,,
 greece-1994-1995,12,1994-12-10,,199412100000,saturday,Levadiakos,Olympiakos Piräus,0,2,2,A,L,W,,,,,,,
 greece-1994-1995,12,1994-12-11,,199412110000,sunday,Ethnikos Piräus,Panionios GSS,1,1,2,D,D,D,,,,,,,
 greece-1994-1995,12,1994-12-11,,199412110000,sunday,AO Edessaikos,Athinaikos,1,0,1,H,W,L,,,,,,,
 greece-1994-1995,12,1994-12-11,,199412110000,sunday,Apollon Smyrnis,AO Kavala,2,0,2,H,W,L,,,,,,,
-greece-1994-1995,12,1994-12-11,,199412110000,sunday,Doxa Dramas FC,PAOK Saloniki,0,0,0,D,D,D,0,0,0,D,D,D,
-greece-1994-1995,12,1994-12-11,,199412110000,sunday,AE Larisa,AEK Athen,0,0,0,D,D,D,0,0,0,D,D,D,
+greece-1994-1995,12,1994-12-11,,199412110000,sunday,Doxa Dramas FC,PAOK Saloniki,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
+greece-1994-1995,12,1994-12-11,,199412110000,sunday,AE Larisa,AEK Athen,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
 greece-1994-1995,12,1994-12-11,,199412110000,sunday,Ionikos Nikea,OFI Heraklion,1,0,1,H,W,L,,,,,,,
 greece-1994-1995,12,1994-12-11,,199412110000,sunday,Iraklis Saloniki,Aris Saloniki,3,1,4,H,W,L,,,,,,,
 greece-1994-1995,12,1994-12-11,,199412110000,sunday,Panathinaikos,Skoda Xanthi,3,1,4,H,W,L,,,,,,,
@@ -129,7 +129,7 @@ greece-1994-1995,15,1995-01-15,,199501150000,sunday,Doxa Dramas FC,Iraklis Salon
 greece-1994-1995,15,1995-01-15,,199501150000,sunday,AE Larisa,Levadiakos,3,0,3,H,W,L,,,,,,,
 greece-1994-1995,15,1995-01-15,,199501150000,sunday,Panionios GSS,Panathinaikos,0,6,6,A,L,W,,,,,,,
 greece-1994-1995,15,1995-01-15,,199501150000,sunday,AEK Athen,AO Edessaikos,5,2,7,H,W,L,,,,,,,
-greece-1994-1995,16,1995-01-21,,199501210000,saturday,Ionikos Nikea,AEK Athen,0,0,0,D,D,D,0,0,0,D,D,D,
+greece-1994-1995,16,1995-01-21,,199501210000,saturday,Ionikos Nikea,AEK Athen,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
 greece-1994-1995,16,1995-01-22,,199501220000,sunday,Athinaikos,AO Kavala,3,0,3,H,W,L,,,,,,,
 greece-1994-1995,16,1995-01-22,,199501220000,sunday,Apollon Smyrnis,Iraklis Saloniki,3,0,3,H,W,L,,,,,,,
 greece-1994-1995,16,1995-01-22,,199501220000,sunday,Levadiakos,Doxa Dramas FC,4,1,5,H,W,L,,,,,,,
@@ -149,7 +149,7 @@ greece-1994-1995,17,1995-01-29,,199501290000,sunday,PAOK Saloniki,Athinaikos,2,0
 greece-1994-1995,15,1995-02-01,,199502010000,wednesday,Aris Saloniki,Olympiakos Piräus,2,1,3,H,W,L,,,,,,,
 greece-1994-1995,15,1995-02-01,,199502010000,wednesday,Skoda Xanthi,Athinaikos,1,1,2,D,D,D,,,,,,,
 greece-1994-1995,15,1995-02-01,,199502010000,wednesday,PAOK Saloniki,Ionikos Nikea,2,0,2,H,W,L,,,,,,,
-greece-1994-1995,18,1995-02-04,,199502040000,saturday,Athinaikos,AEK Athen,0,0,0,D,D,D,0,0,0,D,D,D,
+greece-1994-1995,18,1995-02-04,,199502040000,saturday,Athinaikos,AEK Athen,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
 greece-1994-1995,18,1995-02-05,,199502050000,sunday,AO Kavala,PAOK Saloniki,0,1,1,A,L,W,,,,,,,
 greece-1994-1995,18,1995-02-05,,199502050000,sunday,Levadiakos,AO Edessaikos,1,2,3,A,L,W,,,,,,,
 greece-1994-1995,18,1995-02-05,,199502050000,sunday,Aris Saloniki,AE Larisa,1,0,1,H,W,L,,,,,,,
@@ -173,7 +173,7 @@ greece-1994-1995,20,1995-02-18,,199502180000,saturday,Athinaikos,Iraklis Salonik
 greece-1994-1995,20,1995-02-19,,199502190000,sunday,AO Kavala,Ethnikos Piräus,1,2,3,A,L,W,,,,,,,
 greece-1994-1995,20,1995-02-19,,199502190000,sunday,AE Larisa,Skoda Xanthi,6,1,7,H,W,L,,,,,,,
 greece-1994-1995,20,1995-02-19,,199502190000,sunday,Aris Saloniki,Apollon Smyrnis,4,1,5,H,W,L,,,,,,,
-greece-1994-1995,20,1995-02-19,,199502190000,sunday,OFI Heraklion,Levadiakos,0,0,0,D,D,D,0,0,0,D,D,D,
+greece-1994-1995,20,1995-02-19,,199502190000,sunday,OFI Heraklion,Levadiakos,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
 greece-1994-1995,20,1995-02-19,,199502190000,sunday,Panionios GSS,Doxa Dramas FC,3,0,3,H,W,L,,,,,,,
 greece-1994-1995,20,1995-02-19,,199502190000,sunday,PAOK Saloniki,AEK Athen,1,1,2,D,D,D,,,,,,,
 greece-1994-1995,20,1995-02-19,,199502190000,sunday,Olympiakos Piräus,AO Edessaikos,1,0,1,H,W,L,,,,,,,
@@ -187,14 +187,14 @@ greece-1994-1995,21,1995-02-26,,199502260000,sunday,Levadiakos,Athinaikos,0,2,2,
 greece-1994-1995,21,1995-02-26,,199502260000,sunday,Ionikos Nikea,Olympiakos Piräus,2,2,4,D,D,D,,,,,,,
 greece-1994-1995,21,1995-02-26,,199502260000,sunday,Iraklis Saloniki,AO Kavala,2,0,2,H,W,L,,,,,,,
 greece-1994-1995,21,1995-02-26,,199502260000,sunday,Panathinaikos,OFI Heraklion,2,0,2,H,W,L,,,,,,,
-greece-1994-1995,22,1995-03-04,,199503040000,saturday,Athinaikos,Panathinaikos,0,0,0,D,D,D,0,0,0,D,D,D,
+greece-1994-1995,22,1995-03-04,,199503040000,saturday,Athinaikos,Panathinaikos,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
 greece-1994-1995,22,1995-03-05,,199503050000,sunday,AO Kavala,Levadiakos,3,1,4,H,W,L,,,,,,,
 greece-1994-1995,22,1995-03-05,,199503050000,sunday,Doxa Dramas FC,Skoda Xanthi,0,1,1,A,L,W,,,,,,,
 greece-1994-1995,22,1995-03-05,,199503050000,sunday,AE Larisa,Apollon Smyrnis,2,0,2,H,W,L,,,,,,,
 greece-1994-1995,22,1995-03-05,,199503050000,sunday,Aris Saloniki,Ionikos Nikea,1,0,1,H,W,L,,,,,,,
 greece-1994-1995,22,1995-03-05,,199503050000,sunday,Panionios GSS,AO Edessaikos,3,1,4,H,W,L,,,,,,,
 greece-1994-1995,22,1995-03-05,,199503050000,sunday,AEK Athen,Ethnikos Piräus,2,1,3,H,W,L,,,,,,,
-greece-1994-1995,22,1995-03-05,,199503050000,sunday,PAOK Saloniki,Iraklis Saloniki,0,0,0,D,D,D,0,0,0,D,D,D,
+greece-1994-1995,22,1995-03-05,,199503050000,sunday,PAOK Saloniki,Iraklis Saloniki,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
 greece-1994-1995,22,1995-03-05,,199503050000,sunday,Olympiakos Piräus,OFI Heraklion,2,1,3,H,W,L,,,,,,,
 greece-1994-1995,23,1995-03-12,,199503120000,sunday,AO Edessaikos,AE Larisa,3,2,5,H,W,L,,,,,,,
 greece-1994-1995,23,1995-03-12,,199503120000,sunday,Apollon Smyrnis,Doxa Dramas FC,5,0,5,H,W,L,,,,,,,
@@ -248,7 +248,7 @@ greece-1994-1995,28,1995-04-16,,199504160000,sunday,Doxa Dramas FC,AO Kavala,4,1
 greece-1994-1995,28,1995-04-16,,199504160000,sunday,AE Larisa,PAOK Saloniki,0,2,2,A,L,W,,,,,,,
 greece-1994-1995,28,1995-04-16,,199504160000,sunday,Levadiakos,Panathinaikos,0,3,3,A,L,W,,,,,,,
 greece-1994-1995,28,1995-04-16,,199504160000,sunday,Ionikos Nikea,Skoda Xanthi,4,1,5,H,W,L,,,,,,,
-greece-1994-1995,28,1995-04-16,,199504160000,sunday,Iraklis Saloniki,Olympiakos Piräus,0,0,0,D,D,D,0,0,0,D,D,D,
+greece-1994-1995,28,1995-04-16,,199504160000,sunday,Iraklis Saloniki,Olympiakos Piräus,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
 greece-1994-1995,28,1995-04-16,,199504160000,sunday,AEK Athen,Panionios GSS,2,0,2,H,W,L,,,,,,,
 greece-1994-1995,25,1995-04-23,,199504230000,sunday,OFI Heraklion,AE Larisa,0,1,1,A,L,W,,,,,,,
 greece-1994-1995,29,1995-04-29,,199504290000,saturday,Skoda Xanthi,Panathinaikos,3,2,5,H,W,L,,,,,,,
@@ -256,7 +256,7 @@ greece-1994-1995,29,1995-04-30,,199504300000,sunday,Athinaikos,AO Edessaikos,2,1
 greece-1994-1995,29,1995-04-30,,199504300000,sunday,AO Kavala,Apollon Smyrnis,0,2,2,A,L,W,,,,,,,
 greece-1994-1995,29,1995-04-30,,199504300000,sunday,Aris Saloniki,Iraklis Saloniki,1,1,2,D,D,D,,,,,,,
 greece-1994-1995,29,1995-04-30,,199504300000,sunday,OFI Heraklion,Ionikos Nikea,3,0,3,H,W,L,,,,,,,
-greece-1994-1995,29,1995-04-30,,199504300000,sunday,Panionios GSS,Ethnikos Piräus,0,0,0,D,D,D,0,0,0,D,D,D,
+greece-1994-1995,29,1995-04-30,,199504300000,sunday,Panionios GSS,Ethnikos Piräus,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
 greece-1994-1995,29,1995-04-30,,199504300000,sunday,AEK Athen,AE Larisa,2,0,2,H,W,L,,,,,,,
 greece-1994-1995,29,1995-04-30,,199504300000,sunday,PAOK Saloniki,Doxa Dramas FC,1,0,1,H,W,L,,,,,,,
 greece-1994-1995,29,1995-04-30,,199504300000,sunday,Olympiakos Piräus,Levadiakos,4,0,4,H,W,L,,,,,,,
@@ -290,7 +290,7 @@ greece-1994-1995,32,1995-05-21,,199505210000,sunday,Olympiakos Piräus,Aris Salo
 greece-1994-1995,33,1995-05-27,,199505270000,saturday,AE Larisa,Panathinaikos,0,1,1,A,L,W,,,,,,,
 greece-1994-1995,33,1995-05-28,,199505280000,sunday,Skoda Xanthi,Aris Saloniki,1,2,3,A,L,W,,,,,,,
 greece-1994-1995,33,1995-05-28,,199505280000,sunday,Iraklis Saloniki,Apollon Smyrnis,3,0,3,H,W,L,,,,,,,
-greece-1994-1995,33,1995-05-28,,199505280000,sunday,AEK Athen,Ionikos Nikea,0,0,0,D,D,D,0,0,0,D,D,D,
+greece-1994-1995,33,1995-05-28,,199505280000,sunday,AEK Athen,Ionikos Nikea,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
 greece-1994-1995,33,1995-05-28,,199505280000,sunday,AO Kavala,Athinaikos,3,0,3,H,W,L,,,,,,,
 greece-1994-1995,33,1995-05-28,,199505280000,sunday,Ethnikos Piräus,AO Edessaikos,3,0,3,H,W,L,,,,,,,
 greece-1994-1995,33,1995-05-28,,199505280000,sunday,Doxa Dramas FC,Levadiakos,2,2,4,D,D,D,,,,,,,
@@ -6319,3 +6319,171 @@ greece-2017-2018,30,2018-05-06,17:00,201805061700,sunday,PAS Giannina,Olympiakos
 greece-2017-2018,30,2018-05-06,17:00,201805061700,sunday,Panetolikos,Asteras Tripolis,0,2,2,A,L,W,0.0,1.0,1.0,A,L,W,http://www.worldfootball.net/report/superleague-2017-2018-panetolikos-asteras-tripolis/
 greece-2017-2018,30,2018-05-06,17:00,201805061700,sunday,Panionios GSS,Levadiakos,2,0,2,H,W,L,1.0,0.0,1.0,H,W,L,http://www.worldfootball.net/report/superleague-2017-2018-panionios-gss-levadiakos/
 greece-2017-2018,30,2018-05-07,17:00,201805071700,monday,Panathinaikos,Skoda Xanthi,1,2,3,A,L,W,1.0,1.0,2.0,D,D,D,http://www.worldfootball.net/report/superleague-2017-2018-panathinaikos-skoda-xanthi/
+greece-2018-2019,1,2018-08-25,17:15,201808251715,saturday,Panetolikos,Atromitos,1,2,3,A,L,W,1,1,2,D,D,D,http://www.worldfootball.net/report/superleague-2018-2019-panetolikos-atromitos/
+greece-2018-2019,1,2018-08-25,17:15,201808251715,saturday,PAOK Saloniki,Asteras Tripolis,1,0,1,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/superleague-2018-2019-paok-saloniki-asteras-tripolis/
+greece-2018-2019,1,2018-08-25,19:30,201808251930,saturday,AEK Athen,PAS Giannina,2,0,2,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/superleague-2018-2019-aek-athen-pas-giannina/
+greece-2018-2019,1,2018-08-25,19:30,201808251930,saturday,Apollon Smyrnis,AE Larisa,0,1,1,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/superleague-2018-2019-apollon-smyrnis-ae-larisa/
+greece-2018-2019,1,2018-08-26,17:15,201808261715,sunday,Skoda Xanthi,Panathinaikos,0,1,1,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/superleague-2018-2019-skoda-xanthi-panathinaikos/
+greece-2018-2019,1,2018-08-26,17:15,201808261715,sunday,Panionios GSS,OFI Heraklion,2,2,4,D,D,D,2,2,4,D,D,D,http://www.worldfootball.net/report/superleague-2018-2019-panionios-gss-ofi-heraklion/
+greece-2018-2019,1,2018-08-26,19:30,201808261930,sunday,Olympiakos Piräus,Levadiakos,1,0,1,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/superleague-2018-2019-olympiakos-piraeus-levadiakos/
+greece-2018-2019,1,2018-08-27,19:30,201808271930,monday,Lamia,Aris Saloniki,0,3,3,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/superleague-2018-2019-lamia-aris-saloniki/
+greece-2018-2019,2,2018-09-01,17:15,201809011715,saturday,Panathinaikos,Lamia,3,1,4,H,W,L,1,1,2,D,D,D,http://www.worldfootball.net/report/superleague-2018-2019-panathinaikos-lamia/
+greece-2018-2019,2,2018-09-01,19:30,201809011930,saturday,Asteras Tripolis,AEK Athen,0,1,1,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/superleague-2018-2019-asteras-tripolis-aek-athen/
+greece-2018-2019,2,2018-09-01,19:30,201809011930,saturday,Atromitos,Skoda Xanthi,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/superleague-2018-2019-atromitos-skoda-xanthi/
+greece-2018-2019,2,2018-09-02,17:15,201809021715,sunday,Aris Saloniki,AE Larisa,2,0,2,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/superleague-2018-2019-aris-saloniki-ae-larisa/
+greece-2018-2019,2,2018-09-02,17:15,201809021715,sunday,Panionios GSS,PAOK Saloniki,0,1,1,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/superleague-2018-2019-panionios-gss-paok-saloniki/
+greece-2018-2019,2,2018-09-02,19:30,201809021930,sunday,Olympiakos Piräus,PAS Giannina,5,0,5,H,W,L,2,0,2,H,W,L,http://www.worldfootball.net/report/superleague-2018-2019-olympiakos-piraeus-pas-giannina/
+greece-2018-2019,2,2018-09-03,19:30,201809031930,monday,Levadiakos,Apollon Smyrnis,1,0,1,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/superleague-2018-2019-levadiakos-apollon-smyrnis/
+greece-2018-2019,2,2018-09-03,19:30,201809031930,monday,Panetolikos,OFI Heraklion,2,1,3,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/superleague-2018-2019-panetolikos-ofi-heraklion/
+greece-2018-2019,3,2018-09-15,16:15,201809151615,saturday,OFI Heraklion,PAOK Saloniki,1,3,4,A,L,W,1,2,3,A,L,W,http://www.worldfootball.net/report/superleague-2018-2019-ofi-heraklion-paok-saloniki/
+greece-2018-2019,3,2018-09-15,17:00,201809151700,saturday,Apollon Smyrnis,PAS Giannina,1,2,3,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/superleague-2018-2019-apollon-smyrnis-pas-giannina/
+greece-2018-2019,3,2018-09-15,18:30,201809151830,saturday,AEK Athen,Panionios GSS,4,0,4,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/superleague-2018-2019-aek-athen-panionios-gss/
+greece-2018-2019,3,2018-09-16,15:00,201809161500,sunday,Skoda Xanthi,Panetolikos,1,1,2,D,D,D,1,1,2,D,D,D,http://www.worldfootball.net/report/superleague-2018-2019-skoda-xanthi-panetolikos/
+greece-2018-2019,3,2018-09-16,16:15,201809161615,sunday,AE Larisa,Panathinaikos,1,3,4,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/superleague-2018-2019-ae-larisa-panathinaikos/
+greece-2018-2019,3,2018-09-16,18:00,201809161800,sunday,Atromitos,Lamia,1,0,1,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/superleague-2018-2019-atromitos-lamia/
+greece-2018-2019,3,2018-09-16,18:30,201809161830,sunday,Olympiakos Piräus,Asteras Tripolis,2,1,3,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/superleague-2018-2019-olympiakos-piraeus-asteras-tripolis/
+greece-2018-2019,3,2018-09-17,17:00,201809171700,monday,Aris Saloniki,Levadiakos,2,0,2,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/superleague-2018-2019-aris-saloniki-levadiakos/
+greece-2018-2019,4,2018-09-22,16:15,201809221615,saturday,Asteras Tripolis,Apollon Smyrnis,2,0,2,H,W,L,2,0,2,H,W,L,http://www.worldfootball.net/report/superleague-2018-2019-asteras-tripolis-apollon-smyrnis/
+greece-2018-2019,4,2018-09-22,17:00,201809221700,saturday,Atromitos,AE Larisa,2,0,2,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/superleague-2018-2019-atromitos-ae-larisa/
+greece-2018-2019,4,2018-09-22,18:30,201809221830,saturday,PAS Giannina,Aris Saloniki,1,0,1,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/superleague-2018-2019-pas-giannina-aris-saloniki/
+greece-2018-2019,4,2018-09-23,14:00,201809231400,sunday,Skoda Xanthi,OFI Heraklion,3,0,3,H,W,L,2,0,2,H,W,L,http://www.worldfootball.net/report/superleague-2018-2019-skoda-xanthi-ofi-heraklion/
+greece-2018-2019,4,2018-09-23,17:00,201809231700,sunday,Panathinaikos,Levadiakos,3,0,3,H,W,L,2,0,2,H,W,L,http://www.worldfootball.net/report/superleague-2018-2019-panathinaikos-levadiakos/
+greece-2018-2019,4,2018-09-23,18:30,201809231830,sunday,PAOK Saloniki,AEK Athen,2,0,2,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/superleague-2018-2019-paok-saloniki-aek-athen/
+greece-2018-2019,4,2018-09-24,17:00,201809241700,monday,Panetolikos,Lamia,2,2,4,D,D,D,1,0,1,H,W,L,http://www.worldfootball.net/report/superleague-2018-2019-panetolikos-lamia/
+greece-2018-2019,4,2018-09-24,17:30,201809241730,monday,Panionios GSS,Olympiakos Piräus,0,1,1,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/superleague-2018-2019-panionios-gss-olympiakos-piraeus/
+greece-2018-2019,5,2018-09-29,16:15,201809291615,saturday,AE Larisa,Panetolikos,1,0,1,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/superleague-2018-2019-ae-larisa-panetolikos/
+greece-2018-2019,5,2018-09-29,17:00,201809291700,saturday,Panathinaikos,PAS Giannina,2,1,3,H,W,L,1,1,2,D,D,D,http://www.worldfootball.net/report/superleague-2018-2019-panathinaikos-pas-giannina/
+greece-2018-2019,5,2018-09-29,18:30,201809291830,saturday,OFI Heraklion,AEK Athen,0,3,3,A,L,W,0,2,2,A,L,W,http://www.worldfootball.net/report/superleague-2018-2019-ofi-heraklion-aek-athen/
+greece-2018-2019,5,2018-09-30,14:00,201809301400,sunday,Apollon Smyrnis,Panionios GSS,0,2,2,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/superleague-2018-2019-apollon-smyrnis-panionios-gss/
+greece-2018-2019,5,2018-09-30,16:15,201809301615,sunday,Levadiakos,Atromitos,0,2,2,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/superleague-2018-2019-levadiakos-atromitos/
+greece-2018-2019,5,2018-09-30,17:00,201809301700,sunday,Aris Saloniki,Asteras Tripolis,2,0,2,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/superleague-2018-2019-aris-saloniki-asteras-tripolis/
+greece-2018-2019,5,2018-09-30,18:30,201809301830,sunday,Olympiakos Piräus,PAOK Saloniki,0,1,1,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/superleague-2018-2019-olympiakos-piraeus-paok-saloniki/
+greece-2018-2019,5,2018-10-01,17:00,201810011700,monday,Lamia,Skoda Xanthi,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/superleague-2018-2019-lamia-skoda-xanthi/
+greece-2018-2019,6,2018-10-06,16:15,201810061615,saturday,Panionios GSS,Aris Saloniki,1,0,1,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/superleague-2018-2019-panionios-gss-aris-saloniki/
+greece-2018-2019,6,2018-10-06,17:00,201810061700,saturday,Panetolikos,Levadiakos,2,1,3,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/superleague-2018-2019-panetolikos-levadiakos/
+greece-2018-2019,6,2018-10-06,18:30,201810061830,saturday,Asteras Tripolis,Panathinaikos,1,1,2,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/superleague-2018-2019-asteras-tripolis-panathinaikos/
+greece-2018-2019,6,2018-10-07,14:00,201810071400,sunday,Lamia,OFI Heraklion,1,1,2,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/superleague-2018-2019-lamia-ofi-heraklion/
+greece-2018-2019,6,2018-10-07,16:15,201810071615,sunday,PAOK Saloniki,Apollon Smyrnis,2,0,2,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/superleague-2018-2019-paok-saloniki-apollon-smyrnis/
+greece-2018-2019,6,2018-10-07,17:00,201810071700,sunday,Atromitos,PAS Giannina,1,0,1,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/superleague-2018-2019-atromitos-pas-giannina/
+greece-2018-2019,6,2018-10-07,18:30,201810071830,sunday,AEK Athen,Olympiakos Piräus,1,1,2,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/superleague-2018-2019-aek-athen-olympiakos-piraeus/
+greece-2018-2019,6,2018-10-08,17:00,201810081700,monday,Skoda Xanthi,AE Larisa,1,0,1,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/superleague-2018-2019-skoda-xanthi-ae-larisa/
+greece-2018-2019,7,2018-10-20,14:00,201810201400,saturday,Panathinaikos,Panionios GSS,1,0,1,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/superleague-2018-2019-panathinaikos-panionios-gss/
+greece-2018-2019,7,2018-10-20,16:15,201810201615,saturday,PAS Giannina,Panetolikos,0,2,2,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/superleague-2018-2019-pas-giannina-panetolikos/
+greece-2018-2019,7,2018-10-20,17:00,201810201700,saturday,Apollon Smyrnis,AEK Athen,0,2,2,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/superleague-2018-2019-apollon-smyrnis-aek-athen/
+greece-2018-2019,7,2018-10-20,18:30,201810201830,saturday,AE Larisa,Lamia,1,2,3,A,L,W,1,0,1,H,W,L,http://www.worldfootball.net/report/superleague-2018-2019-ae-larisa-lamia/
+greece-2018-2019,7,2018-10-21,16:15,201810211615,sunday,Levadiakos,Skoda Xanthi,1,2,3,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/superleague-2018-2019-levadiakos-skoda-xanthi/
+greece-2018-2019,7,2018-10-21,17:00,201810211700,sunday,Aris Saloniki,PAOK Saloniki,1,2,3,A,L,W,1,1,2,D,D,D,http://www.worldfootball.net/report/superleague-2018-2019-aris-saloniki-paok-saloniki/
+greece-2018-2019,7,2018-10-21,18:30,201810211830,sunday,OFI Heraklion,Olympiakos Piräus,1,0,1,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/superleague-2018-2019-ofi-heraklion-olympiakos-piraeus/
+greece-2018-2019,7,2018-10-22,17:00,201810221700,monday,Atromitos,Asteras Tripolis,3,2,5,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/superleague-2018-2019-atromitos-asteras-tripolis/
+greece-2018-2019,8,2018-10-27,15:15,201810271515,saturday,AE Larisa,OFI Heraklion,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/superleague-2018-2019-ae-larisa-ofi-heraklion/
+greece-2018-2019,8,2018-10-27,17:00,201810271700,saturday,Lamia,Levadiakos,3,2,5,H,W,L,2,0,2,H,W,L,http://www.worldfootball.net/report/superleague-2018-2019-lamia-levadiakos/
+greece-2018-2019,8,2018-10-28,15:15,201810281515,sunday,Panionios GSS,Atromitos,2,2,4,D,D,D,1,1,2,D,D,D,http://www.worldfootball.net/report/superleague-2018-2019-panionios-gss-atromitos/
+greece-2018-2019,8,2018-10-28,17:00,201810281700,sunday,Panetolikos,Asteras Tripolis,1,1,2,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/superleague-2018-2019-panetolikos-asteras-tripolis/
+greece-2018-2019,8,2018-10-28,17:30,201810281730,sunday,AEK Athen,Aris Saloniki,4,0,4,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/superleague-2018-2019-aek-athen-aris-saloniki/
+greece-2018-2019,8,2018-10-29,17:00,201810291700,monday,Skoda Xanthi,PAS Giannina,2,1,3,H,W,L,0,1,1,A,L,W,http://www.worldfootball.net/report/superleague-2018-2019-skoda-xanthi-pas-giannina/
+greece-2018-2019,8,2018-10-29,17:30,201810291730,monday,Olympiakos Piräus,Apollon Smyrnis,1,0,1,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/superleague-2018-2019-olympiakos-piraeus-apollon-smyrnis/
+greece-2018-2019,8,2018-10-29,19:30,201810291930,monday,PAOK Saloniki,Panathinaikos,2,0,2,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/superleague-2018-2019-paok-saloniki-panathinaikos/
+greece-2018-2019,9,2018-11-03,14:00,201811031400,saturday,Atromitos,PAOK Saloniki,1,1,2,D,D,D,0,1,1,A,L,W,http://www.worldfootball.net/report/superleague-2018-2019-atromitos-paok-saloniki/
+greece-2018-2019,9,2018-11-03,15:15,201811031515,saturday,Panionios GSS,Panetolikos,3,0,3,H,W,L,3,0,3,H,W,L,http://www.worldfootball.net/report/superleague-2018-2019-panionios-gss-panetolikos/
+greece-2018-2019,9,2018-11-03,17:00,201811031700,saturday,Panathinaikos,AEK Athen,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/superleague-2018-2019-panathinaikos-aek-athen/
+greece-2018-2019,9,2018-11-03,17:30,201811031730,saturday,Levadiakos,AE Larisa,1,1,2,D,D,D,0,1,1,A,L,W,http://www.worldfootball.net/report/superleague-2018-2019-levadiakos-ae-larisa/
+greece-2018-2019,9,2018-11-04,15:15,201811041515,sunday,PAS Giannina,Lamia,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/superleague-2018-2019-pas-giannina-lamia/
+greece-2018-2019,9,2018-11-04,17:00,201811041700,sunday,Aris Saloniki,Olympiakos Piräus,0,1,1,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/superleague-2018-2019-aris-saloniki-olympiakos-piraeus/
+greece-2018-2019,9,2018-11-04,17:30,201811041730,sunday,OFI Heraklion,Apollon Smyrnis,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/superleague-2018-2019-ofi-heraklion-apollon-smyrnis/
+greece-2018-2019,9,2018-11-05,17:30,201811051730,monday,Asteras Tripolis,Skoda Xanthi,0,1,1,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/superleague-2018-2019-asteras-tripolis-skoda-xanthi/
+greece-2018-2019,10,2018-11-10,15:15,201811101515,saturday,AE Larisa,PAS Giannina,2,0,2,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/superleague-2018-2019-ae-larisa-pas-giannina/
+greece-2018-2019,10,2018-11-10,17:00,201811101700,saturday,Skoda Xanthi,Panionios GSS,0,1,1,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/superleague-2018-2019-skoda-xanthi-panionios-gss/
+greece-2018-2019,10,2018-11-10,17:30,201811101730,saturday,Levadiakos,OFI Heraklion,2,1,3,H,W,L,2,1,3,H,W,L,http://www.worldfootball.net/report/superleague-2018-2019-levadiakos-ofi-heraklion/
+greece-2018-2019,10,2018-11-11,13:00,201811111300,sunday,AEK Athen,Atromitos,0,2,2,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/superleague-2018-2019-aek-athen-atromitos/
+greece-2018-2019,10,2018-11-11,15:15,201811111515,sunday,PAOK Saloniki,Panetolikos,2,1,3,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/superleague-2018-2019-paok-saloniki-panetolikos/
+greece-2018-2019,10,2018-11-11,17:00,201811111700,sunday,Lamia,Asteras Tripolis,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/superleague-2018-2019-lamia-asteras-tripolis/
+greece-2018-2019,10,2018-11-11,17:30,201811111730,sunday,Olympiakos Piräus,Panathinaikos,1,1,2,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/superleague-2018-2019-olympiakos-piraeus-panathinaikos/
+greece-2018-2019,10,2018-11-12,17:00,201811121700,monday,Apollon Smyrnis,Aris Saloniki,1,2,3,A,L,W,1,1,2,D,D,D,http://www.worldfootball.net/report/superleague-2018-2019-apollon-smyrnis-aris-saloniki/
+greece-2018-2019,11,2018-11-24,14:00,201811241400,saturday,Panathinaikos,Apollon Smyrnis,5,1,6,H,W,L,2,0,2,H,W,L,http://www.worldfootball.net/report/superleague-2018-2019-panathinaikos-apollon-smyrnis/
+greece-2018-2019,11,2018-11-24,15:15,201811241515,saturday,Asteras Tripolis,AE Larisa,2,0,2,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/superleague-2018-2019-asteras-tripolis-ae-larisa/
+greece-2018-2019,11,2018-11-24,17:00,201811241700,saturday,Panetolikos,AEK Athen,2,1,3,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/superleague-2018-2019-panetolikos-aek-athen/
+greece-2018-2019,11,2018-11-24,17:30,201811241730,saturday,PAOK Saloniki,Skoda Xanthi,2,0,2,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/superleague-2018-2019-paok-saloniki-skoda-xanthi/
+greece-2018-2019,11,2018-11-25,15:15,201811251515,sunday,PAS Giannina,Levadiakos,2,0,2,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/superleague-2018-2019-pas-giannina-levadiakos/
+greece-2018-2019,11,2018-11-25,17:00,201811251700,sunday,Atromitos,Olympiakos Piräus,1,2,3,A,L,W,1,0,1,H,W,L,http://www.worldfootball.net/report/superleague-2018-2019-atromitos-olympiakos-piraeus/
+greece-2018-2019,11,2018-11-25,17:30,201811251730,sunday,OFI Heraklion,Aris Saloniki,1,2,3,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/superleague-2018-2019-ofi-heraklion-aris-saloniki/
+greece-2018-2019,11,2018-11-26,17:30,201811261730,monday,Panionios GSS,Lamia,1,0,1,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/superleague-2018-2019-panionios-gss-lamia/
+greece-2018-2019,12,2018-12-01,15:15,201812011515,saturday,AE Larisa,Panionios GSS,4,2,6,H,W,L,1,1,2,D,D,D,http://www.worldfootball.net/report/superleague-2018-2019-ae-larisa-panionios-gss/
+greece-2018-2019,12,2018-12-01,17:00,201812011700,saturday,Apollon Smyrnis,Atromitos,1,1,2,D,D,D,1,1,2,D,D,D,http://www.worldfootball.net/report/superleague-2018-2019-apollon-smyrnis-atromitos/
+greece-2018-2019,12,2018-12-01,17:30,201812011730,saturday,PAS Giannina,OFI Heraklion,1,1,2,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/superleague-2018-2019-pas-giannina-ofi-heraklion/
+greece-2018-2019,12,2018-12-02,15:15,201812021515,sunday,Levadiakos,Asteras Tripolis,0,2,2,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/superleague-2018-2019-levadiakos-asteras-tripolis/
+greece-2018-2019,12,2018-12-02,17:00,201812021700,sunday,Aris Saloniki,Panathinaikos,1,1,2,D,D,D,1,0,1,H,W,L,http://www.worldfootball.net/report/superleague-2018-2019-aris-saloniki-panathinaikos/
+greece-2018-2019,12,2018-12-02,17:30,201812021730,sunday,AEK Athen,Skoda Xanthi,2,0,2,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/superleague-2018-2019-aek-athen-skoda-xanthi/
+greece-2018-2019,12,2018-12-03,17:00,201812031700,monday,Lamia,PAOK Saloniki,0,1,1,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/superleague-2018-2019-lamia-paok-saloniki/
+greece-2018-2019,12,2018-12-03,17:30,201812031730,monday,Olympiakos Piräus,Panetolikos,2,1,3,H,W,L,2,0,2,H,W,L,http://www.worldfootball.net/report/superleague-2018-2019-olympiakos-piraeus-panetolikos/
+greece-2018-2019,13,2018-12-08,15:15,201812081515,saturday,Asteras Tripolis,PAS Giannina,1,0,1,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/superleague-2018-2019-asteras-tripolis-pas-giannina/
+greece-2018-2019,13,2018-12-08,17:30,201812081730,saturday,AEK Athen,Lamia,2,0,2,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/superleague-2018-2019-aek-athen-lamia/
+greece-2018-2019,13,2018-12-09,13:30,201812091330,sunday,Skoda Xanthi,Olympiakos Piräus,1,1,2,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/superleague-2018-2019-skoda-xanthi-olympiakos-piraeus/
+greece-2018-2019,13,2018-12-09,15:15,201812091515,sunday,OFI Heraklion,Panathinaikos,3,1,4,H,W,L,2,1,3,H,W,L,http://www.worldfootball.net/report/superleague-2018-2019-ofi-heraklion-panathinaikos/
+greece-2018-2019,13,2018-12-09,17:00,201812091700,sunday,Atromitos,Aris Saloniki,4,2,6,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/superleague-2018-2019-atromitos-aris-saloniki/
+greece-2018-2019,13,2018-12-09,17:30,201812091730,sunday,PAOK Saloniki,AE Larisa,2,1,3,H,W,L,1,1,2,D,D,D,http://www.worldfootball.net/report/superleague-2018-2019-paok-saloniki-ae-larisa/
+greece-2018-2019,13,2018-12-10,17:00,201812101700,monday,Panetolikos,Apollon Smyrnis,2,1,3,H,W,L,2,0,2,H,W,L,http://www.worldfootball.net/report/superleague-2018-2019-panetolikos-apollon-smyrnis/
+greece-2018-2019,13,2018-12-10,17:30,201812101730,monday,Panionios GSS,Levadiakos,1,1,2,D,D,D,0,1,1,A,L,W,http://www.worldfootball.net/report/superleague-2018-2019-panionios-gss-levadiakos/
+greece-2018-2019,14,2018-12-15,15:15,201812151515,saturday,PAS Giannina,Panionios GSS,3,1,4,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/superleague-2018-2019-pas-giannina-panionios-gss/
+greece-2018-2019,14,2018-12-15,17:00,201812151700,saturday,Aris Saloniki,Panetolikos,1,2,3,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/superleague-2018-2019-aris-saloniki-panetolikos/
+greece-2018-2019,14,2018-12-15,17:30,201812151730,saturday,Asteras Tripolis,OFI Heraklion,2,1,3,H,W,L,0,1,1,A,L,W,http://www.worldfootball.net/report/superleague-2018-2019-asteras-tripolis-ofi-heraklion/
+greece-2018-2019,14,2018-12-16,14:00,201812161400,sunday,Apollon Smyrnis,Skoda Xanthi,1,0,1,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/superleague-2018-2019-apollon-smyrnis-skoda-xanthi/
+greece-2018-2019,14,2018-12-16,15:15,201812161515,sunday,AE Larisa,AEK Athen,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/superleague-2018-2019-ae-larisa-aek-athen/
+greece-2018-2019,14,2018-12-16,17:00,201812161700,sunday,Panathinaikos,Atromitos,1,0,1,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/superleague-2018-2019-panathinaikos-atromitos/
+greece-2018-2019,14,2018-12-16,17:30,201812161730,sunday,Olympiakos Piräus,Lamia,3,0,3,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/superleague-2018-2019-olympiakos-piraeus-lamia/
+greece-2018-2019,14,2018-12-17,17:30,201812171730,monday,Levadiakos,PAOK Saloniki,1,2,3,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/superleague-2018-2019-levadiakos-paok-saloniki/
+greece-2018-2019,16,2019-01-12,15:15,201901121515,saturday,AE Larisa,Apollon Smyrnis,3,0,3,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/superleague-2018-2019-ae-larisa-apollon-smyrnis/
+greece-2018-2019,16,2019-01-12,17:00,201901121700,saturday,Atromitos,Panetolikos,2,2,4,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/superleague-2018-2019-atromitos-panetolikos/
+greece-2018-2019,16,2019-01-12,17:30,201901121730,saturday,OFI Heraklion,Panionios GSS,1,1,2,D,D,D,1,0,1,H,W,L,http://www.worldfootball.net/report/superleague-2018-2019-ofi-heraklion-panionios-gss/
+greece-2018-2019,16,2019-01-13,15:15,201901131515,sunday,Levadiakos,Olympiakos Piräus,0,2,2,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/superleague-2018-2019-levadiakos-olympiakos-piraeus/
+greece-2018-2019,16,2019-01-13,17:00,201901131700,sunday,Panathinaikos,Skoda Xanthi,2,2,4,D,D,D,0,1,1,A,L,W,http://www.worldfootball.net/report/superleague-2018-2019-panathinaikos-skoda-xanthi/
+greece-2018-2019,16,2019-01-13,17:30,201901131730,sunday,Asteras Tripolis,PAOK Saloniki,0,3,3,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/superleague-2018-2019-asteras-tripolis-paok-saloniki/
+greece-2018-2019,16,2019-01-14,17:00,201901141700,monday,Aris Saloniki,Lamia,1,0,1,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/superleague-2018-2019-aris-saloniki-lamia/
+greece-2018-2019,16,2019-01-14,17:30,201901141730,monday,PAS Giannina,AEK Athen,0,4,4,A,L,W,0,4,4,A,L,W,http://www.worldfootball.net/report/superleague-2018-2019-pas-giannina-aek-athen/
+greece-2018-2019,17,2019-01-19,15:15,201901191515,saturday,PAS Giannina,Olympiakos Piräus,1,2,3,A,L,W,1,2,3,A,L,W,http://www.worldfootball.net/report/superleague-2018-2019-pas-giannina-olympiakos-piraeus/
+greece-2018-2019,17,2019-01-19,17:00,201901191700,saturday,Apollon Smyrnis,Levadiakos,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/superleague-2018-2019-apollon-smyrnis-levadiakos/
+greece-2018-2019,17,2019-01-19,17:30,201901191730,saturday,PAOK Saloniki,Panionios GSS,3,0,3,H,W,L,2,0,2,H,W,L,http://www.worldfootball.net/report/superleague-2018-2019-paok-saloniki-panionios-gss/
+greece-2018-2019,17,2019-01-20,13:00,201901201300,sunday,OFI Heraklion,Panetolikos,3,0,3,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/superleague-2018-2019-ofi-heraklion-panetolikos/
+greece-2018-2019,17,2019-01-20,15:15,201901201515,sunday,AE Larisa,Aris Saloniki,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/superleague-2018-2019-ae-larisa-aris-saloniki/
+greece-2018-2019,17,2019-01-20,17:00,201901201700,sunday,Skoda Xanthi,Atromitos,2,1,3,H,W,L,1,1,2,D,D,D,http://www.worldfootball.net/report/superleague-2018-2019-skoda-xanthi-atromitos/
+greece-2018-2019,17,2019-01-20,17:30,201901201730,sunday,AEK Athen,Asteras Tripolis,3,0,3,H,W,L,3,0,3,H,W,L,http://www.worldfootball.net/report/superleague-2018-2019-aek-athen-asteras-tripolis/
+greece-2018-2019,17,2019-01-21,17:00,201901211700,monday,Lamia,Panathinaikos,1,0,1,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/superleague-2018-2019-lamia-panathinaikos/
+greece-2018-2019,18,2019-01-26,15:15,201901261515,saturday,PAS Giannina,Apollon Smyrnis,1,0,1,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/superleague-2018-2019-pas-giannina-apollon-smyrnis/
+greece-2018-2019,18,2019-01-26,17:00,201901261700,saturday,Panetolikos,Skoda Xanthi,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/superleague-2018-2019-panetolikos-skoda-xanthi/
+greece-2018-2019,18,2019-01-26,17:30,201901261730,saturday,Panionios GSS,AEK Athen,0,2,2,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/superleague-2018-2019-panionios-gss-aek-athen/
+greece-2018-2019,18,2019-01-27,13:00,201901271300,sunday,Levadiakos,Aris Saloniki,1,0,1,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/superleague-2018-2019-levadiakos-aris-saloniki/
+greece-2018-2019,18,2019-01-27,14:00,201901271400,sunday,Lamia,Atromitos,2,1,3,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/superleague-2018-2019-lamia-atromitos/
+greece-2018-2019,18,2019-01-27,15:15,201901271515,sunday,PAOK Saloniki,OFI Heraklion,4,0,4,H,W,L,2,0,2,H,W,L,http://www.worldfootball.net/report/superleague-2018-2019-paok-saloniki-ofi-heraklion/
+greece-2018-2019,18,2019-01-27,17:00,201901271700,sunday,Panathinaikos,AE Larisa,1,1,2,D,D,D,1,0,1,H,W,L,http://www.worldfootball.net/report/superleague-2018-2019-panathinaikos-ae-larisa/
+greece-2018-2019,18,2019-01-27,17:30,201901271730,sunday,Asteras Tripolis,Olympiakos Piräus,0,2,2,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/superleague-2018-2019-asteras-tripolis-olympiakos-piraeus/
+greece-2018-2019,15,2019-01-30,13:00,201901301300,wednesday,Panionios GSS,Asteras Tripolis,1,0,1,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/superleague-2018-2019-panionios-gss-asteras-tripolis/
+greece-2018-2019,15,2019-01-30,14:00,201901301400,wednesday,Lamia,Apollon Smyrnis,2,1,3,H,W,L,2,1,3,H,W,L,http://www.worldfootball.net/report/superleague-2018-2019-lamia-apollon-smyrnis/
+greece-2018-2019,15,2019-01-30,15:15,201901301515,wednesday,AEK Athen,Levadiakos,1,0,1,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/superleague-2018-2019-aek-athen-levadiakos/
+greece-2018-2019,15,2019-01-30,15:15,201901301515,wednesday,PAOK Saloniki,PAS Giannina,2,1,3,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/superleague-2018-2019-paok-saloniki-pas-giannina/
+greece-2018-2019,15,2019-01-30,17:00,201901301700,wednesday,Panetolikos,Panathinaikos,0,1,1,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/superleague-2018-2019-panetolikos-panathinaikos/
+greece-2018-2019,15,2019-01-30,17:30,201901301730,wednesday,Olympiakos Piräus,AE Larisa,4,0,4,H,W,L,3,0,3,H,W,L,http://www.worldfootball.net/report/superleague-2018-2019-olympiakos-piraeus-ae-larisa/
+greece-2018-2019,15,2019-01-31,15:15,201901311515,thursday,OFI Heraklion,Atromitos,1,1,2,D,D,D,1,1,2,D,D,D,http://www.worldfootball.net/report/superleague-2018-2019-ofi-heraklion-atromitos/
+greece-2018-2019,15,2019-01-31,17:00,201901311700,thursday,Skoda Xanthi,Aris Saloniki,0,1,1,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/superleague-2018-2019-skoda-xanthi-aris-saloniki/
+greece-2018-2019,19,2019-02-02,17:00,201902021700,saturday,Lamia,Panetolikos,0,2,2,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/superleague-2018-2019-lamia-panetolikos/
+greece-2018-2019,19,2019-02-02,17:30,201902021730,saturday,Olympiakos Piräus,Panionios GSS,4,0,4,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/superleague-2018-2019-olympiakos-piraeus-panionios-gss/
+greece-2018-2019,19,2019-02-03,13:00,201902031300,sunday,OFI Heraklion,Skoda Xanthi,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/superleague-2018-2019-ofi-heraklion-skoda-xanthi/
+greece-2018-2019,19,2019-02-03,14:00,201902031400,sunday,Apollon Smyrnis,Asteras Tripolis,0,2,2,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/superleague-2018-2019-apollon-smyrnis-asteras-tripolis/
+greece-2018-2019,19,2019-02-03,15:15,201902031515,sunday,AE Larisa,Atromitos,0,1,1,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/superleague-2018-2019-ae-larisa-atromitos/
+greece-2018-2019,19,2019-02-03,15:15,201902031515,sunday,Levadiakos,Panathinaikos,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/superleague-2018-2019-levadiakos-panathinaikos/
+greece-2018-2019,19,2019-02-03,17:00,201902031700,sunday,Aris Saloniki,PAS Giannina,1,0,1,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/superleague-2018-2019-aris-saloniki-pas-giannina/
+greece-2018-2019,19,2019-02-03,17:30,201902031730,sunday,AEK Athen,PAOK Saloniki,1,1,2,D,D,D,0,1,1,A,L,W,http://www.worldfootball.net/report/superleague-2018-2019-aek-athen-paok-saloniki/
+greece-2018-2019,20,2019-02-09,15:15,201902091515,saturday,Panionios GSS,Apollon Smyrnis,0,1,1,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/superleague-2018-2019-panionios-gss-apollon-smyrnis/
+greece-2018-2019,20,2019-02-09,17:00,201902091700,saturday,Skoda Xanthi,Lamia,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/superleague-2018-2019-skoda-xanthi-lamia/
+greece-2018-2019,20,2019-02-09,17:30,201902091730,saturday,PAS Giannina,Panathinaikos,1,0,1,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/superleague-2018-2019-pas-giannina-panathinaikos/
+greece-2018-2019,20,2019-02-10,13:00,201902101300,sunday,AEK Athen,OFI Heraklion,1,0,1,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/superleague-2018-2019-aek-athen-ofi-heraklion/
+greece-2018-2019,20,2019-02-10,17:00,201902101700,sunday,Atromitos,Levadiakos,1,0,1,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/superleague-2018-2019-atromitos-levadiakos/
+greece-2018-2019,20,2019-02-10,17:30,201902101730,sunday,PAOK Saloniki,Olympiakos Piräus,3,1,4,H,W,L,2,0,2,H,W,L,http://www.worldfootball.net/report/superleague-2018-2019-paok-saloniki-olympiakos-piraeus/
+greece-2018-2019,20,2019-02-11,17:00,201902111700,monday,Panetolikos,AE Larisa,2,2,4,D,D,D,2,0,2,H,W,L,http://www.worldfootball.net/report/superleague-2018-2019-panetolikos-ae-larisa/
+greece-2018-2019,20,2019-02-11,17:30,201902111730,monday,Asteras Tripolis,Aris Saloniki,0,3,3,A,L,W,0,3,3,A,L,W,http://www.worldfootball.net/report/superleague-2018-2019-asteras-tripolis-aris-saloniki/
+greece-2018-2019,21,2019-02-16,17:00,201902161700,saturday,Panathinaikos,Asteras Tripolis,1,0,1,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/superleague-2018-2019-panathinaikos-asteras-tripolis/
+greece-2018-2019,21,2019-02-16,17:30,201902161730,saturday,PAS Giannina,Atromitos,0,2,2,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/superleague-2018-2019-pas-giannina-atromitos/
+greece-2018-2019,21,2019-02-17,13:00,201902171300,sunday,AE Larisa,Skoda Xanthi,1,1,2,D,D,D,1,1,2,D,D,D,http://www.worldfootball.net/report/superleague-2018-2019-ae-larisa-skoda-xanthi/
+greece-2018-2019,21,2019-02-17,15:15,201902171515,sunday,Levadiakos,Panetolikos,1,0,1,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/superleague-2018-2019-levadiakos-panetolikos/
+greece-2018-2019,21,2019-02-17,16:00,201902171600,sunday,Aris Saloniki,Panionios GSS,1,1,2,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/superleague-2018-2019-aris-saloniki-panionios-gss/
+greece-2018-2019,21,2019-02-17,17:30,201902171730,sunday,Olympiakos Piräus,AEK Athen,4,1,5,H,W,L,0,1,1,A,L,W,http://www.worldfootball.net/report/superleague-2018-2019-olympiakos-piraeus-aek-athen/
+greece-2018-2019,21,2019-02-18,17:00,201902181700,monday,Apollon Smyrnis,PAOK Saloniki,1,5,6,A,L,W,0,3,3,A,L,W,http://www.worldfootball.net/report/superleague-2018-2019-apollon-smyrnis-paok-saloniki/
+greece-2018-2019,21,2019-02-18,17:30,201902181730,monday,OFI Heraklion,Lamia,1,3,4,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/superleague-2018-2019-ofi-heraklion-lamia/

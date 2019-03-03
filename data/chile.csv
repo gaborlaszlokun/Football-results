@@ -4837,123 +4837,253 @@ chile-2017-torneo-de-transicion,15,2017-12-10,20:00,201712102000,sunday,Palestin
 chile-2017-torneo-de-transicion,15,2017-12-10,20:00,201712102000,sunday,Curicó Unido,O'Higgins,1,0,1,H,W,L,1.0,0.0,1.0,H,W,L,http://www.worldfootball.net/report/primera-division-2017-torneo-de-transicion-curico-unido-ohiggins/
 chile-2017-playoffs-libertadores,Final,2017-12-13,23:00,201712132300,wednesday,Universidad de Concepción,Unión Española,1,0,1,H,W,L,1.0,0.0,1.0,H,W,L,http://www.worldfootball.net/report/primera-division-2017-playoffs-libertadores-finale-universidad-de-concepcion-union-espanola/
 chile-2017-playoffs-libertadores,Final,2017-12-20,23:00,201712202300,wednesday,Unión Española,Universidad de Concepción,1,2,3,A,L,W,1.0,1.0,2.0,D,D,D,http://www.worldfootball.net/report/primera-division-2017-playoffs-libertadores-finale-union-espanola-universidad-de-concepcion/
-chile-2018,1,2018-02-02,23:00,201802022300,friday,Universidad Católica,Deportes Temuco,2,1,3,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/primera-division-2018-universidad-catolica-deportes-temuco/
-chile-2018,1,2018-02-03,15:00,201802031500,saturday,Antofagasta,Colo-Colo,1,2,3,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/primera-division-2018-antofagasta-colo-colo/
-chile-2018,1,2018-02-03,20:30,201802032030,saturday,Palestino,Unión La Calera,1,2,3,A,L,W,1,0,1,H,W,L,http://www.worldfootball.net/report/primera-division-2018-palestino-union-la-calera/
-chile-2018,1,2018-02-03,23:00,201802032300,saturday,Universidad de Concepción,O'Higgins,0,2,2,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/primera-division-2018-universidad-de-concepcion-ohiggins/
-chile-2018,1,2018-02-04,15:00,201802041500,sunday,Everton,Iquique,2,3,5,A,L,W,1,1,2,D,D,D,http://www.worldfootball.net/report/primera-division-2018-everton-iquique/
-chile-2018,1,2018-02-04,21:00,201802042100,sunday,Universidad de Chile,Unión Española,1,2,3,A,L,W,1,1,2,D,D,D,http://www.worldfootball.net/report/primera-division-2018-universidad-de-chile-union-espanola/
-chile-2018,1,2018-02-04,23:30,201802042330,sunday,Audax Italiano,Huachipato,2,4,6,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/primera-division-2018-audax-italiano-huachipato/
-chile-2018,1,2018-02-05,23:00,201802052300,monday,San Luis,Curicó Unido,1,0,1,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/primera-division-2018-san-luis-curico-unido/
-chile-2018,2,2018-02-09,22:00,201802092200,friday,Unión La Calera,Antofagasta,1,3,4,A,L,W,0,2,2,A,L,W,http://www.worldfootball.net/report/primera-division-2018-union-la-calera-antofagasta/
-chile-2018,2,2018-02-10,00:30,201802100030,saturday,Unión Española,Palestino,2,2,4,D,D,D,0,1,1,A,L,W,http://www.worldfootball.net/report/primera-division-2018-union-espanola-palestino/
-chile-2018,2,2018-02-10,21:00,201802102100,saturday,Iquique,Universidad de Chile,1,2,3,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/primera-division-2018-iquique-universidad-de-chile/
-chile-2018,2,2018-02-10,23:30,201802102330,saturday,Deportes Temuco,Universidad de Concepción,1,1,2,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/primera-division-2018-deportes-temuco-universidad-de-concepcion/
-chile-2018,2,2018-02-11,15:00,201802111500,sunday,Huachipato,San Luis,1,1,2,D,D,D,1,1,2,D,D,D,http://www.worldfootball.net/report/primera-division-2018-huachipato-san-luis/
-chile-2018,2,2018-02-11,21:00,201802112100,sunday,Curicó Unido,Universidad Católica,1,3,4,A,L,W,0,2,2,A,L,W,http://www.worldfootball.net/report/primera-division-2018-curico-unido-universidad-catolica/
-chile-2018,2,2018-02-11,23:30,201802112330,sunday,Colo-Colo,Audax Italiano,3,2,5,H,W,L,2,0,2,H,W,L,http://www.worldfootball.net/report/primera-division-2018-colo-colo-audax-italiano/
-chile-2018,2,2018-02-12,23:00,201802122300,monday,O'Higgins,Everton,1,2,3,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/primera-division-2018-ohiggins-everton/
-chile-2018,3,2018-02-16,23:00,201802162300,friday,Universidad de Chile,San Luis,3,0,3,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/primera-division-2018-universidad-de-chile-san-luis/
-chile-2018,3,2018-02-17,15:00,201802171500,saturday,Everton,Universidad Católica,0,1,1,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/primera-division-2018-everton-universidad-catolica/
-chile-2018,3,2018-02-17,21:00,201802172100,saturday,Palestino,Colo-Colo,2,1,3,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/primera-division-2018-palestino-colo-colo/
-chile-2018,3,2018-02-17,23:30,201802172330,saturday,Universidad de Concepción,Curicó Unido,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/primera-division-2018-universidad-de-concepcion-curico-unido/
-chile-2018,3,2018-02-18,15:00,201802181500,sunday,Iquique,Unión La Calera,0,1,1,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/primera-division-2018-iquique-union-la-calera/
-chile-2018,3,2018-02-18,21:00,201802182100,sunday,O'Higgins,Huachipato,2,1,3,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/primera-division-2018-ohiggins-huachipato/
-chile-2018,3,2018-02-18,23:30,201802182330,sunday,Unión Española,Antofagasta,1,1,2,D,D,D,1,1,2,D,D,D,http://www.worldfootball.net/report/primera-division-2018-union-espanola-antofagasta/
-chile-2018,3,2018-02-19,23:00,201802192300,monday,Audax Italiano,Deportes Temuco,1,1,2,D,D,D,0,1,1,A,L,W,http://www.worldfootball.net/report/primera-division-2018-audax-italiano-deportes-temuco/
-chile-2018,4,2018-02-23,23:00,201802232300,friday,Colo-Colo,O'Higgins,1,1,2,D,D,D,0,1,1,A,L,W,http://www.worldfootball.net/report/primera-division-2018-colo-colo-ohiggins/
-chile-2018,4,2018-02-24,15:00,201802241500,saturday,Huachipato,Universidad de Concepción,3,0,3,H,W,L,3,0,3,H,W,L,http://www.worldfootball.net/report/primera-division-2018-huachipato-universidad-de-concepcion/
-chile-2018,4,2018-02-24,21:00,201802242100,saturday,San Luis,Palestino,0,1,1,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/primera-division-2018-san-luis-palestino/
-chile-2018,4,2018-02-24,23:30,201802242330,saturday,Universidad Católica,Unión La Calera,1,0,1,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/primera-division-2018-universidad-catolica-union-la-calera/
-chile-2018,4,2018-02-25,15:00,201802251500,sunday,Antofagasta,Iquique,2,1,3,H,W,L,0,1,1,A,L,W,http://www.worldfootball.net/report/primera-division-2018-antofagasta-iquique/
-chile-2018,4,2018-02-25,21:00,201802252100,sunday,Deportes Temuco,Universidad de Chile,0,1,1,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/primera-division-2018-deportes-temuco-universidad-de-chile/
-chile-2018,4,2018-02-25,23:30,201802252330,sunday,Audax Italiano,Everton,1,0,1,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/primera-division-2018-audax-italiano-everton/
-chile-2018,4,2018-02-26,23:00,201802262300,monday,Curicó Unido,Unión Española,4,4,8,D,D,D,1,2,3,A,L,W,http://www.worldfootball.net/report/primera-division-2018-curico-unido-union-espanola/
-chile-2018,5,2018-03-02,20:30,201803022030,friday,Palestino,Audax Italiano,1,1,2,D,D,D,0,1,1,A,L,W,http://www.worldfootball.net/report/primera-division-2018-palestino-audax-italiano/
-chile-2018,5,2018-03-02,23:00,201803022300,friday,Everton,San Luis,2,1,3,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/primera-division-2018-everton-san-luis/
-chile-2018,5,2018-03-03,21:00,201803032100,saturday,Colo-Colo,Huachipato,2,1,3,H,W,L,1,1,2,D,D,D,http://www.worldfootball.net/report/primera-division-2018-colo-colo-huachipato/
-chile-2018,5,2018-03-03,23:30,201803032330,saturday,Unión Española,Universidad de Concepción,2,3,5,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/primera-division-2018-union-espanola-universidad-de-concepcion/
-chile-2018,5,2018-03-04,21:00,201803042100,sunday,Iquique,Universidad Católica,0,1,1,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/primera-division-2018-iquique-universidad-catolica/
-chile-2018,5,2018-03-04,23:30,201803042330,sunday,Universidad de Chile,Antofagasta,2,0,2,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/primera-division-2018-universidad-de-chile-antofagasta/
-chile-2018,5,2018-03-05,21:30,201803052130,monday,Unión La Calera,Curicó Unido,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/primera-division-2018-union-la-calera-curico-unido/
-chile-2018,5,2018-03-06,00:00,201803060000,tuesday,O'Higgins,Deportes Temuco,2,0,2,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/primera-division-2018-ohiggins-deportes-temuco/
-chile-2018,6,2018-03-16,23:00,201803162300,friday,Deportes Temuco,Palestino,3,2,5,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/primera-division-2018-deportes-temuco-palestino/
-chile-2018,6,2018-03-17,15:00,201803171500,saturday,Everton,Universidad de Chile,0,1,1,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/primera-division-2018-everton-universidad-de-chile/
-chile-2018,6,2018-03-17,23:30,201803172330,saturday,Curicó Unido,Audax Italiano,3,0,3,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/primera-division-2018-curico-unido-audax-italiano/
-chile-2018,6,2018-03-18,15:00,201803181500,sunday,Universidad de Concepción,Colo-Colo,2,1,3,H,W,L,0,1,1,A,L,W,http://www.worldfootball.net/report/primera-division-2018-universidad-de-concepcion-colo-colo/
-chile-2018,6,2018-03-18,21:00,201803182100,sunday,San Luis,Iquique,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/primera-division-2018-san-luis-iquique/
-chile-2018,6,2018-03-18,21:00,201803182100,sunday,Antofagasta,O'Higgins,3,2,5,H,W,L,2,2,4,D,D,D,http://www.worldfootball.net/report/primera-division-2018-antofagasta-ohiggins/
-chile-2018,6,2018-03-18,23:30,201803182330,sunday,Universidad Católica,Unión Española,3,1,4,H,W,L,1,1,2,D,D,D,http://www.worldfootball.net/report/primera-division-2018-universidad-catolica-union-espanola/
-chile-2018,6,2018-03-19,23:00,201803192300,monday,Huachipato,Unión La Calera,2,0,2,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/primera-division-2018-huachipato-union-la-calera/
-chile-2018,7,2018-03-30,22:00,201803302200,friday,Audax Italiano,Universidad de Chile,2,3,5,A,L,W,1,1,2,D,D,D,http://www.worldfootball.net/report/primera-division-2018-audax-italiano-universidad-de-chile/
-chile-2018,7,2018-03-31,16:30,201803311630,saturday,Colo-Colo,Universidad Católica,1,0,1,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/primera-division-2018-colo-colo-universidad-catolica/
-chile-2018,7,2018-03-31,19:30,201803311930,saturday,Huachipato,Everton,2,0,2,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/primera-division-2018-huachipato-everton/
-chile-2018,7,2018-03-31,22:00,201803312200,saturday,O'Higgins,San Luis,4,0,4,H,W,L,2,0,2,H,W,L,http://www.worldfootball.net/report/primera-division-2018-ohiggins-san-luis/
-chile-2018,7,2018-04-01,00:30,201804010030,sunday,Curicó Unido,Deportes Temuco,1,1,2,D,D,D,0,1,1,A,L,W,http://www.worldfootball.net/report/primera-division-2018-curico-unido-deportes-temuco/
-chile-2018,7,2018-04-01,16:30,201804011630,sunday,Iquique,Universidad de Concepción,1,3,4,A,L,W,1,1,2,D,D,D,http://www.worldfootball.net/report/primera-division-2018-iquique-universidad-de-concepcion/
-chile-2018,7,2018-04-01,19:00,201804011900,sunday,Palestino,Antofagasta,1,1,2,D,D,D,1,0,1,H,W,L,http://www.worldfootball.net/report/primera-division-2018-palestino-antofagasta/
-chile-2018,7,2018-04-01,21:30,201804012130,sunday,Unión La Calera,Unión Española,1,0,1,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/primera-division-2018-union-la-calera-union-espanola/
-chile-2018,8,2018-04-07,00:00,201804070000,saturday,Deportes Temuco,Iquique,0,4,4,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/primera-division-2018-deportes-temuco-iquique/
-chile-2018,8,2018-04-07,16:00,201804071600,saturday,Everton,Unión La Calera,1,3,4,A,L,W,0,3,3,A,L,W,http://www.worldfootball.net/report/primera-division-2018-everton-union-la-calera/
-chile-2018,8,2018-04-07,19:00,201804071900,saturday,Antofagasta,Huachipato,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/primera-division-2018-antofagasta-huachipato/
-chile-2018,8,2018-04-07,21:30,201804072130,saturday,Universidad de Chile,Curicó Unido,2,1,3,H,W,L,2,0,2,H,W,L,http://www.worldfootball.net/report/primera-division-2018-universidad-de-chile-curico-unido/
-chile-2018,8,2018-04-08,00:00,201804080000,sunday,Universidad de Concepción,Audax Italiano,1,0,1,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/primera-division-2018-universidad-de-concepcion-audax-italiano/
-chile-2018,8,2018-04-08,19:00,201804081900,sunday,San Luis,Colo-Colo,1,0,1,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/primera-division-2018-san-luis-colo-colo/
-chile-2018,8,2018-04-08,21:30,201804082130,sunday,Universidad Católica,Palestino,2,1,3,H,W,L,2,1,3,H,W,L,http://www.worldfootball.net/report/primera-division-2018-universidad-catolica-palestino/
-chile-2018,8,2018-04-09,00:00,201804090000,monday,Unión Española,O'Higgins,2,0,2,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/primera-division-2018-union-espanola-ohiggins/
-chile-2018,9,2018-04-14,00:00,201804140000,saturday,Unión La Calera,Universidad de Concepción,1,3,4,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/primera-division-2018-union-la-calera-universidad-de-concepcion/
-chile-2018,9,2018-04-14,16:00,201804141600,saturday,Palestino,Everton,2,1,3,H,W,L,2,1,3,H,W,L,http://www.worldfootball.net/report/primera-division-2018-palestino-everton/
-chile-2018,9,2018-04-14,19:00,201804141900,saturday,O'Higgins,Universidad Católica,0,1,1,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/primera-division-2018-ohiggins-universidad-catolica/
-chile-2018,9,2018-04-14,21:30,201804142130,saturday,Huachipato,Deportes Temuco,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/primera-division-2018-huachipato-deportes-temuco/
-chile-2018,9,2018-04-15,00:00,201804150000,sunday,Curicó Unido,Antofagasta,3,4,7,A,L,W,3,1,4,H,W,L,http://www.worldfootball.net/report/primera-division-2018-curico-unido-antofagasta/
-chile-2018,9,2018-04-15,16:00,201804151600,sunday,Universidad de Chile,Colo-Colo,1,3,4,A,L,W,1,1,2,D,D,D,http://www.worldfootball.net/report/primera-division-2018-universidad-de-chile-colo-colo/
-chile-2018,9,2018-04-15,19:00,201804151900,sunday,Iquique,Unión Española,0,1,1,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/primera-division-2018-iquique-union-espanola/
-chile-2018,9,2018-04-16,00:00,201804160000,monday,Audax Italiano,San Luis,1,1,2,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/primera-division-2018-audax-italiano-san-luis/
-chile-2018,10,2018-04-21,00:00,201804210000,saturday,Unión Española,Huachipato,2,1,3,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/primera-division-2018-union-espanola-huachipato/
-chile-2018,10,2018-04-21,16:00,201804211600,saturday,Iquique,Palestino,2,1,3,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/primera-division-2018-iquique-palestino/
-chile-2018,10,2018-04-21,21:30,201804212130,saturday,Colo-Colo,Deportes Temuco,2,0,2,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/primera-division-2018-colo-colo-deportes-temuco/
-chile-2018,10,2018-04-22,00:00,201804220000,sunday,Universidad de Concepción,Everton,2,0,2,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/primera-division-2018-universidad-de-concepcion-everton/
-chile-2018,10,2018-04-22,16:00,201804221600,sunday,O'Higgins,Curicó Unido,2,2,4,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/primera-division-2018-ohiggins-curico-unido/
-chile-2018,10,2018-04-22,19:00,201804221900,sunday,Unión La Calera,Universidad de Chile,6,1,7,H,W,L,3,0,3,H,W,L,http://www.worldfootball.net/report/primera-division-2018-union-la-calera-universidad-de-chile/
-chile-2018,10,2018-04-22,21:30,201804222130,sunday,Universidad Católica,Audax Italiano,1,0,1,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/primera-division-2018-universidad-catolica-audax-italiano/
-chile-2018,10,2018-04-23,00:00,201804230000,monday,Antofagasta,San Luis,1,0,1,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/primera-division-2018-antofagasta-san-luis/
-chile-2018,11,2018-04-28,16:00,201804281600,saturday,Curicó Unido,Colo-Colo,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/primera-division-2018-curico-unido-colo-colo/
-chile-2018,11,2018-04-28,19:00,201804281900,saturday,Huachipato,Iquique,2,2,4,D,D,D,0,1,1,A,L,W,http://www.worldfootball.net/report/primera-division-2018-huachipato-iquique/
-chile-2018,11,2018-04-28,21:30,201804282130,saturday,Everton,Unión Española,1,1,2,D,D,D,0,1,1,A,L,W,http://www.worldfootball.net/report/primera-division-2018-everton-union-espanola/
-chile-2018,11,2018-04-29,00:00,201804290000,sunday,Audax Italiano,Antofagasta,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/primera-division-2018-audax-italiano-antofagasta/
-chile-2018,11,2018-04-29,16:00,201804291600,sunday,Palestino,O'Higgins,2,3,5,A,L,W,1,0,1,H,W,L,http://www.worldfootball.net/report/primera-division-2018-palestino-ohiggins/
-chile-2018,11,2018-04-29,19:00,201804291900,sunday,Deportes Temuco,Unión La Calera,0,2,2,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/primera-division-2018-deportes-temuco-union-la-calera/
-chile-2018,11,2018-04-29,21:30,201804292130,sunday,Universidad de Chile,Universidad de Concepción,1,2,3,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/primera-division-2018-universidad-de-chile-universidad-de-concepcion/
-chile-2018,11,2018-04-30,00:00,201804300000,monday,San Luis,Universidad Católica,1,1,2,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/primera-division-2018-san-luis-universidad-catolica/
-chile-2018,12,2018-05-05,00:00,201805050000,saturday,Unión Española,San Luis,4,0,4,H,W,L,2,0,2,H,W,L,http://www.worldfootball.net/report/primera-division-2018-union-espanola-san-luis/
-chile-2018,12,2018-05-05,16:00,201805051600,saturday,Iquique,Curicó Unido,2,2,4,D,D,D,1,0,1,H,W,L,http://www.worldfootball.net/report/primera-division-2018-iquique-curico-unido/
-chile-2018,12,2018-05-05,19:00,201805051900,saturday,Antofagasta,Deportes Temuco,3,2,5,H,W,L,2,0,2,H,W,L,http://www.worldfootball.net/report/primera-division-2018-antofagasta-deportes-temuco/
-chile-2018,12,2018-05-05,21:30,201805052130,saturday,Unión La Calera,Audax Italiano,1,0,1,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/primera-division-2018-union-la-calera-audax-italiano/
-chile-2018,12,2018-05-06,00:00,201805060000,sunday,Universidad Católica,Huachipato,3,1,4,H,W,L,1,1,2,D,D,D,http://www.worldfootball.net/report/primera-division-2018-universidad-catolica-huachipato/
-chile-2018,12,2018-05-06,16:00,201805061600,sunday,O'Higgins,Universidad de Chile,0,1,1,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/primera-division-2018-ohiggins-universidad-de-chile/
-chile-2018,12,2018-05-06,19:00,201805061900,sunday,Palestino,Universidad de Concepción,1,2,3,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/primera-division-2018-palestino-universidad-de-concepcion/
-chile-2018,12,2018-05-06,21:30,201805062130,sunday,Colo-Colo,Everton,3,1,4,H,W,L,1,1,2,D,D,D,http://www.worldfootball.net/report/primera-division-2018-colo-colo-everton/
-chile-2018,13,2018-05-12,00:00,201805120000,saturday,Colo-Colo,Iquique,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/primera-division-2018-colo-colo-iquique/
-chile-2018,13,2018-05-12,16:00,201805121600,saturday,San Luis,Unión La Calera,1,2,3,A,L,W,1,0,1,H,W,L,http://www.worldfootball.net/report/primera-division-2018-san-luis-union-la-calera/
-chile-2018,13,2018-05-12,19:00,201805121900,saturday,Huachipato,Palestino,1,1,2,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/primera-division-2018-huachipato-palestino/
-chile-2018,13,2018-05-13,00:00,201805130000,sunday,Everton,Curicó Unido,1,1,2,D,D,D,0,1,1,A,L,W,http://www.worldfootball.net/report/primera-division-2018-everton-curico-unido/
-chile-2018,13,2018-05-13,17:00,201805131700,sunday,Universidad Católica,Universidad de Chile,1,1,2,D,D,D,1,0,1,H,W,L,http://www.worldfootball.net/report/primera-division-2018-universidad-catolica-universidad-de-chile/
-chile-2018,13,2018-05-13,20:00,201805132000,sunday,Deportes Temuco,Unión Española,2,0,2,H,W,L,2,0,2,H,W,L,http://www.worldfootball.net/report/primera-division-2018-deportes-temuco-union-espanola/
-chile-2018,13,2018-05-13,22:30,201805132230,sunday,Audax Italiano,O'Higgins,1,2,3,A,L,W,1,1,2,D,D,D,http://www.worldfootball.net/report/primera-division-2018-audax-italiano-ohiggins/
-chile-2018,13,2018-05-14,01:00,201805140100,monday,Universidad de Concepción,Antofagasta,3,2,5,H,W,L,1,2,3,A,L,W,http://www.worldfootball.net/report/primera-division-2018-universidad-de-concepcion-antofagasta/
-chile-2018,14,2018-05-19,01:00,201805190100,saturday,Universidad de Chile,Palestino,1,2,3,A,L,W,1,2,3,A,L,W,http://www.worldfootball.net/report/primera-division-2018-universidad-de-chile-palestino/
-chile-2018,14,2018-05-19,17:00,201805191700,saturday,Iquique,Audax Italiano,1,1,2,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/primera-division-2018-iquique-audax-italiano/
-chile-2018,14,2018-05-19,20:00,201805192000,saturday,Unión La Calera,O'Higgins,4,0,4,H,W,L,2,0,2,H,W,L,http://www.worldfootball.net/report/primera-division-2018-union-la-calera-ohiggins/
-chile-2018,14,2018-05-19,22:30,201805192230,saturday,Unión Española,Colo-Colo,3,2,5,H,W,L,0,1,1,A,L,W,http://www.worldfootball.net/report/primera-division-2018-union-espanola-colo-colo/
-chile-2018,14,2018-05-20,20:00,201805202000,sunday,Antofagasta,Everton,3,2,5,H,W,L,0,1,1,A,L,W,http://www.worldfootball.net/report/primera-division-2018-antofagasta-everton/
-chile-2018,14,2018-05-20,22:30,201805202230,sunday,Universidad de Concepción,Universidad Católica,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/primera-division-2018-universidad-de-concepcion-universidad-catolica/
-chile-2018,14,2018-05-21,01:00,201805210100,monday,Curicó Unido,Huachipato,2,1,3,H,W,L,1,1,2,D,D,D,http://www.worldfootball.net/report/primera-division-2018-curico-unido-huachipato/
-chile-2018,14,2018-05-21,20:00,201805212000,monday,Deportes Temuco,San Luis,2,2,4,D,D,D,1,0,1,H,W,L,http://www.worldfootball.net/report/primera-division-2018-deportes-temuco-san-luis/
-chile-2018,15,2018-05-26,17:00,201805261700,saturday,San Luis,Universidad de Concepción,0,3,3,A,L,W,0,3,3,A,L,W,http://www.worldfootball.net/report/primera-division-2018-san-luis-universidad-de-concepcion/
-chile-2018,15,2018-05-26,20:00,201805262000,saturday,Huachipato,Universidad de Chile,0,1,1,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/primera-division-2018-huachipato-universidad-de-chile/
-chile-2018,15,2018-05-26,22:30,201805262230,saturday,O'Higgins,Iquique,2,1,3,H,W,L,0,1,1,A,L,W,http://www.worldfootball.net/report/primera-division-2018-ohiggins-iquique/
-chile-2018,15,2018-05-27,01:00,201805270100,sunday,Universidad Católica,Antofagasta,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/primera-division-2018-universidad-catolica-antofagasta/
-chile-2018,15,2018-05-27,17:00,201805271700,sunday,Palestino,Curicó Unido,2,1,3,H,W,L,2,0,2,H,W,L,http://www.worldfootball.net/report/primera-division-2018-palestino-curico-unido/
-chile-2018,15,2018-05-27,20:00,201805272000,sunday,Everton,Deportes Temuco,2,2,4,D,D,D,0,1,1,A,L,W,http://www.worldfootball.net/report/primera-division-2018-everton-deportes-temuco/
-chile-2018,15,2018-05-27,22:30,201805272230,sunday,Audax Italiano,Unión Española,1,1,2,D,D,D,1,1,2,D,D,D,http://www.worldfootball.net/report/primera-division-2018-audax-italiano-union-espanola/
-chile-2018,15,2018-05-29,01:00,201805290100,tuesday,Colo-Colo,Unión La Calera,0,2,2,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/primera-division-2018-colo-colo-union-la-calera/
+chile-2018,1,2018-02-02,23:00,201802022300,friday,Universidad Católica,Deportes Temuco,2,1,3,H,W,L,1.0,0.0,1.0,H,W,L,http://www.worldfootball.net/report/primera-division-2018-universidad-catolica-deportes-temuco/
+chile-2018,1,2018-02-03,15:00,201802031500,saturday,Antofagasta,Colo-Colo,1,2,3,A,L,W,0.0,1.0,1.0,A,L,W,http://www.worldfootball.net/report/primera-division-2018-antofagasta-colo-colo/
+chile-2018,1,2018-02-03,20:30,201802032030,saturday,Palestino,Unión La Calera,1,2,3,A,L,W,1.0,0.0,1.0,H,W,L,http://www.worldfootball.net/report/primera-division-2018-palestino-union-la-calera/
+chile-2018,1,2018-02-03,23:00,201802032300,saturday,Universidad de Concepción,O'Higgins,0,2,2,A,L,W,0.0,1.0,1.0,A,L,W,http://www.worldfootball.net/report/primera-division-2018-universidad-de-concepcion-ohiggins/
+chile-2018,1,2018-02-04,15:00,201802041500,sunday,Everton,Iquique,2,3,5,A,L,W,1.0,1.0,2.0,D,D,D,http://www.worldfootball.net/report/primera-division-2018-everton-iquique/
+chile-2018,1,2018-02-04,21:00,201802042100,sunday,Universidad de Chile,Unión Española,1,2,3,A,L,W,1.0,1.0,2.0,D,D,D,http://www.worldfootball.net/report/primera-division-2018-universidad-de-chile-union-espanola/
+chile-2018,1,2018-02-04,23:30,201802042330,sunday,Audax Italiano,Huachipato,2,4,6,A,L,W,0.0,1.0,1.0,A,L,W,http://www.worldfootball.net/report/primera-division-2018-audax-italiano-huachipato/
+chile-2018,1,2018-02-05,23:00,201802052300,monday,San Luis,Curicó Unido,1,0,1,H,W,L,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/primera-division-2018-san-luis-curico-unido/
+chile-2018,2,2018-02-09,22:00,201802092200,friday,Unión La Calera,Antofagasta,1,3,4,A,L,W,0.0,2.0,2.0,A,L,W,http://www.worldfootball.net/report/primera-division-2018-union-la-calera-antofagasta/
+chile-2018,2,2018-02-10,00:30,201802100030,saturday,Unión Española,Palestino,2,2,4,D,D,D,0.0,1.0,1.0,A,L,W,http://www.worldfootball.net/report/primera-division-2018-union-espanola-palestino/
+chile-2018,2,2018-02-10,21:00,201802102100,saturday,Iquique,Universidad de Chile,1,2,3,A,L,W,0.0,1.0,1.0,A,L,W,http://www.worldfootball.net/report/primera-division-2018-iquique-universidad-de-chile/
+chile-2018,2,2018-02-10,23:30,201802102330,saturday,Deportes Temuco,Universidad de Concepción,1,1,2,D,D,D,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/primera-division-2018-deportes-temuco-universidad-de-concepcion/
+chile-2018,2,2018-02-11,15:00,201802111500,sunday,Huachipato,San Luis,1,1,2,D,D,D,1.0,1.0,2.0,D,D,D,http://www.worldfootball.net/report/primera-division-2018-huachipato-san-luis/
+chile-2018,2,2018-02-11,21:00,201802112100,sunday,Curicó Unido,Universidad Católica,1,3,4,A,L,W,0.0,2.0,2.0,A,L,W,http://www.worldfootball.net/report/primera-division-2018-curico-unido-universidad-catolica/
+chile-2018,2,2018-02-11,23:30,201802112330,sunday,Colo-Colo,Audax Italiano,3,2,5,H,W,L,2.0,0.0,2.0,H,W,L,http://www.worldfootball.net/report/primera-division-2018-colo-colo-audax-italiano/
+chile-2018,2,2018-02-12,23:00,201802122300,monday,O'Higgins,Everton,1,2,3,A,L,W,0.0,1.0,1.0,A,L,W,http://www.worldfootball.net/report/primera-division-2018-ohiggins-everton/
+chile-2018,3,2018-02-16,23:00,201802162300,friday,Universidad de Chile,San Luis,3,0,3,H,W,L,1.0,0.0,1.0,H,W,L,http://www.worldfootball.net/report/primera-division-2018-universidad-de-chile-san-luis/
+chile-2018,3,2018-02-17,15:00,201802171500,saturday,Everton,Universidad Católica,0,1,1,A,L,W,0.0,1.0,1.0,A,L,W,http://www.worldfootball.net/report/primera-division-2018-everton-universidad-catolica/
+chile-2018,3,2018-02-17,21:00,201802172100,saturday,Palestino,Colo-Colo,2,1,3,H,W,L,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/primera-division-2018-palestino-colo-colo/
+chile-2018,3,2018-02-17,23:30,201802172330,saturday,Universidad de Concepción,Curicó Unido,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/primera-division-2018-universidad-de-concepcion-curico-unido/
+chile-2018,3,2018-02-18,15:00,201802181500,sunday,Iquique,Unión La Calera,0,1,1,A,L,W,0.0,1.0,1.0,A,L,W,http://www.worldfootball.net/report/primera-division-2018-iquique-union-la-calera/
+chile-2018,3,2018-02-18,21:00,201802182100,sunday,O'Higgins,Huachipato,2,1,3,H,W,L,1.0,0.0,1.0,H,W,L,http://www.worldfootball.net/report/primera-division-2018-ohiggins-huachipato/
+chile-2018,3,2018-02-18,23:30,201802182330,sunday,Unión Española,Antofagasta,1,1,2,D,D,D,1.0,1.0,2.0,D,D,D,http://www.worldfootball.net/report/primera-division-2018-union-espanola-antofagasta/
+chile-2018,3,2018-02-19,23:00,201802192300,monday,Audax Italiano,Deportes Temuco,1,1,2,D,D,D,0.0,1.0,1.0,A,L,W,http://www.worldfootball.net/report/primera-division-2018-audax-italiano-deportes-temuco/
+chile-2018,4,2018-02-23,23:00,201802232300,friday,Colo-Colo,O'Higgins,1,1,2,D,D,D,0.0,1.0,1.0,A,L,W,http://www.worldfootball.net/report/primera-division-2018-colo-colo-ohiggins/
+chile-2018,4,2018-02-24,15:00,201802241500,saturday,Huachipato,Universidad de Concepción,3,0,3,H,W,L,3.0,0.0,3.0,H,W,L,http://www.worldfootball.net/report/primera-division-2018-huachipato-universidad-de-concepcion/
+chile-2018,4,2018-02-24,21:00,201802242100,saturday,San Luis,Palestino,0,1,1,A,L,W,0.0,1.0,1.0,A,L,W,http://www.worldfootball.net/report/primera-division-2018-san-luis-palestino/
+chile-2018,4,2018-02-24,23:30,201802242330,saturday,Universidad Católica,Unión La Calera,1,0,1,H,W,L,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/primera-division-2018-universidad-catolica-union-la-calera/
+chile-2018,4,2018-02-25,15:00,201802251500,sunday,Antofagasta,Iquique,2,1,3,H,W,L,0.0,1.0,1.0,A,L,W,http://www.worldfootball.net/report/primera-division-2018-antofagasta-iquique/
+chile-2018,4,2018-02-25,21:00,201802252100,sunday,Deportes Temuco,Universidad de Chile,0,1,1,A,L,W,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/primera-division-2018-deportes-temuco-universidad-de-chile/
+chile-2018,4,2018-02-25,23:30,201802252330,sunday,Audax Italiano,Everton,1,0,1,H,W,L,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/primera-division-2018-audax-italiano-everton/
+chile-2018,4,2018-02-26,23:00,201802262300,monday,Curicó Unido,Unión Española,4,4,8,D,D,D,1.0,2.0,3.0,A,L,W,http://www.worldfootball.net/report/primera-division-2018-curico-unido-union-espanola/
+chile-2018,5,2018-03-02,20:30,201803022030,friday,Palestino,Audax Italiano,1,1,2,D,D,D,0.0,1.0,1.0,A,L,W,http://www.worldfootball.net/report/primera-division-2018-palestino-audax-italiano/
+chile-2018,5,2018-03-02,23:00,201803022300,friday,Everton,San Luis,2,1,3,H,W,L,1.0,0.0,1.0,H,W,L,http://www.worldfootball.net/report/primera-division-2018-everton-san-luis/
+chile-2018,5,2018-03-03,21:00,201803032100,saturday,Colo-Colo,Huachipato,2,1,3,H,W,L,1.0,1.0,2.0,D,D,D,http://www.worldfootball.net/report/primera-division-2018-colo-colo-huachipato/
+chile-2018,5,2018-03-03,23:30,201803032330,saturday,Unión Española,Universidad de Concepción,2,3,5,A,L,W,0.0,1.0,1.0,A,L,W,http://www.worldfootball.net/report/primera-division-2018-union-espanola-universidad-de-concepcion/
+chile-2018,5,2018-03-04,21:00,201803042100,sunday,Iquique,Universidad Católica,0,1,1,A,L,W,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/primera-division-2018-iquique-universidad-catolica/
+chile-2018,5,2018-03-04,23:30,201803042330,sunday,Universidad de Chile,Antofagasta,2,0,2,H,W,L,1.0,0.0,1.0,H,W,L,http://www.worldfootball.net/report/primera-division-2018-universidad-de-chile-antofagasta/
+chile-2018,5,2018-03-05,21:30,201803052130,monday,Unión La Calera,Curicó Unido,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/primera-division-2018-union-la-calera-curico-unido/
+chile-2018,5,2018-03-06,00:00,201803060000,tuesday,O'Higgins,Deportes Temuco,2,0,2,H,W,L,1.0,0.0,1.0,H,W,L,http://www.worldfootball.net/report/primera-division-2018-ohiggins-deportes-temuco/
+chile-2018,6,2018-03-16,23:00,201803162300,friday,Deportes Temuco,Palestino,3,2,5,H,W,L,1.0,0.0,1.0,H,W,L,http://www.worldfootball.net/report/primera-division-2018-deportes-temuco-palestino/
+chile-2018,6,2018-03-17,15:00,201803171500,saturday,Everton,Universidad de Chile,0,1,1,A,L,W,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/primera-division-2018-everton-universidad-de-chile/
+chile-2018,6,2018-03-17,23:30,201803172330,saturday,Curicó Unido,Audax Italiano,3,0,3,H,W,L,1.0,0.0,1.0,H,W,L,http://www.worldfootball.net/report/primera-division-2018-curico-unido-audax-italiano/
+chile-2018,6,2018-03-18,15:00,201803181500,sunday,Universidad de Concepción,Colo-Colo,2,1,3,H,W,L,0.0,1.0,1.0,A,L,W,http://www.worldfootball.net/report/primera-division-2018-universidad-de-concepcion-colo-colo/
+chile-2018,6,2018-03-18,21:00,201803182100,sunday,San Luis,Iquique,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/primera-division-2018-san-luis-iquique/
+chile-2018,6,2018-03-18,21:00,201803182100,sunday,Antofagasta,O'Higgins,3,2,5,H,W,L,2.0,2.0,4.0,D,D,D,http://www.worldfootball.net/report/primera-division-2018-antofagasta-ohiggins/
+chile-2018,6,2018-03-18,23:30,201803182330,sunday,Universidad Católica,Unión Española,3,1,4,H,W,L,1.0,1.0,2.0,D,D,D,http://www.worldfootball.net/report/primera-division-2018-universidad-catolica-union-espanola/
+chile-2018,6,2018-03-19,23:00,201803192300,monday,Huachipato,Unión La Calera,2,0,2,H,W,L,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/primera-division-2018-huachipato-union-la-calera/
+chile-2018,7,2018-03-30,22:00,201803302200,friday,Audax Italiano,Universidad de Chile,2,3,5,A,L,W,1.0,1.0,2.0,D,D,D,http://www.worldfootball.net/report/primera-division-2018-audax-italiano-universidad-de-chile/
+chile-2018,7,2018-03-31,16:30,201803311630,saturday,Colo-Colo,Universidad Católica,1,0,1,H,W,L,1.0,0.0,1.0,H,W,L,http://www.worldfootball.net/report/primera-division-2018-colo-colo-universidad-catolica/
+chile-2018,7,2018-03-31,19:30,201803311930,saturday,Huachipato,Everton,2,0,2,H,W,L,1.0,0.0,1.0,H,W,L,http://www.worldfootball.net/report/primera-division-2018-huachipato-everton/
+chile-2018,7,2018-03-31,22:00,201803312200,saturday,O'Higgins,San Luis,4,0,4,H,W,L,2.0,0.0,2.0,H,W,L,http://www.worldfootball.net/report/primera-division-2018-ohiggins-san-luis/
+chile-2018,7,2018-04-01,00:30,201804010030,sunday,Curicó Unido,Deportes Temuco,1,1,2,D,D,D,0.0,1.0,1.0,A,L,W,http://www.worldfootball.net/report/primera-division-2018-curico-unido-deportes-temuco/
+chile-2018,7,2018-04-01,16:30,201804011630,sunday,Iquique,Universidad de Concepción,1,3,4,A,L,W,1.0,1.0,2.0,D,D,D,http://www.worldfootball.net/report/primera-division-2018-iquique-universidad-de-concepcion/
+chile-2018,7,2018-04-01,19:00,201804011900,sunday,Palestino,Antofagasta,1,1,2,D,D,D,1.0,0.0,1.0,H,W,L,http://www.worldfootball.net/report/primera-division-2018-palestino-antofagasta/
+chile-2018,7,2018-04-01,21:30,201804012130,sunday,Unión La Calera,Unión Española,1,0,1,H,W,L,1.0,0.0,1.0,H,W,L,http://www.worldfootball.net/report/primera-division-2018-union-la-calera-union-espanola/
+chile-2018,8,2018-04-07,00:00,201804070000,saturday,Deportes Temuco,Iquique,0,4,4,A,L,W,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/primera-division-2018-deportes-temuco-iquique/
+chile-2018,8,2018-04-07,16:00,201804071600,saturday,Everton,Unión La Calera,1,3,4,A,L,W,0.0,3.0,3.0,A,L,W,http://www.worldfootball.net/report/primera-division-2018-everton-union-la-calera/
+chile-2018,8,2018-04-07,19:00,201804071900,saturday,Antofagasta,Huachipato,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/primera-division-2018-antofagasta-huachipato/
+chile-2018,8,2018-04-07,21:30,201804072130,saturday,Universidad de Chile,Curicó Unido,2,1,3,H,W,L,2.0,0.0,2.0,H,W,L,http://www.worldfootball.net/report/primera-division-2018-universidad-de-chile-curico-unido/
+chile-2018,8,2018-04-08,00:00,201804080000,sunday,Universidad de Concepción,Audax Italiano,1,0,1,H,W,L,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/primera-division-2018-universidad-de-concepcion-audax-italiano/
+chile-2018,8,2018-04-08,19:00,201804081900,sunday,San Luis,Colo-Colo,1,0,1,H,W,L,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/primera-division-2018-san-luis-colo-colo/
+chile-2018,8,2018-04-08,21:30,201804082130,sunday,Universidad Católica,Palestino,2,1,3,H,W,L,2.0,1.0,3.0,H,W,L,http://www.worldfootball.net/report/primera-division-2018-universidad-catolica-palestino/
+chile-2018,8,2018-04-09,00:00,201804090000,monday,Unión Española,O'Higgins,2,0,2,H,W,L,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/primera-division-2018-union-espanola-ohiggins/
+chile-2018,9,2018-04-14,00:00,201804140000,saturday,Unión La Calera,Universidad de Concepción,1,3,4,A,L,W,0.0,1.0,1.0,A,L,W,http://www.worldfootball.net/report/primera-division-2018-union-la-calera-universidad-de-concepcion/
+chile-2018,9,2018-04-14,16:00,201804141600,saturday,Palestino,Everton,2,1,3,H,W,L,2.0,1.0,3.0,H,W,L,http://www.worldfootball.net/report/primera-division-2018-palestino-everton/
+chile-2018,9,2018-04-14,19:00,201804141900,saturday,O'Higgins,Universidad Católica,0,1,1,A,L,W,0.0,1.0,1.0,A,L,W,http://www.worldfootball.net/report/primera-division-2018-ohiggins-universidad-catolica/
+chile-2018,9,2018-04-14,21:30,201804142130,saturday,Huachipato,Deportes Temuco,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/primera-division-2018-huachipato-deportes-temuco/
+chile-2018,9,2018-04-15,00:00,201804150000,sunday,Curicó Unido,Antofagasta,3,4,7,A,L,W,3.0,1.0,4.0,H,W,L,http://www.worldfootball.net/report/primera-division-2018-curico-unido-antofagasta/
+chile-2018,9,2018-04-15,16:00,201804151600,sunday,Universidad de Chile,Colo-Colo,1,3,4,A,L,W,1.0,1.0,2.0,D,D,D,http://www.worldfootball.net/report/primera-division-2018-universidad-de-chile-colo-colo/
+chile-2018,9,2018-04-15,19:00,201804151900,sunday,Iquique,Unión Española,0,1,1,A,L,W,0.0,1.0,1.0,A,L,W,http://www.worldfootball.net/report/primera-division-2018-iquique-union-espanola/
+chile-2018,9,2018-04-16,00:00,201804160000,monday,Audax Italiano,San Luis,1,1,2,D,D,D,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/primera-division-2018-audax-italiano-san-luis/
+chile-2018,10,2018-04-21,00:00,201804210000,saturday,Unión Española,Huachipato,2,1,3,H,W,L,1.0,0.0,1.0,H,W,L,http://www.worldfootball.net/report/primera-division-2018-union-espanola-huachipato/
+chile-2018,10,2018-04-21,16:00,201804211600,saturday,Iquique,Palestino,2,1,3,H,W,L,1.0,0.0,1.0,H,W,L,http://www.worldfootball.net/report/primera-division-2018-iquique-palestino/
+chile-2018,10,2018-04-21,21:30,201804212130,saturday,Colo-Colo,Deportes Temuco,2,0,2,H,W,L,1.0,0.0,1.0,H,W,L,http://www.worldfootball.net/report/primera-division-2018-colo-colo-deportes-temuco/
+chile-2018,10,2018-04-22,00:00,201804220000,sunday,Universidad de Concepción,Everton,2,0,2,H,W,L,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/primera-division-2018-universidad-de-concepcion-everton/
+chile-2018,10,2018-04-22,16:00,201804221600,sunday,O'Higgins,Curicó Unido,2,2,4,D,D,D,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/primera-division-2018-ohiggins-curico-unido/
+chile-2018,10,2018-04-22,19:00,201804221900,sunday,Unión La Calera,Universidad de Chile,6,1,7,H,W,L,3.0,0.0,3.0,H,W,L,http://www.worldfootball.net/report/primera-division-2018-union-la-calera-universidad-de-chile/
+chile-2018,10,2018-04-22,21:30,201804222130,sunday,Universidad Católica,Audax Italiano,1,0,1,H,W,L,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/primera-division-2018-universidad-catolica-audax-italiano/
+chile-2018,10,2018-04-23,00:00,201804230000,monday,Antofagasta,San Luis,1,0,1,H,W,L,1.0,0.0,1.0,H,W,L,http://www.worldfootball.net/report/primera-division-2018-antofagasta-san-luis/
+chile-2018,11,2018-04-28,16:00,201804281600,saturday,Curicó Unido,Colo-Colo,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/primera-division-2018-curico-unido-colo-colo/
+chile-2018,11,2018-04-28,19:00,201804281900,saturday,Huachipato,Iquique,2,2,4,D,D,D,0.0,1.0,1.0,A,L,W,http://www.worldfootball.net/report/primera-division-2018-huachipato-iquique/
+chile-2018,11,2018-04-28,21:30,201804282130,saturday,Everton,Unión Española,1,1,2,D,D,D,0.0,1.0,1.0,A,L,W,http://www.worldfootball.net/report/primera-division-2018-everton-union-espanola/
+chile-2018,11,2018-04-29,00:00,201804290000,sunday,Audax Italiano,Antofagasta,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/primera-division-2018-audax-italiano-antofagasta/
+chile-2018,11,2018-04-29,16:00,201804291600,sunday,Palestino,O'Higgins,2,3,5,A,L,W,1.0,0.0,1.0,H,W,L,http://www.worldfootball.net/report/primera-division-2018-palestino-ohiggins/
+chile-2018,11,2018-04-29,19:00,201804291900,sunday,Deportes Temuco,Unión La Calera,0,2,2,A,L,W,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/primera-division-2018-deportes-temuco-union-la-calera/
+chile-2018,11,2018-04-29,21:30,201804292130,sunday,Universidad de Chile,Universidad de Concepción,1,2,3,A,L,W,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/primera-division-2018-universidad-de-chile-universidad-de-concepcion/
+chile-2018,11,2018-04-30,00:00,201804300000,monday,San Luis,Universidad Católica,1,1,2,D,D,D,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/primera-division-2018-san-luis-universidad-catolica/
+chile-2018,12,2018-05-05,00:00,201805050000,saturday,Unión Española,San Luis,4,0,4,H,W,L,2.0,0.0,2.0,H,W,L,http://www.worldfootball.net/report/primera-division-2018-union-espanola-san-luis/
+chile-2018,12,2018-05-05,16:00,201805051600,saturday,Iquique,Curicó Unido,2,2,4,D,D,D,1.0,0.0,1.0,H,W,L,http://www.worldfootball.net/report/primera-division-2018-iquique-curico-unido/
+chile-2018,12,2018-05-05,19:00,201805051900,saturday,Antofagasta,Deportes Temuco,3,2,5,H,W,L,2.0,0.0,2.0,H,W,L,http://www.worldfootball.net/report/primera-division-2018-antofagasta-deportes-temuco/
+chile-2018,12,2018-05-05,21:30,201805052130,saturday,Unión La Calera,Audax Italiano,1,0,1,H,W,L,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/primera-division-2018-union-la-calera-audax-italiano/
+chile-2018,12,2018-05-06,00:00,201805060000,sunday,Universidad Católica,Huachipato,3,1,4,H,W,L,1.0,1.0,2.0,D,D,D,http://www.worldfootball.net/report/primera-division-2018-universidad-catolica-huachipato/
+chile-2018,12,2018-05-06,16:00,201805061600,sunday,O'Higgins,Universidad de Chile,0,1,1,A,L,W,0.0,1.0,1.0,A,L,W,http://www.worldfootball.net/report/primera-division-2018-ohiggins-universidad-de-chile/
+chile-2018,12,2018-05-06,19:00,201805061900,sunday,Palestino,Universidad de Concepción,1,2,3,A,L,W,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/primera-division-2018-palestino-universidad-de-concepcion/
+chile-2018,12,2018-05-06,21:30,201805062130,sunday,Colo-Colo,Everton,3,1,4,H,W,L,1.0,1.0,2.0,D,D,D,http://www.worldfootball.net/report/primera-division-2018-colo-colo-everton/
+chile-2018,13,2018-05-12,00:00,201805120000,saturday,Colo-Colo,Iquique,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/primera-division-2018-colo-colo-iquique/
+chile-2018,13,2018-05-12,16:00,201805121600,saturday,San Luis,Unión La Calera,1,2,3,A,L,W,1.0,0.0,1.0,H,W,L,http://www.worldfootball.net/report/primera-division-2018-san-luis-union-la-calera/
+chile-2018,13,2018-05-12,19:00,201805121900,saturday,Huachipato,Palestino,1,1,2,D,D,D,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/primera-division-2018-huachipato-palestino/
+chile-2018,13,2018-05-13,00:00,201805130000,sunday,Everton,Curicó Unido,1,1,2,D,D,D,0.0,1.0,1.0,A,L,W,http://www.worldfootball.net/report/primera-division-2018-everton-curico-unido/
+chile-2018,13,2018-05-13,17:00,201805131700,sunday,Universidad Católica,Universidad de Chile,1,1,2,D,D,D,1.0,0.0,1.0,H,W,L,http://www.worldfootball.net/report/primera-division-2018-universidad-catolica-universidad-de-chile/
+chile-2018,13,2018-05-13,20:00,201805132000,sunday,Deportes Temuco,Unión Española,2,0,2,H,W,L,2.0,0.0,2.0,H,W,L,http://www.worldfootball.net/report/primera-division-2018-deportes-temuco-union-espanola/
+chile-2018,13,2018-05-13,22:30,201805132230,sunday,Audax Italiano,O'Higgins,1,2,3,A,L,W,1.0,1.0,2.0,D,D,D,http://www.worldfootball.net/report/primera-division-2018-audax-italiano-ohiggins/
+chile-2018,13,2018-05-14,01:00,201805140100,monday,Universidad de Concepción,Antofagasta,3,2,5,H,W,L,1.0,2.0,3.0,A,L,W,http://www.worldfootball.net/report/primera-division-2018-universidad-de-concepcion-antofagasta/
+chile-2018,14,2018-05-19,01:00,201805190100,saturday,Universidad de Chile,Palestino,1,2,3,A,L,W,1.0,2.0,3.0,A,L,W,http://www.worldfootball.net/report/primera-division-2018-universidad-de-chile-palestino/
+chile-2018,14,2018-05-19,17:00,201805191700,saturday,Iquique,Audax Italiano,1,1,2,D,D,D,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/primera-division-2018-iquique-audax-italiano/
+chile-2018,14,2018-05-19,20:00,201805192000,saturday,Unión La Calera,O'Higgins,4,0,4,H,W,L,2.0,0.0,2.0,H,W,L,http://www.worldfootball.net/report/primera-division-2018-union-la-calera-ohiggins/
+chile-2018,14,2018-05-19,22:30,201805192230,saturday,Unión Española,Colo-Colo,3,2,5,H,W,L,0.0,1.0,1.0,A,L,W,http://www.worldfootball.net/report/primera-division-2018-union-espanola-colo-colo/
+chile-2018,14,2018-05-20,20:00,201805202000,sunday,Antofagasta,Everton,3,2,5,H,W,L,0.0,1.0,1.0,A,L,W,http://www.worldfootball.net/report/primera-division-2018-antofagasta-everton/
+chile-2018,14,2018-05-20,22:30,201805202230,sunday,Universidad de Concepción,Universidad Católica,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/primera-division-2018-universidad-de-concepcion-universidad-catolica/
+chile-2018,14,2018-05-21,01:00,201805210100,monday,Curicó Unido,Huachipato,2,1,3,H,W,L,1.0,1.0,2.0,D,D,D,http://www.worldfootball.net/report/primera-division-2018-curico-unido-huachipato/
+chile-2018,14,2018-05-21,20:00,201805212000,monday,Deportes Temuco,San Luis,2,2,4,D,D,D,1.0,0.0,1.0,H,W,L,http://www.worldfootball.net/report/primera-division-2018-deportes-temuco-san-luis/
+chile-2018,15,2018-05-26,17:00,201805261700,saturday,San Luis,Universidad de Concepción,0,3,3,A,L,W,0.0,3.0,3.0,A,L,W,http://www.worldfootball.net/report/primera-division-2018-san-luis-universidad-de-concepcion/
+chile-2018,15,2018-05-26,20:00,201805262000,saturday,Huachipato,Universidad de Chile,0,1,1,A,L,W,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/primera-division-2018-huachipato-universidad-de-chile/
+chile-2018,15,2018-05-26,22:30,201805262230,saturday,O'Higgins,Iquique,2,1,3,H,W,L,0.0,1.0,1.0,A,L,W,http://www.worldfootball.net/report/primera-division-2018-ohiggins-iquique/
+chile-2018,15,2018-05-27,01:00,201805270100,sunday,Universidad Católica,Antofagasta,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/primera-division-2018-universidad-catolica-antofagasta/
+chile-2018,15,2018-05-27,17:00,201805271700,sunday,Palestino,Curicó Unido,2,1,3,H,W,L,2.0,0.0,2.0,H,W,L,http://www.worldfootball.net/report/primera-division-2018-palestino-curico-unido/
+chile-2018,15,2018-05-27,20:00,201805272000,sunday,Everton,Deportes Temuco,2,2,4,D,D,D,0.0,1.0,1.0,A,L,W,http://www.worldfootball.net/report/primera-division-2018-everton-deportes-temuco/
+chile-2018,15,2018-05-27,22:30,201805272230,sunday,Audax Italiano,Unión Española,1,1,2,D,D,D,1.0,1.0,2.0,D,D,D,http://www.worldfootball.net/report/primera-division-2018-audax-italiano-union-espanola/
+chile-2018,15,2018-05-29,01:00,201805290100,tuesday,Colo-Colo,Unión La Calera,0,2,2,A,L,W,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/primera-division-2018-colo-colo-union-la-calera/
+chile-2018,16,2018-07-21,01:00,201807210100,saturday,Universidad de Concepción,Palestino,3,2,5,H,W,L,2.0,0.0,2.0,H,W,L,http://www.worldfootball.net/report/primera-division-2018-universidad-de-concepcion-palestino/
+chile-2018,16,2018-07-21,17:00,201807211700,saturday,Unión La Calera,Colo-Colo,1,2,3,A,L,W,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/primera-division-2018-union-la-calera-colo-colo/
+chile-2018,16,2018-07-21,20:00,201807212000,saturday,Deportes Temuco,Antofagasta,1,1,2,D,D,D,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/primera-division-2018-deportes-temuco-antofagasta/
+chile-2018,16,2018-07-21,22:30,201807212230,saturday,Universidad Católica,Iquique,2,2,4,D,D,D,2.0,2.0,4.0,D,D,D,http://www.worldfootball.net/report/primera-division-2018-universidad-catolica-iquique/
+chile-2018,16,2018-07-22,01:00,201807220100,sunday,Unión Española,Audax Italiano,2,4,6,A,L,W,1.0,1.0,2.0,D,D,D,http://www.worldfootball.net/report/primera-division-2018-union-espanola-audax-italiano/
+chile-2018,16,2018-07-22,17:00,201807221700,sunday,Curicó Unido,San Luis,1,0,1,H,W,L,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/primera-division-2018-curico-unido-san-luis/
+chile-2018,16,2018-07-22,22:30,201807222230,sunday,Universidad de Chile,Huachipato,2,2,4,D,D,D,1.0,0.0,1.0,H,W,L,http://www.worldfootball.net/report/primera-division-2018-universidad-de-chile-huachipato/
+chile-2018,16,2018-07-23,01:00,201807230100,monday,Everton,O'Higgins,0,1,1,A,L,W,0.0,1.0,1.0,A,L,W,http://www.worldfootball.net/report/primera-division-2018-everton-ohiggins/
+chile-2018,17,2018-07-28,01:00,201807280100,saturday,Huachipato,Unión Española,1,1,2,D,D,D,0.0,1.0,1.0,A,L,W,http://www.worldfootball.net/report/primera-division-2018-huachipato-union-espanola/
+chile-2018,17,2018-07-28,17:00,201807281700,saturday,Palestino,Universidad Católica,2,2,4,D,D,D,1.0,0.0,1.0,H,W,L,http://www.worldfootball.net/report/primera-division-2018-palestino-universidad-catolica/
+chile-2018,17,2018-07-28,20:00,201807282000,saturday,Antofagasta,Universidad de Chile,4,0,4,H,W,L,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/primera-division-2018-antofagasta-universidad-de-chile/
+chile-2018,17,2018-07-29,01:00,201807290100,sunday,Audax Italiano,Universidad de Concepción,4,1,5,H,W,L,2.0,0.0,2.0,H,W,L,http://www.worldfootball.net/report/primera-division-2018-audax-italiano-universidad-de-concepcion/
+chile-2018,17,2018-07-29,17:00,201807291700,sunday,Iquique,Everton,1,1,2,D,D,D,1.0,1.0,2.0,D,D,D,http://www.worldfootball.net/report/primera-division-2018-iquique-everton/
+chile-2018,17,2018-07-29,20:00,201807292000,sunday,San Luis,Deportes Temuco,1,2,3,A,L,W,1.0,0.0,1.0,H,W,L,http://www.worldfootball.net/report/primera-division-2018-san-luis-deportes-temuco/
+chile-2018,17,2018-07-29,22:30,201807292230,sunday,Colo-Colo,Curicó Unido,2,0,2,H,W,L,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/primera-division-2018-colo-colo-curico-unido/
+chile-2018,17,2018-07-30,01:00,201807300100,monday,O'Higgins,Unión La Calera,2,3,5,A,L,W,1.0,2.0,3.0,A,L,W,http://www.worldfootball.net/report/primera-division-2018-ohiggins-union-la-calera/
+chile-2018,18,2018-08-04,01:00,201808040100,saturday,Unión La Calera,Palestino,1,1,2,D,D,D,0.0,1.0,1.0,A,L,W,http://www.worldfootball.net/report/primera-division-2018-union-la-calera-palestino/
+chile-2018,18,2018-08-04,20:00,201808042000,saturday,Deportes Temuco,Colo-Colo,1,0,1,H,W,L,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/primera-division-2018-deportes-temuco-colo-colo/
+chile-2018,18,2018-08-04,22:30,201808042230,saturday,Universidad Católica,Everton,2,1,3,H,W,L,0.0,1.0,1.0,A,L,W,http://www.worldfootball.net/report/primera-division-2018-universidad-catolica-everton/
+chile-2018,18,2018-08-05,01:00,201808050100,sunday,Universidad de Concepción,Huachipato,1,0,1,H,W,L,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/primera-division-2018-universidad-de-concepcion-huachipato/
+chile-2018,18,2018-08-05,17:00,201808051700,sunday,San Luis,O'Higgins,2,0,2,H,W,L,2.0,0.0,2.0,H,W,L,http://www.worldfootball.net/report/primera-division-2018-san-luis-ohiggins/
+chile-2018,18,2018-08-05,20:00,201808052000,sunday,Antofagasta,Curicó Unido,2,0,2,H,W,L,2.0,0.0,2.0,H,W,L,http://www.worldfootball.net/report/primera-division-2018-antofagasta-curico-unido/
+chile-2018,18,2018-08-05,22:30,201808052230,sunday,Universidad de Chile,Audax Italiano,1,2,3,A,L,W,0.0,2.0,2.0,A,L,W,http://www.worldfootball.net/report/primera-division-2018-universidad-de-chile-audax-italiano/
+chile-2018,18,2018-08-06,01:00,201808060100,monday,Unión Española,Iquique,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/primera-division-2018-union-espanola-iquique/
+chile-2018,19,2018-08-11,01:00,201808110100,saturday,Everton,Universidad de Concepción,1,0,1,H,W,L,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/primera-division-2018-everton-universidad-de-concepcion/
+chile-2018,19,2018-08-11,17:00,201808111700,saturday,Palestino,Deportes Temuco,1,1,2,D,D,D,0.0,1.0,1.0,A,L,W,http://www.worldfootball.net/report/primera-division-2018-palestino-deportes-temuco/
+chile-2018,19,2018-08-11,20:00,201808112000,saturday,Unión La Calera,Universidad Católica,2,2,4,D,D,D,1.0,0.0,1.0,H,W,L,http://www.worldfootball.net/report/primera-division-2018-union-la-calera-universidad-catolica/
+chile-2018,19,2018-08-11,22:30,201808112230,saturday,Unión Española,Universidad de Chile,1,4,5,A,L,W,1.0,3.0,4.0,A,L,W,http://www.worldfootball.net/report/primera-division-2018-union-espanola-universidad-de-chile/
+chile-2018,19,2018-08-12,01:00,201808120100,sunday,Curicó Unido,Iquique,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/primera-division-2018-curico-unido-iquique/
+chile-2018,19,2018-08-12,19:00,201808121900,sunday,O'Higgins,Antofagasta,0,3,3,A,L,W,0.0,2.0,2.0,A,L,W,http://www.worldfootball.net/report/primera-division-2018-ohiggins-antofagasta/
+chile-2018,19,2018-08-12,21:30,201808122130,sunday,Colo-Colo,San Luis,3,2,5,H,W,L,2.0,1.0,3.0,H,W,L,http://www.worldfootball.net/report/primera-division-2018-colo-colo-san-luis/
+chile-2018,19,2018-08-13,00:00,201808130000,monday,Huachipato,Audax Italiano,1,0,1,H,W,L,1.0,0.0,1.0,H,W,L,http://www.worldfootball.net/report/primera-division-2018-huachipato-audax-italiano/
+chile-2018,20,2018-08-18,00:00,201808180000,saturday,Audax Italiano,Palestino,3,1,4,H,W,L,1.0,1.0,2.0,D,D,D,http://www.worldfootball.net/report/primera-division-2018-audax-italiano-palestino/
+chile-2018,20,2018-08-18,16:00,201808181600,saturday,San Luis,Unión Española,0,2,2,A,L,W,0.0,1.0,1.0,A,L,W,http://www.worldfootball.net/report/primera-division-2018-san-luis-union-espanola/
+chile-2018,20,2018-08-18,19:00,201808181900,saturday,Antofagasta,Unión La Calera,0,2,2,A,L,W,0.0,1.0,1.0,A,L,W,http://www.worldfootball.net/report/primera-division-2018-antofagasta-union-la-calera/
+chile-2018,20,2018-08-18,21:30,201808182130,saturday,Universidad de Chile,O'Higgins,1,0,1,H,W,L,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/primera-division-2018-universidad-de-chile-ohiggins/
+chile-2018,20,2018-08-19,00:00,201808190000,sunday,Everton,Huachipato,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/primera-division-2018-everton-huachipato/
+chile-2018,20,2018-08-19,16:00,201808191600,sunday,Iquique,Colo-Colo,2,1,3,H,W,L,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/primera-division-2018-iquique-colo-colo/
+chile-2018,20,2018-08-19,19:00,201808191900,sunday,Universidad de Concepción,Deportes Temuco,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/primera-division-2018-universidad-de-concepcion-deportes-temuco/
+chile-2018,20,2018-08-19,21:30,201808192130,sunday,Universidad Católica,Curicó Unido,2,1,3,H,W,L,1.0,1.0,2.0,D,D,D,http://www.worldfootball.net/report/primera-division-2018-universidad-catolica-curico-unido/
+chile-2018,21,2018-08-25,00:00,201808250000,saturday,Curicó Unido,Universidad de Concepción,1,0,1,H,W,L,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/primera-division-2018-curico-unido-universidad-de-concepcion/
+chile-2018,21,2018-08-25,16:00,201808251600,saturday,Colo-Colo,Universidad de Chile,1,0,1,H,W,L,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/primera-division-2018-colo-colo-universidad-de-chile/
+chile-2018,21,2018-08-25,19:00,201808251900,saturday,Deportes Temuco,Everton,1,1,2,D,D,D,1.0,1.0,2.0,D,D,D,http://www.worldfootball.net/report/primera-division-2018-deportes-temuco-everton/
+chile-2018,21,2018-08-25,21:30,201808252130,saturday,Huachipato,Antofagasta,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/primera-division-2018-huachipato-antofagasta/
+chile-2018,21,2018-08-26,00:00,201808260000,sunday,O'Higgins,Unión Española,1,1,2,D,D,D,1.0,0.0,1.0,H,W,L,http://www.worldfootball.net/report/primera-division-2018-ohiggins-union-espanola/
+chile-2018,21,2018-08-26,16:00,201808261600,sunday,Palestino,San Luis,0,1,1,A,L,W,0.0,1.0,1.0,A,L,W,http://www.worldfootball.net/report/primera-division-2018-palestino-san-luis/
+chile-2018,21,2018-08-26,21:30,201808262130,sunday,Unión La Calera,Iquique,1,0,1,H,W,L,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/primera-division-2018-union-la-calera-iquique/
+chile-2018,21,2018-08-27,00:00,201808270000,monday,Audax Italiano,Universidad Católica,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/primera-division-2018-audax-italiano-universidad-catolica/
+chile-2018,22,2018-09-01,00:00,201809010000,saturday,Universidad de Chile,Deportes Temuco,2,1,3,H,W,L,1.0,0.0,1.0,H,W,L,http://www.worldfootball.net/report/primera-division-2018-universidad-de-chile-deportes-temuco/
+chile-2018,22,2018-09-01,16:00,201809011600,saturday,Iquique,O'Higgins,3,1,4,H,W,L,3.0,0.0,3.0,H,W,L,http://www.worldfootball.net/report/primera-division-2018-iquique-ohiggins/
+chile-2018,22,2018-09-01,19:00,201809011900,saturday,San Luis,Audax Italiano,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/primera-division-2018-san-luis-audax-italiano/
+chile-2018,22,2018-09-01,21:30,201809012130,saturday,Unión Española,Universidad Católica,1,1,2,D,D,D,0.0,1.0,1.0,A,L,W,http://www.worldfootball.net/report/primera-division-2018-union-espanola-universidad-catolica/
+chile-2018,22,2018-09-02,00:00,201809020000,sunday,Universidad de Concepción,Unión La Calera,2,1,3,H,W,L,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/primera-division-2018-universidad-de-concepcion-union-la-calera/
+chile-2018,22,2018-09-02,16:00,201809021600,sunday,Everton,Colo-Colo,4,2,6,H,W,L,3.0,1.0,4.0,H,W,L,http://www.worldfootball.net/report/primera-division-2018-everton-colo-colo/
+chile-2018,22,2018-09-02,19:00,201809021900,sunday,Antofagasta,Palestino,1,0,1,H,W,L,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/primera-division-2018-antofagasta-palestino/
+chile-2018,22,2018-09-02,21:30,201809022130,sunday,Huachipato,Curicó Unido,1,0,1,H,W,L,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/primera-division-2018-huachipato-curico-unido/
+chile-2018,23,2018-09-22,00:00,201809220000,saturday,Deportes Temuco,Huachipato,0,4,4,A,L,W,0.0,1.0,1.0,A,L,W,http://www.worldfootball.net/report/primera-division-2018-deportes-temuco-huachipato/
+chile-2018,23,2018-09-22,16:00,201809221600,saturday,Palestino,Unión Española,1,1,2,D,D,D,0.0,1.0,1.0,A,L,W,http://www.worldfootball.net/report/primera-division-2018-palestino-union-espanola/
+chile-2018,23,2018-09-22,19:00,201809221900,saturday,Audax Italiano,Iquique,3,1,4,H,W,L,2.0,1.0,3.0,H,W,L,http://www.worldfootball.net/report/primera-division-2018-audax-italiano-iquique/
+chile-2018,23,2018-09-22,21:30,201809222130,saturday,Unión La Calera,Everton,0,4,4,A,L,W,0.0,1.0,1.0,A,L,W,http://www.worldfootball.net/report/primera-division-2018-union-la-calera-everton/
+chile-2018,23,2018-09-23,00:00,201809230000,sunday,Universidad Católica,San Luis,2,1,3,H,W,L,0.0,1.0,1.0,A,L,W,http://www.worldfootball.net/report/primera-division-2018-universidad-catolica-san-luis/
+chile-2018,23,2018-09-23,16:00,201809231600,sunday,Universidad de Concepción,Universidad de Chile,3,1,4,H,W,L,2.0,0.0,2.0,H,W,L,http://www.worldfootball.net/report/primera-division-2018-universidad-de-concepcion-universidad-de-chile/
+chile-2018,23,2018-09-23,19:00,201809231900,sunday,Curicó Unido,O'Higgins,1,0,1,H,W,L,1.0,0.0,1.0,H,W,L,http://www.worldfootball.net/report/primera-division-2018-curico-unido-ohiggins/
+chile-2018,23,2018-09-23,21:30,201809232130,sunday,Colo-Colo,Antofagasta,3,4,7,A,L,W,3.0,1.0,4.0,H,W,L,http://www.worldfootball.net/report/primera-division-2018-colo-colo-antofagasta/
+chile-2018,24,2018-09-29,00:00,201809290000,saturday,San Luis,Huachipato,2,4,6,A,L,W,1.0,2.0,3.0,A,L,W,http://www.worldfootball.net/report/primera-division-2018-san-luis-huachipato/
+chile-2018,24,2018-09-29,16:00,201809291600,saturday,Iquique,Deportes Temuco,2,1,3,H,W,L,1.0,1.0,2.0,D,D,D,http://www.worldfootball.net/report/primera-division-2018-iquique-deportes-temuco/
+chile-2018,24,2018-09-29,19:00,201809291900,saturday,Universidad de Chile,Unión La Calera,1,0,1,H,W,L,1.0,0.0,1.0,H,W,L,http://www.worldfootball.net/report/primera-division-2018-universidad-de-chile-union-la-calera/
+chile-2018,24,2018-09-29,21:30,201809292130,saturday,O'Higgins,Palestino,2,2,4,D,D,D,1.0,2.0,3.0,A,L,W,http://www.worldfootball.net/report/primera-division-2018-ohiggins-palestino/
+chile-2018,24,2018-09-30,00:00,201809300000,sunday,Everton,Audax Italiano,1,0,1,H,W,L,1.0,0.0,1.0,H,W,L,http://www.worldfootball.net/report/primera-division-2018-everton-audax-italiano/
+chile-2018,24,2018-09-30,16:00,201809301600,sunday,Universidad Católica,Colo-Colo,1,0,1,H,W,L,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/primera-division-2018-universidad-catolica-colo-colo/
+chile-2018,24,2018-09-30,21:30,201809302130,sunday,Antofagasta,Universidad de Concepción,1,0,1,H,W,L,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/primera-division-2018-antofagasta-universidad-de-concepcion/
+chile-2018,24,2018-10-01,00:00,201810010000,monday,Unión Española,Curicó Unido,2,1,3,H,W,L,1.0,1.0,2.0,D,D,D,http://www.worldfootball.net/report/primera-division-2018-union-espanola-curico-unido/
+chile-2018,25,2018-10-06,16:00,201810061600,saturday,Deportes Temuco,O'Higgins,0,1,1,A,L,W,0.0,1.0,1.0,A,L,W,http://www.worldfootball.net/report/primera-division-2018-deportes-temuco-ohiggins/
+chile-2018,25,2018-10-06,19:00,201810061900,saturday,Palestino,Universidad de Chile,1,3,4,A,L,W,0.0,2.0,2.0,A,L,W,http://www.worldfootball.net/report/primera-division-2018-palestino-universidad-de-chile/
+chile-2018,25,2018-10-06,21:30,201810062130,saturday,Huachipato,Universidad Católica,3,0,3,H,W,L,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/primera-division-2018-huachipato-universidad-catolica/
+chile-2018,25,2018-10-07,00:00,201810070000,sunday,Audax Italiano,Unión La Calera,4,0,4,H,W,L,1.0,0.0,1.0,H,W,L,http://www.worldfootball.net/report/primera-division-2018-audax-italiano-union-la-calera/
+chile-2018,25,2018-10-07,19:00,201810071900,sunday,Curicó Unido,Everton,3,1,4,H,W,L,1.0,1.0,2.0,D,D,D,http://www.worldfootball.net/report/primera-division-2018-curico-unido-everton/
+chile-2018,25,2018-10-07,21:30,201810072130,sunday,San Luis,Antofagasta,1,1,2,D,D,D,0.0,1.0,1.0,A,L,W,http://www.worldfootball.net/report/primera-division-2018-san-luis-antofagasta/
+chile-2018,25,2018-10-08,00:00,201810080000,monday,Colo-Colo,Unión Española,1,1,2,D,D,D,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/primera-division-2018-colo-colo-union-espanola/
+chile-2018,25,2018-10-09,00:00,201810090000,tuesday,Universidad de Concepción,Iquique,3,0,3,H,W,L,1.0,0.0,1.0,H,W,L,http://www.worldfootball.net/report/primera-division-2018-universidad-de-concepcion-iquique/
+chile-2018,26,2018-10-20,00:00,201810200000,saturday,Unión Española,Deportes Temuco,2,1,3,H,W,L,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/primera-division-2018-union-espanola-deportes-temuco/
+chile-2018,26,2018-10-20,16:00,201810201600,saturday,O'Higgins,Colo-Colo,1,1,2,D,D,D,1.0,1.0,2.0,D,D,D,http://www.worldfootball.net/report/primera-division-2018-ohiggins-colo-colo/
+chile-2018,26,2018-10-20,19:00,201810201900,saturday,Curicó Unido,Palestino,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/primera-division-2018-curico-unido-palestino/
+chile-2018,26,2018-10-20,21:30,201810202130,saturday,Unión La Calera,Huachipato,0,2,2,A,L,W,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/primera-division-2018-union-la-calera-huachipato/
+chile-2018,26,2018-10-21,00:00,201810210000,sunday,Universidad Católica,Universidad de Concepción,1,0,1,H,W,L,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/primera-division-2018-universidad-catolica-universidad-de-concepcion/
+chile-2018,26,2018-10-21,16:00,201810211600,sunday,Iquique,San Luis,2,2,4,D,D,D,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/primera-division-2018-iquique-san-luis/
+chile-2018,26,2018-10-21,19:00,201810211900,sunday,Antofagasta,Audax Italiano,1,1,2,D,D,D,1.0,0.0,1.0,H,W,L,http://www.worldfootball.net/report/primera-division-2018-antofagasta-audax-italiano/
+chile-2018,26,2018-10-22,00:00,201810220000,monday,Universidad de Chile,Everton,2,0,2,H,W,L,1.0,0.0,1.0,H,W,L,http://www.worldfootball.net/report/primera-division-2018-universidad-de-chile-everton/
+chile-2018,27,2018-10-27,00:00,201810270000,saturday,Universidad de Concepción,Unión Española,1,0,1,H,W,L,1.0,0.0,1.0,H,W,L,http://www.worldfootball.net/report/primera-division-2018-universidad-de-concepcion-union-espanola/
+chile-2018,27,2018-10-27,16:00,201810271600,saturday,Universidad de Chile,Universidad Católica,2,0,2,H,W,L,1.0,0.0,1.0,H,W,L,http://www.worldfootball.net/report/primera-division-2018-universidad-de-chile-universidad-catolica/
+chile-2018,27,2018-10-27,19:00,201810271900,saturday,Unión La Calera,San Luis,0,1,1,A,L,W,0.0,1.0,1.0,A,L,W,http://www.worldfootball.net/report/primera-division-2018-union-la-calera-san-luis/
+chile-2018,27,2018-10-28,00:15,201810280015,sunday,Huachipato,O'Higgins,0,1,1,A,L,W,0.0,1.0,1.0,A,L,W,http://www.worldfootball.net/report/primera-division-2018-huachipato-ohiggins/
+chile-2018,27,2018-10-28,15:00,201810281500,sunday,Palestino,Iquique,5,1,6,H,W,L,1.0,0.0,1.0,H,W,L,http://www.worldfootball.net/report/primera-division-2018-palestino-iquique/
+chile-2018,27,2018-10-28,18:00,201810281800,sunday,Everton,Antofagasta,3,2,5,H,W,L,2.0,2.0,4.0,D,D,D,http://www.worldfootball.net/report/primera-division-2018-everton-antofagasta/
+chile-2018,27,2018-10-28,20:30,201810282030,sunday,Audax Italiano,Colo-Colo,1,1,2,D,D,D,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/primera-division-2018-audax-italiano-colo-colo/
+chile-2018,27,2018-10-28,23:00,201810282300,sunday,Deportes Temuco,Curicó Unido,1,2,3,A,L,W,0.0,1.0,1.0,A,L,W,http://www.worldfootball.net/report/primera-division-2018-deportes-temuco-curico-unido/
+chile-2018,28,2018-11-02,21:00,201811022100,friday,O'Higgins,Universidad de Concepción,4,2,6,H,W,L,2.0,2.0,4.0,D,D,D,http://www.worldfootball.net/report/primera-division-2018-ohiggins-universidad-de-concepcion/
+chile-2018,28,2018-11-03,15:00,201811031500,saturday,Iquique,Huachipato,2,0,2,H,W,L,1.0,0.0,1.0,H,W,L,http://www.worldfootball.net/report/primera-division-2018-iquique-huachipato/
+chile-2018,28,2018-11-03,18:00,201811031800,saturday,Deportes Temuco,Audax Italiano,2,1,3,H,W,L,0.0,1.0,1.0,A,L,W,http://www.worldfootball.net/report/primera-division-2018-deportes-temuco-audax-italiano/
+chile-2018,28,2018-11-03,20:30,201811032030,saturday,Unión Española,Everton,2,2,4,D,D,D,0.0,2.0,2.0,A,L,W,http://www.worldfootball.net/report/primera-division-2018-union-espanola-everton/
+chile-2018,28,2018-11-04,18:30,201811041830,sunday,Antofagasta,Universidad Católica,1,1,2,D,D,D,1.0,0.0,1.0,H,W,L,http://www.worldfootball.net/report/primera-division-2018-antofagasta-universidad-catolica/
+chile-2018,28,2018-11-04,21:00,201811042100,sunday,Curicó Unido,Unión La Calera,2,0,2,H,W,L,1.0,0.0,1.0,H,W,L,http://www.worldfootball.net/report/primera-division-2018-curico-unido-union-la-calera/
+chile-2018,28,2018-11-04,23:30,201811042330,sunday,Colo-Colo,Palestino,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/primera-division-2018-colo-colo-palestino/
+chile-2018,28,2018-11-10,20:00,201811102000,saturday,San Luis,Universidad de Chile,1,2,3,A,L,W,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/primera-division-2018-san-luis-universidad-de-chile/
+chile-2018,29,2018-11-23,23:00,201811232300,friday,Audax Italiano,Curicó Unido,4,1,5,H,W,L,2.0,0.0,2.0,H,W,L,http://www.worldfootball.net/report/primera-division-2018-audax-italiano-curico-unido/
+chile-2018,29,2018-11-24,15:00,201811241500,saturday,Huachipato,Colo-Colo,1,2,3,A,L,W,1.0,0.0,1.0,H,W,L,http://www.worldfootball.net/report/primera-division-2018-huachipato-colo-colo/
+chile-2018,29,2018-11-24,15:00,201811241500,saturday,Antofagasta,Unión Española,1,1,2,D,D,D,1.0,1.0,2.0,D,D,D,http://www.worldfootball.net/report/primera-division-2018-antofagasta-union-espanola/
+chile-2018,29,2018-11-24,23:00,201811242300,saturday,Everton,Palestino,3,0,3,H,W,L,2.0,0.0,2.0,H,W,L,http://www.worldfootball.net/report/primera-division-2018-everton-palestino/
+chile-2018,29,2018-11-24,23:00,201811242300,saturday,Unión La Calera,Deportes Temuco,0,1,1,A,L,W,0.0,1.0,1.0,A,L,W,http://www.worldfootball.net/report/primera-division-2018-union-la-calera-deportes-temuco/
+chile-2018,29,2018-11-25,20:30,201811252030,sunday,Universidad de Chile,Iquique,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/primera-division-2018-universidad-de-chile-iquique/
+chile-2018,29,2018-11-25,20:30,201811252030,sunday,Universidad de Concepción,San Luis,2,0,2,H,W,L,2.0,0.0,2.0,H,W,L,http://www.worldfootball.net/report/primera-division-2018-universidad-de-concepcion-san-luis/
+chile-2018,29,2018-11-25,20:30,201811252030,sunday,Universidad Católica,O'Higgins,1,0,1,H,W,L,1.0,0.0,1.0,H,W,L,http://www.worldfootball.net/report/primera-division-2018-universidad-catolica-ohiggins/
+chile-2018,30,2018-11-28,23:00,201811282300,wednesday,San Luis,Everton,1,2,3,A,L,W,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/primera-division-2018-san-luis-everton/
+chile-2018,30,2018-11-29,23:30,201811292330,thursday,Unión Española,Unión La Calera,1,1,2,D,D,D,0.0,1.0,1.0,A,L,W,http://www.worldfootball.net/report/primera-division-2018-union-espanola-union-la-calera/
+chile-2018,30,2018-11-29,23:30,201811292330,thursday,O'Higgins,Audax Italiano,4,0,4,H,W,L,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/primera-division-2018-ohiggins-audax-italiano/
+chile-2018,30,2018-12-02,15:00,201812021500,sunday,Iquique,Antofagasta,0,2,2,A,L,W,0.0,1.0,1.0,A,L,W,http://www.worldfootball.net/report/primera-division-2018-iquique-antofagasta/
+chile-2018,30,2018-12-02,20:30,201812022030,sunday,Curicó Unido,Universidad de Chile,1,2,3,A,L,W,1.0,2.0,3.0,A,L,W,http://www.worldfootball.net/report/primera-division-2018-curico-unido-universidad-de-chile/
+chile-2018,30,2018-12-02,20:30,201812022030,sunday,Deportes Temuco,Universidad Católica,1,2,3,A,L,W,1.0,0.0,1.0,H,W,L,http://www.worldfootball.net/report/primera-division-2018-deportes-temuco-universidad-catolica/
+chile-2018,30,2018-12-02,20:30,201812022030,sunday,Palestino,Huachipato,3,0,3,H,W,L,2.0,0.0,2.0,H,W,L,http://www.worldfootball.net/report/primera-division-2018-palestino-huachipato/
+chile-2018,30,2018-12-02,20:30,201812022030,sunday,Colo-Colo,Universidad de Concepción,0,2,2,A,L,W,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/primera-division-2018-colo-colo-universidad-de-concepcion/
+chile-2019,1,2019-02-15,21:00,201902152100,friday,Unión La Calera,Palestino,2,0,2,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/primera-division-2019-union-la-calera-palestino/
+chile-2019,1,2019-02-15,23:30,201902152330,friday,Coquimbo Unido,Universidad Católica,1,2,3,A,L,W,1,2,3,A,L,W,http://www.worldfootball.net/report/primera-division-2019-coquimbo-unido-universidad-catolica/
+chile-2019,1,2019-02-16,15:00,201902161500,saturday,Iquique,Curicó Unido,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/primera-division-2019-iquique-curico-unido/
+chile-2019,1,2019-02-16,21:30,201902162130,saturday,Universidad de Chile,Cobresal,1,1,2,D,D,D,1,0,1,H,W,L,http://www.worldfootball.net/report/primera-division-2019-universidad-de-chile-cobresal/
+chile-2019,1,2019-02-17,00:00,201902170000,sunday,Universidad de Concepción,Everton,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/primera-division-2019-universidad-de-concepcion-everton/
+chile-2019,1,2019-02-17,15:00,201902171500,sunday,Huachipato,O'Higgins,2,1,3,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/primera-division-2019-huachipato-ohiggins/
+chile-2019,1,2019-02-17,22:00,201902172200,sunday,Unión Española,Colo-Colo,1,3,4,A,L,W,1,1,2,D,D,D,http://www.worldfootball.net/report/primera-division-2019-union-espanola-colo-colo/
+chile-2019,1,2019-02-18,00:30,201902180030,monday,Audax Italiano,Antofagasta,0,3,3,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/primera-division-2019-audax-italiano-antofagasta/
+chile-2019,2,2019-02-22,21:00,201902222100,friday,Antofagasta,Unión Española,1,2,3,A,L,W,1,1,2,D,D,D,http://www.worldfootball.net/report/primera-division-2019-antofagasta-union-espanola/
+chile-2019,2,2019-02-22,23:30,201902222330,friday,Colo-Colo,Universidad de Concepción,1,0,1,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/primera-division-2019-colo-colo-universidad-de-concepcion/

@@ -3,12 +3,12 @@ serbia-2003-2004,1,2003-08-08,16:00,200308081600,friday,OFK Beograd,FK Zeleznik,
 serbia-2003-2004,1,2003-08-08,16:30,200308081630,friday,FK Smederevo,Radnicki Obrenovac,2,0,2,H,W,L,,,,,,,
 serbia-2003-2004,1,2003-08-09,16:30,200308091630,saturday,FK Obilić,FK KOM Podgorica,3,1,4,H,W,L,,,,,,,
 serbia-2003-2004,1,2003-08-09,16:30,200308091630,saturday,FK Sutjeska,Buducnost Banatski Dvor,1,0,1,H,W,L,,,,,,,
-serbia-2003-2004,1,2003-08-09,16:30,200308091630,saturday,Vojvodina,FK Zemun,0,0,0,D,D,D,0,0,0,D,D,D,
+serbia-2003-2004,1,2003-08-09,16:30,200308091630,saturday,Vojvodina,FK Zemun,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
 serbia-2003-2004,1,2003-08-09,16:30,200308091630,saturday,FK Napredak,Crvena Zvezda,2,1,3,H,W,L,,,,,,,
 serbia-2003-2004,1,2003-08-09,16:30,200308091630,saturday,Hajduk Rodić,FK Zeta,2,1,3,H,W,L,,,,,,,
 serbia-2003-2004,1,2003-08-09,19:00,200308091900,saturday,Partizan,Borac Čačak,6,1,7,H,W,L,,,,,,,
 serbia-2003-2004,2,2003-08-23,16:00,200308231600,saturday,FK KOM Podgorica,FK Zeta,1,2,3,A,L,W,,,,,,,
-serbia-2003-2004,2,2003-08-23,16:00,200308231600,saturday,Radnicki Obrenovac,FK Napredak,0,0,0,D,D,D,0,0,0,D,D,D,
+serbia-2003-2004,2,2003-08-23,16:00,200308231600,saturday,Radnicki Obrenovac,FK Napredak,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
 serbia-2003-2004,2,2003-08-23,16:00,200308231600,saturday,FK Zemun,FK Smederevo,3,0,3,H,W,L,,,,,,,
 serbia-2003-2004,2,2003-08-23,16:00,200308231600,saturday,Buducnost Banatski Dvor,Vojvodina,3,1,4,H,W,L,,,,,,,
 serbia-2003-2004,2,2003-08-23,16:00,200308231600,saturday,FK Zeleznik,FK Sutjeska,3,0,3,H,W,L,,,,,,,
@@ -28,7 +28,7 @@ serbia-2003-2004,4,2003-09-13,15:30,200309131530,saturday,Radnicki Obrenovac,FK 
 serbia-2003-2004,4,2003-09-13,15:30,200309131530,saturday,FK Zemun,Hajduk Rodić,1,0,1,H,W,L,,,,,,,
 serbia-2003-2004,4,2003-09-13,15:30,200309131530,saturday,Buducnost Banatski Dvor,FK Napredak,2,1,3,H,W,L,,,,,,,
 serbia-2003-2004,4,2003-09-13,15:30,200309131530,saturday,FK Zeleznik,FK Smederevo,2,0,2,H,W,L,,,,,,,
-serbia-2003-2004,4,2003-09-13,15:30,200309131530,saturday,Borac Čačak,Vojvodina,0,0,0,D,D,D,0,0,0,D,D,D,
+serbia-2003-2004,4,2003-09-13,15:30,200309131530,saturday,Borac Čačak,Vojvodina,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
 serbia-2003-2004,4,2003-09-13,15:30,200309131530,saturday,FK Obilić,FK Sutjeska,1,1,2,D,D,D,,,,,,,
 serbia-2003-2004,4,2003-09-13,18:00,200309131800,saturday,Partizan,OFK Beograd,3,2,5,H,W,L,,,,,,,
 serbia-2003-2004,5,2003-09-20,15:30,200309201530,saturday,OFK Beograd,FK KOM Podgorica,2,0,2,H,W,L,,,,,,,
@@ -48,12 +48,12 @@ serbia-2003-2004,6,2003-09-27,15:00,200309271500,saturday,FK Obilić,FK Smederev
 serbia-2003-2004,6,2003-09-27,15:00,200309271500,saturday,OFK Beograd,FK Sutjeska,3,2,5,H,W,L,,,,,,,
 serbia-2003-2004,6,2003-09-28,15:00,200309281500,sunday,FK Zemun,Crvena Zvezda,0,1,1,A,L,W,,,,,,,
 serbia-2003-2004,7,2003-10-04,14:30,200310041430,saturday,FK Sutjeska,FK KOM Podgorica,0,1,1,A,L,W,,,,,,,
-serbia-2003-2004,7,2003-10-04,14:30,200310041430,saturday,Vojvodina,OFK Beograd,0,0,0,D,D,D,0,0,0,D,D,D,
+serbia-2003-2004,7,2003-10-04,14:30,200310041430,saturday,Vojvodina,OFK Beograd,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
 serbia-2003-2004,7,2003-10-04,14:30,200310041430,saturday,FK Napredak,FK Obilić,0,3,3,A,L,W,,,,,,,
 serbia-2003-2004,7,2003-10-04,14:30,200310041430,saturday,Hajduk Rodić,Borac Čačak,2,0,2,H,W,L,,,,,,,
 serbia-2003-2004,7,2003-10-04,14:30,200310041430,saturday,FK Zeta,FK Zeleznik,1,0,1,H,W,L,,,,,,,
 serbia-2003-2004,7,2003-10-04,14:30,200310041430,saturday,Crvena Zvezda,Buducnost Banatski Dvor,4,0,4,H,W,L,,,,,,,
-serbia-2003-2004,7,2003-10-04,14:30,200310041430,saturday,Radnicki Obrenovac,FK Zemun,0,0,0,D,D,D,0,0,0,D,D,D,
+serbia-2003-2004,7,2003-10-04,14:30,200310041430,saturday,Radnicki Obrenovac,FK Zemun,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
 serbia-2003-2004,7,2003-10-05,14:30,200310051430,sunday,FK Smederevo,Partizan,2,1,3,H,W,L,,,,,,,
 serbia-2003-2004,8,2003-10-17,16:30,200310171630,friday,Partizan,FK Napredak,1,0,1,H,W,L,,,,,,,
 serbia-2003-2004,8,2003-10-18,13:30,200310181330,saturday,FK KOM Podgorica,FK Zemun,0,1,1,A,L,W,,,,,,,
@@ -69,7 +69,7 @@ serbia-2003-2004,9,2003-10-25,13:00,200310251300,saturday,FK Zeta,FK Obilić,0,1
 serbia-2003-2004,9,2003-10-25,13:00,200310251300,saturday,Crvena Zvezda,Borac Čačak,5,1,6,H,W,L,,,,,,,
 serbia-2003-2004,9,2003-10-25,13:00,200310251300,saturday,Radnicki Obrenovac,FK Zeleznik,1,2,3,A,L,W,,,,,,,
 serbia-2003-2004,9,2003-10-25,13:00,200310251300,saturday,FK Zemun,Buducnost Banatski Dvor,1,2,3,A,L,W,,,,,,,
-serbia-2003-2004,9,2003-10-26,12:30,200310261230,sunday,Hajduk Rodić,Partizan,0,0,0,D,D,D,0,0,0,D,D,D,
+serbia-2003-2004,9,2003-10-26,12:30,200310261230,sunday,Hajduk Rodić,Partizan,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
 serbia-2003-2004,9,2003-10-26,13:00,200310261300,sunday,Vojvodina,FK KOM Podgorica,4,2,6,H,W,L,,,,,,,
 serbia-2003-2004,10,2003-10-31,15:30,200310311530,friday,Partizan,FK Zeta,3,0,3,H,W,L,,,,,,,
 serbia-2003-2004,10,2003-11-01,13:00,200311011300,saturday,OFK Beograd,Hajduk Rodić,1,0,1,H,W,L,,,,,,,
@@ -79,7 +79,7 @@ serbia-2003-2004,10,2003-11-01,13:00,200311011300,saturday,FK Zeleznik,FK Zemun,
 serbia-2003-2004,10,2003-11-01,13:00,200311011300,saturday,Borac Čačak,Radnicki Obrenovac,2,2,4,D,D,D,,,,,,,
 serbia-2003-2004,10,2003-11-02,12:30,200311021230,sunday,Vojvodina,FK Smederevo,2,2,4,D,D,D,,,,,,,
 serbia-2003-2004,10,2003-11-02,13:00,200311021300,sunday,FK Obilić,Crvena Zvezda,1,3,4,A,L,W,,,,,,,
-serbia-2003-2004,11,2003-11-08,12:30,200311081230,saturday,Radnicki Obrenovac,FK Obilić,0,0,0,D,D,D,0,0,0,D,D,D,
+serbia-2003-2004,11,2003-11-08,12:30,200311081230,saturday,Radnicki Obrenovac,FK Obilić,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
 serbia-2003-2004,11,2003-11-08,12:30,200311081230,saturday,FK Zemun,Borac Čačak,2,1,3,H,W,L,,,,,,,
 serbia-2003-2004,11,2003-11-08,12:30,200311081230,saturday,Buducnost Banatski Dvor,FK Zeleznik,0,2,2,A,L,W,,,,,,,
 serbia-2003-2004,11,2003-11-08,12:30,200311081230,saturday,FK Smederevo,FK KOM Podgorica,3,0,3,H,W,L,,,,,,,
@@ -91,7 +91,7 @@ serbia-2003-2004,12,2003-11-21,14:30,200311211430,friday,Partizan,Radnicki Obren
 serbia-2003-2004,12,2003-11-22,12:00,200311221200,saturday,FK KOM Podgorica,FK Zeleznik,0,2,2,A,L,W,,,,,,,
 serbia-2003-2004,12,2003-11-22,12:00,200311221200,saturday,Borac Čačak,Buducnost Banatski Dvor,2,0,2,H,W,L,,,,,,,
 serbia-2003-2004,12,2003-11-22,12:00,200311221200,saturday,FK Sutjeska,FK Zeta,2,0,2,H,W,L,,,,,,,
-serbia-2003-2004,12,2003-11-22,12:00,200311221200,saturday,Vojvodina,Hajduk Rodić,0,0,0,D,D,D,0,0,0,D,D,D,
+serbia-2003-2004,12,2003-11-22,12:00,200311221200,saturday,Vojvodina,Hajduk Rodić,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
 serbia-2003-2004,12,2003-11-22,12:00,200311221200,saturday,FK Smederevo,FK Napredak,3,2,5,H,W,L,,,,,,,
 serbia-2003-2004,12,2003-11-23,12:00,200311231200,sunday,OFK Beograd,Crvena Zvezda,1,0,1,H,W,L,,,,,,,
 serbia-2003-2004,12,2003-11-23,12:30,200311231230,sunday,FK Obilić,FK Zemun,3,0,3,H,W,L,,,,,,,
@@ -106,9 +106,9 @@ serbia-2003-2004,13,2003-11-30,12:30,200311301230,sunday,FK Zemun,Partizan,1,2,3
 serbia-2003-2004,14,2003-12-06,12:00,200312061200,saturday,FK KOM Podgorica,Borac Čačak,3,3,6,D,D,D,,,,,,,
 serbia-2003-2004,14,2003-12-06,12:00,200312061200,saturday,Partizan,Buducnost Banatski Dvor,3,0,3,H,W,L,,,,,,,
 serbia-2003-2004,14,2003-12-06,12:00,200312061200,saturday,OFK Beograd,FK Zemun,1,0,1,H,W,L,,,,,,,
-serbia-2003-2004,14,2003-12-06,12:00,200312061200,saturday,FK Sutjeska,Radnicki Obrenovac,0,0,0,D,D,D,0,0,0,D,D,D,
+serbia-2003-2004,14,2003-12-06,12:00,200312061200,saturday,FK Sutjeska,Radnicki Obrenovac,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
 serbia-2003-2004,14,2003-12-06,12:00,200312061200,saturday,Vojvodina,Crvena Zvezda,0,2,2,A,L,W,,,,,,,
-serbia-2003-2004,14,2003-12-06,12:00,200312061200,saturday,FK Smederevo,FK Zeta,0,0,0,D,D,D,0,0,0,D,D,D,
+serbia-2003-2004,14,2003-12-06,12:00,200312061200,saturday,FK Smederevo,FK Zeta,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
 serbia-2003-2004,14,2003-12-06,12:00,200312061200,saturday,FK Napredak,Hajduk Rodić,0,2,2,A,L,W,,,,,,,
 serbia-2003-2004,14,2003-12-07,12:00,200312071200,sunday,FK Obilić,FK Zeleznik,0,1,1,A,L,W,,,,,,,
 serbia-2003-2004,15,2003-12-13,12:00,200312131200,saturday,Hajduk Rodić,FK KOM Podgorica,3,1,4,H,W,L,,,,,,,
@@ -122,23 +122,23 @@ serbia-2003-2004,15,2003-12-13,12:00,200312131200,saturday,Borac Čačak,FK Obil
 serbia-2003-2004,16,2004-02-21,12:30,200402211230,saturday,FK KOM Podgorica,FK Obilić,0,3,3,A,L,W,,,,,,,
 serbia-2003-2004,16,2004-02-21,12:30,200402211230,saturday,FK Zeleznik,OFK Beograd,1,1,2,D,D,D,,,,,,,
 serbia-2003-2004,16,2004-02-21,12:30,200402211230,saturday,Buducnost Banatski Dvor,FK Sutjeska,2,4,6,A,L,W,,,,,,,
-serbia-2003-2004,16,2004-02-21,12:30,200402211230,saturday,FK Zemun,Vojvodina,0,0,0,D,D,D,0,0,0,D,D,D,
+serbia-2003-2004,16,2004-02-21,12:30,200402211230,saturday,FK Zemun,Vojvodina,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
 serbia-2003-2004,16,2004-02-21,12:30,200402211230,saturday,Radnicki Obrenovac,FK Smederevo,3,1,4,H,W,L,,,,,,,
 serbia-2003-2004,16,2004-02-21,12:30,200402211230,saturday,Crvena Zvezda,FK Napredak,2,0,2,H,W,L,,,,,,,
 serbia-2003-2004,16,2004-02-22,12:30,200402221230,sunday,Borac Čačak,Partizan,0,1,1,A,L,W,,,,,,,
 serbia-2003-2004,16,2004-02-22,12:30,200402221230,sunday,FK Zeta,Hajduk Rodić,2,0,2,H,W,L,,,,,,,
 serbia-2003-2004,17,2004-02-28,12:30,200402281230,saturday,FK Zeta,FK KOM Podgorica,4,0,4,H,W,L,,,,,,,
-serbia-2003-2004,17,2004-02-28,12:30,200402281230,saturday,FK Napredak,Radnicki Obrenovac,0,0,0,D,D,D,0,0,0,D,D,D,
-serbia-2003-2004,17,2004-02-28,12:30,200402281230,saturday,FK Smederevo,FK Zemun,0,0,0,D,D,D,0,0,0,D,D,D,
+serbia-2003-2004,17,2004-02-28,12:30,200402281230,saturday,FK Napredak,Radnicki Obrenovac,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
+serbia-2003-2004,17,2004-02-28,12:30,200402281230,saturday,FK Smederevo,FK Zemun,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
 serbia-2003-2004,17,2004-02-28,12:30,200402281230,saturday,Vojvodina,Buducnost Banatski Dvor,1,0,1,H,W,L,,,,,,,
 serbia-2003-2004,17,2004-02-28,12:30,200402281230,saturday,FK Sutjeska,FK Zeleznik,3,1,4,H,W,L,,,,,,,
-serbia-2003-2004,17,2004-02-28,12:30,200402281230,saturday,OFK Beograd,Borac Čačak,0,0,0,D,D,D,0,0,0,D,D,D,
+serbia-2003-2004,17,2004-02-28,12:30,200402281230,saturday,OFK Beograd,Borac Čačak,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
 serbia-2003-2004,17,2004-02-28,12:30,200402281230,saturday,Partizan,FK Obilić,2,0,2,H,W,L,,,,,,,
 serbia-2003-2004,17,2004-02-29,12:30,200402291230,sunday,Hajduk Rodić,Crvena Zvezda,1,2,3,A,L,W,,,,,,,
-serbia-2003-2004,18,2004-03-06,13:00,200403061300,saturday,FK KOM Podgorica,Partizan,0,0,0,D,D,D,0,0,0,D,D,D,
+serbia-2003-2004,18,2004-03-06,13:00,200403061300,saturday,FK KOM Podgorica,Partizan,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
 serbia-2003-2004,18,2004-03-06,13:00,200403061300,saturday,Borac Čačak,FK Sutjeska,0,2,2,A,L,W,,,,,,,
 serbia-2003-2004,18,2004-03-06,13:00,200403061300,saturday,FK Zeleznik,Vojvodina,2,2,4,D,D,D,,,,,,,
-serbia-2003-2004,18,2004-03-06,13:00,200403061300,saturday,Buducnost Banatski Dvor,FK Smederevo,0,0,0,D,D,D,0,0,0,D,D,D,
+serbia-2003-2004,18,2004-03-06,13:00,200403061300,saturday,Buducnost Banatski Dvor,FK Smederevo,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
 serbia-2003-2004,18,2004-03-06,13:00,200403061300,saturday,FK Zemun,FK Napredak,1,0,1,H,W,L,,,,,,,
 serbia-2003-2004,18,2004-03-06,13:00,200403061300,saturday,Radnicki Obrenovac,Hajduk Rodić,1,2,3,A,L,W,,,,,,,
 serbia-2003-2004,18,2004-03-07,13:00,200403071300,sunday,FK Obilić,OFK Beograd,3,0,3,H,W,L,,,,,,,
@@ -147,37 +147,37 @@ serbia-2003-2004,19,2004-03-13,13:00,200403131300,saturday,Crvena Zvezda,FK KOM 
 serbia-2003-2004,19,2004-03-13,13:00,200403131300,saturday,FK Zeta,Radnicki Obrenovac,4,2,6,H,W,L,,,,,,,
 serbia-2003-2004,19,2004-03-13,13:00,200403131300,saturday,Hajduk Rodić,FK Zemun,3,1,4,H,W,L,,,,,,,
 serbia-2003-2004,19,2004-03-13,13:00,200403131300,saturday,FK Napredak,Buducnost Banatski Dvor,0,1,1,A,L,W,,,,,,,
-serbia-2003-2004,19,2004-03-13,13:00,200403131300,saturday,FK Smederevo,FK Zeleznik,0,0,0,D,D,D,0,0,0,D,D,D,
+serbia-2003-2004,19,2004-03-13,13:00,200403131300,saturday,FK Smederevo,FK Zeleznik,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
 serbia-2003-2004,19,2004-03-13,13:00,200403131300,saturday,Vojvodina,Borac Čačak,1,2,3,A,L,W,,,,,,,
 serbia-2003-2004,19,2004-03-13,13:00,200403131300,saturday,OFK Beograd,Partizan,1,1,2,D,D,D,,,,,,,
 serbia-2003-2004,20,2004-03-17,13:30,200403171330,wednesday,FK KOM Podgorica,OFK Beograd,0,1,1,A,L,W,,,,,,,
 serbia-2003-2004,20,2004-03-17,13:30,200403171330,wednesday,Partizan,FK Sutjeska,3,0,3,H,W,L,,,,,,,
 serbia-2003-2004,20,2004-03-17,13:30,200403171330,wednesday,FK Obilić,Vojvodina,2,1,3,H,W,L,,,,,,,
-serbia-2003-2004,20,2004-03-17,13:30,200403171330,wednesday,Borac Čačak,FK Smederevo,0,0,0,D,D,D,0,0,0,D,D,D,
+serbia-2003-2004,20,2004-03-17,13:30,200403171330,wednesday,Borac Čačak,FK Smederevo,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
 serbia-2003-2004,20,2004-03-17,13:30,200403171330,wednesday,FK Zeleznik,FK Napredak,2,1,3,H,W,L,,,,,,,
 serbia-2003-2004,20,2004-03-17,13:30,200403171330,wednesday,Buducnost Banatski Dvor,Hajduk Rodić,2,1,3,H,W,L,,,,,,,
 serbia-2003-2004,20,2004-03-17,13:30,200403171330,wednesday,FK Zemun,FK Zeta,1,0,1,H,W,L,,,,,,,
-serbia-2003-2004,20,2004-03-17,13:30,200403171330,wednesday,Radnicki Obrenovac,Crvena Zvezda,0,0,0,D,D,D,0,0,0,D,D,D,
+serbia-2003-2004,20,2004-03-17,13:30,200403171330,wednesday,Radnicki Obrenovac,Crvena Zvezda,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
 serbia-2003-2004,21,2004-03-20,13:30,200403201330,saturday,Radnicki Obrenovac,FK KOM Podgorica,1,0,1,H,W,L,,,,,,,
-serbia-2003-2004,21,2004-03-20,13:30,200403201330,saturday,FK Zeta,Buducnost Banatski Dvor,0,0,0,D,D,D,0,0,0,D,D,D,
+serbia-2003-2004,21,2004-03-20,13:30,200403201330,saturday,FK Zeta,Buducnost Banatski Dvor,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
 serbia-2003-2004,21,2004-03-20,13:30,200403201330,saturday,FK Napredak,Borac Čačak,2,1,3,H,W,L,,,,,,,
 serbia-2003-2004,21,2004-03-20,13:30,200403201330,saturday,FK Smederevo,FK Obilić,3,1,4,H,W,L,,,,,,,
 serbia-2003-2004,21,2004-03-20,13:30,200403201330,saturday,FK Sutjeska,OFK Beograd,2,1,3,H,W,L,,,,,,,
 serbia-2003-2004,21,2004-03-21,13:30,200403211330,sunday,Crvena Zvezda,FK Zemun,2,1,3,H,W,L,,,,,,,
 serbia-2003-2004,21,2004-03-21,13:30,200403211330,sunday,Hajduk Rodić,FK Zeleznik,1,0,1,H,W,L,,,,,,,
-serbia-2003-2004,21,2004-03-21,13:30,200403211330,sunday,Vojvodina,Partizan,0,0,0,D,D,D,0,0,0,D,D,D,
-serbia-2003-2004,19,2004-03-24,13:00,200403241300,wednesday,FK Sutjeska,FK Obilić,0,0,0,D,D,D,0,0,0,D,D,D,
+serbia-2003-2004,21,2004-03-21,13:30,200403211330,sunday,Vojvodina,Partizan,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
+serbia-2003-2004,19,2004-03-24,13:00,200403241300,wednesday,FK Sutjeska,FK Obilić,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
 serbia-2003-2004,22,2004-04-02,14:00,200404021400,friday,FK Obilić,FK Napredak,2,1,3,H,W,L,,,,,,,
 serbia-2003-2004,22,2004-04-03,14:00,200404031400,saturday,FK KOM Podgorica,FK Sutjeska,1,2,3,A,L,W,,,,,,,
 serbia-2003-2004,22,2004-04-03,14:00,200404031400,saturday,OFK Beograd,Vojvodina,0,1,1,A,L,W,,,,,,,
 serbia-2003-2004,22,2004-04-03,14:00,200404031400,saturday,Borac Čačak,Hajduk Rodić,1,0,1,H,W,L,,,,,,,
 serbia-2003-2004,22,2004-04-03,14:00,200404031400,saturday,FK Zeleznik,FK Zeta,2,0,2,H,W,L,,,,,,,
 serbia-2003-2004,22,2004-04-03,14:00,200404031400,saturday,Buducnost Banatski Dvor,Crvena Zvezda,0,2,2,A,L,W,,,,,,,
-serbia-2003-2004,22,2004-04-03,14:00,200404031400,saturday,FK Zemun,Radnicki Obrenovac,0,0,0,D,D,D,0,0,0,D,D,D,
+serbia-2003-2004,22,2004-04-03,14:00,200404031400,saturday,FK Zemun,Radnicki Obrenovac,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
 serbia-2003-2004,22,2004-04-03,16:00,200404031600,saturday,Partizan,FK Smederevo,1,0,1,H,W,L,,,,,,,
 serbia-2003-2004,23,2004-04-07,14:00,200404071400,wednesday,FK Zemun,FK KOM Podgorica,1,0,1,H,W,L,,,,,,,
 serbia-2003-2004,23,2004-04-07,14:00,200404071400,wednesday,Radnicki Obrenovac,Buducnost Banatski Dvor,1,0,1,H,W,L,,,,,,,
-serbia-2003-2004,23,2004-04-07,14:00,200404071400,wednesday,Crvena Zvezda,FK Zeleznik,0,0,0,D,D,D,0,0,0,D,D,D,
+serbia-2003-2004,23,2004-04-07,14:00,200404071400,wednesday,Crvena Zvezda,FK Zeleznik,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
 serbia-2003-2004,23,2004-04-07,14:00,200404071400,wednesday,FK Zeta,Borac Čačak,1,2,3,A,L,W,,,,,,,
 serbia-2003-2004,23,2004-04-07,14:00,200404071400,wednesday,Hajduk Rodić,FK Obilić,0,3,3,A,L,W,,,,,,,
 serbia-2003-2004,23,2004-04-07,14:00,200404071400,wednesday,FK Napredak,Partizan,0,1,1,A,L,W,,,,,,,
@@ -198,33 +198,33 @@ serbia-2003-2004,25,2004-04-14,14:30,200404141430,wednesday,FK Napredak,FK Sutje
 serbia-2003-2004,25,2004-04-14,14:30,200404141430,wednesday,FK Smederevo,Vojvodina,1,0,1,H,W,L,,,,,,,
 serbia-2003-2004,25,2004-04-14,14:30,200404141430,wednesday,Buducnost Banatski Dvor,FK KOM Podgorica,2,1,3,H,W,L,,,,,,,
 serbia-2003-2004,25,2004-04-14,14:30,200404141430,wednesday,FK Zemun,FK Zeleznik,0,1,1,A,L,W,,,,,,,
-serbia-2003-2004,25,2004-04-14,14:30,200404141430,wednesday,Radnicki Obrenovac,Borac Čačak,0,0,0,D,D,D,0,0,0,D,D,D,
+serbia-2003-2004,25,2004-04-14,14:30,200404141430,wednesday,Radnicki Obrenovac,Borac Čačak,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
 serbia-2003-2004,26,2004-04-17,13:30,200404171330,saturday,FK Obilić,Radnicki Obrenovac,3,0,3,H,W,L,,,,,,,
 serbia-2003-2004,26,2004-04-17,13:30,200404171330,saturday,OFK Beograd,FK Zeta,1,0,1,H,W,L,,,,,,,
-serbia-2003-2004,26,2004-04-17,15:30,200404171530,saturday,Borac Čačak,FK Zemun,0,0,0,D,D,D,0,0,0,D,D,D,
+serbia-2003-2004,26,2004-04-17,15:30,200404171530,saturday,Borac Čačak,FK Zemun,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
 serbia-2003-2004,26,2004-04-17,15:30,200404171530,saturday,FK Zeleznik,Buducnost Banatski Dvor,5,1,6,H,W,L,,,,,,,
 serbia-2003-2004,26,2004-04-17,15:30,200404171530,saturday,FK KOM Podgorica,FK Smederevo,1,0,1,H,W,L,,,,,,,
 serbia-2003-2004,26,2004-04-17,15:30,200404171530,saturday,Vojvodina,FK Napredak,1,0,1,H,W,L,,,,,,,
-serbia-2003-2004,26,2004-04-17,16:00,200404171600,saturday,Partizan,Crvena Zvezda,0,0,0,D,D,D,0,0,0,D,D,D,
+serbia-2003-2004,26,2004-04-17,16:00,200404171600,saturday,Partizan,Crvena Zvezda,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
 serbia-2003-2004,26,2004-04-18,14:00,200404181400,sunday,FK Sutjeska,Hajduk Rodić,1,1,2,D,D,D,,,,,,,
 serbia-2003-2004,27,2004-04-24,15:30,200404241530,saturday,FK Zeleznik,FK KOM Podgorica,3,0,3,H,W,L,,,,,,,
 serbia-2003-2004,27,2004-04-24,15:30,200404241530,saturday,Radnicki Obrenovac,Partizan,0,3,3,A,L,W,,,,,,,
 serbia-2003-2004,27,2004-04-24,15:30,200404241530,saturday,FK Zeta,FK Sutjeska,2,1,3,H,W,L,,,,,,,
 serbia-2003-2004,27,2004-04-24,15:30,200404241530,saturday,Hajduk Rodić,Vojvodina,0,1,1,A,L,W,,,,,,,
 serbia-2003-2004,27,2004-04-24,15:30,200404241530,saturday,FK Napredak,FK Smederevo,0,1,1,A,L,W,,,,,,,
-serbia-2003-2004,27,2004-04-25,15:30,200404251530,sunday,Buducnost Banatski Dvor,Borac Čačak,0,0,0,D,D,D,0,0,0,D,D,D,
+serbia-2003-2004,27,2004-04-25,15:30,200404251530,sunday,Buducnost Banatski Dvor,Borac Čačak,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
 serbia-2003-2004,27,2004-04-25,15:30,200404251530,sunday,FK Zemun,FK Obilić,3,2,5,H,W,L,,,,,,,
 serbia-2003-2004,27,2004-04-25,16:00,200404251600,sunday,Crvena Zvezda,OFK Beograd,2,1,3,H,W,L,,,,,,,
-serbia-2003-2004,28,2004-05-01,14:30,200405011430,saturday,Vojvodina,FK Zeta,0,0,0,D,D,D,0,0,0,D,D,D,
+serbia-2003-2004,28,2004-05-01,14:30,200405011430,saturday,Vojvodina,FK Zeta,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
 serbia-2003-2004,28,2004-05-01,16:00,200405011600,saturday,FK Smederevo,Hajduk Rodić,1,0,1,H,W,L,,,,,,,
 serbia-2003-2004,28,2004-05-01,16:00,200405011600,saturday,FK Sutjeska,Crvena Zvezda,0,1,1,A,L,W,,,,,,,
 serbia-2003-2004,28,2004-05-01,16:00,200405011600,saturday,OFK Beograd,Radnicki Obrenovac,1,0,1,H,W,L,,,,,,,
 serbia-2003-2004,28,2004-05-01,16:00,200405011600,saturday,FK Obilić,Buducnost Banatski Dvor,3,0,3,H,W,L,,,,,,,
 serbia-2003-2004,28,2004-05-01,16:00,200405011600,saturday,Borac Čačak,FK Zeleznik,2,2,4,D,D,D,,,,,,,
 serbia-2003-2004,28,2004-05-02,16:00,200405021600,sunday,FK KOM Podgorica,FK Napredak,1,2,3,A,L,W,,,,,,,
-serbia-2003-2004,28,2004-05-02,16:00,200405021600,sunday,Partizan,FK Zemun,0,0,0,D,D,D,0,0,0,D,D,D,
+serbia-2003-2004,28,2004-05-02,16:00,200405021600,sunday,Partizan,FK Zemun,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
 serbia-2003-2004,29,2004-05-08,16:00,200405081600,saturday,Borac Čačak,FK KOM Podgorica,4,0,4,H,W,L,,,,,,,
-serbia-2003-2004,29,2004-05-08,16:00,200405081600,saturday,FK Zeleznik,FK Obilić,0,0,0,D,D,D,0,0,0,D,D,D,
+serbia-2003-2004,29,2004-05-08,16:00,200405081600,saturday,FK Zeleznik,FK Obilić,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
 serbia-2003-2004,29,2004-05-08,16:00,200405081600,saturday,Buducnost Banatski Dvor,Partizan,1,0,1,H,W,L,,,,,,,
 serbia-2003-2004,29,2004-05-08,16:00,200405081600,saturday,FK Zemun,OFK Beograd,2,3,5,A,L,W,,,,,,,
 serbia-2003-2004,29,2004-05-08,16:00,200405081600,saturday,Radnicki Obrenovac,FK Sutjeska,0,3,3,A,L,W,,,,,,,
@@ -3632,3 +3632,180 @@ serbia-2017-2018-meisterschaft,37,2018-05-17,18:00,201805171800,thursday,Partiza
 serbia-2017-2018-meisterschaft,37,2018-05-17,18:00,201805171800,thursday,FK Čukarički-Stankom,Vojvodina,1,6,7,A,L,W,1.0,3.0,4.0,A,L,W,http://www.worldfootball.net/report/super-liga-2017-2018-meisterschaft-fk-cukaricki-stankom-vojvodina/
 serbia-2017-2018-meisterschaft,37,2018-05-17,18:00,201805171800,thursday,Radnički Niš,FK Napredak,4,1,5,H,W,L,2.0,1.0,3.0,H,W,L,http://www.worldfootball.net/report/super-liga-2017-2018-meisterschaft-radnicki-nis-fk-napredak/
 serbia-2017-2018-meisterschaft,37,2018-05-19,19:00,201805191900,saturday,Crvena Zvezda,FK Voždovac,5,1,6,H,W,L,2.0,0.0,2.0,H,W,L,http://www.worldfootball.net/report/super-liga-2017-2018-meisterschaft-crvena-zvezda-fk-vozdovac/
+serbia-2018-2019,1,2018-07-20,19:00,201807201900,friday,Crvena Zvezda,Dinamo Vranje,3,0,3,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/super-liga-2018-2019-crvena-zvezda-dinamo-vranje/
+serbia-2018-2019,1,2018-07-20,19:00,201807201900,friday,Vojvodina,Mladost Lučani,1,1,2,D,D,D,1,1,2,D,D,D,http://www.worldfootball.net/report/super-liga-2018-2019-vojvodina-mladost-lucani/
+serbia-2018-2019,1,2018-07-21,19:00,201807211900,saturday,FK Voždovac,Bačka Bačka Palanka,1,0,1,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/super-liga-2018-2019-fk-vozdovac-backa-backa-palanka/
+serbia-2018-2019,1,2018-07-21,19:00,201807211900,saturday,FK Napredak,FK Rad Beograd,1,0,1,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/super-liga-2018-2019-fk-napredak-fk-rad-beograd/
+serbia-2018-2019,1,2018-07-21,19:00,201807211900,saturday,FK Čukarički-Stankom,FK Zemun,1,1,2,D,D,D,1,0,1,H,W,L,http://www.worldfootball.net/report/super-liga-2018-2019-fk-cukaricki-stankom-fk-zemun/
+serbia-2018-2019,1,2018-07-22,18:00,201807221800,sunday,Radnik Surdulica,Partizan,1,0,1,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/super-liga-2018-2019-radnik-surdulica-partizan/
+serbia-2018-2019,1,2018-07-22,19:00,201807221900,sunday,Radnički Niš,Proleter Novi Sad,3,1,4,H,W,L,2,0,2,H,W,L,http://www.worldfootball.net/report/super-liga-2018-2019-radnicki-nis-proleter-novi-sad/
+serbia-2018-2019,1,2018-07-23,16:00,201807231600,monday,Spartak Subotica,FK Mačva Šabac,1,0,1,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/super-liga-2018-2019-spartak-subotica-fk-macva-sabac/
+serbia-2018-2019,2,2018-07-28,16:00,201807281600,saturday,FK Zemun,Vojvodina,1,1,2,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/super-liga-2018-2019-fk-zemun-vojvodina/
+serbia-2018-2019,2,2018-07-28,18:00,201807281800,saturday,Mladost Lučani,Radnik Surdulica,1,0,1,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/super-liga-2018-2019-mladost-lucani-radnik-surdulica/
+serbia-2018-2019,2,2018-07-28,18:00,201807281800,saturday,FK Rad Beograd,FK Čukarički-Stankom,0,3,3,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/super-liga-2018-2019-fk-rad-beograd-fk-cukaricki-stankom/
+serbia-2018-2019,2,2018-07-28,18:00,201807281800,saturday,FK Mačva Šabac,FK Napredak,1,0,1,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/super-liga-2018-2019-fk-macva-sabac-fk-napredak/
+serbia-2018-2019,2,2018-07-28,18:00,201807281800,saturday,Proleter Novi Sad,FK Voždovac,2,1,3,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/super-liga-2018-2019-proleter-novi-sad-fk-vozdovac/
+serbia-2018-2019,2,2018-07-29,16:00,201807291600,sunday,Bačka Bačka Palanka,Spartak Subotica,2,1,3,H,W,L,0,1,1,A,L,W,http://www.worldfootball.net/report/super-liga-2018-2019-backa-backa-palanka-spartak-subotica/
+serbia-2018-2019,2,2018-07-29,18:00,201807291800,sunday,Dinamo Vranje,Partizan,0,1,1,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/super-liga-2018-2019-dinamo-vranje-partizan/
+serbia-2018-2019,2,2018-07-29,18:00,201807291800,sunday,Crvena Zvezda,Radnički Niš,2,0,2,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/super-liga-2018-2019-crvena-zvezda-radnicki-nis/
+serbia-2018-2019,3,2018-08-03,19:00,201808031900,friday,FK Čukarički-Stankom,FK Mačva Šabac,1,0,1,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/super-liga-2018-2019-fk-cukaricki-stankom-fk-macva-sabac/
+serbia-2018-2019,3,2018-08-04,18:00,201808041800,saturday,FK Voždovac,Crvena Zvezda,1,2,3,A,L,W,0,2,2,A,L,W,http://www.worldfootball.net/report/super-liga-2018-2019-fk-vozdovac-crvena-zvezda/
+serbia-2018-2019,3,2018-08-04,19:00,201808041900,saturday,FK Napredak,Bačka Bačka Palanka,1,1,2,D,D,D,0,1,1,A,L,W,http://www.worldfootball.net/report/super-liga-2018-2019-fk-napredak-backa-backa-palanka/
+serbia-2018-2019,3,2018-08-04,19:00,201808041900,saturday,Radnik Surdulica,FK Zemun,2,1,3,H,W,L,2,0,2,H,W,L,http://www.worldfootball.net/report/super-liga-2018-2019-radnik-surdulica-fk-zemun/
+serbia-2018-2019,3,2018-08-05,18:00,201808051800,sunday,Partizan,Mladost Lučani,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/super-liga-2018-2019-partizan-mladost-lucani/
+serbia-2018-2019,3,2018-08-05,19:00,201808051900,sunday,Radnički Niš,Dinamo Vranje,2,0,2,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/super-liga-2018-2019-radnicki-nis-dinamo-vranje/
+serbia-2018-2019,3,2018-08-05,19:00,201808051900,sunday,Vojvodina,FK Rad Beograd,1,2,3,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/super-liga-2018-2019-vojvodina-fk-rad-beograd/
+serbia-2018-2019,3,2018-08-06,17:00,201808061700,monday,Spartak Subotica,Proleter Novi Sad,0,4,4,A,L,W,0,2,2,A,L,W,http://www.worldfootball.net/report/super-liga-2018-2019-spartak-subotica-proleter-novi-sad/
+serbia-2018-2019,4,2018-08-10,19:00,201808101900,friday,Radnički Niš,FK Voždovac,1,0,1,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/super-liga-2018-2019-radnicki-nis-fk-vozdovac/
+serbia-2018-2019,4,2018-08-11,18:00,201808111800,saturday,Proleter Novi Sad,FK Napredak,1,1,2,D,D,D,1,0,1,H,W,L,http://www.worldfootball.net/report/super-liga-2018-2019-proleter-novi-sad-fk-napredak/
+serbia-2018-2019,4,2018-08-11,19:00,201808111900,saturday,Dinamo Vranje,Mladost Lučani,1,3,4,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/super-liga-2018-2019-dinamo-vranje-mladost-lucani/
+serbia-2018-2019,4,2018-08-11,19:00,201808111900,saturday,FK Rad Beograd,Radnik Surdulica,3,1,4,H,W,L,2,1,3,H,W,L,http://www.worldfootball.net/report/super-liga-2018-2019-fk-rad-beograd-radnik-surdulica/
+serbia-2018-2019,4,2018-08-11,19:00,201808111900,saturday,FK Mačva Šabac,Vojvodina,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/super-liga-2018-2019-fk-macva-sabac-vojvodina/
+serbia-2018-2019,4,2018-08-11,19:00,201808111900,saturday,Bačka Bačka Palanka,FK Čukarički-Stankom,1,1,2,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/super-liga-2018-2019-backa-backa-palanka-fk-cukaricki-stankom/
+serbia-2018-2019,4,2018-08-12,16:00,201808121600,sunday,FK Zemun,Partizan,0,1,1,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/super-liga-2018-2019-fk-zemun-partizan/
+serbia-2018-2019,4,2018-08-12,18:00,201808121800,sunday,Crvena Zvezda,Spartak Subotica,3,0,3,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/super-liga-2018-2019-crvena-zvezda-spartak-subotica/
+serbia-2018-2019,5,2018-08-18,18:00,201808181800,saturday,FK Čukarički-Stankom,Proleter Novi Sad,1,0,1,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/super-liga-2018-2019-fk-cukaricki-stankom-proleter-novi-sad/
+serbia-2018-2019,5,2018-08-18,19:00,201808181900,saturday,FK Voždovac,Dinamo Vranje,2,0,2,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/super-liga-2018-2019-fk-vozdovac-dinamo-vranje/
+serbia-2018-2019,5,2018-08-18,19:00,201808181900,saturday,Vojvodina,Bačka Bačka Palanka,2,0,2,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/super-liga-2018-2019-vojvodina-backa-backa-palanka/
+serbia-2018-2019,5,2018-08-18,19:00,201808181900,saturday,Mladost Lučani,FK Zemun,2,1,3,H,W,L,0,1,1,A,L,W,http://www.worldfootball.net/report/super-liga-2018-2019-mladost-lucani-fk-zemun/
+serbia-2018-2019,5,2018-08-19,16:00,201808191600,sunday,Spartak Subotica,Radnički Niš,1,4,5,A,L,W,0,2,2,A,L,W,http://www.worldfootball.net/report/super-liga-2018-2019-spartak-subotica-radnicki-nis/
+serbia-2018-2019,5,2018-08-19,19:00,201808191900,sunday,Radnik Surdulica,FK Mačva Šabac,0,1,1,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/super-liga-2018-2019-radnik-surdulica-fk-macva-sabac/
+serbia-2018-2019,6,2018-08-24,19:00,201808241900,friday,Proleter Novi Sad,Vojvodina,0,1,1,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/super-liga-2018-2019-proleter-novi-sad-vojvodina/
+serbia-2018-2019,6,2018-08-25,19:00,201808251900,saturday,FK Rad Beograd,Mladost Lučani,1,1,2,D,D,D,1,1,2,D,D,D,http://www.worldfootball.net/report/super-liga-2018-2019-fk-rad-beograd-mladost-lucani/
+serbia-2018-2019,6,2018-08-25,19:00,201808251900,saturday,Bačka Bačka Palanka,Radnik Surdulica,1,0,1,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/super-liga-2018-2019-backa-backa-palanka-radnik-surdulica/
+serbia-2018-2019,6,2018-08-25,19:00,201808251900,saturday,Radnički Niš,FK Napredak,3,3,6,D,D,D,1,1,2,D,D,D,http://www.worldfootball.net/report/super-liga-2018-2019-radnicki-nis-fk-napredak/
+serbia-2018-2019,6,2018-08-25,19:30,201808251930,saturday,Crvena Zvezda,FK Čukarički-Stankom,2,1,3,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/super-liga-2018-2019-crvena-zvezda-fk-cukaricki-stankom/
+serbia-2018-2019,6,2018-08-26,18:30,201808261830,sunday,FK Mačva Šabac,Partizan,1,3,4,A,L,W,1,0,1,H,W,L,http://www.worldfootball.net/report/super-liga-2018-2019-fk-macva-sabac-partizan/
+serbia-2018-2019,6,2018-08-26,19:00,201808261900,sunday,Dinamo Vranje,FK Zemun,1,0,1,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/super-liga-2018-2019-dinamo-vranje-fk-zemun/
+serbia-2018-2019,6,2018-08-26,19:00,201808261900,sunday,FK Voždovac,Spartak Subotica,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/super-liga-2018-2019-fk-vozdovac-spartak-subotica/
+serbia-2018-2019,7,2018-08-31,17:00,201808311700,friday,Mladost Lučani,FK Mačva Šabac,1,2,3,A,L,W,1,1,2,D,D,D,http://www.worldfootball.net/report/super-liga-2018-2019-mladost-lucani-fk-macva-sabac/
+serbia-2018-2019,7,2018-09-01,16:00,201809011600,saturday,FK Zemun,FK Rad Beograd,1,0,1,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/super-liga-2018-2019-fk-zemun-fk-rad-beograd/
+serbia-2018-2019,7,2018-09-01,17:00,201809011700,saturday,FK Čukarički-Stankom,Radnički Niš,1,1,2,D,D,D,1,1,2,D,D,D,http://www.worldfootball.net/report/super-liga-2018-2019-fk-cukaricki-stankom-radnicki-nis/
+serbia-2018-2019,7,2018-09-01,19:00,201809011900,saturday,FK Napredak,FK Voždovac,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/super-liga-2018-2019-fk-napredak-fk-vozdovac/
+serbia-2018-2019,7,2018-09-01,19:00,201809011900,saturday,Radnik Surdulica,Proleter Novi Sad,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/super-liga-2018-2019-radnik-surdulica-proleter-novi-sad/
+serbia-2018-2019,7,2018-09-02,16:00,201809021600,sunday,Spartak Subotica,Dinamo Vranje,2,0,2,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/super-liga-2018-2019-spartak-subotica-dinamo-vranje/
+serbia-2018-2019,7,2018-09-02,18:00,201809021800,sunday,Vojvodina,Crvena Zvezda,1,4,5,A,L,W,1,2,3,A,L,W,http://www.worldfootball.net/report/super-liga-2018-2019-vojvodina-crvena-zvezda/
+serbia-2018-2019,7,2018-09-02,20:00,201809022000,sunday,Partizan,Bačka Bačka Palanka,1,0,1,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/super-liga-2018-2019-partizan-backa-backa-palanka/
+serbia-2018-2019,8,2018-09-14,17:30,201809141730,friday,Radnički Niš,Vojvodina,1,0,1,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/super-liga-2018-2019-radnicki-nis-vojvodina/
+serbia-2018-2019,8,2018-09-15,15:00,201809151500,saturday,Proleter Novi Sad,Partizan,0,1,1,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/super-liga-2018-2019-proleter-novi-sad-partizan/
+serbia-2018-2019,8,2018-09-15,18:00,201809151800,saturday,Dinamo Vranje,FK Rad Beograd,0,1,1,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/super-liga-2018-2019-dinamo-vranje-fk-rad-beograd/
+serbia-2018-2019,8,2018-09-15,19:00,201809151900,saturday,FK Mačva Šabac,FK Zemun,0,2,2,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/super-liga-2018-2019-fk-macva-sabac-fk-zemun/
+serbia-2018-2019,8,2018-09-15,19:00,201809151900,saturday,Bačka Bačka Palanka,Mladost Lučani,0,2,2,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/super-liga-2018-2019-backa-backa-palanka-mladost-lucani/
+serbia-2018-2019,8,2018-09-15,19:30,201809151930,saturday,Crvena Zvezda,Radnik Surdulica,6,0,6,H,W,L,2,0,2,H,W,L,http://www.worldfootball.net/report/super-liga-2018-2019-crvena-zvezda-radnik-surdulica/
+serbia-2018-2019,8,2018-09-16,15:00,201809161500,sunday,Spartak Subotica,FK Napredak,0,1,1,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/super-liga-2018-2019-spartak-subotica-fk-napredak/
+serbia-2018-2019,8,2018-09-16,18:00,201809161800,sunday,FK Voždovac,FK Čukarički-Stankom,1,3,4,A,L,W,1,0,1,H,W,L,http://www.worldfootball.net/report/super-liga-2018-2019-fk-vozdovac-fk-cukaricki-stankom/
+serbia-2018-2019,5,2018-09-19,16:00,201809191600,wednesday,Partizan,FK Rad Beograd,1,0,1,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/super-liga-2018-2019-partizan-fk-rad-beograd/
+serbia-2018-2019,9,2018-09-21,17:00,201809211700,friday,FK Čukarički-Stankom,Spartak Subotica,3,1,4,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/super-liga-2018-2019-fk-cukaricki-stankom-spartak-subotica/
+serbia-2018-2019,9,2018-09-22,15:00,201809221500,saturday,FK Napredak,Dinamo Vranje,3,0,3,H,W,L,2,0,2,H,W,L,http://www.worldfootball.net/report/super-liga-2018-2019-fk-napredak-dinamo-vranje/
+serbia-2018-2019,9,2018-09-22,15:00,201809221500,saturday,FK Zemun,Bačka Bačka Palanka,2,2,4,D,D,D,1,0,1,H,W,L,http://www.worldfootball.net/report/super-liga-2018-2019-fk-zemun-backa-backa-palanka/
+serbia-2018-2019,9,2018-09-22,18:00,201809221800,saturday,Vojvodina,FK Voždovac,3,0,3,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/super-liga-2018-2019-vojvodina-fk-vozdovac/
+serbia-2018-2019,9,2018-09-22,18:00,201809221800,saturday,Radnik Surdulica,Radnički Niš,1,2,3,A,L,W,1,0,1,H,W,L,http://www.worldfootball.net/report/super-liga-2018-2019-radnik-surdulica-radnicki-nis/
+serbia-2018-2019,9,2018-09-22,18:00,201809221800,saturday,Mladost Lučani,Proleter Novi Sad,1,0,1,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/super-liga-2018-2019-mladost-lucani-proleter-novi-sad/
+serbia-2018-2019,9,2018-09-22,18:00,201809221800,saturday,FK Rad Beograd,FK Mačva Šabac,1,0,1,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/super-liga-2018-2019-fk-rad-beograd-fk-macva-sabac/
+serbia-2018-2019,9,2018-09-23,18:00,201809231800,sunday,Partizan,Crvena Zvezda,1,1,2,D,D,D,1,0,1,H,W,L,http://www.worldfootball.net/report/super-liga-2018-2019-partizan-crvena-zvezda/
+serbia-2018-2019,5,2018-09-26,17:30,201809261730,wednesday,FK Napredak,Crvena Zvezda,0,3,3,A,L,W,0,2,2,A,L,W,http://www.worldfootball.net/report/super-liga-2018-2019-fk-napredak-crvena-zvezda/
+serbia-2018-2019,10,2018-09-29,19:30,201809291930,saturday,Crvena Zvezda,Mladost Lučani,2,1,3,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/super-liga-2018-2019-crvena-zvezda-mladost-lucani/
+serbia-2018-2019,10,2018-09-30,14:00,201809301400,sunday,Proleter Novi Sad,FK Zemun,4,1,5,H,W,L,3,0,3,H,W,L,http://www.worldfootball.net/report/super-liga-2018-2019-proleter-novi-sad-fk-zemun/
+serbia-2018-2019,10,2018-09-30,14:00,201809301400,sunday,Spartak Subotica,Vojvodina,0,1,1,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/super-liga-2018-2019-spartak-subotica-vojvodina/
+serbia-2018-2019,10,2018-09-30,18:00,201809301800,sunday,Dinamo Vranje,FK Mačva Šabac,1,0,1,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/super-liga-2018-2019-dinamo-vranje-fk-macva-sabac/
+serbia-2018-2019,10,2018-09-30,18:00,201809301800,sunday,Bačka Bačka Palanka,FK Rad Beograd,1,0,1,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/super-liga-2018-2019-backa-backa-palanka-fk-rad-beograd/
+serbia-2018-2019,10,2018-09-30,18:00,201809301800,sunday,Radnički Niš,Partizan,2,2,4,D,D,D,1,0,1,H,W,L,http://www.worldfootball.net/report/super-liga-2018-2019-radnicki-nis-partizan/
+serbia-2018-2019,10,2018-09-30,18:00,201809301800,sunday,FK Voždovac,Radnik Surdulica,1,0,1,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/super-liga-2018-2019-fk-vozdovac-radnik-surdulica/
+serbia-2018-2019,10,2018-09-30,18:00,201809301800,sunday,FK Napredak,FK Čukarički-Stankom,1,1,2,D,D,D,1,0,1,H,W,L,http://www.worldfootball.net/report/super-liga-2018-2019-fk-napredak-fk-cukaricki-stankom/
+serbia-2018-2019,11,2018-10-05,17:00,201810051700,friday,Partizan,FK Voždovac,4,0,4,H,W,L,2,0,2,H,W,L,http://www.worldfootball.net/report/super-liga-2018-2019-partizan-fk-vozdovac/
+serbia-2018-2019,11,2018-10-06,15:00,201810061500,saturday,Radnik Surdulica,Spartak Subotica,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/super-liga-2018-2019-radnik-surdulica-spartak-subotica/
+serbia-2018-2019,11,2018-10-06,15:00,201810061500,saturday,Mladost Lučani,Radnički Niš,0,1,1,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/super-liga-2018-2019-mladost-lucani-radnicki-nis/
+serbia-2018-2019,11,2018-10-06,16:00,201810061600,saturday,FK Mačva Šabac,Bačka Bačka Palanka,2,0,2,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/super-liga-2018-2019-fk-macva-sabac-backa-backa-palanka/
+serbia-2018-2019,11,2018-10-06,17:00,201810061700,saturday,FK Čukarički-Stankom,Dinamo Vranje,6,1,7,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/super-liga-2018-2019-fk-cukaricki-stankom-dinamo-vranje/
+serbia-2018-2019,11,2018-10-06,17:00,201810061700,saturday,Vojvodina,FK Napredak,0,1,1,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/super-liga-2018-2019-vojvodina-fk-napredak/
+serbia-2018-2019,11,2018-10-06,17:00,201810061700,saturday,FK Rad Beograd,Proleter Novi Sad,1,3,4,A,L,W,1,1,2,D,D,D,http://www.worldfootball.net/report/super-liga-2018-2019-fk-rad-beograd-proleter-novi-sad/
+serbia-2018-2019,11,2018-10-07,12:00,201810071200,sunday,FK Zemun,Crvena Zvezda,1,2,3,A,L,W,1,1,2,D,D,D,http://www.worldfootball.net/report/super-liga-2018-2019-fk-zemun-crvena-zvezda/
+serbia-2018-2019,12,2018-10-19,16:30,201810191630,friday,FK Čukarički-Stankom,Vojvodina,1,0,1,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/super-liga-2018-2019-fk-cukaricki-stankom-vojvodina/
+serbia-2018-2019,12,2018-10-20,15:00,201810201500,saturday,FK Voždovac,Mladost Lučani,1,1,2,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/super-liga-2018-2019-fk-vozdovac-mladost-lucani/
+serbia-2018-2019,12,2018-10-20,18:00,201810201800,saturday,Proleter Novi Sad,FK Mačva Šabac,1,0,1,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/super-liga-2018-2019-proleter-novi-sad-fk-macva-sabac/
+serbia-2018-2019,12,2018-10-20,18:00,201810201800,saturday,Crvena Zvezda,FK Rad Beograd,3,1,4,H,W,L,2,0,2,H,W,L,http://www.worldfootball.net/report/super-liga-2018-2019-crvena-zvezda-fk-rad-beograd/
+serbia-2018-2019,12,2018-10-20,18:00,201810201800,saturday,Radnički Niš,FK Zemun,2,0,2,H,W,L,2,0,2,H,W,L,http://www.worldfootball.net/report/super-liga-2018-2019-radnicki-nis-fk-zemun/
+serbia-2018-2019,12,2018-10-20,18:00,201810201800,saturday,FK Napredak,Radnik Surdulica,1,1,2,D,D,D,1,0,1,H,W,L,http://www.worldfootball.net/report/super-liga-2018-2019-fk-napredak-radnik-surdulica/
+serbia-2018-2019,12,2018-10-21,12:00,201810211200,sunday,Spartak Subotica,Partizan,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/super-liga-2018-2019-spartak-subotica-partizan/
+serbia-2018-2019,12,2018-10-21,15:00,201810211500,sunday,Dinamo Vranje,Bačka Bačka Palanka,1,1,2,D,D,D,0,1,1,A,L,W,http://www.worldfootball.net/report/super-liga-2018-2019-dinamo-vranje-backa-backa-palanka/
+serbia-2018-2019,13,2018-10-27,12:00,201810271200,saturday,FK Zemun,FK Voždovac,2,1,3,H,W,L,2,1,3,H,W,L,http://www.worldfootball.net/report/super-liga-2018-2019-fk-zemun-fk-vozdovac/
+serbia-2018-2019,13,2018-10-27,15:00,201810271500,saturday,Vojvodina,Dinamo Vranje,2,0,2,H,W,L,2,0,2,H,W,L,http://www.worldfootball.net/report/super-liga-2018-2019-vojvodina-dinamo-vranje/
+serbia-2018-2019,13,2018-10-27,15:00,201810271500,saturday,Radnik Surdulica,FK Čukarički-Stankom,1,0,1,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/super-liga-2018-2019-radnik-surdulica-fk-cukaricki-stankom/
+serbia-2018-2019,13,2018-10-27,15:00,201810271500,saturday,Partizan,FK Napredak,1,1,2,D,D,D,1,0,1,H,W,L,http://www.worldfootball.net/report/super-liga-2018-2019-partizan-fk-napredak/
+serbia-2018-2019,13,2018-10-27,15:00,201810271500,saturday,FK Rad Beograd,Radnički Niš,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/super-liga-2018-2019-fk-rad-beograd-radnicki-nis/
+serbia-2018-2019,13,2018-10-27,17:00,201810271700,saturday,Bačka Bačka Palanka,Proleter Novi Sad,0,1,1,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/super-liga-2018-2019-backa-backa-palanka-proleter-novi-sad/
+serbia-2018-2019,13,2018-10-28,15:30,201810281530,sunday,FK Mačva Šabac,Crvena Zvezda,0,2,2,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/super-liga-2018-2019-fk-macva-sabac-crvena-zvezda/
+serbia-2018-2019,13,2018-10-28,17:00,201810281700,sunday,Mladost Lučani,Spartak Subotica,2,1,3,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/super-liga-2018-2019-mladost-lucani-spartak-subotica/
+serbia-2018-2019,14,2018-10-31,12:00,201810311200,wednesday,Dinamo Vranje,Proleter Novi Sad,2,4,6,A,L,W,1,1,2,D,D,D,http://www.worldfootball.net/report/super-liga-2018-2019-dinamo-vranje-proleter-novi-sad/
+serbia-2018-2019,14,2018-10-31,12:00,201810311200,wednesday,Spartak Subotica,FK Zemun,2,2,4,D,D,D,2,0,2,H,W,L,http://www.worldfootball.net/report/super-liga-2018-2019-spartak-subotica-fk-zemun/
+serbia-2018-2019,14,2018-10-31,15:00,201810311500,wednesday,Radnički Niš,FK Mačva Šabac,3,0,3,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/super-liga-2018-2019-radnicki-nis-fk-macva-sabac/
+serbia-2018-2019,14,2018-10-31,15:00,201810311500,wednesday,FK Voždovac,FK Rad Beograd,2,0,2,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/super-liga-2018-2019-fk-vozdovac-fk-rad-beograd/
+serbia-2018-2019,14,2018-10-31,15:00,201810311500,wednesday,FK Napredak,Mladost Lučani,4,1,5,H,W,L,2,1,3,H,W,L,http://www.worldfootball.net/report/super-liga-2018-2019-fk-napredak-mladost-lucani/
+serbia-2018-2019,14,2018-10-31,15:00,201810311500,wednesday,Vojvodina,Radnik Surdulica,1,0,1,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/super-liga-2018-2019-vojvodina-radnik-surdulica/
+serbia-2018-2019,14,2018-10-31,15:30,201810311530,wednesday,FK Čukarički-Stankom,Partizan,1,1,2,D,D,D,0,1,1,A,L,W,http://www.worldfootball.net/report/super-liga-2018-2019-fk-cukaricki-stankom-partizan/
+serbia-2018-2019,14,2018-10-31,17:30,201810311730,wednesday,Crvena Zvezda,Bačka Bačka Palanka,3,1,4,H,W,L,2,0,2,H,W,L,http://www.worldfootball.net/report/super-liga-2018-2019-crvena-zvezda-backa-backa-palanka/
+serbia-2018-2019,15,2018-11-03,14:00,201811031400,saturday,Proleter Novi Sad,Crvena Zvezda,0,2,2,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/super-liga-2018-2019-proleter-novi-sad-crvena-zvezda/
+serbia-2018-2019,15,2018-11-03,15:00,201811031500,saturday,Radnik Surdulica,Dinamo Vranje,2,0,2,H,W,L,2,0,2,H,W,L,http://www.worldfootball.net/report/super-liga-2018-2019-radnik-surdulica-dinamo-vranje/
+serbia-2018-2019,15,2018-11-03,15:00,201811031500,saturday,Mladost Lučani,FK Čukarički-Stankom,3,4,7,A,L,W,1,2,3,A,L,W,http://www.worldfootball.net/report/super-liga-2018-2019-mladost-lucani-fk-cukaricki-stankom/
+serbia-2018-2019,15,2018-11-03,15:00,201811031500,saturday,Bačka Bačka Palanka,Radnički Niš,0,2,2,A,L,W,0,2,2,A,L,W,http://www.worldfootball.net/report/super-liga-2018-2019-backa-backa-palanka-radnicki-nis/
+serbia-2018-2019,15,2018-11-04,12:00,201811041200,sunday,FK Zemun,FK Napredak,0,2,2,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/super-liga-2018-2019-fk-zemun-fk-napredak/
+serbia-2018-2019,15,2018-11-04,15:00,201811041500,sunday,FK Rad Beograd,Spartak Subotica,1,1,2,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/super-liga-2018-2019-fk-rad-beograd-spartak-subotica/
+serbia-2018-2019,15,2018-11-04,15:00,201811041500,sunday,FK Mačva Šabac,FK Voždovac,2,0,2,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/super-liga-2018-2019-fk-macva-sabac-fk-vozdovac/
+serbia-2018-2019,15,2018-11-04,18:00,201811041800,sunday,Partizan,Vojvodina,2,0,2,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/super-liga-2018-2019-partizan-vojvodina/
+serbia-2018-2019,16,2018-11-09,17:00,201811091700,friday,Proleter Novi Sad,Radnički Niš,1,2,3,A,L,W,1,0,1,H,W,L,http://www.worldfootball.net/report/super-liga-2018-2019-proleter-novi-sad-radnicki-nis/
+serbia-2018-2019,16,2018-11-10,12:00,201811101200,saturday,Bačka Bačka Palanka,FK Voždovac,1,0,1,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/super-liga-2018-2019-backa-backa-palanka-fk-vozdovac/
+serbia-2018-2019,16,2018-11-10,12:00,201811101200,saturday,FK Mačva Šabac,Spartak Subotica,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/super-liga-2018-2019-fk-macva-sabac-spartak-subotica/
+serbia-2018-2019,16,2018-11-10,12:00,201811101200,saturday,FK Zemun,FK Čukarički-Stankom,0,3,3,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/super-liga-2018-2019-fk-zemun-fk-cukaricki-stankom/
+serbia-2018-2019,16,2018-11-10,12:00,201811101200,saturday,Partizan,Radnik Surdulica,2,0,2,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/super-liga-2018-2019-partizan-radnik-surdulica/
+serbia-2018-2019,16,2018-11-10,14:00,201811101400,saturday,Dinamo Vranje,Crvena Zvezda,0,3,3,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/super-liga-2018-2019-dinamo-vranje-crvena-zvezda/
+serbia-2018-2019,16,2018-11-10,15:00,201811101500,saturday,Mladost Lučani,Vojvodina,1,0,1,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/super-liga-2018-2019-mladost-lucani-vojvodina/
+serbia-2018-2019,16,2018-11-10,17:00,201811101700,saturday,FK Rad Beograd,FK Napredak,0,2,2,A,L,W,0,2,2,A,L,W,http://www.worldfootball.net/report/super-liga-2018-2019-fk-rad-beograd-fk-napredak/
+serbia-2018-2019,17,2018-11-23,17:00,201811231700,friday,FK Čukarički-Stankom,FK Rad Beograd,2,1,3,H,W,L,0,1,1,A,L,W,http://www.worldfootball.net/report/super-liga-2018-2019-fk-cukaricki-stankom-fk-rad-beograd/
+serbia-2018-2019,17,2018-11-24,12:00,201811241200,saturday,FK Napredak,FK Mačva Šabac,2,0,2,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/super-liga-2018-2019-fk-napredak-fk-macva-sabac/
+serbia-2018-2019,17,2018-11-24,12:00,201811241200,saturday,Spartak Subotica,Bačka Bačka Palanka,3,0,3,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/super-liga-2018-2019-spartak-subotica-backa-backa-palanka/
+serbia-2018-2019,17,2018-11-24,15:00,201811241500,saturday,Radnik Surdulica,Mladost Lučani,1,0,1,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/super-liga-2018-2019-radnik-surdulica-mladost-lucani/
+serbia-2018-2019,17,2018-11-24,15:00,201811241500,saturday,Vojvodina,FK Zemun,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/super-liga-2018-2019-vojvodina-fk-zemun/
+serbia-2018-2019,17,2018-11-24,17:00,201811241700,saturday,FK Voždovac,Proleter Novi Sad,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/super-liga-2018-2019-fk-vozdovac-proleter-novi-sad/
+serbia-2018-2019,17,2018-11-24,18:00,201811241800,saturday,Radnički Niš,Crvena Zvezda,2,2,4,D,D,D,2,1,3,H,W,L,http://www.worldfootball.net/report/super-liga-2018-2019-radnicki-nis-crvena-zvezda/
+serbia-2018-2019,17,2018-11-25,16:00,201811251600,sunday,Partizan,Dinamo Vranje,6,0,6,H,W,L,2,0,2,H,W,L,http://www.worldfootball.net/report/super-liga-2018-2019-partizan-dinamo-vranje/
+serbia-2018-2019,18,2018-11-30,17:00,201811301700,friday,Bačka Bačka Palanka,FK Napredak,3,3,6,D,D,D,1,1,2,D,D,D,http://www.worldfootball.net/report/super-liga-2018-2019-backa-backa-palanka-fk-napredak/
+serbia-2018-2019,18,2018-12-01,12:00,201812011200,saturday,FK Rad Beograd,Vojvodina,0,1,1,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/super-liga-2018-2019-fk-rad-beograd-vojvodina/
+serbia-2018-2019,18,2018-12-01,12:00,201812011200,saturday,FK Zemun,Radnik Surdulica,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/super-liga-2018-2019-fk-zemun-radnik-surdulica/
+serbia-2018-2019,18,2018-12-01,14:00,201812011400,saturday,FK Mačva Šabac,FK Čukarički-Stankom,1,0,1,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/super-liga-2018-2019-fk-macva-sabac-fk-cukaricki-stankom/
+serbia-2018-2019,18,2018-12-01,14:30,201812011430,saturday,Mladost Lučani,Partizan,1,1,2,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/super-liga-2018-2019-mladost-lucani-partizan/
+serbia-2018-2019,18,2018-12-01,17:00,201812011700,saturday,Dinamo Vranje,Radnički Niš,0,4,4,A,L,W,0,2,2,A,L,W,http://www.worldfootball.net/report/super-liga-2018-2019-dinamo-vranje-radnicki-nis/
+serbia-2018-2019,18,2018-12-01,17:00,201812011700,saturday,Proleter Novi Sad,Spartak Subotica,2,2,4,D,D,D,0,1,1,A,L,W,http://www.worldfootball.net/report/super-liga-2018-2019-proleter-novi-sad-spartak-subotica/
+serbia-2018-2019,18,2018-12-02,17:00,201812021700,sunday,Crvena Zvezda,FK Voždovac,2,0,2,H,W,L,2,0,2,H,W,L,http://www.worldfootball.net/report/super-liga-2018-2019-crvena-zvezda-fk-vozdovac/
+serbia-2018-2019,19,2018-12-05,15:00,201812051500,wednesday,Mladost Lučani,Dinamo Vranje,2,0,2,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/super-liga-2018-2019-mladost-lucani-dinamo-vranje/
+serbia-2018-2019,19,2018-12-05,15:00,201812051500,wednesday,Radnik Surdulica,FK Rad Beograd,1,0,1,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/super-liga-2018-2019-radnik-surdulica-fk-rad-beograd/
+serbia-2018-2019,19,2018-12-05,15:00,201812051500,wednesday,Vojvodina,FK Mačva Šabac,1,1,2,D,D,D,1,0,1,H,W,L,http://www.worldfootball.net/report/super-liga-2018-2019-vojvodina-fk-macva-sabac/
+serbia-2018-2019,19,2018-12-05,15:00,201812051500,wednesday,FK Čukarički-Stankom,Bačka Bačka Palanka,3,0,3,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/super-liga-2018-2019-fk-cukaricki-stankom-backa-backa-palanka/
+serbia-2018-2019,19,2018-12-05,15:00,201812051500,wednesday,FK Napredak,Proleter Novi Sad,1,1,2,D,D,D,1,0,1,H,W,L,http://www.worldfootball.net/report/super-liga-2018-2019-fk-napredak-proleter-novi-sad/
+serbia-2018-2019,19,2018-12-05,15:00,201812051500,wednesday,Spartak Subotica,Crvena Zvezda,1,3,4,A,L,W,0,2,2,A,L,W,http://www.worldfootball.net/report/super-liga-2018-2019-spartak-subotica-crvena-zvezda/
+serbia-2018-2019,19,2018-12-05,15:00,201812051500,wednesday,FK Voždovac,Radnički Niš,0,1,1,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/super-liga-2018-2019-fk-vozdovac-radnicki-nis/
+serbia-2018-2019,19,2018-12-05,17:30,201812051730,wednesday,Partizan,FK Zemun,1,0,1,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/super-liga-2018-2019-partizan-fk-zemun/
+serbia-2018-2019,20,2018-12-08,18:00,201812081800,saturday,Crvena Zvezda,FK Napredak,3,0,3,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/super-liga-2018-2019-crvena-zvezda-fk-napredak/
+serbia-2018-2019,20,2018-12-09,12:00,201812091200,sunday,Dinamo Vranje,FK Voždovac,1,2,3,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/super-liga-2018-2019-dinamo-vranje-fk-vozdovac/
+serbia-2018-2019,20,2018-12-09,12:00,201812091200,sunday,Radnički Niš,Spartak Subotica,3,0,3,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/super-liga-2018-2019-radnicki-nis-spartak-subotica/
+serbia-2018-2019,20,2018-12-09,12:00,201812091200,sunday,FK Mačva Šabac,Radnik Surdulica,1,2,3,A,L,W,1,2,3,A,L,W,http://www.worldfootball.net/report/super-liga-2018-2019-fk-macva-sabac-radnik-surdulica/
+serbia-2018-2019,20,2018-12-09,12:00,201812091200,sunday,FK Zemun,Mladost Lučani,0,3,3,A,L,W,0,2,2,A,L,W,http://www.worldfootball.net/report/super-liga-2018-2019-fk-zemun-mladost-lucani/
+serbia-2018-2019,20,2018-12-09,16:00,201812091600,sunday,Proleter Novi Sad,FK Čukarički-Stankom,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/super-liga-2018-2019-proleter-novi-sad-fk-cukaricki-stankom/
+serbia-2018-2019,20,2018-12-09,16:00,201812091600,sunday,Bačka Bačka Palanka,Vojvodina,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/super-liga-2018-2019-backa-backa-palanka-vojvodina/
+serbia-2018-2019,20,2018-12-09,16:00,201812091600,sunday,FK Rad Beograd,Partizan,0,3,3,A,L,W,0,2,2,A,L,W,http://www.worldfootball.net/report/super-liga-2018-2019-fk-rad-beograd-partizan/
+serbia-2018-2019,21,2018-12-14,17:00,201812141700,friday,Partizan,FK Mačva Šabac,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/super-liga-2018-2019-partizan-fk-macva-sabac/
+serbia-2018-2019,21,2018-12-15,12:00,201812151200,saturday,Radnik Surdulica,Bačka Bačka Palanka,3,2,5,H,W,L,2,1,3,H,W,L,http://www.worldfootball.net/report/super-liga-2018-2019-radnik-surdulica-backa-backa-palanka/
+serbia-2018-2019,21,2018-12-16,12:00,201812161200,sunday,Spartak Subotica,FK Voždovac,3,2,5,H,W,L,0,2,2,A,L,W,http://www.worldfootball.net/report/super-liga-2018-2019-spartak-subotica-fk-vozdovac/
+serbia-2018-2019,21,2018-12-16,15:00,201812161500,sunday,Vojvodina,Proleter Novi Sad,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/super-liga-2018-2019-vojvodina-proleter-novi-sad/
+serbia-2018-2019,21,2018-12-16,18:30,201812161830,sunday,FK Čukarički-Stankom,Crvena Zvezda,1,2,3,A,L,W,1,2,3,A,L,W,http://www.worldfootball.net/report/super-liga-2018-2019-fk-cukaricki-stankom-crvena-zvezda/
+serbia-2018-2019,21,2018-12-17,12:00,201812171200,monday,FK Zemun,Dinamo Vranje,1,2,3,A,L,W,1,1,2,D,D,D,http://www.worldfootball.net/report/super-liga-2018-2019-fk-zemun-dinamo-vranje/
+serbia-2018-2019,21,2018-12-17,14:00,201812171400,monday,Mladost Lučani,FK Rad Beograd,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/super-liga-2018-2019-mladost-lucani-fk-rad-beograd/
+serbia-2018-2019,21,2018-12-17,14:00,201812171400,monday,FK Napredak,Radnički Niš,1,2,3,A,L,W,1,2,3,A,L,W,http://www.worldfootball.net/report/super-liga-2018-2019-fk-napredak-radnicki-nis/
+serbia-2018-2019,22,2019-02-15,16:00,201902151600,friday,FK Voždovac,FK Napredak,4,0,4,H,W,L,3,0,3,H,W,L,http://www.worldfootball.net/report/super-liga-2018-2019-fk-vozdovac-fk-napredak/
+serbia-2018-2019,22,2019-02-16,12:00,201902161200,saturday,Bačka Bačka Palanka,Partizan,0,3,3,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/super-liga-2018-2019-backa-backa-palanka-partizan/
+serbia-2018-2019,22,2019-02-16,13:00,201902161300,saturday,Proleter Novi Sad,Radnik Surdulica,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/super-liga-2018-2019-proleter-novi-sad-radnik-surdulica/
+serbia-2018-2019,22,2019-02-16,13:00,201902161300,saturday,FK Mačva Šabac,Mladost Lučani,0,1,1,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/super-liga-2018-2019-fk-macva-sabac-mladost-lucani/
+serbia-2018-2019,22,2019-02-16,14:00,201902161400,saturday,Radnički Niš,FK Čukarički-Stankom,2,0,2,H,W,L,2,0,2,H,W,L,http://www.worldfootball.net/report/super-liga-2018-2019-radnicki-nis-fk-cukaricki-stankom/
+serbia-2018-2019,22,2019-02-16,15:00,201902161500,saturday,Crvena Zvezda,Vojvodina,4,0,4,H,W,L,2,0,2,H,W,L,http://www.worldfootball.net/report/super-liga-2018-2019-crvena-zvezda-vojvodina/
+serbia-2018-2019,22,2019-02-17,13:00,201902171300,sunday,Dinamo Vranje,Spartak Subotica,1,0,1,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/super-liga-2018-2019-dinamo-vranje-spartak-subotica/
+serbia-2018-2019,22,2019-02-17,13:00,201902171300,sunday,FK Rad Beograd,FK Zemun,2,2,4,D,D,D,1,1,2,D,D,D,http://www.worldfootball.net/report/super-liga-2018-2019-fk-rad-beograd-fk-zemun/
+serbia-2018-2019,23,2019-02-22,17:00,201902221700,friday,Vojvodina,Radnički Niš,0,1,1,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/super-liga-2018-2019-vojvodina-radnicki-nis/

@@ -10,7 +10,7 @@ macedonia-2003-2004,2,2003-08-17,,200308170000,sunday,Napredok Kičevo,GFK Tikve
 macedonia-2003-2004,2,2003-08-17,,200308170000,sunday,FK Rabotnički,FK Bashkimi,2,1,3,H,W,L,,,,,,,
 macedonia-2003-2004,2,2003-08-17,,200308170000,sunday,Sileks Kratovo,Vardar Skopje,1,1,2,D,D,D,,,,,,,
 macedonia-2003-2004,2,2003-08-17,,200308170000,sunday,Cementarnica Skopje,FK Madzari 92,2,0,2,H,W,L,,,,,,,
-macedonia-2003-2004,2,2003-08-17,,200308170000,sunday,Bregalnica Delcevo,FK Belasica,0,0,0,D,D,D,0,0,0,D,D,D,
+macedonia-2003-2004,2,2003-08-17,,200308170000,sunday,Bregalnica Delcevo,FK Belasica,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
 macedonia-2003-2004,3,2003-08-23,,200308230000,saturday,Vardar Skopje,FK Sloga Jugomagnat,1,0,1,H,W,L,,,,,,,
 macedonia-2003-2004,3,2003-08-24,,200308240000,sunday,FK Pobeda,FK Rabotnički,3,3,6,D,D,D,,,,,,,
 macedonia-2003-2004,3,2003-08-24,,200308240000,sunday,FK Belasica,Sileks Kratovo,4,0,4,H,W,L,,,,,,,
@@ -26,7 +26,7 @@ macedonia-2003-2004,4,2003-08-31,,200308310000,sunday,Bregalnica Delcevo,GFK Tik
 macedonia-2003-2004,5,2003-09-13,,200309130000,saturday,FK Pobeda,Cementarnica Skopje,1,0,1,H,W,L,,,,,,,
 macedonia-2003-2004,5,2003-09-14,,200309140000,sunday,FK Rabotnički,Napredok Kičevo,3,4,7,A,L,W,,,,,,,
 macedonia-2003-2004,5,2003-09-14,,200309140000,sunday,FK Belasica,FK Sloga Jugomagnat,1,1,2,D,D,D,,,,,,,
-macedonia-2003-2004,5,2003-09-14,,200309140000,sunday,GFK Tikveš,Sileks Kratovo,0,0,0,D,D,D,0,0,0,D,D,D,
+macedonia-2003-2004,5,2003-09-14,,200309140000,sunday,GFK Tikveš,Sileks Kratovo,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
 macedonia-2003-2004,5,2003-09-14,,200309140000,sunday,FK Bashkimi,Bregalnica Delcevo,3,3,6,D,D,D,,,,,,,
 macedonia-2003-2004,5,2003-09-14,,200309140000,sunday,FK Madzari 92,Vardar Skopje,0,1,1,A,L,W,,,,,,,
 macedonia-2003-2004,6,2003-09-17,,200309170000,wednesday,Vardar Skopje,GFK Tikveš,3,1,4,H,W,L,,,,,,,
@@ -37,7 +37,7 @@ macedonia-2003-2004,6,2003-09-17,,200309170000,wednesday,Cementarnica Skopje,FK 
 macedonia-2003-2004,6,2003-09-17,,200309170000,wednesday,Bregalnica Delcevo,FK Pobeda,0,3,3,A,L,W,,,,,,,
 macedonia-2003-2004,7,2003-09-20,,200309200000,saturday,Napredok Kičevo,Cementarnica Skopje,2,0,2,H,W,L,,,,,,,
 macedonia-2003-2004,7,2003-09-21,,200309210000,sunday,FK Pobeda,Sileks Kratovo,1,0,1,H,W,L,,,,,,,
-macedonia-2003-2004,7,2003-09-21,,200309210000,sunday,FK Rabotnički,Bregalnica Delcevo,0,0,0,D,D,D,0,0,0,D,D,D,
+macedonia-2003-2004,7,2003-09-21,,200309210000,sunday,FK Rabotnički,Bregalnica Delcevo,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
 macedonia-2003-2004,7,2003-09-21,,200309210000,sunday,GFK Tikveš,FK Belasica,0,1,1,A,L,W,,,,,,,
 macedonia-2003-2004,7,2003-09-21,,200309210000,sunday,FK Madzari 92,FK Sloga Jugomagnat,1,1,2,D,D,D,,,,,,,
 macedonia-2003-2004,7,2003-09-21,,200309210000,sunday,FK Bashkimi,Vardar Skopje,0,3,3,A,L,W,,,,,,,
@@ -55,13 +55,13 @@ macedonia-2003-2004,9,2003-10-05,,200310050000,sunday,GFK Tikveš,FK Sloga Jugom
 macedonia-2003-2004,9,2003-10-05,,200310050000,sunday,FK Bashkimi,FK Madzari 92,1,0,1,H,W,L,,,,,,,
 macedonia-2003-2004,10,2003-10-19,,200310190000,sunday,Vardar Skopje,Napredok Kičevo,4,1,5,H,W,L,,,,,,,
 macedonia-2003-2004,10,2003-10-19,,200310190000,sunday,FK Sloga Jugomagnat,Bregalnica Delcevo,12,1,13,H,W,L,,,,,,,
-macedonia-2003-2004,10,2003-10-19,,200310190000,sunday,Sileks Kratovo,Cementarnica Skopje,0,0,0,D,D,D,0,0,0,D,D,D,
+macedonia-2003-2004,10,2003-10-19,,200310190000,sunday,Sileks Kratovo,Cementarnica Skopje,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
 macedonia-2003-2004,10,2003-10-19,,200310190000,sunday,FK Belasica,FK Rabotnički,3,5,8,A,L,W,,,,,,,
 macedonia-2003-2004,10,2003-10-19,,200310190000,sunday,FK Madzari 92,FK Pobeda,1,0,1,H,W,L,,,,,,,
 macedonia-2003-2004,10,2003-10-25,,200310250000,saturday,GFK Tikveš,FK Bashkimi,3,0,3,H,W,L,,,,,,,
 macedonia-2003-2004,11,2003-10-29,,200310290000,wednesday,FK Pobeda,GFK Tikveš,2,1,3,H,W,L,,,,,,,
 macedonia-2003-2004,11,2003-10-29,,200310290000,wednesday,Napredok Kičevo,FK Belasica,2,2,4,D,D,D,,,,,,,
-macedonia-2003-2004,11,2003-10-29,,200310290000,wednesday,FK Rabotnički,FK Madzari 92,0,0,0,D,D,D,0,0,0,D,D,D,
+macedonia-2003-2004,11,2003-10-29,,200310290000,wednesday,FK Rabotnički,FK Madzari 92,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
 macedonia-2003-2004,11,2003-10-29,,200310290000,wednesday,Cementarnica Skopje,Vardar Skopje,2,1,3,H,W,L,,,,,,,
 macedonia-2003-2004,11,2003-10-29,,200310290000,wednesday,Bregalnica Delcevo,Sileks Kratovo,0,5,5,A,L,W,,,,,,,
 macedonia-2003-2004,11,2003-10-29,,200310290000,wednesday,FK Bashkimi,FK Sloga Jugomagnat,2,1,3,H,W,L,,,,,,,
@@ -71,12 +71,12 @@ macedonia-2003-2004,12,2003-11-02,,200311020000,sunday,FK Sloga Jugomagnat,Silek
 macedonia-2003-2004,12,2003-11-02,,200311020000,sunday,FK Rabotnički,GFK Tikveš,1,0,1,H,W,L,,,,,,,
 macedonia-2003-2004,12,2003-11-02,,200311020000,sunday,FK Pobeda,FK Bashkimi,2,1,3,H,W,L,,,,,,,
 macedonia-2003-2004,12,2003-11-02,,200311020000,sunday,Napredok Kičevo,FK Madzari 92,1,1,2,D,D,D,,,,,,,
-macedonia-2003-2004,13,2003-11-05,,200311050000,wednesday,FK Pobeda,FK Sloga Jugomagnat,0,0,0,D,D,D,0,0,0,D,D,D,
+macedonia-2003-2004,13,2003-11-05,,200311050000,wednesday,FK Pobeda,FK Sloga Jugomagnat,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
 macedonia-2003-2004,13,2003-11-05,,200311050000,wednesday,GFK Tikveš,Napredok Kičevo,0,1,1,A,L,W,,,,,,,
 macedonia-2003-2004,13,2003-11-05,,200311050000,wednesday,FK Bashkimi,FK Rabotnički,1,0,1,H,W,L,,,,,,,
 macedonia-2003-2004,13,2003-11-05,,200311050000,wednesday,Vardar Skopje,Sileks Kratovo,0,3,3,A,L,W,,,,,,,
 macedonia-2003-2004,13,2003-11-05,,200311050000,wednesday,FK Madzari 92,Cementarnica Skopje,1,2,3,A,L,W,,,,,,,
-macedonia-2003-2004,13,2003-11-05,,200311050000,wednesday,FK Belasica,Bregalnica Delcevo,0,0,0,D,D,D,0,0,0,D,D,D,
+macedonia-2003-2004,13,2003-11-05,,200311050000,wednesday,FK Belasica,Bregalnica Delcevo,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
 macedonia-2003-2004,14,2003-11-09,,200311090000,sunday,FK Sloga Jugomagnat,Vardar Skopje,1,1,2,D,D,D,,,,,,,
 macedonia-2003-2004,14,2003-11-09,,200311090000,sunday,FK Rabotnički,FK Pobeda,2,1,3,H,W,L,,,,,,,
 macedonia-2003-2004,14,2003-11-09,,200311090000,sunday,Sileks Kratovo,FK Belasica,2,0,2,H,W,L,,,,,,,
@@ -90,7 +90,7 @@ macedonia-2003-2004,15,2003-11-16,,200311160000,sunday,FK Madzari 92,Sileks Krat
 macedonia-2003-2004,15,2003-11-16,,200311160000,sunday,FK Bashkimi,Cementarnica Skopje,1,0,1,H,W,L,,,,,,,
 macedonia-2003-2004,15,2003-11-16,,200311160000,sunday,GFK Tikveš,Bregalnica Delcevo,5,0,5,H,W,L,,,,,,,
 macedonia-2003-2004,16,2003-11-22,,200311220000,saturday,Cementarnica Skopje,FK Pobeda,2,0,2,H,W,L,,,,,,,
-macedonia-2003-2004,16,2003-11-22,,200311220000,saturday,Vardar Skopje,FK Madzari 92,0,0,0,D,D,D,0,0,0,D,D,D,
+macedonia-2003-2004,16,2003-11-22,,200311220000,saturday,Vardar Skopje,FK Madzari 92,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
 macedonia-2003-2004,16,2003-11-23,,200311230000,sunday,Napredok Kičevo,FK Rabotnički,0,1,1,A,L,W,,,,,,,
 macedonia-2003-2004,16,2003-11-23,,200311230000,sunday,FK Sloga Jugomagnat,FK Belasica,3,0,3,H,W,L,,,,,,,
 macedonia-2003-2004,16,2003-11-23,,200311230000,sunday,Sileks Kratovo,GFK Tikveš,4,0,4,H,W,L,,,,,,,
@@ -103,8 +103,8 @@ macedonia-2003-2004,17,2003-11-30,,200311300000,sunday,FK Madzari 92,FK Belasica
 macedonia-2003-2004,17,2003-11-30,,200311300000,sunday,FK Rabotnički,Cementarnica Skopje,1,1,2,D,D,D,,,,,,,
 macedonia-2003-2004,18,2004-03-06,,200403060000,saturday,Bregalnica Delcevo,FK Rabotnički,0,3,3,A,L,W,,,,,,,
 macedonia-2003-2004,18,2004-03-07,,200403070000,sunday,Sileks Kratovo,FK Pobeda,1,2,3,A,L,W,,,,,,,
-macedonia-2003-2004,18,2004-03-07,,200403070000,sunday,Cementarnica Skopje,Napredok Kičevo,0,0,0,D,D,D,0,0,0,D,D,D,
-macedonia-2003-2004,18,2004-03-07,,200403070000,sunday,FK Belasica,GFK Tikveš,0,0,0,D,D,D,0,0,0,D,D,D,
+macedonia-2003-2004,18,2004-03-07,,200403070000,sunday,Cementarnica Skopje,Napredok Kičevo,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
+macedonia-2003-2004,18,2004-03-07,,200403070000,sunday,FK Belasica,GFK Tikveš,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
 macedonia-2003-2004,18,2004-03-07,,200403070000,sunday,FK Sloga Jugomagnat,FK Madzari 92,1,2,3,A,L,W,,,,,,,
 macedonia-2003-2004,18,2004-03-07,,200403070000,sunday,Vardar Skopje,FK Bashkimi,2,1,3,H,W,L,,,,,,,
 macedonia-2003-2004,19,2004-03-14,,200403140000,sunday,FK Pobeda,Vardar Skopje,5,2,7,H,W,L,,,,,,,
@@ -112,7 +112,7 @@ macedonia-2003-2004,19,2004-03-14,,200403140000,sunday,Cementarnica Skopje,FK Sl
 macedonia-2003-2004,19,2004-03-14,,200403140000,sunday,FK Rabotnički,Sileks Kratovo,2,0,2,H,W,L,,,,,,,
 macedonia-2003-2004,19,2004-03-14,,200403140000,sunday,FK Bashkimi,FK Belasica,1,0,1,H,W,L,,,,,,,
 macedonia-2003-2004,19,2004-03-14,,200403140000,sunday,Napredok Kičevo,Bregalnica Delcevo,4,1,5,H,W,L,,,,,,,
-macedonia-2003-2004,19,2004-03-14,,200403140000,sunday,GFK Tikveš,FK Madzari 92,0,0,0,D,D,D,0,0,0,D,D,D,
+macedonia-2003-2004,19,2004-03-14,,200403140000,sunday,GFK Tikveš,FK Madzari 92,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
 macedonia-2003-2004,20,2004-03-17,,200403170000,wednesday,FK Belasica,FK Pobeda,3,1,4,H,W,L,,,,,,,
 macedonia-2003-2004,20,2004-03-17,,200403170000,wednesday,Sileks Kratovo,Napredok Kičevo,2,1,3,H,W,L,,,,,,,
 macedonia-2003-2004,20,2004-03-17,,200403170000,wednesday,Vardar Skopje,FK Rabotnički,3,0,3,H,W,L,,,,,,,
@@ -127,8 +127,8 @@ macedonia-2003-2004,21,2004-03-21,,200403210000,sunday,FK Bashkimi,GFK Tikveš,4
 macedonia-2003-2004,21,2004-03-21,,200403210000,sunday,FK Pobeda,FK Madzari 92,1,1,2,D,D,D,,,,,,,
 macedonia-2003-2004,22,2004-03-28,,200403280000,sunday,GFK Tikveš,FK Pobeda,1,2,3,A,L,W,,,,,,,
 macedonia-2003-2004,22,2004-03-28,,200403280000,sunday,FK Belasica,Napredok Kičevo,1,0,1,H,W,L,,,,,,,
-macedonia-2003-2004,22,2004-03-28,,200403280000,sunday,FK Madzari 92,FK Rabotnički,0,0,0,D,D,D,0,0,0,D,D,D,
-macedonia-2003-2004,22,2004-03-28,,200403280000,sunday,Vardar Skopje,Cementarnica Skopje,0,0,0,D,D,D,0,0,0,D,D,D,
+macedonia-2003-2004,22,2004-03-28,,200403280000,sunday,FK Madzari 92,FK Rabotnički,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
+macedonia-2003-2004,22,2004-03-28,,200403280000,sunday,Vardar Skopje,Cementarnica Skopje,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
 macedonia-2003-2004,22,2004-03-28,,200403280000,sunday,Sileks Kratovo,Bregalnica Delcevo,2,1,3,H,W,L,,,,,,,
 macedonia-2003-2004,22,2004-03-28,,200403280000,sunday,FK Sloga Jugomagnat,FK Bashkimi,2,1,3,H,W,L,,,,,,,
 macedonia-2003-2004,23,2004-04-03,,200404030000,saturday,FK Rabotnički,FK Bashkimi,2,0,2,H,W,L,,,,,,,
@@ -140,7 +140,7 @@ macedonia-2003-2004,23,2004-04-04,,200404040000,sunday,FK Pobeda,FK Madzari 92,2
 macedonia-2003-2004,24,2004-04-07,,200404070000,wednesday,Bregalnica Delcevo,Vardar Skopje,1,7,8,A,L,W,,,,,,,
 macedonia-2003-2004,24,2004-04-07,,200404070000,wednesday,Napredok Kičevo,FK Pobeda,3,4,7,A,L,W,,,,,,,
 macedonia-2003-2004,24,2004-04-07,,200404070000,wednesday,GFK Tikveš,FK Rabotnički,0,3,3,A,L,W,,,,,,,
-macedonia-2003-2004,24,2004-04-07,,200404070000,wednesday,Cementarnica Skopje,FK Madzari 92,0,0,0,D,D,D,0,0,0,D,D,D,
+macedonia-2003-2004,24,2004-04-07,,200404070000,wednesday,Cementarnica Skopje,FK Madzari 92,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
 macedonia-2003-2004,24,2004-04-07,,200404070000,wednesday,FK Bashkimi,Sileks Kratovo,0,2,2,A,L,W,,,,,,,
 macedonia-2003-2004,24,2004-04-07,,200404070000,wednesday,FK Belasica,FK Sloga Jugomagnat,1,3,4,A,L,W,,,,,,,
 macedonia-2003-2004,25,2004-04-09,,200404090000,friday,FK Rabotnički,Bregalnica Delcevo,3,1,4,H,W,L,,,,,,,
@@ -173,7 +173,7 @@ macedonia-2003-2004,29,2004-05-09,,200405090000,sunday,Sileks Kratovo,FK Rabotni
 macedonia-2003-2004,29,2004-05-09,,200405090000,sunday,FK Madzari 92,FK Bashkimi,1,0,1,H,W,L,,,,,,,
 macedonia-2003-2004,29,2004-05-09,,200405090000,sunday,FK Belasica,GFK Tikveš,2,0,2,H,W,L,,,,,,,
 macedonia-2003-2004,29,2004-05-09,,200405090000,sunday,Napredok Kičevo,Bregalnica Delcevo,7,1,8,H,W,L,,,,,,,
-macedonia-2003-2004,30,2004-05-12,,200405120000,wednesday,Cementarnica Skopje,Napredok Kičevo,0,0,0,D,D,D,0,0,0,D,D,D,
+macedonia-2003-2004,30,2004-05-12,,200405120000,wednesday,Cementarnica Skopje,Napredok Kičevo,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
 macedonia-2003-2004,30,2004-05-12,,200405120000,wednesday,Bregalnica Delcevo,FK Belasica,0,2,2,A,L,W,,,,,,,
 macedonia-2003-2004,30,2004-05-12,,200405120000,wednesday,GFK Tikveš,FK Bashkimi,0,2,2,A,L,W,,,,,,,
 macedonia-2003-2004,30,2004-05-12,,200405120000,wednesday,Sileks Kratovo,FK Madzari 92,2,0,2,H,W,L,,,,,,,
@@ -189,7 +189,7 @@ macedonia-2003-2004,32,2004-05-19,,200405190000,wednesday,Vardar Skopje,FK Belas
 macedonia-2003-2004,32,2004-05-19,,200405190000,wednesday,Cementarnica Skopje,FK Bashkimi,1,2,3,A,L,W,,,,,,,
 macedonia-2003-2004,32,2004-05-19,,200405190000,wednesday,Bregalnica Delcevo,GFK Tikveš,1,0,1,H,W,L,,,,,,,
 macedonia-2003-2004,32,2004-05-19,,200405190000,wednesday,FK Sloga Jugomagnat,FK Madzari 92,1,3,4,A,L,W,,,,,,,
-macedonia-2003-2004,32,2004-05-19,,200405190000,wednesday,Sileks Kratovo,FK Pobeda,0,0,0,D,D,D,0,0,0,D,D,D,
+macedonia-2003-2004,32,2004-05-19,,200405190000,wednesday,Sileks Kratovo,FK Pobeda,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
 macedonia-2003-2004,32,2004-05-19,,200405190000,wednesday,FK Rabotnički,Napredok Kičevo,1,0,1,H,W,L,,,,,,,
 macedonia-2003-2004,33,2004-05-30,,200405300000,sunday,FK Belasica,FK Rabotnički,0,2,2,A,L,W,,,,,,,
 macedonia-2003-2004,33,2004-05-30,,200405300000,sunday,Napredok Kičevo,Sileks Kratovo,1,2,3,A,L,W,,,,,,,
@@ -2755,3 +2755,98 @@ macedonia-2017-2018,36,2018-05-20,15:15,201805201515,sunday,KF Shkupi,Vardar Sko
 macedonia-2017-2018,36,2018-05-20,15:15,201805201515,sunday,Akademija Pandev,Sileks Kratovo,1,2,3,A,L,W,0.0,1.0,1.0,A,L,W,http://www.worldfootball.net/report/1-mfl-2017-2018-akademija-pandev-sileks-kratovo_2/
 macedonia-2017-2018,36,2018-05-20,15:15,201805201515,sunday,FK Rabotnički,FK Skopje,3,2,5,H,W,L,1.0,1.0,2.0,D,D,D,http://www.worldfootball.net/report/1-mfl-2017-2018-fk-rabotnicki-fk-skopje_2/
 macedonia-2017-2018,36,2018-05-20,15:15,201805201515,sunday,KF Shkëndija 79,FK Pelister,4,0,4,H,W,L,1.0,0.0,1.0,H,W,L,http://www.worldfootball.net/report/1-mfl-2017-2018-kf-shkendija-79-fk-pelister_2/
+macedonia-2018-2019,1,2018-08-11,16:00,201808111600,saturday,FK Rabotnički,FK Renova,3,4,7,A,L,W,1,2,3,A,L,W,http://www.worldfootball.net/report/1-mfl-2018-2019-fk-rabotnicki-fk-renova/
+macedonia-2018-2019,1,2018-08-11,16:00,201808111600,saturday,KF Shkëndija 79,Vardar Skopje,2,2,4,D,D,D,0,1,1,A,L,W,http://www.worldfootball.net/report/1-mfl-2018-2019-kf-shkendija-79-vardar-skopje/
+macedonia-2018-2019,1,2018-08-12,16:00,201808121600,sunday,Sileks Kratovo,KF Shkupi,1,1,2,D,D,D,1,0,1,H,W,L,http://www.worldfootball.net/report/1-mfl-2018-2019-sileks-kratovo-kf-shkupi/
+macedonia-2018-2019,1,2018-08-12,16:00,201808121600,sunday,FK Pobeda,FK Belasica,1,0,1,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/1-mfl-2018-2019-fk-pobeda-fk-belasica/
+macedonia-2018-2019,1,2018-08-12,16:00,201808121600,sunday,Akademija Pandev,Makedonija GP,2,1,3,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/1-mfl-2018-2019-akademija-pandev-makedonija-gp/
+macedonia-2018-2019,2,2018-08-18,19:00,201808181900,saturday,FK Rabotnički,Sileks Kratovo,2,1,3,H,W,L,2,0,2,H,W,L,http://www.worldfootball.net/report/1-mfl-2018-2019-fk-rabotnicki-sileks-kratovo/
+macedonia-2018-2019,2,2018-08-19,16:00,201808191600,sunday,Makedonija GP,KF Shkëndija 79,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/1-mfl-2018-2019-makedonija-gp-kf-shkendija-79/
+macedonia-2018-2019,2,2018-08-19,16:00,201808191600,sunday,FK Renova,Vardar Skopje,0,1,1,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/1-mfl-2018-2019-fk-renova-vardar-skopje/
+macedonia-2018-2019,2,2018-08-19,16:00,201808191600,sunday,FK Belasica,Akademija Pandev,0,2,2,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/1-mfl-2018-2019-fk-belasica-akademija-pandev/
+macedonia-2018-2019,2,2018-08-19,16:00,201808191600,sunday,KF Shkupi,FK Pobeda,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/1-mfl-2018-2019-kf-shkupi-fk-pobeda/
+macedonia-2018-2019,3,2018-08-26,15:30,201808261530,sunday,Sileks Kratovo,FK Renova,1,0,1,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/1-mfl-2018-2019-sileks-kratovo-fk-renova/
+macedonia-2018-2019,3,2018-08-26,15:30,201808261530,sunday,Akademija Pandev,KF Shkupi,1,0,1,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/1-mfl-2018-2019-akademija-pandev-kf-shkupi/
+macedonia-2018-2019,3,2018-08-26,15:30,201808261530,sunday,FK Pobeda,FK Rabotnički,0,2,2,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/1-mfl-2018-2019-fk-pobeda-fk-rabotnicki/
+macedonia-2018-2019,3,2018-08-26,15:30,201808261530,sunday,Vardar Skopje,Makedonija GP,1,0,1,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/1-mfl-2018-2019-vardar-skopje-makedonija-gp/
+macedonia-2018-2019,3,2018-08-27,15:30,201808271530,monday,KF Shkëndija 79,FK Belasica,4,1,5,H,W,L,2,1,3,H,W,L,http://www.worldfootball.net/report/1-mfl-2018-2019-kf-shkendija-79-fk-belasica/
+macedonia-2018-2019,4,2018-09-01,15:15,201809011515,saturday,FK Belasica,Vardar Skopje,1,1,2,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/1-mfl-2018-2019-fk-belasica-vardar-skopje/
+macedonia-2018-2019,4,2018-09-01,15:15,201809011515,saturday,FK Renova,Makedonija GP,1,1,2,D,D,D,1,1,2,D,D,D,http://www.worldfootball.net/report/1-mfl-2018-2019-fk-renova-makedonija-gp/
+macedonia-2018-2019,4,2018-09-01,15:15,201809011515,saturday,Sileks Kratovo,FK Pobeda,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/1-mfl-2018-2019-sileks-kratovo-fk-pobeda/
+macedonia-2018-2019,4,2018-09-01,19:00,201809011900,saturday,FK Rabotnički,Akademija Pandev,1,0,1,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/1-mfl-2018-2019-fk-rabotnicki-akademija-pandev/
+macedonia-2018-2019,4,2018-09-02,15:15,201809021515,sunday,KF Shkupi,KF Shkëndija 79,1,2,3,A,L,W,1,2,3,A,L,W,http://www.worldfootball.net/report/1-mfl-2018-2019-kf-shkupi-kf-shkendija-79/
+macedonia-2018-2019,5,2018-09-16,14:30,201809161430,sunday,Akademija Pandev,Sileks Kratovo,3,0,3,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/1-mfl-2018-2019-akademija-pandev-sileks-kratovo/
+macedonia-2018-2019,5,2018-09-16,14:30,201809161430,sunday,KF Shkëndija 79,FK Rabotnički,6,2,8,H,W,L,3,1,4,H,W,L,http://www.worldfootball.net/report/1-mfl-2018-2019-kf-shkendija-79-fk-rabotnicki/
+macedonia-2018-2019,5,2018-09-16,14:30,201809161430,sunday,Vardar Skopje,KF Shkupi,2,1,3,H,W,L,0,1,1,A,L,W,http://www.worldfootball.net/report/1-mfl-2018-2019-vardar-skopje-kf-shkupi/
+macedonia-2018-2019,5,2018-09-16,14:30,201809161430,sunday,Makedonija GP,FK Belasica,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/1-mfl-2018-2019-makedonija-gp-fk-belasica/
+macedonia-2018-2019,5,2018-09-16,14:30,201809161430,sunday,FK Pobeda,FK Renova,1,0,1,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/1-mfl-2018-2019-fk-pobeda-fk-renova/
+macedonia-2018-2019,6,2018-09-22,18:00,201809221800,saturday,FK Rabotnički,Vardar Skopje,0,2,2,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/1-mfl-2018-2019-fk-rabotnicki-vardar-skopje/
+macedonia-2018-2019,6,2018-09-23,14:30,201809231430,sunday,KF Shkupi,Makedonija GP,2,1,3,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/1-mfl-2018-2019-kf-shkupi-makedonija-gp/
+macedonia-2018-2019,6,2018-09-23,14:30,201809231430,sunday,FK Renova,FK Belasica,0,2,2,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/1-mfl-2018-2019-fk-renova-fk-belasica/
+macedonia-2018-2019,6,2018-09-23,14:30,201809231430,sunday,Sileks Kratovo,KF Shkëndija 79,1,2,3,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/1-mfl-2018-2019-sileks-kratovo-kf-shkendija-79/
+macedonia-2018-2019,6,2018-09-23,14:30,201809231430,sunday,FK Pobeda,Akademija Pandev,2,4,6,A,L,W,1,2,3,A,L,W,http://www.worldfootball.net/report/1-mfl-2018-2019-fk-pobeda-akademija-pandev/
+macedonia-2018-2019,7,2018-09-26,14:30,201809261430,wednesday,KF Shkëndija 79,FK Pobeda,0,2,2,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/1-mfl-2018-2019-kf-shkendija-79-fk-pobeda/
+macedonia-2018-2019,7,2018-09-26,14:30,201809261430,wednesday,Akademija Pandev,FK Renova,0,2,2,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/1-mfl-2018-2019-akademija-pandev-fk-renova/
+macedonia-2018-2019,7,2018-09-26,14:30,201809261430,wednesday,Vardar Skopje,Sileks Kratovo,1,0,1,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/1-mfl-2018-2019-vardar-skopje-sileks-kratovo/
+macedonia-2018-2019,7,2018-09-26,14:30,201809261430,wednesday,Makedonija GP,FK Rabotnički,3,0,3,H,W,L,2,0,2,H,W,L,http://www.worldfootball.net/report/1-mfl-2018-2019-makedonija-gp-fk-rabotnicki/
+macedonia-2018-2019,7,2018-09-26,14:30,201809261430,wednesday,FK Belasica,KF Shkupi,1,0,1,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/1-mfl-2018-2019-fk-belasica-kf-shkupi/
+macedonia-2018-2019,8,2018-09-29,14:00,201809291400,saturday,FK Rabotnički,FK Belasica,1,1,2,D,D,D,1,1,2,D,D,D,http://www.worldfootball.net/report/1-mfl-2018-2019-fk-rabotnicki-fk-belasica/
+macedonia-2018-2019,8,2018-09-29,14:00,201809291400,saturday,Sileks Kratovo,Makedonija GP,1,1,2,D,D,D,0,1,1,A,L,W,http://www.worldfootball.net/report/1-mfl-2018-2019-sileks-kratovo-makedonija-gp/
+macedonia-2018-2019,8,2018-09-29,14:00,201809291400,saturday,FK Renova,KF Shkupi,2,0,2,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/1-mfl-2018-2019-fk-renova-kf-shkupi/
+macedonia-2018-2019,8,2018-09-29,14:00,201809291400,saturday,FK Pobeda,Vardar Skopje,0,1,1,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/1-mfl-2018-2019-fk-pobeda-vardar-skopje/
+macedonia-2018-2019,8,2018-09-29,14:00,201809291400,saturday,Akademija Pandev,KF Shkëndija 79,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/1-mfl-2018-2019-akademija-pandev-kf-shkendija-79/
+macedonia-2018-2019,9,2018-10-06,14:00,201810061400,saturday,Vardar Skopje,Akademija Pandev,3,0,3,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/1-mfl-2018-2019-vardar-skopje-akademija-pandev/
+macedonia-2018-2019,9,2018-10-06,14:00,201810061400,saturday,Makedonija GP,FK Pobeda,1,0,1,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/1-mfl-2018-2019-makedonija-gp-fk-pobeda/
+macedonia-2018-2019,9,2018-10-06,14:00,201810061400,saturday,FK Belasica,Sileks Kratovo,1,1,2,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/1-mfl-2018-2019-fk-belasica-sileks-kratovo/
+macedonia-2018-2019,9,2018-10-06,14:00,201810061400,saturday,KF Shkëndija 79,FK Renova,2,2,4,D,D,D,1,0,1,H,W,L,http://www.worldfootball.net/report/1-mfl-2018-2019-kf-shkendija-79-fk-renova/
+macedonia-2018-2019,9,2018-10-06,14:00,201810061400,saturday,KF Shkupi,FK Rabotnički,1,1,2,D,D,D,1,0,1,H,W,L,http://www.worldfootball.net/report/1-mfl-2018-2019-kf-shkupi-fk-rabotnicki/
+macedonia-2018-2019,10,2018-10-21,13:30,201810211330,sunday,FK Renova,FK Rabotnički,0,2,2,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/1-mfl-2018-2019-fk-renova-fk-rabotnicki/
+macedonia-2018-2019,10,2018-10-21,13:30,201810211330,sunday,KF Shkupi,Sileks Kratovo,2,0,2,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/1-mfl-2018-2019-kf-shkupi-sileks-kratovo/
+macedonia-2018-2019,10,2018-10-21,13:30,201810211330,sunday,FK Belasica,FK Pobeda,2,1,3,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/1-mfl-2018-2019-fk-belasica-fk-pobeda/
+macedonia-2018-2019,10,2018-10-21,13:30,201810211330,sunday,Makedonija GP,Akademija Pandev,1,0,1,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/1-mfl-2018-2019-makedonija-gp-akademija-pandev/
+macedonia-2018-2019,10,2018-10-21,13:30,201810211330,sunday,Vardar Skopje,KF Shkëndija 79,0,2,2,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/1-mfl-2018-2019-vardar-skopje-kf-shkendija-79/
+macedonia-2018-2019,11,2018-10-28,12:30,201810281230,sunday,KF Shkëndija 79,Makedonija GP,5,1,6,H,W,L,2,0,2,H,W,L,http://www.worldfootball.net/report/1-mfl-2018-2019-kf-shkendija-79-makedonija-gp/
+macedonia-2018-2019,11,2018-10-28,12:30,201810281230,sunday,Vardar Skopje,FK Renova,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/1-mfl-2018-2019-vardar-skopje-fk-renova/
+macedonia-2018-2019,11,2018-10-28,12:30,201810281230,sunday,Akademija Pandev,FK Belasica,3,0,3,H,W,L,2,0,2,H,W,L,http://www.worldfootball.net/report/1-mfl-2018-2019-akademija-pandev-fk-belasica/
+macedonia-2018-2019,11,2018-10-28,12:30,201810281230,sunday,FK Pobeda,KF Shkupi,2,0,2,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/1-mfl-2018-2019-fk-pobeda-kf-shkupi/
+macedonia-2018-2019,11,2018-10-28,12:30,201810281230,sunday,Sileks Kratovo,FK Rabotnički,2,0,2,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/1-mfl-2018-2019-sileks-kratovo-fk-rabotnicki/
+macedonia-2018-2019,12,2018-10-31,12:30,201810311230,wednesday,FK Renova,Sileks Kratovo,1,1,2,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/1-mfl-2018-2019-fk-renova-sileks-kratovo/
+macedonia-2018-2019,12,2018-10-31,12:30,201810311230,wednesday,KF Shkupi,Akademija Pandev,1,0,1,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/1-mfl-2018-2019-kf-shkupi-akademija-pandev/
+macedonia-2018-2019,12,2018-10-31,12:30,201810311230,wednesday,FK Rabotnički,FK Pobeda,3,1,4,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/1-mfl-2018-2019-fk-rabotnicki-fk-pobeda/
+macedonia-2018-2019,12,2018-10-31,12:30,201810311230,wednesday,FK Belasica,KF Shkëndija 79,0,2,2,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/1-mfl-2018-2019-fk-belasica-kf-shkendija-79/
+macedonia-2018-2019,12,2018-10-31,12:30,201810311230,wednesday,Makedonija GP,Vardar Skopje,1,3,4,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/1-mfl-2018-2019-makedonija-gp-vardar-skopje/
+macedonia-2018-2019,13,2018-11-04,12:30,201811041230,sunday,Vardar Skopje,FK Belasica,1,1,2,D,D,D,1,0,1,H,W,L,http://www.worldfootball.net/report/1-mfl-2018-2019-vardar-skopje-fk-belasica/
+macedonia-2018-2019,13,2018-11-04,12:30,201811041230,sunday,KF Shkëndija 79,KF Shkupi,3,0,3,H,W,L,2,0,2,H,W,L,http://www.worldfootball.net/report/1-mfl-2018-2019-kf-shkendija-79-kf-shkupi/
+macedonia-2018-2019,13,2018-11-04,12:30,201811041230,sunday,Akademija Pandev,FK Rabotnički,1,0,1,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/1-mfl-2018-2019-akademija-pandev-fk-rabotnicki/
+macedonia-2018-2019,13,2018-11-04,12:30,201811041230,sunday,Makedonija GP,FK Renova,1,2,3,A,L,W,1,0,1,H,W,L,http://www.worldfootball.net/report/1-mfl-2018-2019-makedonija-gp-fk-renova/
+macedonia-2018-2019,13,2018-11-04,12:30,201811041230,sunday,FK Pobeda,Sileks Kratovo,2,0,2,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/1-mfl-2018-2019-fk-pobeda-sileks-kratovo/
+macedonia-2018-2019,14,2018-11-10,12:00,201811101200,saturday,Sileks Kratovo,Akademija Pandev,1,0,1,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/1-mfl-2018-2019-sileks-kratovo-akademija-pandev/
+macedonia-2018-2019,14,2018-11-10,12:00,201811101200,saturday,FK Rabotnički,KF Shkëndija 79,1,2,3,A,L,W,1,1,2,D,D,D,http://www.worldfootball.net/report/1-mfl-2018-2019-fk-rabotnicki-kf-shkendija-79/
+macedonia-2018-2019,14,2018-11-10,12:00,201811101200,saturday,KF Shkupi,Vardar Skopje,1,0,1,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/1-mfl-2018-2019-kf-shkupi-vardar-skopje/
+macedonia-2018-2019,14,2018-11-10,12:00,201811101200,saturday,FK Belasica,Makedonija GP,1,4,5,A,L,W,1,2,3,A,L,W,http://www.worldfootball.net/report/1-mfl-2018-2019-fk-belasica-makedonija-gp/
+macedonia-2018-2019,14,2018-11-10,12:00,201811101200,saturday,FK Renova,FK Pobeda,2,1,3,H,W,L,1,1,2,D,D,D,http://www.worldfootball.net/report/1-mfl-2018-2019-fk-renova-fk-pobeda/
+macedonia-2018-2019,15,2018-11-22,12:00,201811221200,thursday,Makedonija GP,KF Shkupi,2,2,4,D,D,D,1,2,3,A,L,W,http://www.worldfootball.net/report/1-mfl-2018-2019-makedonija-gp-kf-shkupi/
+macedonia-2018-2019,15,2018-11-22,12:00,201811221200,thursday,FK Belasica,FK Renova,3,1,4,H,W,L,1,1,2,D,D,D,http://www.worldfootball.net/report/1-mfl-2018-2019-fk-belasica-fk-renova/
+macedonia-2018-2019,15,2018-11-22,12:00,201811221200,thursday,Vardar Skopje,FK Rabotnički,0,1,1,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/1-mfl-2018-2019-vardar-skopje-fk-rabotnicki/
+macedonia-2018-2019,15,2018-11-22,12:00,201811221200,thursday,KF Shkëndija 79,Sileks Kratovo,5,0,5,H,W,L,2,0,2,H,W,L,http://www.worldfootball.net/report/1-mfl-2018-2019-kf-shkendija-79-sileks-kratovo/
+macedonia-2018-2019,15,2018-11-22,12:00,201811221200,thursday,Akademija Pandev,FK Pobeda,2,1,3,H,W,L,1,1,2,D,D,D,http://www.worldfootball.net/report/1-mfl-2018-2019-akademija-pandev-fk-pobeda/
+macedonia-2018-2019,16,2018-11-25,12:00,201811251200,sunday,FK Pobeda,KF Shkëndija 79,0,2,2,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/1-mfl-2018-2019-fk-pobeda-kf-shkendija-79/
+macedonia-2018-2019,16,2018-11-25,12:00,201811251200,sunday,FK Renova,Akademija Pandev,1,1,2,D,D,D,1,1,2,D,D,D,http://www.worldfootball.net/report/1-mfl-2018-2019-fk-renova-akademija-pandev/
+macedonia-2018-2019,16,2018-11-25,12:00,201811251200,sunday,Sileks Kratovo,Vardar Skopje,0,1,1,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/1-mfl-2018-2019-sileks-kratovo-vardar-skopje/
+macedonia-2018-2019,16,2018-11-25,12:00,201811251200,sunday,FK Rabotnički,Makedonija GP,5,1,6,H,W,L,2,0,2,H,W,L,http://www.worldfootball.net/report/1-mfl-2018-2019-fk-rabotnicki-makedonija-gp/
+macedonia-2018-2019,16,2018-11-25,12:00,201811251200,sunday,KF Shkupi,FK Belasica,1,0,1,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/1-mfl-2018-2019-kf-shkupi-fk-belasica/
+macedonia-2018-2019,17,2018-11-28,12:00,201811281200,wednesday,FK Belasica,FK Rabotnički,1,2,3,A,L,W,0,2,2,A,L,W,http://www.worldfootball.net/report/1-mfl-2018-2019-fk-belasica-fk-rabotnicki/
+macedonia-2018-2019,17,2018-11-28,12:00,201811281200,wednesday,Makedonija GP,Sileks Kratovo,1,1,2,D,D,D,1,0,1,H,W,L,http://www.worldfootball.net/report/1-mfl-2018-2019-makedonija-gp-sileks-kratovo/
+macedonia-2018-2019,17,2018-11-28,12:00,201811281200,wednesday,KF Shkupi,FK Renova,1,1,2,D,D,D,0,1,1,A,L,W,http://www.worldfootball.net/report/1-mfl-2018-2019-kf-shkupi-fk-renova/
+macedonia-2018-2019,17,2018-11-28,12:00,201811281200,wednesday,Vardar Skopje,FK Pobeda,3,0,3,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/1-mfl-2018-2019-vardar-skopje-fk-pobeda/
+macedonia-2018-2019,17,2018-11-28,12:00,201811281200,wednesday,KF Shkëndija 79,Akademija Pandev,0,1,1,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/1-mfl-2018-2019-kf-shkendija-79-akademija-pandev/
+macedonia-2018-2019,18,2018-12-02,12:00,201812021200,sunday,Akademija Pandev,Vardar Skopje,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/1-mfl-2018-2019-akademija-pandev-vardar-skopje/
+macedonia-2018-2019,18,2018-12-02,12:00,201812021200,sunday,FK Pobeda,Makedonija GP,0,2,2,A,L,W,0,2,2,A,L,W,http://www.worldfootball.net/report/1-mfl-2018-2019-fk-pobeda-makedonija-gp/
+macedonia-2018-2019,18,2018-12-02,12:00,201812021200,sunday,Sileks Kratovo,FK Belasica,1,0,1,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/1-mfl-2018-2019-sileks-kratovo-fk-belasica/
+macedonia-2018-2019,18,2018-12-02,12:00,201812021200,sunday,FK Renova,KF Shkëndija 79,0,3,3,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/1-mfl-2018-2019-fk-renova-kf-shkendija-79/
+macedonia-2018-2019,18,2018-12-02,12:00,201812021200,sunday,FK Rabotnički,KF Shkupi,0,2,2,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/1-mfl-2018-2019-fk-rabotnicki-kf-shkupi/
+macedonia-2018-2019,19,2019-02-17,13:00,201902171300,sunday,FK Renova,FK Rabotnički,1,1,2,D,D,D,0,1,1,A,L,W,http://www.worldfootball.net/report/1-mfl-2018-2019-fk-renova-fk-rabotnicki_2/
+macedonia-2018-2019,19,2019-02-17,13:00,201902171300,sunday,KF Shkupi,Sileks Kratovo,2,2,4,D,D,D,0,2,2,A,L,W,http://www.worldfootball.net/report/1-mfl-2018-2019-kf-shkupi-sileks-kratovo_2/
+macedonia-2018-2019,19,2019-02-17,13:00,201902171300,sunday,FK Belasica,FK Pobeda,1,1,2,D,D,D,1,1,2,D,D,D,http://www.worldfootball.net/report/1-mfl-2018-2019-fk-belasica-fk-pobeda_2/
+macedonia-2018-2019,19,2019-02-17,13:00,201902171300,sunday,Makedonija GP,Akademija Pandev,0,3,3,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/1-mfl-2018-2019-makedonija-gp-akademija-pandev_2/
+macedonia-2018-2019,19,2019-02-17,13:00,201902171300,sunday,Vardar Skopje,KF Shkëndija 79,0,1,1,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/1-mfl-2018-2019-vardar-skopje-kf-shkendija-79_2/

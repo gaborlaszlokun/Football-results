@@ -29,7 +29,7 @@ azerbaijan-2003-2004,5,2003-06-15,,200306150000,sunday,Qarabağ FK,Khazar Univer
 azerbaijan-2003-2004,5,2003-06-15,,200306150000,sunday,PFK Turan Tavuz,FK Adliyye,0,2,2,A,L,W,,,,,,,
 azerbaijan-2003-2004,5,2003-06-15,,200306150000,sunday,Neftçi PFK,FK Kapaz Gäncä,3,0,3,H,W,L,,,,,,,
 azerbaijan-2003-2004,6,2003-06-18,,200306180000,wednesday,Şahdağ Qusar,FK Kapaz Gäncä,1,1,2,D,D,D,,,,,,,
-azerbaijan-2003-2004,6,2003-06-18,,200306180000,wednesday,Khazar Universiteti,Neftçi PFK,0,0,0,D,D,D,0,0,0,D,D,D,
+azerbaijan-2003-2004,6,2003-06-18,,200306180000,wednesday,Khazar Universiteti,Neftçi PFK,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
 azerbaijan-2003-2004,6,2003-06-18,,200306180000,wednesday,Qarabağ FK,Shamkir FK,2,0,2,H,W,L,,,,,,,
 azerbaijan-2003-2004,6,2003-06-18,,200306180000,wednesday,Lokomotiv Imishli,PFK Turan Tavuz,3,1,4,H,W,L,,,,,,,
 azerbaijan-2003-2004,6,2003-06-18,,200306180000,wednesday,FK MOIK Baku,Genclerbirliyi Sumgayit,2,1,3,H,W,L,,,,,,,
@@ -37,7 +37,7 @@ azerbaijan-2003-2004,6,2003-06-18,,200306180000,wednesday,FK Bakili Baku,FK Shaf
 azerbaijan-2003-2004,7,2003-07-01,,200307010000,tuesday,Genclerbirliyi Sumgayit,Şahdağ Qusar,3,1,4,H,W,L,,,,,,,
 azerbaijan-2003-2004,7,2003-07-01,,200307010000,tuesday,FK Shafa,FK MOIK Baku,3,0,3,H,W,L,,,,,,,
 azerbaijan-2003-2004,7,2003-07-01,,200307010000,tuesday,FK Bakili Baku,Khazar Universiteti,0,1,1,A,L,W,,,,,,,
-azerbaijan-2003-2004,7,2003-07-02,,200307020000,wednesday,PFK Turan Tavuz,Qarabağ FK,0,0,0,D,D,D,0,0,0,D,D,D,
+azerbaijan-2003-2004,7,2003-07-02,,200307020000,wednesday,PFK Turan Tavuz,Qarabağ FK,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
 azerbaijan-2003-2004,7,2003-07-02,,200307020000,wednesday,Neftçi PFK,FK Adliyye,3,1,4,H,W,L,,,,,,,
 azerbaijan-2003-2004,7,2003-07-02,,200307020000,wednesday,FK Kapaz Gäncä,Dinamo Baku,1,4,5,A,L,W,,,,,,,
 azerbaijan-2003-2004,8,2003-07-05,,200307050000,saturday,Şahdağ Qusar,Dinamo Baku,1,1,2,D,D,D,,,,,,,
@@ -65,7 +65,7 @@ azerbaijan-2003-2004,10,2003-07-20,,200307200000,sunday,Genclerbirliyi Sumgayit,
 azerbaijan-2003-2004,10,2003-07-20,,200307200000,sunday,FK Shafa,Shamkir FK,0,1,1,A,L,W,,,,,,,
 azerbaijan-2003-2004,11,2003-07-26,,200307260000,saturday,Shamkir FK,Şahdağ Qusar,5,0,5,H,W,L,,,,,,,
 azerbaijan-2003-2004,11,2003-07-26,,200307260000,saturday,PFK Turan Tavuz,FK Shafa,1,1,2,D,D,D,,,,,,,
-azerbaijan-2003-2004,11,2003-07-26,,200307260000,saturday,Neftçi PFK,FK MOIK Baku,0,0,0,D,D,D,0,0,0,D,D,D,
+azerbaijan-2003-2004,11,2003-07-26,,200307260000,saturday,Neftçi PFK,FK MOIK Baku,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
 azerbaijan-2003-2004,11,2003-07-27,,200307270000,sunday,Dinamo Baku,Qarabağ FK,1,2,3,A,L,W,,,,,,,
 azerbaijan-2003-2004,11,2003-07-27,,200307270000,sunday,Khazar Universiteti,FK Adliyye,0,1,1,A,L,W,,,,,,,
 azerbaijan-2003-2004,11,2003-07-27,,200307270000,sunday,FK Kapaz Gäncä,FK Bakili Baku,2,4,6,A,L,W,,,,,,,
@@ -99,9 +99,9 @@ azerbaijan-2003-2004,14,2003-09-14,,200309140000,sunday,Khazar Universiteti,PFK 
 azerbaijan-2003-2004,14,2003-09-14,,200309140000,sunday,Lokomotiv Imishli,FK Bakili Baku,0,3,3,A,L,W,,,,,,,
 azerbaijan-2003-2004,15,2003-09-27,,200309270000,saturday,PFK Turan Tavuz,Neftçi PFK,0,2,2,A,L,W,,,,,,,
 azerbaijan-2003-2004,15,2003-09-27,,200309270000,saturday,Shamkir FK,FK Kapaz Gäncä,2,0,2,H,W,L,,,,,,,
-azerbaijan-2003-2004,15,2003-09-27,,200309270000,saturday,Şahdağ Qusar,Khazar Universiteti,0,0,0,D,D,D,0,0,0,D,D,D,
+azerbaijan-2003-2004,15,2003-09-27,,200309270000,saturday,Şahdağ Qusar,Khazar Universiteti,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
 azerbaijan-2003-2004,15,2003-09-27,,200309270000,saturday,Genclerbirliyi Sumgayit,FK Adliyye,1,6,7,A,L,W,,,,,,,
-azerbaijan-2003-2004,15,2003-09-28,,200309280000,sunday,FK Bakili Baku,Qarabağ FK,0,0,0,D,D,D,0,0,0,D,D,D,
+azerbaijan-2003-2004,15,2003-09-28,,200309280000,sunday,FK Bakili Baku,Qarabağ FK,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
 azerbaijan-2003-2004,15,2003-09-28,,200309280000,sunday,FK Shafa,Dinamo Baku,1,3,4,A,L,W,,,,,,,
 azerbaijan-2003-2004,15,2003-09-28,,200309280000,sunday,FK MOIK Baku,Lokomotiv Imishli,3,0,3,H,W,L,,,,,,,
 azerbaijan-2003-2004,16,2003-10-25,,200310250000,saturday,Qarabağ FK,FK MOIK Baku,3,1,4,H,W,L,,,,,,,
@@ -111,7 +111,7 @@ azerbaijan-2003-2004,16,2003-10-25,,200310250000,saturday,Şahdağ Qusar,FK Baki
 azerbaijan-2003-2004,16,2003-10-26,,200310260000,sunday,Neftçi PFK,Khazar Universiteti,2,1,3,H,W,L,,,,,,,
 azerbaijan-2003-2004,16,2003-10-26,,200310260000,sunday,FK Kapaz Gäncä,PFK Turan Tavuz,3,0,3,H,W,L,,,,,,,
 azerbaijan-2003-2004,17,2003-11-08,,200311080000,saturday,Neftçi PFK,Şahdağ Qusar,4,2,6,H,W,L,,,,,,,
-azerbaijan-2003-2004,17,2003-11-08,,200311080000,saturday,Shamkir FK,FK Adliyye,0,0,0,D,D,D,0,0,0,D,D,D,
+azerbaijan-2003-2004,17,2003-11-08,,200311080000,saturday,Shamkir FK,FK Adliyye,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
 azerbaijan-2003-2004,17,2003-11-08,,200311080000,saturday,FK Shafa,Lokomotiv Imishli,3,0,3,H,W,L,,,,,,,
 azerbaijan-2003-2004,17,2003-11-08,,200311080000,saturday,Genclerbirliyi Sumgayit,Qarabağ FK,1,6,7,A,L,W,,,,,,,
 azerbaijan-2003-2004,17,2003-11-09,,200311090000,sunday,FK Kapaz Gäncä,Khazar Universiteti,0,1,1,A,L,W,,,,,,,
@@ -124,7 +124,7 @@ azerbaijan-2003-2004,18,2003-11-15,,200311150000,saturday,FK Bakili Baku,Gencler
 azerbaijan-2003-2004,18,2003-11-16,,200311160000,sunday,Khazar Universiteti,Qarabağ FK,0,2,2,A,L,W,,,,,,,
 azerbaijan-2003-2004,18,2003-11-16,,200311160000,sunday,FK Adliyye,PFK Turan Tavuz,3,0,3,H,W,L,,,,,,,
 azerbaijan-2003-2004,18,2003-11-16,,200311160000,sunday,FK Kapaz Gäncä,Neftçi PFK,1,2,3,A,L,W,,,,,,,
-azerbaijan-2003-2004,19,2003-11-22,,200311220000,saturday,FK Kapaz Gäncä,Şahdağ Qusar,0,0,0,D,D,D,0,0,0,D,D,D,
+azerbaijan-2003-2004,19,2003-11-22,,200311220000,saturday,FK Kapaz Gäncä,Şahdağ Qusar,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
 azerbaijan-2003-2004,19,2003-11-22,,200311220000,saturday,Neftçi PFK,Dinamo Baku,1,0,1,H,W,L,,,,,,,
 azerbaijan-2003-2004,19,2003-11-22,,200311220000,saturday,Shamkir FK,Qarabağ FK,3,0,3,H,W,L,,,,,,,
 azerbaijan-2003-2004,19,2003-11-22,,200311220000,saturday,FK Adliyye,Khazar Universiteti,0,1,1,A,L,W,,,,,,,
@@ -132,11 +132,11 @@ azerbaijan-2003-2004,19,2003-11-23,,200311230000,sunday,PFK Turan Tavuz,Lokomoti
 azerbaijan-2003-2004,19,2003-11-23,,200311230000,sunday,Genclerbirliyi Sumgayit,FK MOIK Baku,0,5,5,A,L,W,,,,,,,
 azerbaijan-2003-2004,19,2003-11-23,,200311230000,sunday,FK Shafa,FK Bakili Baku,1,2,3,A,L,W,,,,,,,
 azerbaijan-2003-2004,20,2003-11-29,,200311290000,saturday,Şahdağ Qusar,Genclerbirliyi Sumgayit,4,0,4,H,W,L,,,,,,,
-azerbaijan-2003-2004,20,2003-11-29,,200311290000,saturday,FK MOIK Baku,FK Shafa,0,0,0,D,D,D,0,0,0,D,D,D,
+azerbaijan-2003-2004,20,2003-11-29,,200311290000,saturday,FK MOIK Baku,FK Shafa,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
 azerbaijan-2003-2004,20,2003-11-29,,200311290000,saturday,Khazar Universiteti,FK Bakili Baku,3,0,3,H,W,L,,,,,,,
 azerbaijan-2003-2004,20,2003-11-30,,200311300000,sunday,Qarabağ FK,PFK Turan Tavuz,4,0,4,H,W,L,,,,,,,
 azerbaijan-2003-2004,20,2003-11-30,,200311300000,sunday,FK Adliyye,Neftçi PFK,0,3,3,A,L,W,,,,,,,
-azerbaijan-2003-2004,20,2003-11-30,,200311300000,sunday,Dinamo Baku,FK Kapaz Gäncä,0,0,0,D,D,D,0,0,0,D,D,D,
+azerbaijan-2003-2004,20,2003-11-30,,200311300000,sunday,Dinamo Baku,FK Kapaz Gäncä,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
 azerbaijan-2003-2004,21,2003-12-06,,200312060000,saturday,Dinamo Baku,Şahdağ Qusar,4,0,4,H,W,L,,,,,,,
 azerbaijan-2003-2004,21,2003-12-06,,200312060000,saturday,Neftçi PFK,Lokomotiv Imishli,3,0,3,H,W,L,,,,,,,
 azerbaijan-2003-2004,21,2003-12-06,,200312060000,saturday,FK Adliyye,Qarabağ FK,1,1,2,D,D,D,,,,,,,
@@ -146,9 +146,9 @@ azerbaijan-2003-2004,21,2003-12-07,,200312070000,sunday,PFK Turan Tavuz,FK Bakil
 azerbaijan-2003-2004,22,2004-03-13,,200403130000,saturday,Şahdağ Qusar,FK Shafa,2,0,2,H,W,L,,,,,,,
 azerbaijan-2003-2004,22,2004-03-13,,200403130000,saturday,Genclerbirliyi Sumgayit,Shamkir FK,0,7,7,A,L,W,,,,,,,
 azerbaijan-2003-2004,22,2004-03-13,,200403130000,saturday,Qarabağ FK,Neftçi PFK,1,3,4,A,L,W,,,,,,,
-azerbaijan-2003-2004,22,2004-03-13,,200403130000,saturday,Khazar Universiteti,FK MOIK Baku,0,0,0,D,D,D,0,0,0,D,D,D,
+azerbaijan-2003-2004,22,2004-03-13,,200403130000,saturday,Khazar Universiteti,FK MOIK Baku,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
 azerbaijan-2003-2004,22,2004-03-13,,200403130000,saturday,Lokomotiv Imishli,FK Kapaz Gäncä,0,3,3,A,L,W,,,,,,,
-azerbaijan-2003-2004,22,2004-03-13,,200403130000,saturday,FK Adliyye,Dinamo Baku,0,0,0,D,D,D,0,0,0,D,D,D,
+azerbaijan-2003-2004,22,2004-03-13,,200403130000,saturday,FK Adliyye,Dinamo Baku,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
 azerbaijan-2003-2004,0,2004-03-24,,200403240000,wednesday,Dinamo Baku,Khazar Universiteti,4,0,4,H,W,L,,,,,,,
 azerbaijan-2003-2004,0,2004-03-24,,200403240000,wednesday,Lokomotiv Imishli,FK Adliyye,0,3,3,A,L,W,,,,,,,
 azerbaijan-2003-2004,23,2004-04-03,,200404030000,saturday,Dinamo Baku,Lokomotiv Imishli,3,0,3,H,W,L,,,,,,,
@@ -164,23 +164,23 @@ azerbaijan-2003-2004,24,2004-04-07,,200404070000,wednesday,FK MOIK Baku,Neftçi 
 azerbaijan-2003-2004,24,2004-04-07,,200404070000,wednesday,FK Bakili Baku,FK Kapaz Gäncä,4,2,6,H,W,L,,,,,,,
 azerbaijan-2003-2004,0,2004-04-10,,200404100000,saturday,FK Bakili Baku,Shamkir FK,0,2,2,A,L,W,,,,,,,
 azerbaijan-2003-2004,25,2004-04-10,,200404100000,saturday,Qarabağ FK,FK Shafa,2,0,2,H,W,L,,,,,,,
-azerbaijan-2003-2004,0,2004-04-18,,200404180000,sunday,Khazar Universiteti,FK Shafa,0,0,0,D,D,D,0,0,0,D,D,D,
-azerbaijan-2003-2004,0,2004-04-18,,200404180000,sunday,FK Kapaz Gäncä,FK Adliyye,0,0,0,D,D,D,0,0,0,D,D,D,
-azerbaijan-2003-2004,0,2004-04-18,,200404180000,sunday,PFK Turan Tavuz,Genclerbirliyi Sumgayit,0,0,0,D,D,D,0,0,0,D,D,D,
+azerbaijan-2003-2004,0,2004-04-18,,200404180000,sunday,Khazar Universiteti,FK Shafa,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
+azerbaijan-2003-2004,0,2004-04-18,,200404180000,sunday,FK Kapaz Gäncä,FK Adliyye,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
+azerbaijan-2003-2004,0,2004-04-18,,200404180000,sunday,PFK Turan Tavuz,Genclerbirliyi Sumgayit,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
 azerbaijan-2003-2004,0,2004-04-18,,200404180000,sunday,Lokomotiv Imishli,Şahdağ Qusar,0,3,3,A,L,W,,,,,,,
 azerbaijan-2003-2004,24,2004-04-18,,200404180000,sunday,Qarabağ FK,Dinamo Baku,0,1,1,A,L,W,,,,,,,
 azerbaijan-2003-2004,25,2004-05-01,,200405010000,saturday,Lokomotiv Imishli,Khazar Universiteti,0,3,3,A,L,W,,,,,,,
-azerbaijan-2003-2004,25,2004-05-01,,200405010000,saturday,FK Kapaz Gäncä,FK MOIK Baku,0,0,0,D,D,D,0,0,0,D,D,D,
+azerbaijan-2003-2004,25,2004-05-01,,200405010000,saturday,FK Kapaz Gäncä,FK MOIK Baku,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
 azerbaijan-2003-2004,25,2004-05-01,,200405010000,saturday,Neftçi PFK,Genclerbirliyi Sumgayit,7,0,7,H,W,L,,,,,,,
 azerbaijan-2003-2004,25,2004-05-01,,200405010000,saturday,PFK Turan Tavuz,Shamkir FK,0,2,2,A,L,W,,,,,,,
 azerbaijan-2003-2004,25,2004-05-02,,200405020000,sunday,Dinamo Baku,FK Bakili Baku,2,0,2,H,W,L,,,,,,,
 azerbaijan-2003-2004,26,2004-05-05,,200405050000,wednesday,Şahdağ Qusar,PFK Turan Tavuz,2,0,2,H,W,L,,,,,,,
-azerbaijan-2003-2004,26,2004-05-05,,200405050000,wednesday,Khazar Universiteti,Shamkir FK,0,0,0,D,D,D,0,0,0,D,D,D,
+azerbaijan-2003-2004,26,2004-05-05,,200405050000,wednesday,Khazar Universiteti,Shamkir FK,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
 azerbaijan-2003-2004,26,2004-05-05,,200405050000,wednesday,FK Shafa,Neftçi PFK,0,1,1,A,L,W,,,,,,,
 azerbaijan-2003-2004,26,2004-05-05,,200405050000,wednesday,Genclerbirliyi Sumgayit,FK Kapaz Gäncä,0,3,3,A,L,W,,,,,,,
 azerbaijan-2003-2004,26,2004-05-05,,200405050000,wednesday,FK MOIK Baku,Dinamo Baku,1,1,2,D,D,D,,,,,,,
 azerbaijan-2003-2004,26,2004-05-05,,200405050000,wednesday,Qarabağ FK,Lokomotiv Imishli,3,0,3,H,W,L,,,,,,,
-azerbaijan-2003-2004,26,2004-05-05,,200405050000,wednesday,FK Bakili Baku,FK Adliyye,0,0,0,D,D,D,0,0,0,D,D,D,
+azerbaijan-2003-2004,26,2004-05-05,,200405050000,wednesday,FK Bakili Baku,FK Adliyye,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
 azerbaijan-2004-2005,1,2004-08-07,,200408070000,saturday,PFK Turan Tavuz,Khazar Lankaran,1,1,2,D,D,D,,,,,,,
 azerbaijan-2004-2005,1,2004-08-07,,200408070000,saturday,FK Shafa,Qarabağ FK,1,5,6,A,L,W,,,,,,,
 azerbaijan-2004-2005,1,2004-08-07,,200408070000,saturday,Karat Baku,FK Karvan,0,2,2,A,L,W,,,,,,,
@@ -2685,3 +2685,70 @@ azerbaijan-2017-2018,28,2018-05-20,14:15,201805201415,sunday,FK Kapaz,Neftçi PF
 azerbaijan-2017-2018,28,2018-05-20,14:15,201805201415,sunday,Səbail FK,Keşlə FK,0,1,1,A,L,W,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/premyer-liqasi-2017-2018-sbail-fk-kesl-fk/
 azerbaijan-2017-2018,28,2018-05-20,14:15,201805201415,sunday,Sumgayit FK,Zira FK,1,2,3,A,L,W,1.0,0.0,1.0,H,W,L,http://www.worldfootball.net/report/premyer-liqasi-2017-2018-sumgayit-fk-zira-fk-spiel/
 azerbaijan-2017-2018,28,2018-05-21,16:00,201805211600,monday,Gabala FK,Qarabağ FK,0,1,1,A,L,W,0.0,1.0,1.0,A,L,W,http://www.worldfootball.net/report/premyer-liqasi-2017-2018-gabala-fk-qarabag-fk-spiel/
+azerbaijan-2018-2019,1,2018-08-11,17:00,201808111700,saturday,Sumgayit FK,Neftçi PFK,0,2,2,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/premyer-liqasi-2018-2019-sumgayit-fk-neftci-pfk/
+azerbaijan-2018-2019,1,2018-08-12,16:00,201808121600,sunday,Gabala FK,Səbail FK,3,0,3,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/premyer-liqasi-2018-2019-gabala-fk-sbail-fk/
+azerbaijan-2018-2019,1,2018-08-12,18:00,201808121800,sunday,Keşlə FK,Sabah FK,0,1,1,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/premyer-liqasi-2018-2019-kesl-fk-sabah-fk/
+azerbaijan-2018-2019,2,2018-08-18,15:30,201808181530,saturday,Səbail FK,Qarabağ FK,0,2,2,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/premyer-liqasi-2018-2019-sbail-fk-qarabag-fk/
+azerbaijan-2018-2019,2,2018-08-18,17:30,201808181730,saturday,Zira FK,Keşlə FK,2,2,4,D,D,D,2,0,2,H,W,L,http://www.worldfootball.net/report/premyer-liqasi-2018-2019-zira-fk-kesl-fk/
+azerbaijan-2018-2019,2,2018-08-19,15:30,201808191530,sunday,Neftçi PFK,Gabala FK,2,1,3,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/premyer-liqasi-2018-2019-neftci-pfk-gabala-fk/
+azerbaijan-2018-2019,2,2018-08-19,17:30,201808191730,sunday,Sabah FK,Sumgayit FK,1,4,5,A,L,W,1,3,4,A,L,W,http://www.worldfootball.net/report/premyer-liqasi-2018-2019-sabah-fk-sumgayit-fk/
+azerbaijan-2018-2019,3,2018-08-25,15:00,201808251500,saturday,Gabala FK,Sumgayit FK,1,1,2,D,D,D,1,0,1,H,W,L,http://www.worldfootball.net/report/premyer-liqasi-2018-2019-gabala-fk-sumgayit-fk/
+azerbaijan-2018-2019,3,2018-08-25,17:30,201808251730,saturday,Zira FK,Sabah FK,0,2,2,A,L,W,0,2,2,A,L,W,http://www.worldfootball.net/report/premyer-liqasi-2018-2019-zira-fk-sabah-fk/
+azerbaijan-2018-2019,3,2018-08-26,15:00,201808261500,sunday,Keşlə FK,Səbail FK,1,2,3,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/premyer-liqasi-2018-2019-kesl-fk-sbail-fk/
+azerbaijan-2018-2019,3,2018-08-26,17:30,201808261730,sunday,Qarabağ FK,Neftçi PFK,1,1,2,D,D,D,0,1,1,A,L,W,http://www.worldfootball.net/report/premyer-liqasi-2018-2019-qarabag-fk-neftci-pfk/
+azerbaijan-2018-2019,4,2018-09-14,17:00,201809141700,friday,Sumgayit FK,Qarabağ FK,0,1,1,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/premyer-liqasi-2018-2019-sumgayit-fk-qarabag-fk/
+azerbaijan-2018-2019,4,2018-09-16,16:00,201809161600,sunday,Sabah FK,Gabala FK,1,0,1,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/premyer-liqasi-2018-2019-sabah-fk-gabala-fk/
+azerbaijan-2018-2019,4,2018-09-16,18:00,201809161800,sunday,Neftçi PFK,Keşlə FK,2,0,2,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/premyer-liqasi-2018-2019-neftci-pfk-kesl-fk/
+azerbaijan-2018-2019,5,2018-09-22,15:30,201809221530,saturday,Səbail FK,Sabah FK,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/premyer-liqasi-2018-2019-sbail-fk-sabah-fk/
+azerbaijan-2018-2019,5,2018-09-22,17:30,201809221730,saturday,Zira FK,Neftçi PFK,1,2,3,A,L,W,1,1,2,D,D,D,http://www.worldfootball.net/report/premyer-liqasi-2018-2019-zira-fk-neftci-pfk/
+azerbaijan-2018-2019,5,2018-09-23,15:30,201809231530,sunday,Keşlə FK,Sumgayit FK,1,2,3,A,L,W,1,0,1,H,W,L,http://www.worldfootball.net/report/premyer-liqasi-2018-2019-kesl-fk-sumgayit-fk/
+azerbaijan-2018-2019,5,2018-09-23,17:30,201809231730,sunday,Qarabağ FK,Gabala FK,4,1,5,H,W,L,2,0,2,H,W,L,http://www.worldfootball.net/report/premyer-liqasi-2018-2019-qarabag-fk-gabala-fk/
+azerbaijan-2018-2019,1,2018-09-26,17:00,201809261700,wednesday,Qarabağ FK,Zira FK,3,2,5,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/premyer-liqasi-2018-2019-qarabag-fk-zira-fk/
+azerbaijan-2018-2019,6,2018-09-29,15:55,201809291555,saturday,Neftçi PFK,Səbail FK,4,0,4,H,W,L,3,0,3,H,W,L,http://www.worldfootball.net/report/premyer-liqasi-2018-2019-neftci-pfk-sbail-fk/
+azerbaijan-2018-2019,6,2018-09-29,17:50,201809291750,saturday,Sabah FK,Qarabağ FK,0,2,2,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/premyer-liqasi-2018-2019-sabah-fk-qarabag-fk/
+azerbaijan-2018-2019,6,2018-09-30,15:00,201809301500,sunday,Gabala FK,Keşlə FK,1,1,2,D,D,D,0,1,1,A,L,W,http://www.worldfootball.net/report/premyer-liqasi-2018-2019-gabala-fk-kesl-fk/
+azerbaijan-2018-2019,6,2018-09-30,17:00,201809301700,sunday,Sumgayit FK,Zira FK,1,0,1,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/premyer-liqasi-2018-2019-sumgayit-fk-zira-fk/
+azerbaijan-2018-2019,7,2018-10-05,15:00,201810051500,friday,Zira FK,Gabala FK,1,0,1,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/premyer-liqasi-2018-2019-zira-fk-gabala-fk/
+azerbaijan-2018-2019,7,2018-10-05,16:00,201810051600,friday,Səbail FK,Sumgayit FK,2,0,2,H,W,L,2,0,2,H,W,L,http://www.worldfootball.net/report/premyer-liqasi-2018-2019-sbail-fk-sumgayit-fk/
+azerbaijan-2018-2019,7,2018-10-05,17:15,201810051715,friday,Neftçi PFK,Sabah FK,2,0,2,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/premyer-liqasi-2018-2019-neftci-pfk-sabah-fk/
+azerbaijan-2018-2019,8,2018-10-20,14:00,201810201400,saturday,Gabala FK,Neftçi PFK,3,1,4,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/premyer-liqasi-2018-2019-gabala-fk-neftci-pfk/
+azerbaijan-2018-2019,8,2018-10-20,16:00,201810201600,saturday,Qarabağ FK,Səbail FK,1,0,1,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/premyer-liqasi-2018-2019-qarabag-fk-sbail-fk/
+azerbaijan-2018-2019,8,2018-10-21,14:00,201810211400,sunday,Sumgayit FK,Sabah FK,0,1,1,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/premyer-liqasi-2018-2019-sumgayit-fk-sabah-fk/
+azerbaijan-2018-2019,8,2018-10-21,16:00,201810211600,sunday,Keşlə FK,Zira FK,1,0,1,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/premyer-liqasi-2018-2019-kesl-fk-zira-fk/
+azerbaijan-2018-2019,9,2018-10-27,13:00,201810271300,saturday,Sabah FK,Zira FK,2,1,3,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/premyer-liqasi-2018-2019-sabah-fk-zira-fk/
+azerbaijan-2018-2019,9,2018-10-27,15:00,201810271500,saturday,Sumgayit FK,Gabala FK,2,2,4,D,D,D,2,1,3,H,W,L,http://www.worldfootball.net/report/premyer-liqasi-2018-2019-sumgayit-fk-gabala-fk/
+azerbaijan-2018-2019,9,2018-10-28,11:00,201810281100,sunday,Səbail FK,Keşlə FK,2,1,3,H,W,L,2,0,2,H,W,L,http://www.worldfootball.net/report/premyer-liqasi-2018-2019-sbail-fk-kesl-fk/
+azerbaijan-2018-2019,9,2018-10-28,13:00,201810281300,sunday,Neftçi PFK,Qarabağ FK,3,1,4,H,W,L,2,0,2,H,W,L,http://www.worldfootball.net/report/premyer-liqasi-2018-2019-neftci-pfk-qarabag-fk/
+azerbaijan-2018-2019,7,2018-10-31,15:00,201810311500,wednesday,Keşlə FK,Qarabağ FK,1,1,2,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/premyer-liqasi-2018-2019-kesl-fk-qarabag-fk/
+azerbaijan-2018-2019,10,2018-11-03,13:00,201811031300,saturday,Keşlə FK,Neftçi PFK,0,1,1,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/premyer-liqasi-2018-2019-kesl-fk-neftci-pfk/
+azerbaijan-2018-2019,10,2018-11-03,15:00,201811031500,saturday,Qarabağ FK,Sumgayit FK,2,0,2,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/premyer-liqasi-2018-2019-qarabag-fk-sumgayit-fk/
+azerbaijan-2018-2019,10,2018-11-04,13:00,201811041300,sunday,Gabala FK,Sabah FK,2,1,3,H,W,L,2,0,2,H,W,L,http://www.worldfootball.net/report/premyer-liqasi-2018-2019-gabala-fk-sabah-fk/
+azerbaijan-2018-2019,10,2018-11-04,15:00,201811041500,sunday,Zira FK,Səbail FK,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/premyer-liqasi-2018-2019-zira-fk-sbail-fk/
+azerbaijan-2018-2019,11,2018-11-10,13:30,201811101330,saturday,Sabah FK,Səbail FK,0,4,4,A,L,W,0,2,2,A,L,W,http://www.worldfootball.net/report/premyer-liqasi-2018-2019-sabah-fk-sbail-fk/
+azerbaijan-2018-2019,11,2018-11-10,15:30,201811101530,saturday,Neftçi PFK,Zira FK,2,2,4,D,D,D,1,0,1,H,W,L,http://www.worldfootball.net/report/premyer-liqasi-2018-2019-neftci-pfk-zira-fk/
+azerbaijan-2018-2019,11,2018-11-11,13:30,201811111330,sunday,Gabala FK,Qarabağ FK,1,3,4,A,L,W,1,0,1,H,W,L,http://www.worldfootball.net/report/premyer-liqasi-2018-2019-gabala-fk-qarabag-fk/
+azerbaijan-2018-2019,11,2018-11-11,15:30,201811111530,sunday,Sumgayit FK,Keşlə FK,1,4,5,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/premyer-liqasi-2018-2019-sumgayit-fk-kesl-fk/
+azerbaijan-2018-2019,12,2018-11-24,12:30,201811241230,saturday,Keşlə FK,Gabala FK,1,2,3,A,L,W,1,2,3,A,L,W,http://www.worldfootball.net/report/premyer-liqasi-2018-2019-kesl-fk-gabala-fk/
+azerbaijan-2018-2019,12,2018-11-24,15:00,201811241500,saturday,Qarabağ FK,Sabah FK,1,1,2,D,D,D,1,1,2,D,D,D,http://www.worldfootball.net/report/premyer-liqasi-2018-2019-qarabag-fk-sabah-fk/
+azerbaijan-2018-2019,12,2018-11-25,13:00,201811251300,sunday,Səbail FK,Neftçi PFK,0,2,2,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/premyer-liqasi-2018-2019-sbail-fk-neftci-pfk/
+azerbaijan-2018-2019,12,2018-11-25,15:00,201811251500,sunday,Zira FK,Sumgayit FK,3,1,4,H,W,L,1,1,2,D,D,D,http://www.worldfootball.net/report/premyer-liqasi-2018-2019-zira-fk-sumgayit-fk/
+azerbaijan-2018-2019,13,2018-12-01,12:30,201812011230,saturday,Sabah FK,Neftçi PFK,1,2,3,A,L,W,0,2,2,A,L,W,http://www.worldfootball.net/report/premyer-liqasi-2018-2019-sabah-fk-neftci-pfk/
+azerbaijan-2018-2019,13,2018-12-01,15:00,201812011500,saturday,Sumgayit FK,Səbail FK,1,0,1,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/premyer-liqasi-2018-2019-sumgayit-fk-sbail-fk/
+azerbaijan-2018-2019,13,2018-12-02,13:00,201812021300,sunday,Gabala FK,Zira FK,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/premyer-liqasi-2018-2019-gabala-fk-zira-fk/
+azerbaijan-2018-2019,13,2018-12-03,15:00,201812031500,monday,Qarabağ FK,Keşlə FK,5,1,6,H,W,L,1,1,2,D,D,D,http://www.worldfootball.net/report/premyer-liqasi-2018-2019-qarabag-fk-kesl-fk/
+azerbaijan-2018-2019,14,2018-12-09,12:00,201812091200,sunday,Sabah FK,Keşlə FK,1,2,3,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/premyer-liqasi-2018-2019-sabah-fk-kesl-fk/
+azerbaijan-2018-2019,14,2018-12-09,13:00,201812091300,sunday,Zira FK,Qarabağ FK,0,6,6,A,L,W,0,3,3,A,L,W,http://www.worldfootball.net/report/premyer-liqasi-2018-2019-zira-fk-qarabag-fk/
+azerbaijan-2018-2019,14,2018-12-09,13:30,201812091330,sunday,Səbail FK,Gabala FK,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/premyer-liqasi-2018-2019-sbail-fk-gabala-fk/
+azerbaijan-2018-2019,14,2018-12-09,15:30,201812091530,sunday,Neftçi PFK,Sumgayit FK,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/premyer-liqasi-2018-2019-neftci-pfk-sumgayit-fk/
+azerbaijan-2018-2019,15,2019-02-02,12:30,201902021230,saturday,Zira FK,Sabah FK,0,2,2,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/premyer-liqasi-2018-2019-zira-fk-sabah-fk-spiel/
+azerbaijan-2018-2019,15,2019-02-02,15:00,201902021500,saturday,Keşlə FK,Səbail FK,0,3,3,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/premyer-liqasi-2018-2019-kesl-fk-sbail-fk-spiel/
+azerbaijan-2018-2019,15,2019-02-03,10:00,201902031000,sunday,Gabala FK,Sumgayit FK,1,0,1,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/premyer-liqasi-2018-2019-gabala-fk-sumgayit-fk-spiel/
+azerbaijan-2018-2019,15,2019-02-03,14:30,201902031430,sunday,Qarabağ FK,Neftçi PFK,1,1,2,D,D,D,1,1,2,D,D,D,http://www.worldfootball.net/report/premyer-liqasi-2018-2019-qarabag-fk-neftci-pfk-spiel/
+azerbaijan-2018-2019,16,2019-02-09,12:00,201902091200,saturday,Sabah FK,Gabala FK,0,1,1,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/premyer-liqasi-2018-2019-sabah-fk-gabala-fk-spiel/
+azerbaijan-2018-2019,16,2019-02-09,14:30,201902091430,saturday,Sumgayit FK,Qarabağ FK,0,2,2,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/premyer-liqasi-2018-2019-sumgayit-fk-qarabag-fk-spiel/
+azerbaijan-2018-2019,16,2019-02-10,10:00,201902101000,sunday,Neftçi PFK,Keşlə FK,2,0,2,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/premyer-liqasi-2018-2019-neftci-pfk-kesl-fk-spiel/
+azerbaijan-2018-2019,16,2019-02-10,12:30,201902101230,sunday,Səbail FK,Zira FK,0,2,2,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/premyer-liqasi-2018-2019-sbail-fk-zira-fk-spiel/
+azerbaijan-2018-2019,17,2019-02-16,11:00,201902161100,saturday,Keşlə FK,Sumgayit FK,2,1,3,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/premyer-liqasi-2018-2019-kesl-fk-sumgayit-fk-spiel/
+azerbaijan-2018-2019,17,2019-02-16,13:30,201902161330,saturday,Zira FK,Neftçi PFK,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/premyer-liqasi-2018-2019-zira-fk-neftci-pfk-spiel/
+azerbaijan-2018-2019,17,2019-02-17,11:00,201902171100,sunday,Səbail FK,Sabah FK,1,0,1,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/premyer-liqasi-2018-2019-sbail-fk-sabah-fk-spiel/
+azerbaijan-2018-2019,17,2019-02-17,13:30,201902171330,sunday,Qarabağ FK,Gabala FK,2,1,3,H,W,L,2,1,3,H,W,L,http://www.worldfootball.net/report/premyer-liqasi-2018-2019-qarabag-fk-gabala-fk-spiel/

@@ -23,7 +23,7 @@ saudi arabia-2006-2007,4,2006-10-05,,200610050000,thursday,Al Shabab,Al Wehda,3,
 saudi arabia-2006-2007,4,2006-10-06,,200610060000,friday,Al Hazem,Al Khaleej,1,0,1,H,W,L,,,,,,,
 saudi arabia-2006-2007,2,2006-10-08,,200610080000,sunday,Al Ittihad,Al Qadisiya,2,1,3,H,W,L,,,,,,,
 saudi arabia-2006-2007,5,2006-10-26,,200610260000,thursday,Al Khaleej,Al Ettifaq,2,5,7,A,L,W,,,,,,,
-saudi arabia-2006-2007,5,2006-10-28,,200610280000,saturday,Al Ahli SFC,Al Faysali,0,0,0,D,D,D,0,0,0,D,D,D,
+saudi arabia-2006-2007,5,2006-10-28,,200610280000,saturday,Al Ahli SFC,Al Faysali,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
 saudi arabia-2006-2007,5,2006-10-28,,200610280000,saturday,Al Nassr,Al Tai,1,0,1,H,W,L,,,,,,,
 saudi arabia-2006-2007,5,2006-10-29,,200610290000,sunday,Al Qadisiya,Al Shabab,1,3,4,A,L,W,,,,,,,
 saudi arabia-2006-2007,5,2006-10-29,,200610290000,sunday,Al Wehda,Al Hazem,5,2,7,H,W,L,,,,,,,
@@ -64,11 +64,11 @@ saudi arabia-2006-2007,11,2006-12-14,,200612140000,thursday,Al Hazem,Al Qadisiya
 saudi arabia-2006-2007,11,2006-12-14,,200612140000,thursday,Al Hilal,Al Shabab,4,0,4,H,W,L,,,,,,,
 saudi arabia-2006-2007,11,2006-12-15,,200612150000,friday,Al Faysali,Al Ittihad,1,5,6,A,L,W,,,,,,,
 saudi arabia-2006-2007,11,2006-12-16,,200612160000,saturday,Al Nassr,Al Wehda,2,3,5,A,L,W,,,,,,,
-saudi arabia-2006-2007,12,2006-12-19,,200612190000,tuesday,Al Ettifaq,Al Qadisiya,0,0,0,D,D,D,0,0,0,D,D,D,
+saudi arabia-2006-2007,12,2006-12-19,,200612190000,tuesday,Al Ettifaq,Al Qadisiya,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
 saudi arabia-2006-2007,12,2006-12-20,,200612200000,wednesday,Al Tai,Al Ittihad,0,1,1,A,L,W,,,,,,,
 saudi arabia-2006-2007,12,2006-12-20,,200612200000,wednesday,Al Faysali,Al Shabab,1,0,1,H,W,L,,,,,,,
-saudi arabia-2006-2007,12,2006-12-20,,200612200000,wednesday,Al Khaleej,Al Hilal,0,0,0,D,D,D,0,0,0,D,D,D,
-saudi arabia-2006-2007,13,2006-12-25,,200612250000,monday,Al Hilal,Al Wehda,0,0,0,D,D,D,0,0,0,D,D,D,
+saudi arabia-2006-2007,12,2006-12-20,,200612200000,wednesday,Al Khaleej,Al Hilal,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
+saudi arabia-2006-2007,13,2006-12-25,,200612250000,monday,Al Hilal,Al Wehda,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
 saudi arabia-2006-2007,13,2006-12-25,,200612250000,monday,Al Ahli SFC,Al Hazem,3,2,5,H,W,L,,,,,,,
 saudi arabia-2006-2007,13,2006-12-26,,200612260000,tuesday,Al Shabab,Al Khaleej,3,1,4,H,W,L,,,,,,,
 saudi arabia-2006-2007,13,2006-12-26,,200612260000,tuesday,Al Tai,Al Faysali,1,1,2,D,D,D,,,,,,,
@@ -119,14 +119,14 @@ saudi arabia-2006-2007,20,2007-04-15,,200704150000,sunday,Al Ettifaq,Al Ittihad,
 saudi arabia-2006-2007,20,2007-04-15,,200704150000,sunday,Al Ahli SFC,Al Shabab,1,5,6,A,L,W,,,,,,,
 saudi arabia-2006-2007,20,2007-04-15,,200704150000,sunday,Al Nassr,Al Hilal,0,1,1,A,L,W,,,,,,,
 saudi arabia-2006-2007,21,2007-04-26,,200704260000,thursday,Al Wehda,Al Qadisiya,2,2,4,D,D,D,,,,,,,
-saudi arabia-2006-2007,21,2007-04-26,,200704260000,thursday,Al Nassr,Al Khaleej,0,0,0,D,D,D,0,0,0,D,D,D,
+saudi arabia-2006-2007,21,2007-04-26,,200704260000,thursday,Al Nassr,Al Khaleej,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
 saudi arabia-2006-2007,21,2007-04-26,,200704260000,thursday,Al Ettifaq,Al Faysali,4,2,6,H,W,L,,,,,,,
 saudi arabia-2006-2007,21,2007-04-26,,200704260000,thursday,Al Hazem,Al Tai,2,1,3,H,W,L,,,,,,,
 saudi arabia-2006-2007,21,2007-04-30,,200704300000,monday,Al Hilal,Al Ahli SFC,3,0,3,H,W,L,,,,,,,
 saudi arabia-2006-2007,21,2007-04-30,,200704300000,monday,Al Ittihad,Al Shabab,2,1,3,H,W,L,,,,,,,
 saudi arabia-2006-2007,15,2007-05-04,,200705040000,friday,Al Ahli SFC,Al Ittihad,1,1,2,D,D,D,,,,,,,
 saudi arabia-2006-2007,22,2007-05-04,,200705040000,friday,Al Shabab,Al Hilal,3,1,4,H,W,L,,,,,,,
-saudi arabia-2006-2007,22,2007-05-10,,200705100000,thursday,Al Qadisiya,Al Hazem,0,0,0,D,D,D,0,0,0,D,D,D,
+saudi arabia-2006-2007,22,2007-05-10,,200705100000,thursday,Al Qadisiya,Al Hazem,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
 saudi arabia-2006-2007,22,2007-05-10,,200705100000,thursday,Al Khaleej,Al Ahli SFC,1,1,2,D,D,D,,,,,,,
 saudi arabia-2006-2007,22,2007-05-10,,200705100000,thursday,Al Tai,Al Ettifaq,1,0,1,H,W,L,,,,,,,
 saudi arabia-2006-2007,22,2007-05-10,,200705100000,thursday,Al Wehda,Al Nassr,2,0,2,H,W,L,,,,,,,
@@ -1986,3 +1986,185 @@ saudi arabia-2017-2018,26,2018-04-12,17:00,201804121700,thursday,Al Faysali,Al S
 saudi arabia-2017-2018,26,2018-04-12,17:05,201804121705,thursday,Al Ra’ed,Al Ittihad,3,1,4,H,W,L,0.0,0.0,0.0,D,D,D,
 saudi arabia-2017-2018,26,2018-04-12,18:40,201804121840,thursday,Al Ahli SFC,Ohod Club,1,0,1,H,W,L,1.0,0.0,1.0,H,W,L,
 saudi arabia-2017-2018,26,2018-04-12,18:40,201804121840,thursday,Al Hilal,Al Fateh,4,1,5,H,W,L,4.0,0.0,4.0,H,W,L,
+saudi arabia-2018-2019,1,2018-08-30,16:40,201808301640,thursday,Al Ettifaq,Al Ra’ed,1,1,2,D,D,D,1,0,1,H,W,L,http://www.worldfootball.net/report/premier-league-2018-2019-al-ettifaq-al-raed/
+saudi arabia-2018-2019,1,2018-08-30,17:05,201808301705,thursday,Al Wehda,Al Hazem,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/premier-league-2018-2019-al-wehda-al-hazem/
+saudi arabia-2018-2019,1,2018-08-30,17:15,201808301715,thursday,Ohod Club,Al Nassr,1,2,3,A,L,W,1,1,2,D,D,D,http://www.worldfootball.net/report/premier-league-2018-2019-ohod-club-al-nassr/
+saudi arabia-2018-2019,1,2018-08-31,16:40,201808311640,friday,Al Qadsiah,Al Fateh,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/premier-league-2018-2019-al-qadsiah-al-fateh/
+saudi arabia-2018-2019,1,2018-08-31,16:55,201808311655,friday,Al Shabab,Al Ittihad,1,0,1,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/premier-league-2018-2019-al-shabab-al-ittihad/
+saudi arabia-2018-2019,1,2018-08-31,16:55,201808311655,friday,Al Hilal,Al Fayha,1,0,1,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/premier-league-2018-2019-al-hilal-al-fayha/
+saudi arabia-2018-2019,1,2018-08-31,17:00,201808311700,friday,Al Faysali,Al Batin,2,2,4,D,D,D,2,0,2,H,W,L,http://www.worldfootball.net/report/premier-league-2018-2019-al-faysali-al-baten/
+saudi arabia-2018-2019,1,2018-08-31,17:00,201808311700,friday,Al Faysali,Al Baten,2,2,4,D,D,D,2.0,0.0,2.0,H,W,L,http://www.worldfootball.net/report/premier-league-2018-2019-al-faysali-al-baten/
+saudi arabia-2018-2019,1,2018-09-01,17:20,201809011720,saturday,Al Ahli SFC,Al Taawoun,1,1,2,D,D,D,0,1,1,A,L,W,http://www.worldfootball.net/report/premier-league-2018-2019-al-ahli-sfc-al-taawoun/
+saudi arabia-2018-2019,2,2018-09-13,16:25,201809131625,thursday,Al Ettifaq,Al Batin,3,2,5,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/premier-league-2018-2019-al-ettifaq-al-baten/
+saudi arabia-2018-2019,2,2018-09-13,16:25,201809131625,thursday,Al Ettifaq,Al Baten,3,2,5,H,W,L,1.0,0.0,1.0,H,W,L,http://www.worldfootball.net/report/premier-league-2018-2019-al-ettifaq-al-baten/
+saudi arabia-2018-2019,2,2018-09-13,16:30,201809131630,thursday,Al Fateh,Al Wehda,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/premier-league-2018-2019-al-fateh-al-wehda/
+saudi arabia-2018-2019,2,2018-09-13,16:50,201809131650,thursday,Al Hazem,Al Taawoun,1,1,2,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/premier-league-2018-2019-al-hazem-al-taawoun/
+saudi arabia-2018-2019,2,2018-09-14,16:40,201809141640,friday,Al Nassr,Al Faysali,2,1,3,H,W,L,1,1,2,D,D,D,http://www.worldfootball.net/report/premier-league-2018-2019-al-nassr-al-faysali/
+saudi arabia-2018-2019,2,2018-09-14,16:45,201809141645,friday,Al Fayha,Al Shabab,1,3,4,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/premier-league-2018-2019-al-fayha-al-shabab/
+saudi arabia-2018-2019,2,2018-09-14,18:30,201809141830,friday,Ohod Club,Al Ahli SFC,0,2,2,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/premier-league-2018-2019-ohod-club-al-ahli-sfc/
+saudi arabia-2018-2019,2,2018-09-15,16:50,201809151650,saturday,Al Ra’ed,Al Hilal,1,3,4,A,L,W,0,2,2,A,L,W,http://www.worldfootball.net/report/premier-league-2018-2019-al-raed-al-hilal/
+saudi arabia-2018-2019,2,2018-09-15,18:45,201809151845,saturday,Al Ittihad,Al Qadsiah,0,3,3,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/premier-league-2018-2019-al-ittihad-al-qadsiah/
+saudi arabia-2018-2019,3,2018-09-19,18:20,201809191820,wednesday,Al Qadsiah,Al Nassr,0,3,3,A,L,W,0,2,2,A,L,W,http://www.worldfootball.net/report/premier-league-2018-2019-al-qadsiah-al-nassr/
+saudi arabia-2018-2019,3,2018-09-20,16:30,201809201630,thursday,Al Shabab,Al Fateh,1,1,2,D,D,D,1,1,2,D,D,D,http://www.worldfootball.net/report/premier-league-2018-2019-al-shabab-al-fateh/
+saudi arabia-2018-2019,3,2018-09-20,16:45,201809201645,thursday,Al Taawoun,Al Ittihad,5,3,8,H,W,L,2,2,4,D,D,D,http://www.worldfootball.net/report/premier-league-2018-2019-al-taawoun-al-ittihad/
+saudi arabia-2018-2019,3,2018-09-20,18:45,201809201845,thursday,Al Hilal,Al Batin,3,1,4,H,W,L,3,0,3,H,W,L,http://www.worldfootball.net/report/premier-league-2018-2019-al-hilal-al-baten/
+saudi arabia-2018-2019,3,2018-09-20,18:45,201809201845,thursday,Al Hilal,Al Baten,3,1,4,H,W,L,3.0,0.0,3.0,H,W,L,http://www.worldfootball.net/report/premier-league-2018-2019-al-hilal-al-baten/
+saudi arabia-2018-2019,3,2018-09-21,16:15,201809211615,friday,Al Ettifaq,Al Fayha,3,0,3,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/premier-league-2018-2019-al-ettifaq-al-fayha/
+saudi arabia-2018-2019,3,2018-09-21,16:35,201809211635,friday,Al Faysali,Ohod Club,2,0,2,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/premier-league-2018-2019-al-faysali-ohod-club/
+saudi arabia-2018-2019,3,2018-09-21,18:35,201809211835,friday,Al Ahli SFC,Al Hazem,2,0,2,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/premier-league-2018-2019-al-ahli-sfc-al-hazem/
+saudi arabia-2018-2019,3,2018-09-22,17:00,201809221700,saturday,Al Wehda,Al Ra’ed,4,1,5,H,W,L,2,0,2,H,W,L,http://www.worldfootball.net/report/premier-league-2018-2019-al-wehda-al-raed/
+saudi arabia-2018-2019,4,2018-09-24,16:10,201809241610,monday,Al Fateh,Al Hilal,2,3,5,A,L,W,1,0,1,H,W,L,http://www.worldfootball.net/report/premier-league-2018-2019-al-fateh-al-hilal/
+saudi arabia-2018-2019,4,2018-09-24,18:10,201809241810,monday,Al Nassr,Al Taawoun,1,0,1,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/premier-league-2018-2019-al-nassr-al-taawoun/
+saudi arabia-2018-2019,4,2018-09-26,18:35,201809261835,wednesday,Al Ittihad,Al Wehda,2,2,4,D,D,D,0,1,1,A,L,W,http://www.worldfootball.net/report/premier-league-2018-2019-al-ittihad-al-wehda/
+saudi arabia-2018-2019,4,2018-09-27,16:10,201809271610,thursday,Al Ettifaq,Ohod Club,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/premier-league-2018-2019-al-ettifaq-ohod-club/
+saudi arabia-2018-2019,4,2018-09-27,16:35,201809271635,thursday,Al Hazem,Al Faysali,2,1,3,H,W,L,0,1,1,A,L,W,http://www.worldfootball.net/report/premier-league-2018-2019-al-hazem-al-faysali/
+saudi arabia-2018-2019,4,2018-09-28,16:30,201809281630,friday,Al Fayha,Al Qadsiah,4,2,6,H,W,L,1,1,2,D,D,D,http://www.worldfootball.net/report/premier-league-2018-2019-al-fayha-al-qadsiah/
+saudi arabia-2018-2019,4,2018-09-28,16:35,201809281635,friday,Al Ra’ed,Al Shabab,1,1,2,D,D,D,1,1,2,D,D,D,http://www.worldfootball.net/report/premier-league-2018-2019-al-raed-al-shabab/
+saudi arabia-2018-2019,4,2018-09-29,18:35,201809291835,saturday,Al Ahli SFC,Al Batin,2,0,2,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/premier-league-2018-2019-al-ahli-sfc-al-baten/
+saudi arabia-2018-2019,4,2018-09-29,18:35,201809291835,saturday,Al Ahli SFC,Al Baten,2,0,2,H,W,L,1.0,0.0,1.0,H,W,L,http://www.worldfootball.net/report/premier-league-2018-2019-al-ahli-sfc-al-baten/
+saudi arabia-2018-2019,5,2018-10-04,16:05,201810041605,thursday,Al Fateh,Al Ittihad,2,0,2,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/premier-league-2018-2019-al-fateh-al-ittihad/
+saudi arabia-2018-2019,5,2018-10-04,16:20,201810041620,thursday,Al Fayha,Al Ra’ed,0,3,3,A,L,W,0,2,2,A,L,W,http://www.worldfootball.net/report/premier-league-2018-2019-al-fayha-al-raed/
+saudi arabia-2018-2019,5,2018-10-05,16:25,201810051625,friday,Al Taawoun,Al Shabab,1,1,2,D,D,D,0,1,1,A,L,W,http://www.worldfootball.net/report/premier-league-2018-2019-al-taawoun-al-shabab/
+saudi arabia-2018-2019,5,2018-10-05,16:45,201810051645,friday,Ohod Club,Al Batin,0,1,1,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/premier-league-2018-2019-ohod-club-al-baten/
+saudi arabia-2018-2019,5,2018-10-05,16:45,201810051645,friday,Ohod Club,Al Baten,0,1,1,A,L,W,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/premier-league-2018-2019-ohod-club-al-baten/
+saudi arabia-2018-2019,5,2018-10-05,16:50,201810051650,friday,Al Ahli SFC,Al Faysali,2,0,2,H,W,L,2,0,2,H,W,L,http://www.worldfootball.net/report/premier-league-2018-2019-al-ahli-sfc-al-faysali/
+saudi arabia-2018-2019,5,2018-10-05,18:40,201810051840,friday,Al Nassr,Al Hazem,5,1,6,H,W,L,1,1,2,D,D,D,http://www.worldfootball.net/report/premier-league-2018-2019-al-nassr-al-hazem/
+saudi arabia-2018-2019,5,2018-10-06,16:00,201810061600,saturday,Al Qadsiah,Al Wehda,0,1,1,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/premier-league-2018-2019-al-qadsiah-al-wehda/
+saudi arabia-2018-2019,6,2018-10-18,16:15,201810181615,thursday,Al Hazem,Al Qadsiah,2,1,3,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/premier-league-2018-2019-al-hazem-al-qadsiah/
+saudi arabia-2018-2019,6,2018-10-18,16:35,201810181635,thursday,Al Wehda,Al Fayha,2,1,3,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/premier-league-2018-2019-al-wehda-al-fayha/
+saudi arabia-2018-2019,6,2018-10-19,16:10,201810191610,friday,Al Batin,Al Nassr,0,2,2,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/premier-league-2018-2019-al-baten-al-nassr/
+saudi arabia-2018-2019,6,2018-10-19,16:10,201810191610,friday,Al Faysali,Al Taawoun,1,4,5,A,L,W,1,2,3,A,L,W,http://www.worldfootball.net/report/premier-league-2018-2019-al-faysali-al-taawoun/
+saudi arabia-2018-2019,6,2018-10-19,16:10,201810191610,friday,Al Baten,Al Nassr,0,2,2,A,L,W,0.0,1.0,1.0,A,L,W,http://www.worldfootball.net/report/premier-league-2018-2019-al-baten-al-nassr/
+saudi arabia-2018-2019,6,2018-10-19,16:15,201810191615,friday,Al Ra’ed,Al Fateh,0,3,3,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/premier-league-2018-2019-al-raed-al-fateh/
+saudi arabia-2018-2019,6,2018-10-19,18:00,201810191800,friday,Al Ittihad,Ohod Club,1,1,2,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/premier-league-2018-2019-al-ittihad-ohod-club/
+saudi arabia-2018-2019,6,2018-10-20,15:50,201810201550,saturday,Al Ettifaq,Al Ahli SFC,6,2,8,H,W,L,2,1,3,H,W,L,http://www.worldfootball.net/report/premier-league-2018-2019-al-ettifaq-al-ahli-sfc/
+saudi arabia-2018-2019,6,2018-10-20,17:45,201810201745,saturday,Al Shabab,Al Hilal,0,1,1,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/premier-league-2018-2019-al-shabab-al-hilal/
+saudi arabia-2018-2019,7,2018-10-24,16:05,201810241605,wednesday,Al Faysali,Al Ra’ed,2,0,2,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/premier-league-2018-2019-al-faysali-al-raed/
+saudi arabia-2018-2019,7,2018-10-25,15:40,201810251540,thursday,Al Ettifaq,Al Hazem,1,0,1,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/premier-league-2018-2019-al-ettifaq-al-hazem/
+saudi arabia-2018-2019,7,2018-10-25,16:30,201810251630,thursday,Al Ahli SFC,Al Fateh,5,1,6,H,W,L,2,0,2,H,W,L,http://www.worldfootball.net/report/premier-league-2018-2019-al-ahli-sfc-al-fateh/
+saudi arabia-2018-2019,7,2018-10-25,18:30,201810251830,thursday,Al Hilal,Al Ittihad,3,1,4,H,W,L,1,1,2,D,D,D,http://www.worldfootball.net/report/premier-league-2018-2019-al-hilal-al-ittihad/
+saudi arabia-2018-2019,7,2018-10-26,16:05,201810261605,friday,Al Shabab,Al Qadsiah,2,1,3,H,W,L,1,1,2,D,D,D,http://www.worldfootball.net/report/premier-league-2018-2019-al-shabab-al-qadsiah/
+saudi arabia-2018-2019,7,2018-10-26,16:10,201810261610,friday,Al Batin,Al Taawoun,0,5,5,A,L,W,0,2,2,A,L,W,http://www.worldfootball.net/report/premier-league-2018-2019-al-baten-al-taawoun/
+saudi arabia-2018-2019,7,2018-10-26,16:10,201810261610,friday,Al Baten,Al Taawoun,0,5,5,A,L,W,0.0,2.0,2.0,A,L,W,http://www.worldfootball.net/report/premier-league-2018-2019-al-baten-al-taawoun/
+saudi arabia-2018-2019,7,2018-10-26,16:25,201810261625,friday,Ohod Club,Al Wehda,1,3,4,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/premier-league-2018-2019-ohod-club-al-wehda/
+saudi arabia-2018-2019,7,2018-10-26,17:45,201810261745,friday,Al Fayha,Al Nassr,1,1,2,D,D,D,0,1,1,A,L,W,http://www.worldfootball.net/report/premier-league-2018-2019-al-fayha-al-nassr/
+saudi arabia-2018-2019,8,2018-11-01,14:35,201811011435,thursday,Al Fateh,Al Fayha,1,2,3,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/premier-league-2018-2019-al-fateh-al-fayha/
+saudi arabia-2018-2019,8,2018-11-01,15:00,201811011500,thursday,Al Batin,Al Hazem,1,0,1,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/premier-league-2018-2019-al-baten-al-hazem/
+saudi arabia-2018-2019,8,2018-11-01,15:00,201811011500,thursday,Al Faysali,Al Ettifaq,5,1,6,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/premier-league-2018-2019-al-faysali-al-ettifaq/
+saudi arabia-2018-2019,8,2018-11-01,15:00,201811011500,thursday,Al Baten,Al Hazem,1,0,1,H,W,L,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/premier-league-2018-2019-al-baten-al-hazem/
+saudi arabia-2018-2019,8,2018-11-01,15:25,201811011525,thursday,Al Wehda,Al Shabab,0,1,1,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/premier-league-2018-2019-al-wehda-al-shabab/
+saudi arabia-2018-2019,8,2018-11-01,16:50,201811011650,thursday,Al Ittihad,Al Ra’ed,1,2,3,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/premier-league-2018-2019-al-ittihad-al-raed/
+saudi arabia-2018-2019,8,2018-11-02,14:35,201811021435,friday,Al Qadsiah,Al Hilal,0,2,2,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/premier-league-2018-2019-al-qadsiah-al-hilal/
+saudi arabia-2018-2019,8,2018-11-02,15:20,201811021520,friday,Ohod Club,Al Taawoun,1,0,1,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/premier-league-2018-2019-ohod-club-al-taawoun/
+saudi arabia-2018-2019,8,2018-11-03,14:55,201811031455,saturday,Al Nassr,Al Ahli SFC,0,2,2,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/premier-league-2018-2019-al-nassr-al-ahli-sfc/
+saudi arabia-2018-2019,5,2018-11-06,14:55,201811061455,tuesday,Al Hilal,Al Ettifaq,4,1,5,H,W,L,2,0,2,H,W,L,http://www.worldfootball.net/report/premier-league-2018-2019-al-hilal-al-ettifaq/
+saudi arabia-2018-2019,9,2018-11-08,14:45,201811081445,thursday,Al Batin,Al Fateh,2,2,4,D,D,D,0,2,2,A,L,W,http://www.worldfootball.net/report/premier-league-2018-2019-al-batin-al-fateh/
+saudi arabia-2018-2019,9,2018-11-08,14:45,201811081445,thursday,Al Baten,Al Fateh,2,2,4,D,D,D,0.0,2.0,2.0,A,L,W,
+saudi arabia-2018-2019,9,2018-11-08,14:50,201811081450,thursday,Al Faysali,Al Shabab,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/premier-league-2018-2019-al-faysali-al-shabab/
+saudi arabia-2018-2019,9,2018-11-08,15:15,201811081515,thursday,Ohod Club,Al Hazem,3,3,6,D,D,D,1,2,3,A,L,W,http://www.worldfootball.net/report/premier-league-2018-2019-ohod-club-al-hazem/
+saudi arabia-2018-2019,9,2018-11-09,15:20,201811091520,friday,Al Ahli SFC,Al Qadsiah,0,2,2,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/premier-league-2018-2019-al-ahli-sfc-al-qadsiah/
+saudi arabia-2018-2019,9,2018-11-10,14:50,201811101450,saturday,Al Fayha,Al Ittihad,2,1,3,H,W,L,1,1,2,D,D,D,http://www.worldfootball.net/report/premier-league-2018-2019-al-fayha-al-ittihad/
+saudi arabia-2018-2019,9,2018-11-11,15:20,201811111520,sunday,Al Hilal,Al Wehda,3,0,3,H,W,L,3,0,3,H,W,L,http://www.worldfootball.net/report/premier-league-2018-2019-al-hilal-al-wehda/
+saudi arabia-2018-2019,9,2018-11-11,17:15,201811111715,sunday,Al Ettifaq,Al Nassr,1,2,3,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/premier-league-2018-2019-al-ettifaq-al-nassr/
+saudi arabia-2018-2019,10,2018-11-22,11:45,201811221145,thursday,Al Fateh,Ohod Club,4,0,4,H,W,L,2,0,2,H,W,L,http://www.worldfootball.net/report/premier-league-2018-2019-al-fateh-ohod-club/
+saudi arabia-2018-2019,10,2018-11-22,14:50,201811221450,thursday,Al Fayha,Al Hazem,1,1,2,D,D,D,,,,,,,http://www.worldfootball.net/report/premier-league-2018-2019-al-fayha-al-hazem/
+saudi arabia-2018-2019,10,2018-11-22,15:20,201811221520,thursday,Al Wehda,Al Batin,1,0,1,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/premier-league-2018-2019-al-wehda-al-batin/
+saudi arabia-2018-2019,10,2018-11-22,15:20,201811221520,thursday,Al Wehda,Al Baten,1,0,1,H,W,L,1.0,0.0,1.0,H,W,L,
+saudi arabia-2018-2019,10,2018-11-23,14:30,201811231430,friday,Al Qadsiah,Al Ra’ed,3,1,4,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/premier-league-2018-2019-al-qadsiah-al-raed/
+saudi arabia-2018-2019,10,2018-11-23,16:40,201811231640,friday,Al Nassr,Al Shabab,1,0,1,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/premier-league-2018-2019-al-nassr-al-shabab/
+saudi arabia-2018-2019,10,2018-11-24,14:30,201811241430,saturday,Al Ettifaq,Al Taawoun,2,4,6,A,L,W,2.0,1.0,3.0,H,W,L,
+saudi arabia-2018-2019,10,2018-11-24,14:50,201811241450,saturday,Al Faysali,Al Hilal,1,1,2,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/premier-league-2018-2019-al-faysali-al-hilal/
+saudi arabia-2018-2019,10,2018-11-25,,201811250000,sunday,Al Ittihad,Al Ahli SFC,1,3,4,A,L,W,,,,,,,http://www.worldfootball.net/report/premier-league-2018-2019-al-ittihad-al-ahli-sfc/
+saudi arabia-2018-2019,11,2018-11-29,14:45,201811291445,thursday,Al Shabab,Al Ettifaq,2,2,4,D,D,D,1,2,3,A,L,W,http://www.worldfootball.net/report/premier-league-2018-2019-al-shabab-al-ettifaq/
+saudi arabia-2018-2019,11,2018-11-30,14:25,201811301425,friday,Al Qadsiah,Al Faysali,1,1,2,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/premier-league-2018-2019-al-qadsiah-al-faysali/
+saudi arabia-2018-2019,11,2018-11-30,15:30,201811301530,friday,Al Ahli SFC,Al Fayha,1,1,2,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/premier-league-2018-2019-al-ahli-sfc-al-fayha/
+saudi arabia-2018-2019,11,2018-12-01,14:25,201812011425,saturday,Al Fateh,Al Taawoun,0,2,2,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/premier-league-2018-2019-al-fateh-al-taawoun/
+saudi arabia-2018-2019,11,2018-12-01,14:40,201812011440,saturday,Al Batin,Al Ra’ed,1,3,4,A,L,W,0,2,2,A,L,W,http://www.worldfootball.net/report/premier-league-2018-2019-al-baten-al-raed/
+saudi arabia-2018-2019,11,2018-12-01,14:40,201812011440,saturday,Al Baten,Al Ra’ed,1,3,4,A,L,W,0.0,2.0,2.0,A,L,W,http://www.worldfootball.net/report/premier-league-2018-2019-al-baten-al-raed/
+saudi arabia-2018-2019,11,2018-12-02,14:45,201812021445,sunday,Al Nassr,Al Wehda,1,2,3,A,L,W,1,0,1,H,W,L,http://www.worldfootball.net/report/premier-league-2018-2019-al-nassr-al-wehda/
+saudi arabia-2018-2019,11,2018-12-02,15:15,201812021515,sunday,Al Ittihad,Al Hazem,2,2,4,D,D,D,0,1,1,A,L,W,http://www.worldfootball.net/report/premier-league-2018-2019-al-ittihad-al-hazem/
+saudi arabia-2018-2019,12,2018-12-06,12:00,201812061200,thursday,Al Batin,Al Fayha,1,0,1,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/premier-league-2018-2019-al-batin-al-fayha/
+saudi arabia-2018-2019,12,2018-12-06,12:00,201812061200,thursday,Al Baten,Al Fayha,1,0,1,H,W,L,0.0,0.0,0.0,D,D,D,
+saudi arabia-2018-2019,12,2018-12-06,14:25,201812061425,thursday,Al Qadsiah,Al Ettifaq,2,0,2,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/premier-league-2018-2019-al-qadsiah-al-ettifaq/
+saudi arabia-2018-2019,12,2018-12-06,14:45,201812061445,thursday,Al Shabab,Ohod Club,1,0,1,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/premier-league-2018-2019-al-shabab-ohod-club/
+saudi arabia-2018-2019,12,2018-12-06,16:40,201812061640,thursday,Al Ittihad,Al Faysali,1,2,3,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/premier-league-2018-2019-al-ittihad-al-faysali/
+saudi arabia-2018-2019,12,2018-12-07,15:20,201812071520,friday,Al Wehda,Al Taawoun,0,1,1,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/premier-league-2018-2019-al-wehda-al-taawoun/
+saudi arabia-2018-2019,12,2018-12-08,12:05,201812081205,saturday,Al Hilal,Al Nassr,2,2,4,D,D,D,2,0,2,H,W,L,http://www.worldfootball.net/report/premier-league-2018-2019-al-hilal-al-nassr/
+saudi arabia-2018-2019,12,2018-12-08,14:30,201812081430,saturday,Al Fateh,Al Hazem,3,2,5,H,W,L,1,1,2,D,D,D,http://www.worldfootball.net/report/premier-league-2018-2019-al-fateh-al-hazem/
+saudi arabia-2018-2019,12,2018-12-08,14:50,201812081450,saturday,Al Ra’ed,Al Ahli SFC,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/premier-league-2018-2019-al-raed-al-ahli-sfc/
+saudi arabia-2018-2019,11,2018-12-12,15:20,201812121520,wednesday,Ohod Club,Al Hilal,0,1,1,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/premier-league-2018-2019-ohod-club-al-hilal/
+saudi arabia-2018-2019,13,2018-12-13,14:30,201812131430,thursday,Al Ettifaq,Al Wehda,2,1,3,H,W,L,0,1,1,A,L,W,http://www.worldfootball.net/report/premier-league-2018-2019-al-ettifaq-al-wehda/
+saudi arabia-2018-2019,13,2018-12-13,14:30,201812131430,thursday,Al Fateh,Al Faysali,1,1,2,D,D,D,1,0,1,H,W,L,http://www.worldfootball.net/report/premier-league-2018-2019-al-fateh-al-faysali/
+saudi arabia-2018-2019,13,2018-12-14,12:05,201812141205,friday,Al Nassr,Al Ra’ed,4,0,4,H,W,L,3,0,3,H,W,L,http://www.worldfootball.net/report/premier-league-2018-2019-al-nassr-al-raed/
+saudi arabia-2018-2019,13,2018-12-14,12:15,201812141215,friday,Al Taawoun,Al Fayha,3,0,3,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/premier-league-2018-2019-al-taawoun-al-fayha/
+saudi arabia-2018-2019,13,2018-12-14,14:45,201812141445,friday,Al Batin,Al Ittihad,1,3,4,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/premier-league-2018-2019-al-batin-al-ittihad/
+saudi arabia-2018-2019,13,2018-12-14,14:45,201812141445,friday,Al Baten,Al Ittihad,1,3,4,A,L,W,0.0,1.0,1.0,A,L,W,
+saudi arabia-2018-2019,13,2018-12-15,12:05,201812151205,saturday,Al Hilal,Al Hazem,1,2,3,A,L,W,1,0,1,H,W,L,http://www.worldfootball.net/report/premier-league-2018-2019-al-hilal-al-hazem/
+saudi arabia-2018-2019,13,2018-12-15,15:25,201812151525,saturday,Al Ahli SFC,Al Shabab,0,1,1,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/premier-league-2018-2019-al-ahli-sfc-al-shabab/
+saudi arabia-2018-2019,13,2018-12-17,15:20,201812171520,monday,Ohod Club,Al Qadsiah,1,3,4,A,L,W,0,2,2,A,L,W,http://www.worldfootball.net/report/premier-league-2018-2019-ohod-club-al-qadsiah/
+saudi arabia-2018-2019,14,2018-12-20,12:20,201812201220,thursday,Al Ra’ed,Al Hazem,1,0,1,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/premier-league-2018-2019-al-raed-al-hazem/
+saudi arabia-2018-2019,14,2018-12-20,14:50,201812201450,thursday,Al Faysali,Al Wehda,3,0,3,H,W,L,2,0,2,H,W,L,http://www.worldfootball.net/report/premier-league-2018-2019-al-faysali-al-wehda/
+saudi arabia-2018-2019,14,2018-12-21,12:10,201812211210,friday,Al Shabab,Al Batin,4,0,4,H,W,L,3,0,3,H,W,L,http://www.worldfootball.net/report/premier-league-2018-2019-al-shabab-al-batin/
+saudi arabia-2018-2019,14,2018-12-21,12:10,201812211210,friday,Al Hilal,Al Ahli SFC,4,3,7,H,W,L,1,1,2,D,D,D,http://www.worldfootball.net/report/premier-league-2018-2019-al-hilal-al-ahli-sfc/
+saudi arabia-2018-2019,14,2018-12-21,12:10,201812211210,friday,Al Shabab,Al Baten,4,0,4,H,W,L,3.0,0.0,3.0,H,W,L,
+saudi arabia-2018-2019,14,2018-12-21,14:30,201812211430,friday,Al Qadsiah,Al Taawoun,3,1,4,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/premier-league-2018-2019-al-qadsiah-al-taawoun/
+saudi arabia-2018-2019,14,2018-12-21,14:30,201812211430,friday,Al Fateh,Al Ettifaq,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/premier-league-2018-2019-al-fateh-al-ettifaq/
+saudi arabia-2018-2019,14,2018-12-21,15:25,201812211525,friday,Al Ittihad,Al Nassr,1,2,3,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/premier-league-2018-2019-al-ittihad-al-nassr/
+saudi arabia-2018-2019,14,2018-12-22,12:15,201812221215,saturday,Al Fayha,Ohod Club,3,0,3,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/premier-league-2018-2019-al-fayha-ohod-club/
+saudi arabia-2018-2019,9,2018-12-25,15:00,201812251500,tuesday,Al Ra’ed,Al Taawoun,2,1,3,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/premier-league-2018-2019-al-raed-al-taawoun/
+saudi arabia-2018-2019,15,2018-12-27,14:45,201812271445,thursday,Al Batin,Al Qadsiah,2,0,2,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/premier-league-2018-2019-al-batin-al-qadsiah/
+saudi arabia-2018-2019,15,2018-12-27,14:45,201812271445,thursday,Al Baten,Al Qadsiah,2,0,2,H,W,L,0.0,0.0,0.0,D,D,D,
+saudi arabia-2018-2019,15,2018-12-27,14:55,201812271455,thursday,Al Faysali,Al Fayha,1,0,1,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/premier-league-2018-2019-al-faysali-al-fayha/
+saudi arabia-2018-2019,15,2018-12-28,12:00,201812281200,friday,Al Fateh,Al Nassr,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/premier-league-2018-2019-al-fateh-al-nassr/
+saudi arabia-2018-2019,15,2018-12-28,12:20,201812281220,friday,Al Hazem,Al Shabab,1,3,4,A,L,W,1,2,3,A,L,W,http://www.worldfootball.net/report/premier-league-2018-2019-al-hazem-al-shabab/
+saudi arabia-2018-2019,15,2018-12-28,15:30,201812281530,friday,Al Wehda,Al Ahli SFC,2,1,3,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/premier-league-2018-2019-al-wehda-al-ahli-sfc/
+saudi arabia-2018-2019,15,2018-12-29,14:35,201812291435,saturday,Al Ettifaq,Al Ittihad,1,0,1,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/premier-league-2018-2019-al-ettifaq-al-ittihad/
+saudi arabia-2018-2019,15,2018-12-30,12:45,201812301245,sunday,Ohod Club,Al Ra’ed,0,1,1,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/premier-league-2018-2019-ohod-club-al-raed/
+saudi arabia-2018-2019,15,2018-12-30,15:00,201812301500,sunday,Al Taawoun,Al Hilal,2,2,4,D,D,D,0,1,1,A,L,W,http://www.worldfootball.net/report/premier-league-2018-2019-al-taawoun-al-hilal/
+saudi arabia-2018-2019,16,2019-01-10,15:05,201901101505,thursday,Al Faysali,Al Nassr,2,2,4,D,D,D,0,1,1,A,L,W,http://www.worldfootball.net/report/premier-league-2018-2019-al-faysali-al-nassr/
+saudi arabia-2018-2019,16,2019-01-10,15:10,201901101510,thursday,Al Taawoun,Al Hazem,1,1,2,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/premier-league-2018-2019-al-taawoun-al-hazem/
+saudi arabia-2018-2019,16,2019-01-10,15:35,201901101535,thursday,Al Wehda,Al Fateh,1,0,1,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/premier-league-2018-2019-al-wehda-al-fateh/
+saudi arabia-2018-2019,16,2019-01-10,16:50,201901101650,thursday,Al Qadsiah,Al Ittihad,0,1,1,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/premier-league-2018-2019-al-qadsiah-al-ittihad/
+saudi arabia-2018-2019,16,2019-01-11,12:25,201901111225,friday,Al Shabab,Al Fayha,4,1,5,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/premier-league-2018-2019-al-shabab-al-fayha/
+saudi arabia-2018-2019,16,2019-01-11,12:25,201901111225,friday,Al Hilal,Al Ra’ed,1,1,2,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/premier-league-2018-2019-al-hilal-al-raed/
+saudi arabia-2018-2019,16,2019-01-11,12:30,201901111230,friday,Al Batin,Al Ettifaq,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/premier-league-2018-2019-al-batin-al-ettifaq/
+saudi arabia-2018-2019,16,2019-01-11,15:35,201901111535,friday,Al Ahli SFC,Ohod Club,5,1,6,H,W,L,3,0,3,H,W,L,http://www.worldfootball.net/report/premier-league-2018-2019-al-ahli-sfc-ohod-club/
+saudi arabia-2018-2019,17,2019-01-27,12:20,201901271220,sunday,Al Fateh,Al Qadsiah,2,0,2,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/premier-league-2018-2019-al-fateh-al-qadsiah/
+saudi arabia-2018-2019,17,2019-01-27,15:20,201901271520,sunday,Al Fayha,Al Hilal,1,5,6,A,L,W,0,2,2,A,L,W,http://www.worldfootball.net/report/premier-league-2018-2019-al-fayha-al-hilal/
+saudi arabia-2018-2019,17,2019-01-28,12:30,201901281230,monday,Al Batin,Al Faysali,2,0,2,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/premier-league-2018-2019-al-batin-al-faysali/
+saudi arabia-2018-2019,17,2019-01-28,15:20,201901281520,monday,Al Nassr,Ohod Club,4,0,4,H,W,L,2,0,2,H,W,L,http://www.worldfootball.net/report/premier-league-2018-2019-al-nassr-ohod-club/
+saudi arabia-2018-2019,17,2019-01-28,15:50,201901281550,monday,Al Wehda,Al Hazem,1,1,2,D,D,D,1,0,1,H,W,L,http://www.worldfootball.net/report/premier-league-2018-2019-al-wehda-al-hazem-spiel/
+saudi arabia-2018-2019,17,2019-01-28,17:20,201901281720,monday,Al Taawoun,Al Ahli SFC,3,4,7,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/premier-league-2018-2019-al-taawoun-al-ahli-sfc/
+saudi arabia-2018-2019,17,2019-01-29,15:25,201901291525,tuesday,Al Ra’ed,Al Ettifaq,1,2,3,A,L,W,0,2,2,A,L,W,http://www.worldfootball.net/report/premier-league-2018-2019-al-raed-al-ettifaq/
+saudi arabia-2018-2019,17,2019-01-29,17:20,201901291720,tuesday,Al Ittihad,Al Shabab,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/premier-league-2018-2019-al-ittihad-al-shabab/
+saudi arabia-2018-2019,18,2019-02-02,12:20,201902021220,saturday,Al Qadsiah,Al Fayha,2,0,2,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/premier-league-2018-2019-al-qadsiah-al-fayha/
+saudi arabia-2018-2019,18,2019-02-02,15:15,201902021515,saturday,Al Batin,Al Ahli SFC,1,2,3,A,L,W,1,1,2,D,D,D,http://www.worldfootball.net/report/premier-league-2018-2019-al-batin-al-ahli-sfc/
+saudi arabia-2018-2019,18,2019-02-02,17:15,201902021715,saturday,Al Taawoun,Al Nassr,3,1,4,H,W,L,2,1,3,H,W,L,http://www.worldfootball.net/report/premier-league-2018-2019-al-taawoun-al-nassr/
+saudi arabia-2018-2019,18,2019-02-03,12:40,201902031240,sunday,Al Faysali,Al Hazem,1,2,3,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/premier-league-2018-2019-al-faysali-al-hazem/
+saudi arabia-2018-2019,18,2019-02-03,17:15,201902031715,sunday,Ohod Club,Al Ettifaq,2,1,3,H,W,L,2,0,2,H,W,L,http://www.worldfootball.net/report/premier-league-2018-2019-ohod-club-al-ettifaq/
+saudi arabia-2018-2019,18,2019-02-04,15:20,201902041520,monday,Al Hilal,Al Fateh,4,1,5,H,W,L,3,1,4,H,W,L,http://www.worldfootball.net/report/premier-league-2018-2019-al-hilal-al-fateh/
+saudi arabia-2018-2019,18,2019-02-04,15:25,201902041525,monday,Al Shabab,Al Ra’ed,1,1,2,D,D,D,1,1,2,D,D,D,http://www.worldfootball.net/report/premier-league-2018-2019-al-shabab-al-raed/
+saudi arabia-2018-2019,18,2019-02-04,17:15,201902041715,monday,Al Wehda,Al Ittihad,0,2,2,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/premier-league-2018-2019-al-wehda-al-ittihad/
+saudi arabia-2018-2019,19,2019-02-06,17:15,201902061715,wednesday,Al Nassr,Al Qadsiah,3,1,4,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/premier-league-2018-2019-al-nassr-al-qadsiah/
+saudi arabia-2018-2019,19,2019-02-07,15:50,201902071550,thursday,Ohod Club,Al Faysali,4,1,5,H,W,L,2,1,3,H,W,L,http://www.worldfootball.net/report/premier-league-2018-2019-ohod-club-al-faysali/
+saudi arabia-2018-2019,19,2019-02-07,17:15,201902071715,thursday,Al Hazem,Al Ahli SFC,2,4,6,A,L,W,2,2,4,D,D,D,http://www.worldfootball.net/report/premier-league-2018-2019-al-hazem-al-ahli-sfc/
+saudi arabia-2018-2019,19,2019-02-08,12:45,201902081245,friday,Al Fayha,Al Ettifaq,1,1,2,D,D,D,0,1,1,A,L,W,http://www.worldfootball.net/report/premier-league-2018-2019-al-fayha-al-ettifaq/
+saudi arabia-2018-2019,19,2019-02-08,17:15,201902081715,friday,Al Batin,Al Hilal,2,3,5,A,L,W,1,1,2,D,D,D,http://www.worldfootball.net/report/premier-league-2018-2019-al-batin-al-hilal/
+saudi arabia-2018-2019,19,2019-02-09,12:50,201902091250,saturday,Al Ra’ed,Al Wehda,1,3,4,A,L,W,1,1,2,D,D,D,http://www.worldfootball.net/report/premier-league-2018-2019-al-raed-al-wehda/
+saudi arabia-2018-2019,19,2019-02-09,15:10,201902091510,saturday,Al Fateh,Al Shabab,1,0,1,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/premier-league-2018-2019-al-fateh-al-shabab/
+saudi arabia-2018-2019,19,2019-02-09,17:15,201902091715,saturday,Al Ittihad,Al Taawoun,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/premier-league-2018-2019-al-ittihad-al-taawoun/
+saudi arabia-2018-2019,20,2019-02-12,15:25,201902121525,tuesday,Al Hilal,Al Qadsiah,4,1,5,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/premier-league-2018-2019-al-hilal-al-qadsiah/
+saudi arabia-2018-2019,20,2019-02-12,17:20,201902121720,tuesday,Al Ahli SFC,Al Nassr,1,2,3,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/premier-league-2018-2019-al-ahli-sfc-al-nassr/
+saudi arabia-2018-2019,20,2019-02-13,12:50,201902131250,wednesday,Al Hazem,Al Batin,1,0,1,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/premier-league-2018-2019-al-hazem-al-batin/
+saudi arabia-2018-2019,20,2019-02-13,15:10,201902131510,wednesday,Al Ettifaq,Al Faysali,3,4,7,A,L,W,2,1,3,H,W,L,http://www.worldfootball.net/report/premier-league-2018-2019-al-ettifaq-al-faysali/
+saudi arabia-2018-2019,20,2019-02-14,12:45,201902141245,thursday,Al Fayha,Al Fateh,1,2,3,A,L,W,1,0,1,H,W,L,http://www.worldfootball.net/report/premier-league-2018-2019-al-fayha-al-fateh/
+saudi arabia-2018-2019,20,2019-02-14,15:35,201902141535,thursday,Al Taawoun,Ohod Club,4,0,4,H,W,L,2,0,2,H,W,L,http://www.worldfootball.net/report/premier-league-2018-2019-al-taawoun-ohod-club/
+saudi arabia-2018-2019,20,2019-02-15,15:30,201902151530,friday,Al Shabab,Al Wehda,1,0,1,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/premier-league-2018-2019-al-shabab-al-wehda/
+saudi arabia-2018-2019,20,2019-02-15,17:20,201902151720,friday,Al Ra’ed,Al Ittihad,1,1,2,D,D,D,1,0,1,H,W,L,http://www.worldfootball.net/report/premier-league-2018-2019-al-raed-al-ittihad/
+saudi arabia-2018-2019,21,2019-02-20,15:20,201902201520,wednesday,Al Fateh,Al Ahli SFC,2,1,3,H,W,L,1,0,1,H,W,L,
+saudi arabia-2018-2019,21,2019-02-21,12:50,201902211250,thursday,Al Hazem,Al Ettifaq,1,1,2,D,D,D,0,0,0,D,D,D,
+saudi arabia-2018-2019,21,2019-02-21,17:25,201902211725,thursday,Al Ittihad,Al Hilal,0,2,2,A,L,W,0,0,0,D,D,D,
+saudi arabia-2018-2019,21,2019-02-22,12:55,201902221255,friday,Al Taawoun,Al Batin,4,1,5,H,W,L,1,0,1,H,W,L,
+saudi arabia-2018-2019,21,2019-02-22,15:15,201902221515,friday,Al Qadsiah,Al Shabab,0,1,1,A,L,W,0,0,0,D,D,D,
+saudi arabia-2018-2019,21,2019-02-22,17:25,201902221725,friday,Al Wehda,Ohod Club,4,1,5,H,W,L,2,0,2,H,W,L,
+saudi arabia-2018-2019,10,2019-02-28,13:00,201902281300,thursday,Al Ettifaq,Al Taawoun,2,4,6,A,L,W,2,1,3,H,W,L,http://www.worldfootball.net/report/premier-league-2018-2019-al-ettifaq-al-taawoun/

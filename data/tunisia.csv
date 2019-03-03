@@ -7,9 +7,9 @@ tunisia-2006-2007,1,2006-08-20,,200608200000,sunday,Stade Tunisien,Olympique Bé
 tunisia-2006-2007,1,2006-08-20,,200608200000,sunday,AS Marsa,EOG Kram,0,1,1,A,L,W,,,,,,,
 tunisia-2006-2007,1,2006-08-20,,200608200000,sunday,Étoile du Sahel,ES Hammam Sousse,1,1,2,D,D,D,,,,,,,
 tunisia-2006-2007,2,2006-09-09,,200609090000,saturday,Stade Tunisien,Club Africain,0,1,1,A,L,W,,,,,,,
-tunisia-2006-2007,2,2006-09-10,,200609100000,sunday,ES Hammam Sousse,CA Bizertin,0,0,0,D,D,D,0,0,0,D,D,D,
+tunisia-2006-2007,2,2006-09-10,,200609100000,sunday,ES Hammam Sousse,CA Bizertin,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
 tunisia-2006-2007,2,2006-09-10,,200609100000,sunday,Espérance Zarzis,Olympique Béja,1,0,1,H,W,L,,,,,,,
-tunisia-2006-2007,2,2006-09-10,,200609100000,sunday,CS Hammam-Lif,AS Marsa,0,0,0,D,D,D,0,0,0,D,D,D,
+tunisia-2006-2007,2,2006-09-10,,200609100000,sunday,CS Hammam-Lif,AS Marsa,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
 tunisia-2006-2007,2,2006-09-13,,200609130000,wednesday,EOG Kram,Étoile du Sahel,0,1,1,A,L,W,,,,,,,
 tunisia-2006-2007,2,2006-09-13,,200609130000,wednesday,Espérance de Tunis,EGS Gafsa,1,1,2,D,D,D,,,,,,,
 tunisia-2006-2007,2,2006-09-14,,200609140000,thursday,Club Sportif Sfaxien,US Monastir,1,1,2,D,D,D,,,,,,,
@@ -26,7 +26,7 @@ tunisia-2006-2007,4,2006-09-23,,200609230000,saturday,CS Hammam-Lif,EGS Gafsa,1,
 tunisia-2006-2007,4,2006-09-24,,200609240000,sunday,EOG Kram,US Monastir,0,1,1,A,L,W,,,,,,,
 tunisia-2006-2007,4,2006-09-24,,200609240000,sunday,Stade Tunisien,CA Bizertin,2,1,3,H,W,L,,,,,,,
 tunisia-2006-2007,4,2006-09-28,,200609280000,thursday,Espérance Zarzis,Étoile du Sahel,0,2,2,A,L,W,,,,,,,
-tunisia-2006-2007,4,2006-09-28,,200609280000,thursday,Espérance de Tunis,Olympique Béja,0,0,0,D,D,D,0,0,0,D,D,D,
+tunisia-2006-2007,4,2006-09-28,,200609280000,thursday,Espérance de Tunis,Olympique Béja,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
 tunisia-2006-2007,5,2006-10-01,,200610010000,sunday,EGS Gafsa,EOG Kram,1,0,1,H,W,L,,,,,,,
 tunisia-2006-2007,5,2006-10-01,,200610010000,sunday,US Monastir,ES Hammam Sousse,1,0,1,H,W,L,,,,,,,
 tunisia-2006-2007,5,2006-10-01,,200610010000,sunday,CA Bizertin,Espérance de Tunis,1,1,2,D,D,D,,,,,,,
@@ -37,24 +37,24 @@ tunisia-2006-2007,5,2006-10-01,,200610010000,sunday,Club Africain,CS Hammam-Lif,
 tunisia-2006-2007,7,2006-10-02,,200610020000,monday,Club Sportif Sfaxien,EOG Kram,4,0,4,H,W,L,,,,,,,
 tunisia-2006-2007,6,2006-10-15,,200610150000,sunday,ES Hammam Sousse,EGS Gafsa,1,0,1,H,W,L,,,,,,,
 tunisia-2006-2007,6,2006-10-15,,200610150000,sunday,Stade Tunisien,AS Marsa,2,1,3,H,W,L,,,,,,,
-tunisia-2006-2007,6,2006-10-15,,200610150000,sunday,CS Hammam-Lif,Olympique Béja,0,0,0,D,D,D,0,0,0,D,D,D,
+tunisia-2006-2007,6,2006-10-15,,200610150000,sunday,CS Hammam-Lif,Olympique Béja,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
 tunisia-2006-2007,6,2006-10-15,,200610150000,sunday,EOG Kram,Club Africain,1,1,2,D,D,D,,,,,,,
 tunisia-2006-2007,6,2006-10-15,,200610150000,sunday,Espérance Zarzis,US Monastir,0,1,1,A,L,W,,,,,,,
 tunisia-2006-2007,6,2006-10-18,,200610180000,wednesday,Club Sportif Sfaxien,CA Bizertin,4,0,4,H,W,L,,,,,,,
 tunisia-2006-2007,6,2006-10-18,,200610180000,wednesday,Espérance de Tunis,Étoile du Sahel,1,0,1,H,W,L,,,,,,,
-tunisia-2006-2007,7,2006-10-29,,200610290000,sunday,AS Marsa,Club Africain,0,0,0,D,D,D,0,0,0,D,D,D,
+tunisia-2006-2007,7,2006-10-29,,200610290000,sunday,AS Marsa,Club Africain,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
 tunisia-2006-2007,7,2006-10-29,,200610290000,sunday,US Monastir,EGS Gafsa,1,1,2,D,D,D,,,,,,,
 tunisia-2006-2007,7,2006-10-29,,200610290000,sunday,CA Bizertin,CS Hammam-Lif,2,0,2,H,W,L,,,,,,,
-tunisia-2006-2007,7,2006-10-29,,200610290000,sunday,Stade Tunisien,Espérance Zarzis,0,0,0,D,D,D,0,0,0,D,D,D,
+tunisia-2006-2007,7,2006-10-29,,200610290000,sunday,Stade Tunisien,Espérance Zarzis,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
 tunisia-2006-2007,7,2006-11-01,,200611010000,wednesday,Étoile du Sahel,Olympique Béja,3,2,5,H,W,L,,,,,,,
 tunisia-2006-2007,7,2006-11-02,,200611020000,thursday,Espérance de Tunis,ES Hammam Sousse,2,0,2,H,W,L,,,,,,,
-tunisia-2006-2007,8,2006-11-05,,200611050000,sunday,EOG Kram,CS Hammam-Lif,0,0,0,D,D,D,0,0,0,D,D,D,
+tunisia-2006-2007,8,2006-11-05,,200611050000,sunday,EOG Kram,CS Hammam-Lif,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
 tunisia-2006-2007,8,2006-11-05,,200611050000,sunday,Club Africain,Étoile du Sahel,1,0,1,H,W,L,,,,,,,
 tunisia-2006-2007,8,2006-11-05,,200611050000,sunday,Olympique Béja,CA Bizertin,1,0,1,H,W,L,,,,,,,
 tunisia-2006-2007,8,2006-11-05,,200611050000,sunday,US Monastir,Stade Tunisien,1,2,3,A,L,W,,,,,,,
 tunisia-2006-2007,8,2006-11-05,,200611050000,sunday,Espérance Zarzis,Espérance de Tunis,1,1,2,D,D,D,,,,,,,
 tunisia-2006-2007,8,2006-11-05,,200611050000,sunday,EGS Gafsa,AS Marsa,2,2,4,D,D,D,,,,,,,
-tunisia-2006-2007,8,2006-11-05,,200611050000,sunday,ES Hammam Sousse,Club Sportif Sfaxien,0,0,0,D,D,D,0,0,0,D,D,D,
+tunisia-2006-2007,8,2006-11-05,,200611050000,sunday,ES Hammam Sousse,Club Sportif Sfaxien,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
 tunisia-2006-2007,9,2006-11-18,,200611180000,saturday,CA Bizertin,Club Africain,0,2,2,A,L,W,,,,,,,
 tunisia-2006-2007,9,2006-11-19,,200611190000,sunday,Olympique Béja,EOG Kram,2,1,3,H,W,L,,,,,,,
 tunisia-2006-2007,9,2006-11-19,,200611190000,sunday,Espérance de Tunis,Stade Tunisien,2,1,3,H,W,L,,,,,,,
@@ -62,21 +62,21 @@ tunisia-2006-2007,9,2006-11-19,,200611190000,sunday,Club Sportif Sfaxien,Espéra
 tunisia-2006-2007,9,2006-11-19,,200611190000,sunday,CS Hammam-Lif,ES Hammam Sousse,1,0,1,H,W,L,,,,,,,
 tunisia-2006-2007,9,2006-11-19,,200611190000,sunday,AS Marsa,US Monastir,0,1,1,A,L,W,,,,,,,
 tunisia-2006-2007,9,2006-11-23,,200611230000,thursday,Étoile du Sahel,EGS Gafsa,2,1,3,H,W,L,,,,,,,
-tunisia-2006-2007,10,2006-11-25,,200611250000,saturday,Stade Tunisien,Club Sportif Sfaxien,0,0,0,D,D,D,0,0,0,D,D,D,
+tunisia-2006-2007,10,2006-11-25,,200611250000,saturday,Stade Tunisien,Club Sportif Sfaxien,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
 tunisia-2006-2007,10,2006-11-26,,200611260000,sunday,ES Hammam Sousse,EOG Kram,2,1,3,H,W,L,,,,,,,
 tunisia-2006-2007,10,2006-11-26,,200611260000,sunday,EGS Gafsa,CA Bizertin,2,1,3,H,W,L,,,,,,,
 tunisia-2006-2007,10,2006-11-26,,200611260000,sunday,Club Africain,Olympique Béja,4,1,5,H,W,L,,,,,,,
 tunisia-2006-2007,10,2006-11-26,,200611260000,sunday,Espérance Zarzis,CS Hammam-Lif,3,0,3,H,W,L,,,,,,,
 tunisia-2006-2007,10,2006-11-26,,200611260000,sunday,AS Marsa,Espérance de Tunis,0,2,2,A,L,W,,,,,,,
-tunisia-2006-2007,10,2006-11-26,,200611260000,sunday,US Monastir,Étoile du Sahel,0,0,0,D,D,D,0,0,0,D,D,D,
-tunisia-2006-2007,11,2006-12-09,,200612090000,saturday,Club Sportif Sfaxien,Espérance de Tunis,0,0,0,D,D,D,0,0,0,D,D,D,
+tunisia-2006-2007,10,2006-11-26,,200611260000,sunday,US Monastir,Étoile du Sahel,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
+tunisia-2006-2007,11,2006-12-09,,200612090000,saturday,Club Sportif Sfaxien,Espérance de Tunis,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
 tunisia-2006-2007,11,2006-12-10,,200612100000,sunday,EOG Kram,Espérance Zarzis,2,1,3,H,W,L,,,,,,,
 tunisia-2006-2007,11,2006-12-10,,200612100000,sunday,Club Africain,ES Hammam Sousse,1,0,1,H,W,L,,,,,,,
 tunisia-2006-2007,11,2006-12-10,,200612100000,sunday,Étoile du Sahel,AS Marsa,1,1,2,D,D,D,,,,,,,
 tunisia-2006-2007,11,2006-12-10,,200612100000,sunday,CA Bizertin,US Monastir,1,2,3,A,L,W,,,,,,,
-tunisia-2006-2007,11,2006-12-10,,200612100000,sunday,Olympique Béja,EGS Gafsa,0,0,0,D,D,D,0,0,0,D,D,D,
-tunisia-2006-2007,11,2006-12-10,,200612100000,sunday,CS Hammam-Lif,Stade Tunisien,0,0,0,D,D,D,0,0,0,D,D,D,
-tunisia-2006-2007,12,2006-12-16,,200612160000,saturday,Espérance Zarzis,ES Hammam Sousse,0,0,0,D,D,D,0,0,0,D,D,D,
+tunisia-2006-2007,11,2006-12-10,,200612100000,sunday,Olympique Béja,EGS Gafsa,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
+tunisia-2006-2007,11,2006-12-10,,200612100000,sunday,CS Hammam-Lif,Stade Tunisien,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
+tunisia-2006-2007,12,2006-12-16,,200612160000,saturday,Espérance Zarzis,ES Hammam Sousse,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
 tunisia-2006-2007,12,2006-12-17,,200612170000,sunday,AS Marsa,CA Bizertin,2,1,3,H,W,L,,,,,,,
 tunisia-2006-2007,12,2006-12-17,,200612170000,sunday,Espérance de Tunis,CS Hammam-Lif,3,1,4,H,W,L,,,,,,,
 tunisia-2006-2007,12,2006-12-17,,200612170000,sunday,EGS Gafsa,Club Africain,2,2,4,D,D,D,,,,,,,
@@ -88,43 +88,43 @@ tunisia-2006-2007,13,2006-12-24,,200612240000,sunday,ES Hammam Sousse,Stade Tuni
 tunisia-2006-2007,13,2006-12-24,,200612240000,sunday,CS Hammam-Lif,Club Sportif Sfaxien,1,2,3,A,L,W,,,,,,,
 tunisia-2006-2007,13,2006-12-24,,200612240000,sunday,EGS Gafsa,Espérance Zarzis,0,2,2,A,L,W,,,,,,,
 tunisia-2006-2007,13,2006-12-24,,200612240000,sunday,Club Africain,US Monastir,3,0,3,H,W,L,,,,,,,
-tunisia-2006-2007,13,2006-12-24,,200612240000,sunday,CA Bizertin,Étoile du Sahel,0,0,0,D,D,D,0,0,0,D,D,D,
+tunisia-2006-2007,13,2006-12-24,,200612240000,sunday,CA Bizertin,Étoile du Sahel,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
 tunisia-2006-2007,13,2006-12-24,,200612240000,sunday,Olympique Béja,AS Marsa,1,2,3,A,L,W,,,,,,,
-tunisia-2006-2007,14,2007-01-20,,200701200000,saturday,Club Africain,Espérance de Tunis,1,0,1,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/ligue-1-2006-2007-club-africain-esperance-tunis/
+tunisia-2006-2007,14,2007-01-20,,200701200000,saturday,Club Africain,Espérance de Tunis,1,0,1,H,W,L,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/ligue-1-2006-2007-club-africain-esperance-tunis/
 tunisia-2006-2007,14,2007-01-21,,200701210000,sunday,EGS Gafsa,Club Sportif Sfaxien,1,1,2,D,D,D,,,,,,,
 tunisia-2006-2007,14,2007-01-21,,200701210000,sunday,Espérance Zarzis,CA Bizertin,2,1,3,H,W,L,,,,,,,
 tunisia-2006-2007,14,2007-01-21,,200701210000,sunday,CS Hammam-Lif,US Monastir,2,0,2,H,W,L,,,,,,,
-tunisia-2006-2007,14,2007-01-21,,200701210000,sunday,Olympique Béja,Stade Tunisien,0,0,0,D,D,D,0,0,0,D,D,D,
+tunisia-2006-2007,14,2007-01-21,,200701210000,sunday,Olympique Béja,Stade Tunisien,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
 tunisia-2006-2007,14,2007-01-21,,200701210000,sunday,EOG Kram,AS Marsa,0,1,1,A,L,W,,,,,,,
 tunisia-2006-2007,14,2007-01-21,,200701210000,sunday,ES Hammam Sousse,Étoile du Sahel,0,4,4,A,L,W,,,,,,,
-tunisia-2006-2007,15,2007-01-28,,200701280000,sunday,Club Africain,Stade Tunisien,0,0,0,D,D,D,0,0,0,D,D,D,
+tunisia-2006-2007,15,2007-01-28,,200701280000,sunday,Club Africain,Stade Tunisien,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
 tunisia-2006-2007,15,2007-01-28,,200701280000,sunday,CA Bizertin,ES Hammam Sousse,1,1,2,D,D,D,,,,,,,
 tunisia-2006-2007,15,2007-01-28,,200701280000,sunday,Olympique Béja,Espérance Zarzis,1,0,1,H,W,L,,,,,,,
 tunisia-2006-2007,15,2007-01-28,,200701280000,sunday,AS Marsa,CS Hammam-Lif,0,1,1,A,L,W,,,,,,,
 tunisia-2006-2007,15,2007-01-28,,200701280000,sunday,Étoile du Sahel,EOG Kram,3,0,3,H,W,L,,,,,,,
 tunisia-2006-2007,15,2007-01-28,,200701280000,sunday,US Monastir,Club Sportif Sfaxien,2,1,3,H,W,L,,,,,,,
 tunisia-2006-2007,15,2007-02-01,,200702010000,thursday,EGS Gafsa,Espérance de Tunis,2,2,4,D,D,D,,,,,,,
-tunisia-2006-2007,16,2007-02-03,,200702030000,saturday,Espérance Zarzis,Club Africain,0,0,0,D,D,D,0,0,0,D,D,D,
+tunisia-2006-2007,16,2007-02-03,,200702030000,saturday,Espérance Zarzis,Club Africain,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
 tunisia-2006-2007,16,2007-02-03,,200702030000,saturday,CS Hammam-Lif,Étoile du Sahel,1,1,2,D,D,D,,,,,,,
-tunisia-2006-2007,16,2007-02-03,,200702030000,saturday,EOG Kram,CA Bizertin,0,0,0,D,D,D,0,0,0,D,D,D,
+tunisia-2006-2007,16,2007-02-03,,200702030000,saturday,EOG Kram,CA Bizertin,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
 tunisia-2006-2007,16,2007-02-03,,200702030000,saturday,ES Hammam Sousse,Olympique Béja,0,1,1,A,L,W,,,,,,,
 tunisia-2006-2007,16,2007-02-03,,200702030000,saturday,Club Sportif Sfaxien,AS Marsa,2,1,3,H,W,L,,,,,,,
 tunisia-2006-2007,16,2007-02-04,,200702040000,sunday,Espérance de Tunis,US Monastir,1,3,4,A,L,W,,,,,,,
 tunisia-2006-2007,16,2007-02-04,,200702040000,sunday,Stade Tunisien,EGS Gafsa,4,0,4,H,W,L,,,,,,,
 tunisia-2006-2007,17,2007-02-18,,200702180000,sunday,Club Africain,Club Sportif Sfaxien,2,1,3,H,W,L,,,,,,,
-tunisia-2006-2007,17,2007-02-18,,200702180000,sunday,AS Marsa,ES Hammam Sousse,0,0,0,D,D,D,0,0,0,D,D,D,
-tunisia-2006-2007,17,2007-02-18,,200702180000,sunday,EGS Gafsa,CS Hammam-Lif,0,0,0,D,D,D,0,0,0,D,D,D,
+tunisia-2006-2007,17,2007-02-18,,200702180000,sunday,AS Marsa,ES Hammam Sousse,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
+tunisia-2006-2007,17,2007-02-18,,200702180000,sunday,EGS Gafsa,CS Hammam-Lif,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
 tunisia-2006-2007,17,2007-02-18,,200702180000,sunday,US Monastir,EOG Kram,1,0,1,H,W,L,,,,,,,
 tunisia-2006-2007,17,2007-02-18,,200702180000,sunday,CA Bizertin,Stade Tunisien,0,1,1,A,L,W,,,,,,,
 tunisia-2006-2007,17,2007-02-18,,200702180000,sunday,Olympique Béja,Espérance de Tunis,1,2,3,A,L,W,,,,,,,
 tunisia-2006-2007,17,2007-02-22,,200702220000,thursday,Étoile du Sahel,Espérance Zarzis,4,2,6,H,W,L,,,,,,,
-tunisia-2006-2007,18,2007-03-04,,200703040000,sunday,EOG Kram,EGS Gafsa,0,0,0,D,D,D,0,0,0,D,D,D,
-tunisia-2006-2007,18,2007-03-04,,200703040000,sunday,ES Hammam Sousse,US Monastir,0,0,0,D,D,D,0,0,0,D,D,D,
+tunisia-2006-2007,18,2007-03-04,,200703040000,sunday,EOG Kram,EGS Gafsa,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
+tunisia-2006-2007,18,2007-03-04,,200703040000,sunday,ES Hammam Sousse,US Monastir,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
 tunisia-2006-2007,18,2007-03-04,,200703040000,sunday,Espérance de Tunis,CA Bizertin,4,1,5,H,W,L,,,,,,,
-tunisia-2006-2007,18,2007-03-04,,200703040000,sunday,Stade Tunisien,Étoile du Sahel,0,0,0,D,D,D,0,0,0,D,D,D,
+tunisia-2006-2007,18,2007-03-04,,200703040000,sunday,Stade Tunisien,Étoile du Sahel,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
 tunisia-2006-2007,18,2007-03-04,,200703040000,sunday,Club Sportif Sfaxien,Olympique Béja,4,1,5,H,W,L,,,,,,,
 tunisia-2006-2007,18,2007-03-04,,200703040000,sunday,Espérance Zarzis,AS Marsa,0,1,1,A,L,W,,,,,,,
-tunisia-2006-2007,18,2007-03-04,,200703040000,sunday,CS Hammam-Lif,Club Africain,0,0,0,D,D,D,0,0,0,D,D,D,
+tunisia-2006-2007,18,2007-03-04,,200703040000,sunday,CS Hammam-Lif,Club Africain,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
 tunisia-2006-2007,19,2007-03-31,,200703310000,saturday,EGS Gafsa,ES Hammam Sousse,1,1,2,D,D,D,,,,,,,
 tunisia-2006-2007,19,2007-03-31,,200703310000,saturday,AS Marsa,Stade Tunisien,3,1,4,H,W,L,,,,,,,
 tunisia-2006-2007,19,2007-03-31,,200703310000,saturday,Olympique Béja,CS Hammam-Lif,2,1,3,H,W,L,,,,,,,
@@ -134,10 +134,10 @@ tunisia-2006-2007,19,2007-03-31,,200703310000,saturday,CA Bizertin,Club Sportif 
 tunisia-2006-2007,19,2007-03-31,,200703310000,saturday,Étoile du Sahel,Espérance de Tunis,3,1,4,H,W,L,,,,,,,
 tunisia-2006-2007,20,2007-04-08,,200704080000,sunday,Club Africain,AS Marsa,4,2,6,H,W,L,,,,,,,
 tunisia-2006-2007,20,2007-04-08,,200704080000,sunday,CS Hammam-Lif,CA Bizertin,2,2,4,D,D,D,,,,,,,
-tunisia-2006-2007,20,2007-04-08,,200704080000,sunday,Espérance Zarzis,Stade Tunisien,0,0,0,D,D,D,0,0,0,D,D,D,
+tunisia-2006-2007,20,2007-04-08,,200704080000,sunday,Espérance Zarzis,Stade Tunisien,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
 tunisia-2006-2007,20,2007-04-11,,200704110000,wednesday,Olympique Béja,Étoile du Sahel,1,1,2,D,D,D,,,,,,,
 tunisia-2006-2007,20,2007-04-11,,200704110000,wednesday,ES Hammam Sousse,Espérance de Tunis,1,1,2,D,D,D,,,,,,,
-tunisia-2006-2007,20,2007-04-12,,200704120000,thursday,EOG Kram,Club Sportif Sfaxien,0,0,0,D,D,D,0,0,0,D,D,D,
+tunisia-2006-2007,20,2007-04-12,,200704120000,thursday,EOG Kram,Club Sportif Sfaxien,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
 tunisia-2006-2007,20,2007-04-12,,200704120000,thursday,EGS Gafsa,US Monastir,0,1,1,A,L,W,,,,,,,
 tunisia-2006-2007,21,2007-04-15,,200704150000,sunday,CS Hammam-Lif,EOG Kram,2,2,4,D,D,D,,,,,,,
 tunisia-2006-2007,21,2007-04-15,,200704150000,sunday,Étoile du Sahel,Club Africain,1,0,1,H,W,L,,,,,,,
@@ -147,21 +147,21 @@ tunisia-2006-2007,21,2007-04-15,,200704150000,sunday,Espérance de Tunis,Espéra
 tunisia-2006-2007,21,2007-04-15,,200704150000,sunday,AS Marsa,EGS Gafsa,1,0,1,H,W,L,,,,,,,
 tunisia-2006-2007,21,2007-04-15,,200704150000,sunday,Club Sportif Sfaxien,ES Hammam Sousse,2,1,3,H,W,L,,,,,,,
 tunisia-2006-2007,22,2007-04-22,,200704220000,sunday,Club Africain,CA Bizertin,1,1,2,D,D,D,,,,,,,
-tunisia-2006-2007,22,2007-04-22,,200704220000,sunday,EOG Kram,Olympique Béja,0,0,0,D,D,D,0,0,0,D,D,D,
+tunisia-2006-2007,22,2007-04-22,,200704220000,sunday,EOG Kram,Olympique Béja,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
 tunisia-2006-2007,22,2007-04-22,,200704220000,sunday,ES Hammam Sousse,CS Hammam-Lif,0,1,1,A,L,W,,,,,,,
 tunisia-2006-2007,22,2007-04-22,,200704220000,sunday,US Monastir,AS Marsa,3,0,3,H,W,L,,,,,,,
 tunisia-2006-2007,22,2007-04-25,,200704250000,wednesday,Espérance Zarzis,Club Sportif Sfaxien,2,0,2,H,W,L,,,,,,,
 tunisia-2006-2007,22,2007-04-25,,200704250000,wednesday,EGS Gafsa,Étoile du Sahel,1,2,3,A,L,W,,,,,,,
 tunisia-2006-2007,22,2007-04-26,,200704260000,thursday,Stade Tunisien,Espérance de Tunis,2,3,5,A,L,W,,,,,,,
 tunisia-2006-2007,23,2007-04-29,,200704290000,sunday,Club Sportif Sfaxien,Stade Tunisien,1,0,1,H,W,L,,,,,,,
-tunisia-2006-2007,23,2007-04-29,,200704290000,sunday,EOG Kram,ES Hammam Sousse,0,0,0,D,D,D,0,0,0,D,D,D,
+tunisia-2006-2007,23,2007-04-29,,200704290000,sunday,EOG Kram,ES Hammam Sousse,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
 tunisia-2006-2007,23,2007-04-29,,200704290000,sunday,CA Bizertin,EGS Gafsa,1,1,2,D,D,D,,,,,,,
 tunisia-2006-2007,23,2007-04-29,,200704290000,sunday,Olympique Béja,Club Africain,1,1,2,D,D,D,,,,,,,
 tunisia-2006-2007,23,2007-04-29,,200704290000,sunday,CS Hammam-Lif,Espérance Zarzis,0,1,1,A,L,W,,,,,,,
 tunisia-2006-2007,23,2007-04-29,,200704290000,sunday,Espérance de Tunis,AS Marsa,3,1,4,H,W,L,,,,,,,
 tunisia-2006-2007,23,2007-04-29,,200704290000,sunday,Étoile du Sahel,US Monastir,1,1,2,D,D,D,,,,,,,
 tunisia-2006-2007,24,2007-05-10,,200705100000,thursday,Espérance de Tunis,Club Sportif Sfaxien,2,1,3,H,W,L,,,,,,,
-tunisia-2006-2007,24,2007-05-10,,200705100000,thursday,Espérance Zarzis,EOG Kram,0,0,0,D,D,D,0,0,0,D,D,D,
+tunisia-2006-2007,24,2007-05-10,,200705100000,thursday,Espérance Zarzis,EOG Kram,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
 tunisia-2006-2007,24,2007-05-10,,200705100000,thursday,ES Hammam Sousse,Club Africain,4,2,6,H,W,L,,,,,,,
 tunisia-2006-2007,24,2007-05-10,,200705100000,thursday,AS Marsa,Étoile du Sahel,0,1,1,A,L,W,,,,,,,
 tunisia-2006-2007,24,2007-05-10,,200705100000,thursday,US Monastir,CA Bizertin,2,2,4,D,D,D,,,,,,,
@@ -2357,3 +2357,101 @@ tunisia-2017-2018,26,2018-05-10,15:30,201805101530,thursday,US Ben Guerdane,Éto
 tunisia-2017-2018,26,2018-05-10,15:30,201805101530,thursday,Stade Gabésien,Stade Tunisien,2,0,2,H,W,L,1.0,0.0,1.0,H,W,L,http://www.worldfootball.net/report/ligue-1-2017-2018-stade-gabesien-stade-tunisien/
 tunisia-2017-2018,26,2018-05-10,15:30,201805101530,thursday,CA Bizertin,AS Gabès,3,2,5,H,W,L,1.0,2.0,3.0,A,L,W,http://www.worldfootball.net/report/ligue-1-2017-2018-ca-bizertin-as-gabes/
 tunisia-2017-2018,26,2018-05-10,17:15,201805101715,thursday,Espérance de Tunis,JS Kairouan,2,2,4,D,D,D,1.0,1.0,2.0,D,D,D,http://www.worldfootball.net/report/ligue-1-2017-2018-esperance-de-tunis-js-kairouan/
+tunisia-2018-2019,1,2018-08-18,16:00,201808181600,saturday,US Monastir,Stade Tunisien,1,2,3,A,L,W,0,2,2,A,L,W,http://www.worldfootball.net/report/ligue-1-2018-2019-us-monastir-stade-tunisien/
+tunisia-2018-2019,1,2018-08-19,16:00,201808191600,sunday,CA Bizertin,Club Sportif Sfaxien,1,1,2,D,D,D,1,0,1,H,W,L,http://www.worldfootball.net/report/ligue-1-2018-2019-ca-bizertin-club-sportif-sfaxien/
+tunisia-2018-2019,1,2018-08-19,16:00,201808191600,sunday,Stade Gabésien,ES Métlaoui,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/ligue-1-2018-2019-stade-gabesien-es-metlaoui/
+tunisia-2018-2019,1,2018-08-19,16:00,201808191600,sunday,US Ben Guerdane,AS Gabès,2,1,3,H,W,L,0,1,1,A,L,W,http://www.worldfootball.net/report/ligue-1-2018-2019-us-ben-guerdane-as-gabes/
+tunisia-2018-2019,1,2018-08-22,16:00,201808221600,wednesday,Espérance de Tunis,US Tataouine,2,0,2,H,W,L,2,0,2,H,W,L,http://www.worldfootball.net/report/ligue-1-2018-2019-esperance-de-tunis-us-tataouine/
+tunisia-2018-2019,1,2018-08-22,17:45,201808221745,wednesday,Étoile du Sahel,JS Kairouan,3,0,3,H,W,L,3,0,3,H,W,L,http://www.worldfootball.net/report/ligue-1-2018-2019-etoile-du-sahel-js-kairouan/
+tunisia-2018-2019,1,2018-08-26,16:00,201808261600,sunday,CS Hammam-Lif,Club Africain,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/ligue-1-2018-2019-cs-hammam-lif-club-africain/
+tunisia-2018-2019,2,2018-09-01,16:00,201809011600,saturday,Stade Tunisien,Stade Gabésien,1,0,1,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/ligue-1-2018-2019-stade-tunisien-stade-gabesien/
+tunisia-2018-2019,2,2018-09-01,16:00,201809011600,saturday,AS Gabès,CA Bizertin,0,2,2,A,L,W,0,2,2,A,L,W,http://www.worldfootball.net/report/ligue-1-2018-2019-as-gabes-ca-bizertin/
+tunisia-2018-2019,2,2018-09-01,16:00,201809011600,saturday,Club Africain,US Monastir,1,0,1,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/ligue-1-2018-2019-club-africain-us-monastir/
+tunisia-2018-2019,2,2018-09-01,17:45,201809011745,saturday,Club Sportif Sfaxien,US Tataouine,2,1,3,H,W,L,0,1,1,A,L,W,http://www.worldfootball.net/report/ligue-1-2018-2019-club-sportif-sfaxien-us-tataouine/
+tunisia-2018-2019,2,2018-09-02,16:00,201809021600,sunday,JS Kairouan,CS Hammam-Lif,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/ligue-1-2018-2019-js-kairouan-cs-hammam-lif/
+tunisia-2018-2019,2,2018-09-02,17:45,201809021745,sunday,Étoile du Sahel,US Ben Guerdane,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/ligue-1-2018-2019-etoile-du-sahel-us-ben-guerdane/
+tunisia-2018-2019,3,2018-09-15,15:30,201809151530,saturday,Stade Gabésien,Club Africain,1,0,1,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/ligue-1-2018-2019-stade-gabesien-club-africain/
+tunisia-2018-2019,3,2018-09-15,16:30,201809151630,saturday,CA Bizertin,US Ben Guerdane,1,0,1,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/ligue-1-2018-2019-ca-bizertin-us-ben-guerdane/
+tunisia-2018-2019,3,2018-09-16,15:30,201809161530,sunday,US Monastir,JS Kairouan,1,1,2,D,D,D,1,0,1,H,W,L,http://www.worldfootball.net/report/ligue-1-2018-2019-us-monastir-js-kairouan/
+tunisia-2018-2019,3,2018-09-16,15:30,201809161530,sunday,ES Métlaoui,Club Sportif Sfaxien,0,2,2,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/ligue-1-2018-2019-es-metlaoui-club-sportif-sfaxien/
+tunisia-2018-2019,3,2018-09-16,16:00,201809161600,sunday,US Tataouine,AS Gabès,2,1,3,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/ligue-1-2018-2019-us-tataouine-as-gabes/
+tunisia-2018-2019,3,2018-09-26,15:30,201809261530,wednesday,Espérance de Tunis,Stade Tunisien,1,1,2,D,D,D,1,0,1,H,W,L,http://www.worldfootball.net/report/ligue-1-2018-2019-esperance-de-tunis-stade-tunisien/
+tunisia-2018-2019,4,2018-10-06,15:00,201810061500,saturday,Club Africain,Stade Tunisien,1,4,5,A,L,W,1,1,2,D,D,D,http://www.worldfootball.net/report/ligue-1-2018-2019-club-africain-stade-tunisien/
+tunisia-2018-2019,4,2018-10-06,15:00,201810061500,saturday,US Ben Guerdane,US Tataouine,2,2,4,D,D,D,1,1,2,D,D,D,http://www.worldfootball.net/report/ligue-1-2018-2019-us-ben-guerdane-us-tataouine/
+tunisia-2018-2019,4,2018-10-06,15:00,201810061500,saturday,JS Kairouan,Stade Gabésien,1,1,2,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/ligue-1-2018-2019-js-kairouan-stade-gabesien/
+tunisia-2018-2019,4,2018-10-06,15:00,201810061500,saturday,AS Gabès,ES Métlaoui,2,1,3,H,W,L,1,1,2,D,D,D,http://www.worldfootball.net/report/ligue-1-2018-2019-as-gabes-es-metlaoui/
+tunisia-2018-2019,4,2018-10-07,15:00,201810071500,sunday,CA Bizertin,CS Hammam-Lif,3,2,5,H,W,L,0,1,1,A,L,W,http://www.worldfootball.net/report/ligue-1-2018-2019-ca-bizertin-cs-hammam-lif/
+tunisia-2018-2019,4,2018-10-07,15:00,201810071500,sunday,Étoile du Sahel,US Monastir,5,3,8,H,W,L,3,1,4,H,W,L,http://www.worldfootball.net/report/ligue-1-2018-2019-etoile-du-sahel-us-monastir/
+tunisia-2018-2019,4,2018-10-07,15:00,201810071500,sunday,Club Sportif Sfaxien,Espérance de Tunis,2,0,2,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/ligue-1-2018-2019-club-sportif-sfaxien-esperance-de-tunis/
+tunisia-2018-2019,5,2018-10-20,14:30,201810201430,saturday,US Tataouine,CA Bizertin,1,1,2,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/ligue-1-2018-2019-us-tataouine-ca-bizertin/
+tunisia-2018-2019,5,2018-10-20,14:30,201810201430,saturday,Stade Gabésien,Étoile du Sahel,2,2,4,D,D,D,1,1,2,D,D,D,http://www.worldfootball.net/report/ligue-1-2018-2019-stade-gabesien-etoile-du-sahel/
+tunisia-2018-2019,5,2018-10-20,14:30,201810201430,saturday,US Monastir,CS Hammam-Lif,1,2,3,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/ligue-1-2018-2019-us-monastir-cs-hammam-lif/
+tunisia-2018-2019,5,2018-10-21,14:30,201810211430,sunday,Club Sportif Sfaxien,Club Africain,2,0,2,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/ligue-1-2018-2019-club-sportif-sfaxien-club-africain/
+tunisia-2018-2019,5,2018-10-21,14:30,201810211430,sunday,Stade Tunisien,JS Kairouan,1,2,3,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/ligue-1-2018-2019-stade-tunisien-js-kairouan/
+tunisia-2018-2019,5,2018-10-21,14:30,201810211430,sunday,ES Métlaoui,US Ben Guerdane,1,0,1,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/ligue-1-2018-2019-es-metlaoui-us-ben-guerdane/
+tunisia-2018-2019,6,2018-10-27,14:30,201810271430,saturday,AS Gabès,Stade Gabésien,0,2,2,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/ligue-1-2018-2019-as-gabes-stade-gabesien/
+tunisia-2018-2019,6,2018-10-27,14:30,201810271430,saturday,Club Africain,CA Bizertin,0,2,2,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/ligue-1-2018-2019-club-africain-ca-bizertin/
+tunisia-2018-2019,6,2018-10-27,14:30,201810271430,saturday,JS Kairouan,US Tataouine,0,1,1,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/ligue-1-2018-2019-js-kairouan-us-tataouine/
+tunisia-2018-2019,6,2018-10-28,13:30,201810281330,sunday,US Monastir,Club Sportif Sfaxien,0,1,1,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/ligue-1-2018-2019-us-monastir-club-sportif-sfaxien/
+tunisia-2018-2019,6,2018-10-28,13:30,201810281330,sunday,Stade Tunisien,US Ben Guerdane,0,3,3,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/ligue-1-2018-2019-stade-tunisien-us-ben-guerdane/
+tunisia-2018-2019,6,2018-10-28,13:30,201810281330,sunday,CS Hammam-Lif,Espérance de Tunis,0,2,2,A,L,W,0,2,2,A,L,W,http://www.worldfootball.net/report/ligue-1-2018-2019-cs-hammam-lif-esperance-de-tunis/
+tunisia-2018-2019,3,2018-10-31,13:30,201810311330,wednesday,CS Hammam-Lif,Étoile du Sahel,0,1,1,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/ligue-1-2018-2019-cs-hammam-lif-etoile-du-sahel/
+tunisia-2018-2019,7,2018-11-03,13:00,201811031300,saturday,Club Sportif Sfaxien,Stade Gabésien,1,0,1,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/ligue-1-2018-2019-club-sportif-sfaxien-stade-gabesien/
+tunisia-2018-2019,7,2018-11-03,13:00,201811031300,saturday,US Ben Guerdane,Club Africain,1,1,2,D,D,D,1,0,1,H,W,L,http://www.worldfootball.net/report/ligue-1-2018-2019-us-ben-guerdane-club-africain/
+tunisia-2018-2019,7,2018-11-03,13:00,201811031300,saturday,US Tataouine,Étoile du Sahel,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/ligue-1-2018-2019-us-tataouine-etoile-du-sahel/
+tunisia-2018-2019,7,2018-11-04,13:00,201811041300,sunday,AS Gabès,Stade Tunisien,1,1,2,D,D,D,1,0,1,H,W,L,http://www.worldfootball.net/report/ligue-1-2018-2019-as-gabes-stade-tunisien/
+tunisia-2018-2019,7,2018-11-04,13:00,201811041300,sunday,CA Bizertin,JS Kairouan,1,0,1,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/ligue-1-2018-2019-ca-bizertin-js-kairouan/
+tunisia-2018-2019,7,2018-11-04,13:00,201811041300,sunday,ES Métlaoui,CS Hammam-Lif,1,1,2,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/ligue-1-2018-2019-es-metlaoui-cs-hammam-lif/
+tunisia-2018-2019,6,2018-11-11,13:00,201811111300,sunday,Étoile du Sahel,ES Métlaoui,1,0,1,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/ligue-1-2018-2019-etoile-du-sahel-es-metlaoui/
+tunisia-2018-2019,5,2018-11-14,13:00,201811141300,wednesday,Espérance de Tunis,AS Gabès,3,0,3,H,W,L,2,0,2,H,W,L,http://www.worldfootball.net/report/ligue-1-2018-2019-esperance-de-tunis-as-gabes/
+tunisia-2018-2019,2,2018-11-18,13:00,201811181300,sunday,ES Métlaoui,Espérance de Tunis,1,2,3,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/ligue-1-2018-2019-es-metlaoui-esperance-de-tunis/
+tunisia-2018-2019,7,2018-11-21,13:00,201811211300,wednesday,Espérance de Tunis,US Monastir,1,0,1,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/ligue-1-2018-2019-esperance-de-tunis-us-monastir/
+tunisia-2018-2019,8,2018-11-23,13:00,201811231300,friday,Club Africain,AS Gabès,2,1,3,H,W,L,0,1,1,A,L,W,http://www.worldfootball.net/report/ligue-1-2018-2019-club-africain-as-gabes/
+tunisia-2018-2019,8,2018-11-24,13:00,201811241300,saturday,Stade Tunisien,Club Sportif Sfaxien,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/ligue-1-2018-2019-stade-tunisien-club-sportif-sfaxien/
+tunisia-2018-2019,8,2018-11-24,13:00,201811241300,saturday,Étoile du Sahel,CA Bizertin,1,1,2,D,D,D,1,0,1,H,W,L,http://www.worldfootball.net/report/ligue-1-2018-2019-etoile-du-sahel-ca-bizertin/
+tunisia-2018-2019,8,2018-11-25,13:00,201811251300,sunday,US Monastir,ES Métlaoui,0,2,2,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/ligue-1-2018-2019-us-monastir-es-metlaoui/
+tunisia-2018-2019,8,2018-11-25,13:00,201811251300,sunday,Stade Gabésien,Espérance de Tunis,0,1,1,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/ligue-1-2018-2019-stade-gabesien-esperance-de-tunis/
+tunisia-2018-2019,8,2018-11-25,13:00,201811251300,sunday,JS Kairouan,US Ben Guerdane,2,0,2,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/ligue-1-2018-2019-js-kairouan-us-ben-guerdane/
+tunisia-2018-2019,8,2018-11-25,13:00,201811251300,sunday,CS Hammam-Lif,US Tataouine,1,2,3,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/ligue-1-2018-2019-cs-hammam-lif-us-tataouine/
+tunisia-2018-2019,9,2018-11-28,13:00,201811281300,wednesday,AS Gabès,US Monastir,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/ligue-1-2018-2019-as-gabes-us-monastir/
+tunisia-2018-2019,9,2018-11-28,13:00,201811281300,wednesday,US Ben Guerdane,Stade Gabésien,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/ligue-1-2018-2019-us-ben-guerdane-stade-gabesien/
+tunisia-2018-2019,9,2018-11-28,13:00,201811281300,wednesday,CA Bizertin,Stade Tunisien,2,0,2,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/ligue-1-2018-2019-ca-bizertin-stade-tunisien/
+tunisia-2018-2019,9,2018-11-28,13:00,201811281300,wednesday,ES Métlaoui,JS Kairouan,1,0,1,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/ligue-1-2018-2019-es-metlaoui-js-kairouan/
+tunisia-2018-2019,9,2018-11-28,13:00,201811281300,wednesday,Espérance de Tunis,Étoile du Sahel,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/ligue-1-2018-2019-esperance-de-tunis-etoile-du-sahel/
+tunisia-2018-2019,9,2018-11-28,13:00,201811281300,wednesday,Club Sportif Sfaxien,CS Hammam-Lif,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/ligue-1-2018-2019-club-sportif-sfaxien-cs-hammam-lif/
+tunisia-2018-2019,10,2018-12-02,13:00,201812021300,sunday,Étoile du Sahel,Club Sportif Sfaxien,1,1,2,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/ligue-1-2018-2019-etoile-du-sahel-club-sportif-sfaxien/
+tunisia-2018-2019,10,2018-12-02,13:00,201812021300,sunday,US Monastir,US Ben Guerdane,1,1,2,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/ligue-1-2018-2019-us-monastir-us-ben-guerdane/
+tunisia-2018-2019,10,2018-12-02,13:00,201812021300,sunday,CS Hammam-Lif,AS Gabès,1,1,2,D,D,D,0,1,1,A,L,W,http://www.worldfootball.net/report/ligue-1-2018-2019-cs-hammam-lif-as-gabes/
+tunisia-2018-2019,10,2018-12-02,13:00,201812021300,sunday,Stade Gabésien,CA Bizertin,1,1,2,D,D,D,1,0,1,H,W,L,http://www.worldfootball.net/report/ligue-1-2018-2019-stade-gabesien-ca-bizertin/
+tunisia-2018-2019,10,2018-12-02,13:00,201812021300,sunday,Stade Tunisien,US Tataouine,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/ligue-1-2018-2019-stade-tunisien-us-tataouine/
+tunisia-2018-2019,10,2018-12-02,13:00,201812021300,sunday,JS Kairouan,Espérance de Tunis,0,2,2,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/ligue-1-2018-2019-js-kairouan-esperance-de-tunis/
+tunisia-2018-2019,11,2018-12-08,13:00,201812081300,saturday,Club Sportif Sfaxien,JS Kairouan,1,0,1,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/ligue-1-2018-2019-club-sportif-sfaxien-js-kairouan/
+tunisia-2018-2019,11,2018-12-08,13:00,201812081300,saturday,CA Bizertin,US Monastir,3,1,4,H,W,L,2,1,3,H,W,L,http://www.worldfootball.net/report/ligue-1-2018-2019-ca-bizertin-us-monastir/
+tunisia-2018-2019,11,2018-12-08,13:00,201812081300,saturday,US Ben Guerdane,CS Hammam-Lif,1,0,1,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/ligue-1-2018-2019-us-ben-guerdane-cs-hammam-lif/
+tunisia-2018-2019,11,2018-12-08,13:00,201812081300,saturday,ES Métlaoui,Stade Tunisien,1,2,3,A,L,W,1,2,3,A,L,W,http://www.worldfootball.net/report/ligue-1-2018-2019-es-metlaoui-stade-tunisien/
+tunisia-2018-2019,11,2018-12-09,13:00,201812091300,sunday,AS Gabès,Étoile du Sahel,3,1,4,H,W,L,1,1,2,D,D,D,http://www.worldfootball.net/report/ligue-1-2018-2019-as-gabes-etoile-du-sahel/
+tunisia-2018-2019,11,2018-12-09,13:00,201812091300,sunday,US Tataouine,Stade Gabésien,2,1,3,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/ligue-1-2018-2019-us-tataouine-stade-gabesien/
+tunisia-2018-2019,12,2018-12-11,13:00,201812111300,tuesday,JS Kairouan,Club Africain,0,2,2,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/ligue-1-2018-2019-js-kairouan-club-africain/
+tunisia-2018-2019,12,2018-12-12,13:00,201812121300,wednesday,US Monastir,US Tataouine,4,0,4,H,W,L,2,0,2,H,W,L,http://www.worldfootball.net/report/ligue-1-2018-2019-us-monastir-us-tataouine/
+tunisia-2018-2019,12,2018-12-12,13:00,201812121300,wednesday,CS Hammam-Lif,Stade Gabésien,1,0,1,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/ligue-1-2018-2019-cs-hammam-lif-stade-gabesien/
+tunisia-2018-2019,12,2018-12-12,13:00,201812121300,wednesday,ES Métlaoui,CA Bizertin,1,1,2,D,D,D,1,0,1,H,W,L,http://www.worldfootball.net/report/ligue-1-2018-2019-es-metlaoui-ca-bizertin/
+tunisia-2018-2019,13,2018-12-16,13:00,201812161300,sunday,JS Kairouan,AS Gabès,2,1,3,H,W,L,1,1,2,D,D,D,http://www.worldfootball.net/report/ligue-1-2018-2019-js-kairouan-as-gabes/
+tunisia-2018-2019,13,2018-12-16,13:00,201812161300,sunday,Stade Gabésien,US Monastir,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/ligue-1-2018-2019-stade-gabesien-us-monastir/
+tunisia-2018-2019,13,2018-12-16,13:00,201812161300,sunday,Stade Tunisien,CS Hammam-Lif,1,0,1,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/ligue-1-2018-2019-stade-tunisien-cs-hammam-lif/
+tunisia-2018-2019,13,2018-12-16,13:00,201812161300,sunday,US Tataouine,ES Métlaoui,3,1,4,H,W,L,2,1,3,H,W,L,http://www.worldfootball.net/report/ligue-1-2018-2019-us-tataouine-es-metlaoui/
+tunisia-2018-2019,9,2018-12-27,13:00,201812271300,thursday,US Tataouine,Club Africain,0,2,2,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/ligue-1-2018-2019-us-tataouine-club-africain/
+tunisia-2018-2019,10,2018-12-30,13:00,201812301300,sunday,Club Africain,ES Métlaoui,3,1,4,H,W,L,3,1,4,H,W,L,http://www.worldfootball.net/report/ligue-1-2018-2019-club-africain-es-metlaoui/
+tunisia-2018-2019,11,2019-01-06,13:00,201901061300,sunday,Espérance de Tunis,Club Africain,2,1,3,H,W,L,1,1,2,D,D,D,http://www.worldfootball.net/report/ligue-1-2018-2019-esperance-de-tunis-club-africain/
+tunisia-2018-2019,12,2019-01-09,13:00,201901091300,wednesday,Étoile du Sahel,Stade Tunisien,4,1,5,H,W,L,3,0,3,H,W,L,http://www.worldfootball.net/report/ligue-1-2018-2019-etoile-du-sahel-stade-tunisien/
+tunisia-2018-2019,12,2019-01-15,13:00,201901151300,tuesday,Espérance de Tunis,US Ben Guerdane,2,0,2,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/ligue-1-2018-2019-esperance-de-tunis-us-ben-guerdane/
+tunisia-2018-2019,12,2019-01-16,13:00,201901161300,wednesday,AS Gabès,Club Sportif Sfaxien,1,2,3,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/ligue-1-2018-2019-as-gabes-club-sportif-sfaxien/
+tunisia-2018-2019,13,2019-01-23,13:00,201901231300,wednesday,US Ben Guerdane,Club Sportif Sfaxien,1,1,2,D,D,D,1,1,2,D,D,D,http://www.worldfootball.net/report/ligue-1-2018-2019-us-ben-guerdane-club-sportif-sfaxien/
+tunisia-2018-2019,13,2019-01-23,13:00,201901231300,wednesday,CA Bizertin,Espérance de Tunis,2,2,4,D,D,D,0,1,1,A,L,W,http://www.worldfootball.net/report/ligue-1-2018-2019-ca-bizertin-esperance-de-tunis/
+tunisia-2018-2019,13,2019-01-23,13:00,201901231300,wednesday,Club Africain,Étoile du Sahel,0,1,1,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/ligue-1-2018-2019-club-africain-etoile-du-sahel/
+tunisia-2018-2019,14,2019-02-03,13:00,201902031300,sunday,Stade Tunisien,US Monastir,0,2,2,A,L,W,0,2,2,A,L,W,http://www.worldfootball.net/report/ligue-1-2018-2019-stade-tunisien-us-monastir/
+tunisia-2018-2019,14,2019-02-03,13:00,201902031300,sunday,ES Métlaoui,Stade Gabésien,0,1,1,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/ligue-1-2018-2019-es-metlaoui-stade-gabesien/
+tunisia-2018-2019,14,2019-02-03,13:00,201902031300,sunday,AS Gabès,US Ben Guerdane,2,1,3,H,W,L,2,1,3,H,W,L,http://www.worldfootball.net/report/ligue-1-2018-2019-as-gabes-us-ben-guerdane/
+tunisia-2018-2019,14,2019-02-07,13:00,201902071300,thursday,Club Sportif Sfaxien,CA Bizertin,1,1,2,D,D,D,0,1,1,A,L,W,http://www.worldfootball.net/report/ligue-1-2018-2019-club-sportif-sfaxien-ca-bizertin/
+tunisia-2018-2019,14,2019-02-07,13:00,201902071300,thursday,US Tataouine,Espérance de Tunis,0,1,1,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/ligue-1-2018-2019-us-tataouine-esperance-de-tunis/
+tunisia-2018-2019,14,2019-02-07,13:00,201902071300,thursday,Club Africain,CS Hammam-Lif,1,0,1,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/ligue-1-2018-2019-club-africain-cs-hammam-lif/
+tunisia-2018-2019,14,2019-02-17,13:00,201902171300,sunday,JS Kairouan,Étoile du Sahel,0,2,2,A,L,W,0,2,2,A,L,W,http://www.worldfootball.net/report/ligue-1-2018-2019-js-kairouan-etoile-du-sahel/

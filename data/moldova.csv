@@ -2518,11 +2518,68 @@ moldova-2018,13,2018-06-24,16:30,201806241630,sunday,Dinamo Auto,CS Petrocub,2,2
 moldova-2018,13,2018-06-24,16:30,201806241630,sunday,Speranţa Nisporeni,FC Milsami,1,2,3,A,L,W,1,1,2,D,D,D,http://www.worldfootball.net/report/divizia-nationala-2018-sperana-nisporeni-fc-milsami/
 moldova-2018,13,2018-06-24,16:30,201806241630,sunday,FC Zaria,FC Sfîntul Gheorghe,1,1,2,D,D,D,1,0,1,H,W,L,http://www.worldfootball.net/report/divizia-nationala-2018-fc-zaria-fc-sfintul-gheorghe/
 moldova-2018,13,2018-06-24,17:00,201806241700,sunday,FC Zimbru,FC Sheriff,0,1,1,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/divizia-nationala-2018-fc-zimbru-fc-sheriff/
-moldova-2018,10,2018-06-27,16:30,201806271630,wednesday,Dinamo Auto,Speranţa Nisporeni,1,2,3,A,L,W,1,0,1,H,W,L,
-moldova-2018,10,2018-06-27,17:00,201806271700,wednesday,FC Sheriff,FC Milsami,0,0,0,D,D,D,0,0,0,D,D,D,
-moldova-2018,10,2018-06-27,17:00,201806271700,wednesday,FC Zimbru,FC Zaria,4,3,7,H,W,L,2,2,4,D,D,D,
-moldova-2018,10,2018-06-27,19:00,201806271900,wednesday,CS Petrocub,FC Sfîntul Gheorghe,3,1,4,H,W,L,1,0,1,H,W,L,
-moldova-2018,14,2018-07-01,16:00,201807011600,sunday,FC Sfîntul Gheorghe,Speranţa Nisporeni,2,2,4,D,D,D,0,0,0,D,D,D,
-moldova-2018,14,2018-07-01,17:00,201807011700,sunday,FC Sheriff,FC Zaria,5,1,6,H,W,L,3,1,4,H,W,L,
-moldova-2018,14,2018-07-01,18:00,201807011800,sunday,FC Milsami,Dinamo Auto,4,0,4,H,W,L,0,0,0,D,D,D,
-moldova-2018,14,2018-07-01,18:00,201807011800,sunday,CS Petrocub,FC Zimbru,2,1,3,H,W,L,1,1,2,D,D,D,
+moldova-2018,10,2018-06-27,16:30,201806271630,wednesday,Dinamo Auto,Speranţa Nisporeni,1,2,3,A,L,W,1,0,1,H,W,L,http://www.worldfootball.net/report/divizia-nationala-2018-dinamo-auto-sperana-nisporeni/
+moldova-2018,10,2018-06-27,17:00,201806271700,wednesday,FC Sheriff,FC Milsami,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/divizia-nationala-2018-fc-sheriff-fc-milsami/
+moldova-2018,10,2018-06-27,17:00,201806271700,wednesday,FC Zimbru,FC Zaria,4,3,7,H,W,L,2.0,2.0,4.0,D,D,D,http://www.worldfootball.net/report/divizia-nationala-2018-fc-zimbru-fc-zaria/
+moldova-2018,10,2018-06-27,19:00,201806271900,wednesday,CS Petrocub,FC Sfîntul Gheorghe,3,1,4,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/divizia-nationala-2018-cs-petrocub-fc-sfintul-gheorghe/
+moldova-2018,14,2018-07-01,16:00,201807011600,sunday,FC Sfîntul Gheorghe,Speranţa Nisporeni,2,2,4,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/divizia-nationala-2018-fc-sfintul-gheorghe-sperana-nisporeni/
+moldova-2018,14,2018-07-01,17:00,201807011700,sunday,FC Sheriff,FC Zaria,5,1,6,H,W,L,3,1,4,H,W,L,http://www.worldfootball.net/report/divizia-nationala-2018-fc-sheriff-fc-zaria/
+moldova-2018,14,2018-07-01,18:00,201807011800,sunday,FC Milsami,Dinamo Auto,4,0,4,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/divizia-nationala-2018-fc-milsami-dinamo-auto/
+moldova-2018,14,2018-07-01,18:00,201807011800,sunday,CS Petrocub,FC Zimbru,2,1,3,H,W,L,1.0,1.0,2.0,D,D,D,http://www.worldfootball.net/report/divizia-nationala-2018-cs-petrocub-fc-zimbru/
+moldova-2018,15,2018-08-04,16:00,201808041600,saturday,FC Sfîntul Gheorghe,Dinamo Auto,5,2,7,H,W,L,1,1,2,D,D,D,http://www.worldfootball.net/report/divizia-nationala-2018-fc-sfintul-gheorghe-dinamo-auto_2/
+moldova-2018,15,2018-08-04,16:00,201808041600,saturday,FC Zaria,Speranţa Nisporeni,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/divizia-nationala-2018-fc-zaria-sperana-nisporeni_2/
+moldova-2018,15,2018-08-05,18:00,201808051800,sunday,CS Petrocub,FC Sheriff,1,0,1,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/divizia-nationala-2018-cs-petrocub-fc-sheriff_2/
+moldova-2018,15,2018-08-05,18:00,201808051800,sunday,FC Milsami,FC Zimbru,1,1,2,D,D,D,1,0,1,H,W,L,http://www.worldfootball.net/report/divizia-nationala-2018-fc-milsami-fc-zimbru_2/
+moldova-2018,16,2018-08-11,16:00,201808111600,saturday,Dinamo Auto,FC Zaria,0,1,1,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/divizia-nationala-2018-dinamo-auto-fc-zaria_2/
+moldova-2018,16,2018-08-11,18:00,201808111800,saturday,FC Zimbru,FC Sfîntul Gheorghe,2,1,3,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/divizia-nationala-2018-fc-zimbru-fc-sfintul-gheorghe_2/
+moldova-2018,16,2018-08-11,18:00,201808111800,saturday,CS Petrocub,FC Milsami,1,1,2,D,D,D,1,0,1,H,W,L,http://www.worldfootball.net/report/divizia-nationala-2018-cs-petrocub-fc-milsami_2/
+moldova-2018,16,2018-08-12,18:00,201808121800,sunday,FC Sheriff,Speranţa Nisporeni,2,0,2,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/divizia-nationala-2018-fc-sheriff-sperana-nisporeni_2/
+moldova-2018,17,2018-08-19,15:30,201808191530,sunday,FC Zaria,FC Zimbru,0,1,1,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/divizia-nationala-2018-fc-zaria-fc-zimbru_2/
+moldova-2018,17,2018-08-19,15:30,201808191530,sunday,FC Sfîntul Gheorghe,CS Petrocub,1,0,1,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/divizia-nationala-2018-fc-sfintul-gheorghe-cs-petrocub_2/
+moldova-2018,17,2018-08-19,15:30,201808191530,sunday,Speranţa Nisporeni,Dinamo Auto,1,0,1,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/divizia-nationala-2018-sperana-nisporeni-dinamo-auto_2/
+moldova-2018,17,2018-08-20,18:00,201808201800,monday,FC Milsami,FC Sheriff,0,2,2,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/divizia-nationala-2018-fc-milsami-fc-sheriff_2/
+moldova-2018,18,2018-08-25,18:00,201808251800,saturday,CS Petrocub,FC Zaria,1,1,2,D,D,D,1,1,2,D,D,D,http://www.worldfootball.net/report/divizia-nationala-2018-cs-petrocub-fc-zaria_2/
+moldova-2018,18,2018-08-25,18:00,201808251800,saturday,FC Zimbru,Speranţa Nisporeni,1,0,1,H,W,L,1.0,0.0,1.0,H,W,L,http://www.worldfootball.net/report/divizia-nationala-2018-fc-zimbru-sperana-nisporeni_2/
+moldova-2018,18,2018-08-26,18:00,201808261800,sunday,FC Sheriff,Dinamo Auto,2,0,2,H,W,L,2,0,2,H,W,L,http://www.worldfootball.net/report/divizia-nationala-2018-fc-sheriff-dinamo-auto_2/
+moldova-2018,18,2018-08-26,18:00,201808261800,sunday,FC Milsami,FC Sfîntul Gheorghe,3,0,3,H,W,L,2,0,2,H,W,L,http://www.worldfootball.net/report/divizia-nationala-2018-fc-milsami-fc-sfintul-gheorghe_2/
+moldova-2018,19,2018-09-01,15:00,201809011500,saturday,Speranţa Nisporeni,CS Petrocub,1,2,3,A,L,W,1,2,3,A,L,W,http://www.worldfootball.net/report/divizia-nationala-2018-sperana-nisporeni-cs-petrocub_2/
+moldova-2018,19,2018-09-01,15:00,201809011500,saturday,FC Zaria,FC Milsami,3,4,7,A,L,W,2,2,4,D,D,D,http://www.worldfootball.net/report/divizia-nationala-2018-fc-zaria-fc-milsami_2/
+moldova-2018,19,2018-09-01,15:00,201809011500,saturday,Dinamo Auto,FC Zimbru,1,1,2,D,D,D,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/divizia-nationala-2018-dinamo-auto-fc-zimbru_2/
+moldova-2018,19,2018-09-02,15:00,201809021500,sunday,FC Sfîntul Gheorghe,FC Sheriff,1,3,4,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/divizia-nationala-2018-fc-sfintul-gheorghe-fc-sheriff_2/
+moldova-2018,20,2018-09-15,14:00,201809151400,saturday,FC Sfîntul Gheorghe,FC Zaria,1,0,1,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/divizia-nationala-2018-fc-sfintul-gheorghe-fc-zaria_2/
+moldova-2018,20,2018-09-15,17:00,201809151700,saturday,CS Petrocub,Dinamo Auto,3,0,3,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/divizia-nationala-2018-cs-petrocub-dinamo-auto_2/
+moldova-2018,20,2018-09-16,16:00,201809161600,sunday,FC Sheriff,FC Zimbru,3,0,3,H,W,L,2.0,0.0,2.0,H,W,L,http://www.worldfootball.net/report/divizia-nationala-2018-fc-sheriff-fc-zimbru_2/
+moldova-2018,20,2018-09-16,17:00,201809161700,sunday,FC Milsami,Speranţa Nisporeni,0,1,1,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/divizia-nationala-2018-fc-milsami-sperana-nisporeni_2/
+moldova-2018,21,2018-09-22,14:00,201809221400,saturday,Speranţa Nisporeni,FC Sfîntul Gheorghe,4,1,5,H,W,L,2,1,3,H,W,L,http://www.worldfootball.net/report/divizia-nationala-2018-sperana-nisporeni-fc-sfintul-gheorghe_2/
+moldova-2018,21,2018-09-22,14:00,201809221400,saturday,Dinamo Auto,FC Milsami,1,0,1,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/divizia-nationala-2018-dinamo-auto-fc-milsami_2/
+moldova-2018,21,2018-09-22,16:00,201809221600,saturday,FC Sheriff,FC Zaria,5,2,7,H,W,L,1,2,3,A,L,W,http://www.worldfootball.net/report/divizia-nationala-2018-fc-sheriff-fc-zaria_2/
+moldova-2018,21,2018-09-22,16:00,201809221600,saturday,FC Zaria,FC Sheriff,2,5,7,A,L,W,2.0,1.0,3.0,H,W,L,http://www.worldfootball.net/report/divizia-nationala-2018-fc-zaria-fc-sheriff_2/
+moldova-2018,21,2018-09-22,18:00,201809221800,saturday,FC Zimbru,CS Petrocub,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/divizia-nationala-2018-fc-zimbru-cs-petrocub_2/
+moldova-2018,22,2018-09-30,13:30,201809301330,sunday,FC Zimbru,FC Milsami,2,0,2,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/divizia-nationala-2018-fc-zimbru-fc-milsami_2/
+moldova-2018,22,2018-09-30,13:30,201809301330,sunday,Dinamo Auto,FC Sfîntul Gheorghe,3,1,4,H,W,L,2,1,3,H,W,L,http://www.worldfootball.net/report/divizia-nationala-2018-dinamo-auto-fc-sfintul-gheorghe_2/
+moldova-2018,22,2018-09-30,13:30,201809301330,sunday,Speranţa Nisporeni,FC Zaria,1,2,3,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/divizia-nationala-2018-sperana-nisporeni-fc-zaria_2/
+moldova-2018,22,2018-09-30,14:00,201809301400,sunday,FC Sheriff,CS Petrocub,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/divizia-nationala-2018-fc-sheriff-cs-petrocub_2/
+moldova-2018,23,2018-10-06,13:00,201810061300,saturday,Speranţa Nisporeni,FC Sheriff,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/divizia-nationala-2018-sperana-nisporeni-fc-sheriff_2/
+moldova-2018,23,2018-10-06,13:00,201810061300,saturday,FC Zaria,Dinamo Auto,1,1,2,D,D,D,1,0,1,H,W,L,http://www.worldfootball.net/report/divizia-nationala-2018-fc-zaria-dinamo-auto_2/
+moldova-2018,23,2018-10-06,13:00,201810061300,saturday,FC Sfîntul Gheorghe,FC Zimbru,3,1,4,H,W,L,1,1,2,D,D,D,http://www.worldfootball.net/report/divizia-nationala-2018-fc-sfintul-gheorghe-fc-zimbru_2/
+moldova-2018,23,2018-10-06,13:00,201810061300,saturday,FC Milsami,CS Petrocub,1,2,3,A,L,W,1,2,3,A,L,W,http://www.worldfootball.net/report/divizia-nationala-2018-fc-milsami-cs-petrocub_2/
+moldova-2018,24,2018-10-20,13:00,201810201300,saturday,Dinamo Auto,Speranţa Nisporeni,0,1,1,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/divizia-nationala-2018-dinamo-auto-sperana-nisporeni_2/
+moldova-2018,24,2018-10-20,16:00,201810201600,saturday,FC Zimbru,FC Zaria,3,1,4,H,W,L,1,1,2,D,D,D,http://www.worldfootball.net/report/divizia-nationala-2018-fc-zimbru-fc-zaria_2/
+moldova-2018,24,2018-10-21,14:00,201810211400,sunday,CS Petrocub,FC Sfîntul Gheorghe,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/divizia-nationala-2018-cs-petrocub-fc-sfintul-gheorghe_2/
+moldova-2018,24,2018-10-21,15:00,201810211500,sunday,FC Sheriff,FC Milsami,1,1,2,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/divizia-nationala-2018-fc-sheriff-fc-milsami_2/
+moldova-2018,25,2018-10-27,13:00,201810271300,saturday,FC Zaria,CS Petrocub,1,2,3,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/divizia-nationala-2018-fc-zaria-cs-petrocub_2/
+moldova-2018,25,2018-10-27,13:00,201810271300,saturday,Speranţa Nisporeni,FC Zimbru,1,3,4,A,L,W,0,2,2,A,L,W,http://www.worldfootball.net/report/divizia-nationala-2018-sperana-nisporeni-fc-zimbru_2/
+moldova-2018,25,2018-10-27,13:00,201810271300,saturday,Dinamo Auto,FC Sheriff,0,1,1,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/divizia-nationala-2018-dinamo-auto-fc-sheriff_2/
+moldova-2018,25,2018-10-27,13:00,201810271300,saturday,FC Sfîntul Gheorghe,FC Milsami,0,2,2,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/divizia-nationala-2018-fc-sfintul-gheorghe-fc-milsami_2/
+moldova-2018,26,2018-11-04,12:00,201811041200,sunday,FC Milsami,FC Zaria,3,0,3,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/divizia-nationala-2018-fc-milsami-fc-zaria_2/
+moldova-2018,26,2018-11-04,12:00,201811041200,sunday,FC Zimbru,Dinamo Auto,1,0,1,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/divizia-nationala-2018-fc-zimbru-dinamo-auto_2/
+moldova-2018,26,2018-11-04,13:00,201811041300,sunday,FC Sheriff,FC Sfîntul Gheorghe,4,1,5,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/divizia-nationala-2018-fc-sheriff-fc-sfintul-gheorghe_2/
+moldova-2018,26,2018-11-04,14:00,201811041400,sunday,CS Petrocub,Speranţa Nisporeni,1,0,1,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/divizia-nationala-2018-cs-petrocub-sperana-nisporeni_2/
+moldova-2018,27,2018-11-10,11:00,201811101100,saturday,FC Zimbru,FC Sheriff,1,0,1,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/divizia-nationala-2018-fc-zimbru-fc-sheriff_2/
+moldova-2018,27,2018-11-10,11:00,201811101100,saturday,Dinamo Auto,CS Petrocub,1,0,1,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/divizia-nationala-2018-dinamo-auto-cs-petrocub_2/
+moldova-2018,27,2018-11-10,11:00,201811101100,saturday,Speranţa Nisporeni,FC Milsami,1,0,1,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/divizia-nationala-2018-sperana-nisporeni-fc-milsami_2/
+moldova-2018,27,2018-11-10,11:00,201811101100,saturday,FC Zaria,FC Sfîntul Gheorghe,1,1,2,D,D,D,1,0,1,H,W,L,http://www.worldfootball.net/report/divizia-nationala-2018-fc-zaria-fc-sfintul-gheorghe_2/
+moldova-2018,28,2018-11-24,11:00,201811241100,saturday,FC Zaria,FC Sheriff,0,2,2,A,L,W,,,,,,,http://www.worldfootball.net/report/divizia-nationala-2018-fc-zaria-fc-sheriff_3/
+moldova-2018,28,2018-11-24,11:00,201811241100,saturday,FC Sfîntul Gheorghe,Speranţa Nisporeni,1,2,3,A,L,W,1,1,2,D,D,D,http://www.worldfootball.net/report/divizia-nationala-2018-fc-sfintul-gheorghe-sperana-nisporeni_2/
+moldova-2018,28,2018-11-24,11:00,201811241100,saturday,FC Milsami,Dinamo Auto,0,1,1,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/divizia-nationala-2018-fc-milsami-dinamo-auto_2/
+moldova-2018,28,2018-11-24,11:00,201811241100,saturday,CS Petrocub,FC Zimbru,0,1,1,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/divizia-nationala-2018-cs-petrocub-fc-zimbru_2/

@@ -1,22 +1,22 @@
 Div,Round,Date,Time,timestamp,Weekday,HomeTeam,AwayTeam,FTHG,FTAG,FTG,FTR,FTHR,FTAR,HTHG,HTAG,HTG,HTR,HTHR,HTAR,Report_url
 bulgaria-1978-1979,1,1978-08-11,,197808110000,friday,Lokomotiv Sofia,DFS Botev,1,1,2,D,D,D,,,,,,,
-bulgaria-1978-1979,1,1978-08-12,,197808120000,saturday,Spartak Pleven,FC Chernomorets Burgas (old),0,0,0,D,D,D,0,0,0,D,D,D,
+bulgaria-1978-1979,1,1978-08-12,,197808120000,saturday,Spartak Pleven,FC Chernomorets Burgas (old),0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
 bulgaria-1978-1979,1,1978-08-12,,197808120000,saturday,Slavia Sofia,Akademik Sofia,1,1,2,D,D,D,,,,,,,
-bulgaria-1978-1979,1,1978-08-12,,197808120000,saturday,DFS Marek Stanke Dimitrov,FC Pirin,0,0,0,D,D,D,0,0,0,D,D,D,
+bulgaria-1978-1979,1,1978-08-12,,197808120000,saturday,DFS Marek Stanke Dimitrov,FC Pirin,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
 bulgaria-1978-1979,1,1978-08-12,,197808120000,saturday,Lokomotiv Plovdiv,PFC Haskovo,1,1,2,D,D,D,,,,,,,
-bulgaria-1978-1979,1,1978-08-12,,197808120000,saturday,FSVD Cherno More Varna,Trakia Plovdiv,0,0,0,D,D,D,0,0,0,D,D,D,
+bulgaria-1978-1979,1,1978-08-12,,197808120000,saturday,FSVD Cherno More Varna,Trakia Plovdiv,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
 bulgaria-1978-1979,1,1978-08-12,,197808120000,saturday,PFC Beroe,CSKA Sofia,0,2,2,A,L,W,,,,,,,
 bulgaria-1978-1979,1,1978-08-13,,197808130000,sunday,Levski Sofia,FC Sliven,3,1,4,H,W,L,,,,,,,
 bulgaria-1978-1979,2,1978-08-18,,197808180000,friday,Slavia Sofia,Spartak Pleven,1,0,1,H,W,L,,,,,,,
 bulgaria-1978-1979,2,1978-08-19,,197808190000,saturday,Trakia Plovdiv,Levski Sofia,2,0,2,H,W,L,,,,,,,
 bulgaria-1978-1979,2,1978-08-19,,197808190000,saturday,FC Sliven,PFC Beroe,0,1,1,A,L,W,,,,,,,
-bulgaria-1978-1979,2,1978-08-19,,197808190000,saturday,FC Pirin,Lokomotiv Sofia,0,0,0,D,D,D,0,0,0,D,D,D,
+bulgaria-1978-1979,2,1978-08-19,,197808190000,saturday,FC Pirin,Lokomotiv Sofia,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
 bulgaria-1978-1979,2,1978-08-19,,197808190000,saturday,PFC Haskovo,DFS Marek Stanke Dimitrov,2,0,2,H,W,L,,,,,,,
 bulgaria-1978-1979,2,1978-08-19,,197808190000,saturday,FC Chernomorets Burgas (old),FSVD Cherno More Varna,2,2,4,D,D,D,,,,,,,
 bulgaria-1978-1979,2,1978-08-19,,197808190000,saturday,Akademik Sofia,DFS Botev,2,0,2,H,W,L,,,,,,,
-bulgaria-1978-1979,2,1978-08-20,,197808200000,sunday,CSKA Sofia,Lokomotiv Plovdiv,0,0,0,D,D,D,0,0,0,D,D,D,
+bulgaria-1978-1979,2,1978-08-20,,197808200000,sunday,CSKA Sofia,Lokomotiv Plovdiv,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
 bulgaria-1978-1979,3,1978-08-25,,197808250000,friday,Lokomotiv Sofia,PFC Haskovo,3,0,3,H,W,L,,,,,,,
-bulgaria-1978-1979,3,1978-08-26,,197808260000,saturday,Spartak Pleven,Akademik Sofia,0,0,0,D,D,D,0,0,0,D,D,D,
+bulgaria-1978-1979,3,1978-08-26,,197808260000,saturday,Spartak Pleven,Akademik Sofia,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
 bulgaria-1978-1979,3,1978-08-26,,197808260000,saturday,DFS Marek Stanke Dimitrov,CSKA Sofia,0,2,2,A,L,W,,,,,,,
 bulgaria-1978-1979,3,1978-08-26,,197808260000,saturday,Lokomotiv Plovdiv,FC Sliven,2,1,3,H,W,L,,,,,,,
 bulgaria-1978-1979,3,1978-08-26,,197808260000,saturday,Levski Sofia,FC Chernomorets Burgas (old),4,2,6,H,W,L,,,,,,,
@@ -31,7 +31,7 @@ bulgaria-1978-1979,4,1978-09-02,,197809020000,saturday,PFC Haskovo,DFS Botev,3,2
 bulgaria-1978-1979,4,1978-09-02,,197809020000,saturday,CSKA Sofia,Lokomotiv Sofia,1,2,3,A,L,W,,,,,,,
 bulgaria-1978-1979,4,1978-09-02,,197809020000,saturday,FC Chernomorets Burgas (old),PFC Beroe,3,1,4,H,W,L,,,,,,,
 bulgaria-1978-1979,4,1978-09-03,,197809030000,sunday,Slavia Sofia,Levski Sofia,3,1,4,H,W,L,,,,,,,
-bulgaria-1978-1979,5,1978-09-08,,197809080000,friday,Lokomotiv Sofia,FC Sliven,0,0,0,D,D,D,0,0,0,D,D,D,
+bulgaria-1978-1979,5,1978-09-08,,197809080000,friday,Lokomotiv Sofia,FC Sliven,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
 bulgaria-1978-1979,5,1978-09-09,,197809090000,saturday,DFS Marek Stanke Dimitrov,Trakia Plovdiv,3,2,5,H,W,L,,,,,,,
 bulgaria-1978-1979,5,1978-09-09,,197809090000,saturday,Levski Sofia,Spartak Pleven,2,1,3,H,W,L,,,,,,,
 bulgaria-1978-1979,5,1978-09-09,,197809090000,saturday,DFS Botev,CSKA Sofia,1,1,2,D,D,D,,,,,,,
@@ -64,7 +64,7 @@ bulgaria-1978-1979,8,1978-09-30,,197809300000,saturday,FSVD Cherno More Varna,Lo
 bulgaria-1978-1979,8,1978-09-30,,197809300000,saturday,Akademik Sofia,CSKA Sofia,1,1,2,D,D,D,,,,,,,
 bulgaria-1978-1979,8,1978-10-01,,197810010000,sunday,Slavia Sofia,Lokomotiv Sofia,2,0,2,H,W,L,,,,,,,
 bulgaria-1978-1979,9,1978-10-14,,197810140000,saturday,FC Pirin,FC Chernomorets Burgas (old),4,2,6,H,W,L,,,,,,,
-bulgaria-1978-1979,9,1978-10-14,,197810140000,saturday,DFS Marek Stanke Dimitrov,FSVD Cherno More Varna,0,0,0,D,D,D,0,0,0,D,D,D,
+bulgaria-1978-1979,9,1978-10-14,,197810140000,saturday,DFS Marek Stanke Dimitrov,FSVD Cherno More Varna,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
 bulgaria-1978-1979,9,1978-10-14,,197810140000,saturday,Lokomotiv Sofia,Spartak Pleven,1,0,1,H,W,L,,,,,,,
 bulgaria-1978-1979,9,1978-10-14,,197810140000,saturday,Lokomotiv Plovdiv,Levski Sofia,0,1,1,A,L,W,,,,,,,
 bulgaria-1978-1979,9,1978-10-14,,197810140000,saturday,PFC Haskovo,Trakia Plovdiv,1,0,1,H,W,L,,,,,,,
@@ -87,13 +87,13 @@ bulgaria-1978-1979,11,1978-10-28,,197810280000,saturday,Lokomotiv Plovdiv,Akadem
 bulgaria-1978-1979,11,1978-10-28,,197810280000,saturday,PFC Haskovo,Slavia Sofia,1,2,3,A,L,W,,,,,,,
 bulgaria-1978-1979,11,1978-10-28,,197810280000,saturday,CSKA Sofia,FC Chernomorets Burgas (old),2,2,4,D,D,D,,,,,,,
 bulgaria-1978-1979,11,1978-10-28,,197810280000,saturday,DFS Botev,FSVD Cherno More Varna,3,0,3,H,W,L,,,,,,,
-bulgaria-1978-1979,12,1978-11-03,,197811030000,friday,Akademik Sofia,Trakia Plovdiv,0,0,0,D,D,D,0,0,0,D,D,D,
+bulgaria-1978-1979,12,1978-11-03,,197811030000,friday,Akademik Sofia,Trakia Plovdiv,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
 bulgaria-1978-1979,12,1978-11-04,,197811040000,saturday,Spartak Pleven,PFC Haskovo,4,1,5,H,W,L,,,,,,,
 bulgaria-1978-1979,12,1978-11-04,,197811040000,saturday,Slavia Sofia,CSKA Sofia,1,1,2,D,D,D,,,,,,,
 bulgaria-1978-1979,12,1978-11-04,,197811040000,saturday,Lokomotiv Plovdiv,DFS Marek Stanke Dimitrov,1,2,3,A,L,W,,,,,,,
 bulgaria-1978-1979,12,1978-11-04,,197811040000,saturday,Levski Sofia,DFS Botev,4,1,5,H,W,L,,,,,,,
 bulgaria-1978-1979,12,1978-11-04,,197811040000,saturday,FC Chernomorets Burgas (old),FC Sliven,1,2,3,A,L,W,,,,,,,
-bulgaria-1978-1979,12,1978-11-04,,197811040000,saturday,FSVD Cherno More Varna,FC Pirin,0,0,0,D,D,D,0,0,0,D,D,D,
+bulgaria-1978-1979,12,1978-11-04,,197811040000,saturday,FSVD Cherno More Varna,FC Pirin,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
 bulgaria-1978-1979,12,1978-11-04,,197811040000,saturday,PFC Beroe,Lokomotiv Sofia,1,0,1,H,W,L,,,,,,,
 bulgaria-1978-1979,13,1978-11-10,,197811100000,friday,Lokomotiv Sofia,Lokomotiv Plovdiv,3,0,3,H,W,L,,,,,,,
 bulgaria-1978-1979,13,1978-11-11,,197811110000,saturday,Trakia Plovdiv,FC Chernomorets Burgas (old),2,2,4,D,D,D,,,,,,,
@@ -102,19 +102,19 @@ bulgaria-1978-1979,13,1978-11-11,,197811110000,saturday,FC Pirin,Levski Sofia,1,
 bulgaria-1978-1979,13,1978-11-11,,197811110000,saturday,DFS Marek Stanke Dimitrov,Akademik Sofia,3,0,3,H,W,L,,,,,,,
 bulgaria-1978-1979,13,1978-11-11,,197811110000,saturday,PFC Haskovo,FSVD Cherno More Varna,2,0,2,H,W,L,,,,,,,
 bulgaria-1978-1979,13,1978-11-11,,197811110000,saturday,CSKA Sofia,Spartak Pleven,2,1,3,H,W,L,,,,,,,
-bulgaria-1978-1979,13,1978-11-11,,197811110000,saturday,DFS Botev,PFC Beroe,0,0,0,D,D,D,0,0,0,D,D,D,
+bulgaria-1978-1979,13,1978-11-11,,197811110000,saturday,DFS Botev,PFC Beroe,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
 bulgaria-1978-1979,14,1978-11-17,,197811170000,friday,Akademik Sofia,FC Chernomorets Burgas (old),1,1,2,D,D,D,,,,,,,
-bulgaria-1978-1979,14,1978-11-18,,197811180000,saturday,Spartak Pleven,FC Sliven,0,0,0,D,D,D,0,0,0,D,D,D,
+bulgaria-1978-1979,14,1978-11-18,,197811180000,saturday,Spartak Pleven,FC Sliven,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
 bulgaria-1978-1979,14,1978-11-18,,197811180000,saturday,DFS Marek Stanke Dimitrov,Lokomotiv Sofia,2,1,3,H,W,L,,,,,,,
 bulgaria-1978-1979,14,1978-11-18,,197811180000,saturday,Lokomotiv Plovdiv,DFS Botev,3,1,4,H,W,L,,,,,,,
 bulgaria-1978-1979,14,1978-11-18,,197811180000,saturday,Levski Sofia,PFC Haskovo,1,0,1,H,W,L,,,,,,,
-bulgaria-1978-1979,14,1978-11-18,,197811180000,saturday,FSVD Cherno More Varna,CSKA Sofia,0,0,0,D,D,D,0,0,0,D,D,D,
+bulgaria-1978-1979,14,1978-11-18,,197811180000,saturday,FSVD Cherno More Varna,CSKA Sofia,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
 bulgaria-1978-1979,14,1978-11-18,,197811180000,saturday,PFC Beroe,FC Pirin,4,3,7,H,W,L,,,,,,,
 bulgaria-1978-1979,14,1978-11-19,,197811190000,sunday,Slavia Sofia,Trakia Plovdiv,1,2,3,A,L,W,,,,,,,
 bulgaria-1978-1979,15,1978-12-02,,197812020000,saturday,Trakia Plovdiv,Spartak Pleven,2,0,2,H,W,L,,,,,,,
 bulgaria-1978-1979,15,1978-12-02,,197812020000,saturday,FC Sliven,FSVD Cherno More Varna,2,2,4,D,D,D,,,,,,,
 bulgaria-1978-1979,15,1978-12-02,,197812020000,saturday,FC Pirin,Lokomotiv Plovdiv,2,1,3,H,W,L,,,,,,,
-bulgaria-1978-1979,15,1978-12-02,,197812020000,saturday,Lokomotiv Sofia,Akademik Sofia,0,0,0,D,D,D,0,0,0,D,D,D,
+bulgaria-1978-1979,15,1978-12-02,,197812020000,saturday,Lokomotiv Sofia,Akademik Sofia,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
 bulgaria-1978-1979,15,1978-12-02,,197812020000,saturday,PFC Haskovo,PFC Beroe,2,3,5,A,L,W,,,,,,,
 bulgaria-1978-1979,15,1978-12-02,,197812020000,saturday,FC Chernomorets Burgas (old),Slavia Sofia,1,0,1,H,W,L,,,,,,,
 bulgaria-1978-1979,15,1978-12-02,,197812020000,saturday,DFS Botev,DFS Marek Stanke Dimitrov,1,0,1,H,W,L,,,,,,,
@@ -129,10 +129,10 @@ bulgaria-1978-1979,16,1979-02-10,,197902100000,saturday,DFS Botev,Lokomotiv Sofi
 bulgaria-1978-1979,16,1979-02-10,,197902100000,saturday,Akademik Sofia,Slavia Sofia,0,3,3,A,L,W,,,,,,,
 bulgaria-1978-1979,17,1979-02-17,,197902170000,saturday,Spartak Pleven,Slavia Sofia,1,0,1,H,W,L,,,,,,,
 bulgaria-1978-1979,17,1979-02-17,,197902170000,saturday,DFS Marek Stanke Dimitrov,PFC Haskovo,3,1,4,H,W,L,,,,,,,
-bulgaria-1978-1979,17,1979-02-17,,197902170000,saturday,Lokomotiv Sofia,FC Pirin,0,0,0,D,D,D,0,0,0,D,D,D,
+bulgaria-1978-1979,17,1979-02-17,,197902170000,saturday,Lokomotiv Sofia,FC Pirin,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
 bulgaria-1978-1979,17,1979-02-17,,197902170000,saturday,Lokomotiv Plovdiv,CSKA Sofia,1,1,2,D,D,D,,,,,,,
-bulgaria-1978-1979,17,1979-02-17,,197902170000,saturday,Levski Sofia,Trakia Plovdiv,0,0,0,D,D,D,0,0,0,D,D,D,
-bulgaria-1978-1979,17,1979-02-17,,197902170000,saturday,FSVD Cherno More Varna,FC Chernomorets Burgas (old),0,0,0,D,D,D,0,0,0,D,D,D,
+bulgaria-1978-1979,17,1979-02-17,,197902170000,saturday,Levski Sofia,Trakia Plovdiv,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
+bulgaria-1978-1979,17,1979-02-17,,197902170000,saturday,FSVD Cherno More Varna,FC Chernomorets Burgas (old),0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
 bulgaria-1978-1979,17,1979-02-17,,197902170000,saturday,DFS Botev,Akademik Sofia,1,1,2,D,D,D,,,,,,,
 bulgaria-1978-1979,17,1979-02-17,,197902170000,saturday,PFC Beroe,FC Sliven,2,1,3,H,W,L,,,,,,,
 bulgaria-1978-1979,18,1979-02-23,,197902230000,friday,Akademik Sofia,Spartak Pleven,1,2,3,A,L,W,,,,,,,
@@ -141,32 +141,32 @@ bulgaria-1978-1979,18,1979-02-24,,197902240000,saturday,FC Sliven,Lokomotiv Plov
 bulgaria-1978-1979,18,1979-02-24,,197902240000,saturday,FC Pirin,DFS Botev,1,0,1,H,W,L,,,,,,,
 bulgaria-1978-1979,18,1979-02-24,,197902240000,saturday,PFC Haskovo,Lokomotiv Sofia,1,3,4,A,L,W,,,,,,,
 bulgaria-1978-1979,18,1979-02-24,,197902240000,saturday,CSKA Sofia,DFS Marek Stanke Dimitrov,2,0,2,H,W,L,,,,,,,
-bulgaria-1978-1979,18,1979-02-24,,197902240000,saturday,FC Chernomorets Burgas (old),Levski Sofia,0,0,0,D,D,D,0,0,0,D,D,D,
-bulgaria-1978-1979,18,1979-02-25,,197902250000,sunday,Slavia Sofia,FSVD Cherno More Varna,0,0,0,D,D,D,0,0,0,D,D,D,
+bulgaria-1978-1979,18,1979-02-24,,197902240000,saturday,FC Chernomorets Burgas (old),Levski Sofia,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
+bulgaria-1978-1979,18,1979-02-25,,197902250000,sunday,Slavia Sofia,FSVD Cherno More Varna,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
 bulgaria-1978-1979,19,1979-03-03,,197903030000,saturday,FC Pirin,Akademik Sofia,4,1,5,H,W,L,,,,,,,
 bulgaria-1978-1979,19,1979-03-03,,197903030000,saturday,DFS Marek Stanke Dimitrov,FC Sliven,4,1,5,H,W,L,,,,,,,
 bulgaria-1978-1979,19,1979-03-03,,197903030000,saturday,Lokomotiv Sofia,CSKA Sofia,3,2,5,H,W,L,,,,,,,
 bulgaria-1978-1979,19,1979-03-03,,197903030000,saturday,Lokomotiv Plovdiv,Trakia Plovdiv,4,0,4,H,W,L,,,,,,,
 bulgaria-1978-1979,19,1979-03-03,,197903030000,saturday,FSVD Cherno More Varna,Spartak Pleven,2,1,3,H,W,L,,,,,,,
-bulgaria-1978-1979,19,1979-03-03,,197903030000,saturday,DFS Botev,PFC Haskovo,0,0,0,D,D,D,0,0,0,D,D,D,
+bulgaria-1978-1979,19,1979-03-03,,197903030000,saturday,DFS Botev,PFC Haskovo,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
 bulgaria-1978-1979,19,1979-03-03,,197903030000,saturday,PFC Beroe,FC Chernomorets Burgas (old),2,3,5,A,L,W,,,,,,,
 bulgaria-1978-1979,19,1979-03-04,,197903040000,sunday,Levski Sofia,Slavia Sofia,0,2,2,A,L,W,,,,,,,
 bulgaria-1978-1979,20,1979-03-09,,197903090000,friday,Slavia Sofia,PFC Beroe,1,2,3,A,L,W,,,,,,,
 bulgaria-1978-1979,20,1979-03-10,,197903100000,saturday,Trakia Plovdiv,DFS Marek Stanke Dimitrov,1,1,2,D,D,D,,,,,,,
-bulgaria-1978-1979,20,1979-03-10,,197903100000,saturday,Spartak Pleven,Levski Sofia,0,0,0,D,D,D,0,0,0,D,D,D,
+bulgaria-1978-1979,20,1979-03-10,,197903100000,saturday,Spartak Pleven,Levski Sofia,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
 bulgaria-1978-1979,20,1979-03-10,,197903100000,saturday,FC Sliven,Lokomotiv Sofia,1,0,1,H,W,L,,,,,,,
 bulgaria-1978-1979,20,1979-03-10,,197903100000,saturday,PFC Haskovo,FC Pirin,2,2,4,D,D,D,,,,,,,
 bulgaria-1978-1979,20,1979-03-10,,197903100000,saturday,CSKA Sofia,DFS Botev,3,0,3,H,W,L,,,,,,,
 bulgaria-1978-1979,20,1979-03-10,,197903100000,saturday,FC Chernomorets Burgas (old),Lokomotiv Plovdiv,1,0,1,H,W,L,,,,,,,
-bulgaria-1978-1979,20,1979-03-11,,197903110000,sunday,Akademik Sofia,FSVD Cherno More Varna,0,0,0,D,D,D,0,0,0,D,D,D,
+bulgaria-1978-1979,20,1979-03-11,,197903110000,sunday,Akademik Sofia,FSVD Cherno More Varna,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
 bulgaria-1978-1979,21,1979-03-14,,197903140000,wednesday,FC Pirin,CSKA Sofia,1,1,2,D,D,D,,,,,,,
 bulgaria-1978-1979,21,1979-03-14,,197903140000,wednesday,DFS Marek Stanke Dimitrov,FC Chernomorets Burgas (old),5,1,6,H,W,L,,,,,,,
 bulgaria-1978-1979,21,1979-03-14,,197903140000,wednesday,Lokomotiv Sofia,Trakia Plovdiv,1,0,1,H,W,L,,,,,,,
 bulgaria-1978-1979,21,1979-03-14,,197903140000,wednesday,Lokomotiv Plovdiv,Slavia Sofia,1,2,3,A,L,W,,,,,,,
 bulgaria-1978-1979,21,1979-03-14,,197903140000,wednesday,Levski Sofia,FSVD Cherno More Varna,2,0,2,H,W,L,,,,,,,
-bulgaria-1978-1979,21,1979-03-14,,197903140000,wednesday,PFC Haskovo,Akademik Sofia,0,0,0,D,D,D,0,0,0,D,D,D,
+bulgaria-1978-1979,21,1979-03-14,,197903140000,wednesday,PFC Haskovo,Akademik Sofia,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
 bulgaria-1978-1979,21,1979-03-14,,197903140000,wednesday,DFS Botev,FC Sliven,1,0,1,H,W,L,,,,,,,
-bulgaria-1978-1979,21,1979-03-14,,197903140000,wednesday,PFC Beroe,Spartak Pleven,0,0,0,D,D,D,0,0,0,D,D,D,
+bulgaria-1978-1979,21,1979-03-14,,197903140000,wednesday,PFC Beroe,Spartak Pleven,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
 bulgaria-1978-1979,22,1979-03-17,,197903170000,saturday,Slavia Sofia,DFS Marek Stanke Dimitrov,3,0,3,H,W,L,,,,,,,
 bulgaria-1978-1979,22,1979-03-18,,197903180000,sunday,Spartak Pleven,Lokomotiv Plovdiv,2,0,2,H,W,L,,,,,,,
 bulgaria-1978-1979,22,1979-03-18,,197903180000,sunday,FC Sliven,FC Pirin,1,1,2,D,D,D,,,,,,,
@@ -196,7 +196,7 @@ bulgaria-1978-1979,25,1979-04-07,,197904070000,saturday,Lokomotiv Sofia,FSVD Che
 bulgaria-1978-1979,25,1979-04-07,,197904070000,saturday,PFC Haskovo,FC Chernomorets Burgas (old),1,2,3,A,L,W,,,,,,,
 bulgaria-1978-1979,25,1979-04-07,,197904070000,saturday,DFS Botev,Spartak Pleven,1,2,3,A,L,W,,,,,,,
 bulgaria-1978-1979,25,1979-04-08,,197904080000,sunday,FC Pirin,Slavia Sofia,1,2,3,A,L,W,,,,,,,
-bulgaria-1978-1979,25,1979-04-08,,197904080000,sunday,DFS Marek Stanke Dimitrov,Levski Sofia,0,0,0,D,D,D,0,0,0,D,D,D,
+bulgaria-1978-1979,25,1979-04-08,,197904080000,sunday,DFS Marek Stanke Dimitrov,Levski Sofia,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
 bulgaria-1978-1979,25,1979-04-08,,197904080000,sunday,Lokomotiv Plovdiv,PFC Beroe,2,1,3,H,W,L,,,,,,,
 bulgaria-1978-1979,25,1979-04-08,,197904080000,sunday,CSKA Sofia,Trakia Plovdiv,1,1,2,D,D,D,,,,,,,
 bulgaria-1978-1979,26,1979-04-21,,197904210000,saturday,Spartak Pleven,FC Pirin,2,1,3,H,W,L,,,,,,,
@@ -213,10 +213,10 @@ bulgaria-1978-1979,27,1979-04-28,,197904280000,saturday,FC Pirin,FSVD Cherno Mor
 bulgaria-1978-1979,27,1979-04-28,,197904280000,saturday,DFS Marek Stanke Dimitrov,Lokomotiv Plovdiv,1,0,1,H,W,L,,,,,,,
 bulgaria-1978-1979,27,1979-04-28,,197904280000,saturday,Lokomotiv Sofia,PFC Beroe,2,0,2,H,W,L,,,,,,,
 bulgaria-1978-1979,27,1979-04-28,,197904280000,saturday,PFC Haskovo,Spartak Pleven,1,0,1,H,W,L,,,,,,,
-bulgaria-1978-1979,27,1979-04-28,,197904280000,saturday,CSKA Sofia,Slavia Sofia,0,0,0,D,D,D,0,0,0,D,D,D,
+bulgaria-1978-1979,27,1979-04-28,,197904280000,saturday,CSKA Sofia,Slavia Sofia,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
 bulgaria-1978-1979,27,1979-04-28,,197904280000,saturday,DFS Botev,Levski Sofia,0,1,1,A,L,W,,,,,,,
 bulgaria-1978-1979,28,1979-05-11,,197905110000,friday,Akademik Sofia,DFS Marek Stanke Dimitrov,3,2,5,H,W,L,,,,,,,
-bulgaria-1978-1979,28,1979-05-12,,197905120000,saturday,Spartak Pleven,CSKA Sofia,0,0,0,D,D,D,0,0,0,D,D,D,
+bulgaria-1978-1979,28,1979-05-12,,197905120000,saturday,Spartak Pleven,CSKA Sofia,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
 bulgaria-1978-1979,28,1979-05-12,,197905120000,saturday,Slavia Sofia,FC Sliven,4,0,4,H,W,L,,,,,,,
 bulgaria-1978-1979,28,1979-05-12,,197905120000,saturday,Lokomotiv Plovdiv,Lokomotiv Sofia,2,2,4,D,D,D,,,,,,,
 bulgaria-1978-1979,28,1979-05-12,,197905120000,saturday,FC Chernomorets Burgas (old),Trakia Plovdiv,3,1,4,H,W,L,,,,,,,
@@ -225,7 +225,7 @@ bulgaria-1978-1979,28,1979-05-12,,197905120000,saturday,PFC Beroe,DFS Botev,2,0,
 bulgaria-1978-1979,28,1979-05-18,,197905180000,friday,Levski Sofia,FC Pirin,2,1,3,H,W,L,,,,,,,
 bulgaria-1978-1979,29,1979-05-26,,197905260000,saturday,Trakia Plovdiv,Slavia Sofia,0,4,4,A,L,W,,,,,,,
 bulgaria-1978-1979,29,1979-05-26,,197905260000,saturday,FC Sliven,Spartak Pleven,1,1,2,D,D,D,,,,,,,
-bulgaria-1978-1979,29,1979-05-26,,197905260000,saturday,FC Pirin,PFC Beroe,0,0,0,D,D,D,0,0,0,D,D,D,
+bulgaria-1978-1979,29,1979-05-26,,197905260000,saturday,FC Pirin,PFC Beroe,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
 bulgaria-1978-1979,29,1979-05-26,,197905260000,saturday,Lokomotiv Sofia,DFS Marek Stanke Dimitrov,1,1,2,D,D,D,,,,,,,
 bulgaria-1978-1979,29,1979-05-26,,197905260000,saturday,PFC Haskovo,Levski Sofia,4,6,10,A,L,W,,,,,,,
 bulgaria-1978-1979,29,1979-05-26,,197905260000,saturday,CSKA Sofia,FSVD Cherno More Varna,5,2,7,H,W,L,,,,,,,
@@ -9330,3 +9330,177 @@ bulgaria-2017-2018-meisterschaft,10,2018-05-20,15:30,201805201530,sunday,PFC Lud
 bulgaria-2017-2018-meisterschaft,10,2018-05-20,18:00,201805201800,sunday,FK Vereya,Levski Sofia,0,2,2,A,L,W,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/a-grupa-2017-2018-meisterschaft-fk-vereya-levski-sofia/
 bulgaria-2017-2018-meisterschaft,10,2018-05-20,18:00,201805201800,sunday,CSKA Sofia,PFC Beroe,1,0,1,H,W,L,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/a-grupa-2017-2018-meisterschaft-cska-sofia-pfc-beroe/
 bulgaria-2017-2018-el-playoffs,Final,2018-05-24,18:30,201805241830,thursday,Levski Sofia,Cherno More Varna,4,1,5,H,W,L,2.0,0.0,2.0,H,W,L,http://www.worldfootball.net/report/a-grupa-2017-2018-el-playoffs-finale-levski-sofia-cherno-more-varna/
+bulgaria-2018-2019,1,2018-07-20,16:30,201807201630,friday,Vitosha Bistritsa,FC Dunav Ruse,2,1,3,H,W,L,0,1,1,A,L,W,http://www.worldfootball.net/report/parva-liga-2018-2019-vitosha-bistritsa-fc-dunav-ruse/
+bulgaria-2018-2019,1,2018-07-20,18:45,201807201845,friday,Cherno More Varna,FK Botev Vratsa,2,1,3,H,W,L,1,1,2,D,D,D,http://www.worldfootball.net/report/parva-liga-2018-2019-cherno-more-varna-fk-botev-vratsa/
+bulgaria-2018-2019,1,2018-07-21,16:30,201807211630,saturday,PFC Ludogorets Razgrad,Etar Veliko Tarnovo,1,0,1,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/parva-liga-2018-2019-pfc-ludogorets-razgrad-etar-tarnovo/
+bulgaria-2018-2019,1,2018-07-21,16:30,201807211630,saturday,PFC Ludogorets Razgrad,Etar Tarnovo,1,0,1,H,W,L,1.0,0.0,1.0,H,W,L,http://www.worldfootball.net/report/parva-liga-2018-2019-pfc-ludogorets-razgrad-etar-tarnovo/
+bulgaria-2018-2019,1,2018-07-21,18:45,201807211845,saturday,Botev Plovdiv,Levski Sofia,0,1,1,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/parva-liga-2018-2019-botev-plovdiv-levski-sofia/
+bulgaria-2018-2019,1,2018-07-22,16:30,201807221630,sunday,Slavia Sofia,PFC Beroe,1,1,2,D,D,D,0,1,1,A,L,W,http://www.worldfootball.net/report/parva-liga-2018-2019-slavia-sofia-pfc-beroe/
+bulgaria-2018-2019,1,2018-07-22,18:45,201807221845,sunday,CSKA Sofia,Lokomotiv Plovdiv,2,0,2,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/parva-liga-2018-2019-cska-sofia-lokomotiv-plovdiv/
+bulgaria-2018-2019,1,2018-07-23,18:30,201807231830,monday,FK Vereya,Septemvri Sofia,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/parva-liga-2018-2019-fk-vereya-septemvri-sofia/
+bulgaria-2018-2019,2,2018-07-27,16:30,201807271630,friday,Etar Veliko Tarnovo,FK Vereya,1,0,1,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/parva-liga-2018-2019-etar-tarnovo-fk-vereya/
+bulgaria-2018-2019,2,2018-07-27,16:30,201807271630,friday,Etar Tarnovo,FK Vereya,1,0,1,H,W,L,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/parva-liga-2018-2019-etar-tarnovo-fk-vereya/
+bulgaria-2018-2019,2,2018-07-27,18:45,201807271845,friday,FC Dunav Ruse,FK Botev Vratsa,3,1,4,H,W,L,2,0,2,H,W,L,http://www.worldfootball.net/report/parva-liga-2018-2019-fc-dunav-ruse-fk-botev-vratsa/
+bulgaria-2018-2019,2,2018-07-28,16:30,201807281630,saturday,Septemvri Sofia,Botev Plovdiv,0,2,2,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/parva-liga-2018-2019-septemvri-sofia-botev-plovdiv/
+bulgaria-2018-2019,2,2018-07-28,18:45,201807281845,saturday,PFC Beroe,PFC Ludogorets Razgrad,1,1,2,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/parva-liga-2018-2019-pfc-beroe-pfc-ludogorets-razgrad/
+bulgaria-2018-2019,2,2018-07-29,16:30,201807291630,sunday,Lokomotiv Plovdiv,Slavia Sofia,2,4,6,A,L,W,1,2,3,A,L,W,http://www.worldfootball.net/report/parva-liga-2018-2019-lokomotiv-plovdiv-slavia-sofia/
+bulgaria-2018-2019,2,2018-07-29,18:45,201807291845,sunday,Vitosha Bistritsa,CSKA Sofia,0,2,2,A,L,W,0,2,2,A,L,W,http://www.worldfootball.net/report/parva-liga-2018-2019-vitosha-bistritsa-cska-sofia/
+bulgaria-2018-2019,2,2018-07-30,18:30,201807301830,monday,Levski Sofia,Cherno More Varna,2,2,4,D,D,D,0,1,1,A,L,W,http://www.worldfootball.net/report/parva-liga-2018-2019-levski-sofia-cherno-more-varna/
+bulgaria-2018-2019,3,2018-08-03,16:30,201808031630,friday,Botev Plovdiv,Etar Veliko Tarnovo,2,0,2,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/parva-liga-2018-2019-botev-plovdiv-etar-tarnovo/
+bulgaria-2018-2019,3,2018-08-03,16:30,201808031630,friday,Botev Plovdiv,Etar Tarnovo,2,0,2,H,W,L,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/parva-liga-2018-2019-botev-plovdiv-etar-tarnovo/
+bulgaria-2018-2019,3,2018-08-03,18:45,201808031845,friday,FK Vereya,PFC Beroe,0,2,2,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/parva-liga-2018-2019-fk-vereya-pfc-beroe/
+bulgaria-2018-2019,3,2018-08-04,16:30,201808041630,saturday,Cherno More Varna,Septemvri Sofia,1,5,6,A,L,W,0,2,2,A,L,W,http://www.worldfootball.net/report/parva-liga-2018-2019-cherno-more-varna-septemvri-sofia/
+bulgaria-2018-2019,3,2018-08-04,18:45,201808041845,saturday,PFC Ludogorets Razgrad,Lokomotiv Plovdiv,0,1,1,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/parva-liga-2018-2019-pfc-ludogorets-razgrad-lokomotiv-plovdiv/
+bulgaria-2018-2019,3,2018-08-05,16:30,201808051630,sunday,FK Botev Vratsa,Levski Sofia,0,2,2,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/parva-liga-2018-2019-fk-botev-vratsa-levski-sofia/
+bulgaria-2018-2019,3,2018-08-05,18:45,201808051845,sunday,CSKA Sofia,FC Dunav Ruse,3,0,3,H,W,L,2,0,2,H,W,L,http://www.worldfootball.net/report/parva-liga-2018-2019-cska-sofia-fc-dunav-ruse/
+bulgaria-2018-2019,3,2018-08-06,18:30,201808061830,monday,Slavia Sofia,Vitosha Bistritsa,0,2,2,A,L,W,0,2,2,A,L,W,http://www.worldfootball.net/report/parva-liga-2018-2019-slavia-sofia-vitosha-bistritsa/
+bulgaria-2018-2019,4,2018-08-10,16:15,201808101615,friday,Etar Veliko Tarnovo,Cherno More Varna,1,1,2,D,D,D,1,0,1,H,W,L,http://www.worldfootball.net/report/parva-liga-2018-2019-etar-tarnovo-cherno-more-varna/
+bulgaria-2018-2019,4,2018-08-10,16:15,201808101615,friday,Etar Tarnovo,Cherno More Varna,1,1,2,D,D,D,1.0,0.0,1.0,H,W,L,http://www.worldfootball.net/report/parva-liga-2018-2019-etar-tarnovo-cherno-more-varna/
+bulgaria-2018-2019,4,2018-08-10,18:30,201808101830,friday,Lokomotiv Plovdiv,FK Vereya,3,0,3,H,W,L,2,0,2,H,W,L,http://www.worldfootball.net/report/parva-liga-2018-2019-lokomotiv-plovdiv-fk-vereya/
+bulgaria-2018-2019,4,2018-08-11,16:45,201808111645,saturday,PFC Beroe,Botev Plovdiv,2,1,3,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/parva-liga-2018-2019-pfc-beroe-botev-plovdiv/
+bulgaria-2018-2019,4,2018-08-11,19:00,201808111900,saturday,FC Dunav Ruse,Levski Sofia,1,2,3,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/parva-liga-2018-2019-fc-dunav-ruse-levski-sofia/
+bulgaria-2018-2019,4,2018-08-12,16:30,201808121630,sunday,Vitosha Bistritsa,PFC Ludogorets Razgrad,0,2,2,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/parva-liga-2018-2019-vitosha-bistritsa-pfc-ludogorets-razgrad/
+bulgaria-2018-2019,4,2018-08-12,18:45,201808121845,sunday,CSKA Sofia,Slavia Sofia,2,1,3,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/parva-liga-2018-2019-cska-sofia-slavia-sofia/
+bulgaria-2018-2019,4,2018-08-13,18:30,201808131830,monday,Septemvri Sofia,FK Botev Vratsa,1,2,3,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/parva-liga-2018-2019-septemvri-sofia-fk-botev-vratsa/
+bulgaria-2018-2019,5,2018-08-17,16:30,201808171630,friday,Slavia Sofia,FC Dunav Ruse,2,0,2,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/parva-liga-2018-2019-slavia-sofia-fc-dunav-ruse/
+bulgaria-2018-2019,5,2018-08-17,18:45,201808171845,friday,Cherno More Varna,PFC Beroe,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/parva-liga-2018-2019-cherno-more-varna-pfc-beroe/
+bulgaria-2018-2019,5,2018-08-18,16:30,201808181630,saturday,Botev Plovdiv,Lokomotiv Plovdiv,0,1,1,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/parva-liga-2018-2019-botev-plovdiv-lokomotiv-plovdiv/
+bulgaria-2018-2019,5,2018-08-18,19:00,201808181900,saturday,FK Botev Vratsa,Etar Veliko Tarnovo,2,0,2,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/parva-liga-2018-2019-fk-botev-vratsa-etar-tarnovo/
+bulgaria-2018-2019,5,2018-08-18,19:00,201808181900,saturday,FK Botev Vratsa,Etar Tarnovo,2,0,2,H,W,L,1.0,0.0,1.0,H,W,L,http://www.worldfootball.net/report/parva-liga-2018-2019-fk-botev-vratsa-etar-tarnovo/
+bulgaria-2018-2019,5,2018-08-19,16:15,201808191615,sunday,Levski Sofia,Septemvri Sofia,2,0,2,H,W,L,2,0,2,H,W,L,http://www.worldfootball.net/report/parva-liga-2018-2019-levski-sofia-septemvri-sofia/
+bulgaria-2018-2019,5,2018-08-19,19:00,201808191900,sunday,PFC Ludogorets Razgrad,CSKA Sofia,1,0,1,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/parva-liga-2018-2019-pfc-ludogorets-razgrad-cska-sofia/
+bulgaria-2018-2019,5,2018-08-20,18:30,201808201830,monday,FK Vereya,Vitosha Bistritsa,0,1,1,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/parva-liga-2018-2019-fk-vereya-vitosha-bistritsa/
+bulgaria-2018-2019,6,2018-08-24,16:45,201808241645,friday,FC Dunav Ruse,Septemvri Sofia,2,0,2,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/parva-liga-2018-2019-fc-dunav-ruse-septemvri-sofia/
+bulgaria-2018-2019,6,2018-08-24,19:00,201808241900,friday,Lokomotiv Plovdiv,Cherno More Varna,0,2,2,A,L,W,0,2,2,A,L,W,http://www.worldfootball.net/report/parva-liga-2018-2019-lokomotiv-plovdiv-cherno-more-varna/
+bulgaria-2018-2019,6,2018-08-25,16:45,201808251645,saturday,Etar Veliko Tarnovo,Levski Sofia,1,2,3,A,L,W,0,2,2,A,L,W,http://www.worldfootball.net/report/parva-liga-2018-2019-etar-tarnovo-levski-sofia/
+bulgaria-2018-2019,6,2018-08-25,16:45,201808251645,saturday,Etar Tarnovo,Levski Sofia,1,2,3,A,L,W,0.0,2.0,2.0,A,L,W,http://www.worldfootball.net/report/parva-liga-2018-2019-etar-tarnovo-levski-sofia/
+bulgaria-2018-2019,6,2018-08-25,19:00,201808251900,saturday,Vitosha Bistritsa,Botev Plovdiv,0,2,2,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/parva-liga-2018-2019-vitosha-bistritsa-botev-plovdiv/
+bulgaria-2018-2019,6,2018-08-26,16:45,201808261645,sunday,Slavia Sofia,PFC Ludogorets Razgrad,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/parva-liga-2018-2019-slavia-sofia-pfc-ludogorets-razgrad/
+bulgaria-2018-2019,6,2018-08-26,19:00,201808261900,sunday,CSKA Sofia,FK Vereya,4,0,4,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/parva-liga-2018-2019-cska-sofia-fk-vereya/
+bulgaria-2018-2019,6,2018-08-27,18:30,201808271830,monday,PFC Beroe,FK Botev Vratsa,4,0,4,H,W,L,2,0,2,H,W,L,http://www.worldfootball.net/report/parva-liga-2018-2019-pfc-beroe-fk-botev-vratsa/
+bulgaria-2018-2019,7,2018-08-31,16:45,201808311645,friday,FK Vereya,Slavia Sofia,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/parva-liga-2018-2019-fk-vereya-slavia-sofia/
+bulgaria-2018-2019,7,2018-08-31,19:00,201808311900,friday,Cherno More Varna,Vitosha Bistritsa,1,0,1,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/parva-liga-2018-2019-cherno-more-varna-vitosha-bistritsa/
+bulgaria-2018-2019,7,2018-09-01,14:30,201809011430,saturday,Septemvri Sofia,Etar Veliko Tarnovo,0,2,2,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/parva-liga-2018-2019-septemvri-sofia-etar-tarnovo/
+bulgaria-2018-2019,7,2018-09-01,14:30,201809011430,saturday,Septemvri Sofia,Etar Tarnovo,0,2,2,A,L,W,0.0,1.0,1.0,A,L,W,http://www.worldfootball.net/report/parva-liga-2018-2019-septemvri-sofia-etar-tarnovo/
+bulgaria-2018-2019,7,2018-09-01,16:45,201809011645,saturday,Botev Plovdiv,CSKA Sofia,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/parva-liga-2018-2019-botev-plovdiv-cska-sofia/
+bulgaria-2018-2019,7,2018-09-01,19:00,201809011900,saturday,Levski Sofia,PFC Beroe,1,0,1,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/parva-liga-2018-2019-levski-sofia-pfc-beroe/
+bulgaria-2018-2019,7,2018-09-02,16:45,201809021645,sunday,FK Botev Vratsa,Lokomotiv Plovdiv,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/parva-liga-2018-2019-fk-botev-vratsa-lokomotiv-plovdiv/
+bulgaria-2018-2019,7,2018-09-02,19:00,201809021900,sunday,PFC Ludogorets Razgrad,FC Dunav Ruse,3,1,4,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/parva-liga-2018-2019-pfc-ludogorets-razgrad-fc-dunav-ruse/
+bulgaria-2018-2019,8,2018-09-14,15:30,201809141530,friday,Vitosha Bistritsa,FK Botev Vratsa,1,1,2,D,D,D,1,1,2,D,D,D,http://www.worldfootball.net/report/parva-liga-2018-2019-vitosha-bistritsa-fk-botev-vratsa/
+bulgaria-2018-2019,8,2018-09-14,18:00,201809141800,friday,PFC Ludogorets Razgrad,FK Vereya,2,1,3,H,W,L,0,1,1,A,L,W,http://www.worldfootball.net/report/parva-liga-2018-2019-pfc-ludogorets-razgrad-fk-vereya/
+bulgaria-2018-2019,8,2018-09-15,12:45,201809151245,saturday,FC Dunav Ruse,Etar Veliko Tarnovo,2,4,6,A,L,W,1,3,4,A,L,W,http://www.worldfootball.net/report/parva-liga-2018-2019-fc-dunav-ruse-etar-tarnovo/
+bulgaria-2018-2019,8,2018-09-15,12:45,201809151245,saturday,FC Dunav Ruse,Etar Tarnovo,2,4,6,A,L,W,1.0,3.0,4.0,A,L,W,http://www.worldfootball.net/report/parva-liga-2018-2019-fc-dunav-ruse-etar-tarnovo/
+bulgaria-2018-2019,8,2018-09-15,15:30,201809151530,saturday,PFC Beroe,Septemvri Sofia,1,0,1,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/parva-liga-2018-2019-pfc-beroe-septemvri-sofia/
+bulgaria-2018-2019,8,2018-09-15,18:00,201809151800,saturday,CSKA Sofia,Cherno More Varna,3,1,4,H,W,L,2,1,3,H,W,L,http://www.worldfootball.net/report/parva-liga-2018-2019-cska-sofia-cherno-more-varna/
+bulgaria-2018-2019,8,2018-09-16,15:45,201809161545,sunday,Slavia Sofia,Botev Plovdiv,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/parva-liga-2018-2019-slavia-sofia-botev-plovdiv/
+bulgaria-2018-2019,8,2018-09-16,18:00,201809161800,sunday,Lokomotiv Plovdiv,Levski Sofia,1,0,1,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/parva-liga-2018-2019-lokomotiv-plovdiv-levski-sofia/
+bulgaria-2018-2019,9,2018-09-21,15:30,201809211530,friday,Etar Veliko Tarnovo,PFC Beroe,1,1,2,D,D,D,1,0,1,H,W,L,http://www.worldfootball.net/report/parva-liga-2018-2019-etar-tarnovo-pfc-beroe/
+bulgaria-2018-2019,9,2018-09-21,15:30,201809211530,friday,Etar Tarnovo,PFC Beroe,1,1,2,D,D,D,1.0,0.0,1.0,H,W,L,http://www.worldfootball.net/report/parva-liga-2018-2019-etar-tarnovo-pfc-beroe/
+bulgaria-2018-2019,9,2018-09-21,18:00,201809211800,friday,Levski Sofia,Vitosha Bistritsa,4,1,5,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/parva-liga-2018-2019-levski-sofia-vitosha-bistritsa/
+bulgaria-2018-2019,9,2018-09-22,15:30,201809221530,saturday,Septemvri Sofia,Lokomotiv Plovdiv,1,3,4,A,L,W,1,1,2,D,D,D,http://www.worldfootball.net/report/parva-liga-2018-2019-septemvri-sofia-lokomotiv-plovdiv/
+bulgaria-2018-2019,9,2018-09-22,18:00,201809221800,saturday,FK Botev Vratsa,CSKA Sofia,0,2,2,A,L,W,0,2,2,A,L,W,http://www.worldfootball.net/report/parva-liga-2018-2019-fk-botev-vratsa-cska-sofia/
+bulgaria-2018-2019,9,2018-09-23,13:00,201809231300,sunday,FK Vereya,FC Dunav Ruse,1,1,2,D,D,D,1,0,1,H,W,L,http://www.worldfootball.net/report/parva-liga-2018-2019-fk-vereya-fc-dunav-ruse/
+bulgaria-2018-2019,9,2018-09-23,15:30,201809231530,sunday,Cherno More Varna,Slavia Sofia,1,2,3,A,L,W,1,1,2,D,D,D,http://www.worldfootball.net/report/parva-liga-2018-2019-cherno-more-varna-slavia-sofia/
+bulgaria-2018-2019,9,2018-09-23,18:00,201809231800,sunday,Botev Plovdiv,PFC Ludogorets Razgrad,2,3,5,A,L,W,2,0,2,H,W,L,http://www.worldfootball.net/report/parva-liga-2018-2019-botev-plovdiv-pfc-ludogorets-razgrad/
+bulgaria-2018-2019,10,2018-09-28,17:30,201809281730,friday,Vitosha Bistritsa,Septemvri Sofia,2,1,3,H,W,L,0,1,1,A,L,W,http://www.worldfootball.net/report/parva-liga-2018-2019-vitosha-bistritsa-septemvri-sofia/
+bulgaria-2018-2019,10,2018-09-29,15:00,201809291500,saturday,CSKA Sofia,Levski Sofia,0,1,1,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/parva-liga-2018-2019-cska-sofia-levski-sofia/
+bulgaria-2018-2019,10,2018-09-29,18:00,201809291800,saturday,PFC Ludogorets Razgrad,Cherno More Varna,5,1,6,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/parva-liga-2018-2019-pfc-ludogorets-razgrad-cherno-more-varna/
+bulgaria-2018-2019,10,2018-09-30,13:00,201809301300,sunday,FC Dunav Ruse,PFC Beroe,1,1,2,D,D,D,0,1,1,A,L,W,http://www.worldfootball.net/report/parva-liga-2018-2019-fc-dunav-ruse-pfc-beroe/
+bulgaria-2018-2019,10,2018-09-30,15:30,201809301530,sunday,FK Vereya,Botev Plovdiv,1,2,3,A,L,W,0,2,2,A,L,W,http://www.worldfootball.net/report/parva-liga-2018-2019-fk-vereya-botev-plovdiv/
+bulgaria-2018-2019,10,2018-09-30,18:00,201809301800,sunday,Lokomotiv Plovdiv,Etar Veliko Tarnovo,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/parva-liga-2018-2019-lokomotiv-plovdiv-etar-tarnovo/
+bulgaria-2018-2019,10,2018-09-30,18:00,201809301800,sunday,Lokomotiv Plovdiv,Etar Tarnovo,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/parva-liga-2018-2019-lokomotiv-plovdiv-etar-tarnovo/
+bulgaria-2018-2019,10,2018-10-01,18:00,201810011800,monday,Slavia Sofia,FK Botev Vratsa,0,1,1,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/parva-liga-2018-2019-slavia-sofia-fk-botev-vratsa/
+bulgaria-2018-2019,11,2018-10-05,18:00,201810051800,friday,Cherno More Varna,FK Vereya,4,2,6,H,W,L,2,0,2,H,W,L,http://www.worldfootball.net/report/parva-liga-2018-2019-cherno-more-varna-fk-vereya/
+bulgaria-2018-2019,11,2018-10-06,13:00,201810061300,saturday,Botev Plovdiv,FC Dunav Ruse,4,1,5,H,W,L,2,1,3,H,W,L,http://www.worldfootball.net/report/parva-liga-2018-2019-botev-plovdiv-fc-dunav-ruse/
+bulgaria-2018-2019,11,2018-10-06,15:30,201810061530,saturday,Septemvri Sofia,CSKA Sofia,0,3,3,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/parva-liga-2018-2019-septemvri-sofia-cska-sofia/
+bulgaria-2018-2019,11,2018-10-06,18:00,201810061800,saturday,PFC Beroe,Lokomotiv Plovdiv,1,0,1,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/parva-liga-2018-2019-pfc-beroe-lokomotiv-plovdiv/
+bulgaria-2018-2019,11,2018-10-07,12:30,201810071230,sunday,Etar Veliko Tarnovo,Vitosha Bistritsa,1,0,1,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/parva-liga-2018-2019-etar-tarnovo-vitosha-bistritsa/
+bulgaria-2018-2019,11,2018-10-07,12:30,201810071230,sunday,Etar Tarnovo,Vitosha Bistritsa,1,0,1,H,W,L,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/parva-liga-2018-2019-etar-tarnovo-vitosha-bistritsa/
+bulgaria-2018-2019,11,2018-10-07,14:45,201810071445,sunday,FK Botev Vratsa,PFC Ludogorets Razgrad,1,4,5,A,L,W,0,4,4,A,L,W,http://www.worldfootball.net/report/parva-liga-2018-2019-fk-botev-vratsa-pfc-ludogorets-razgrad/
+bulgaria-2018-2019,11,2018-10-07,17:15,201810071715,sunday,Levski Sofia,Slavia Sofia,2,0,2,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/parva-liga-2018-2019-levski-sofia-slavia-sofia/
+bulgaria-2018-2019,12,2018-10-19,18:00,201810191800,friday,FK Vereya,FK Botev Vratsa,2,2,4,D,D,D,0,2,2,A,L,W,http://www.worldfootball.net/report/parva-liga-2018-2019-fk-vereya-fk-botev-vratsa/
+bulgaria-2018-2019,12,2018-10-20,13:00,201810201300,saturday,Slavia Sofia,Septemvri Sofia,3,1,4,H,W,L,2,0,2,H,W,L,http://www.worldfootball.net/report/parva-liga-2018-2019-slavia-sofia-septemvri-sofia/
+bulgaria-2018-2019,12,2018-10-20,15:15,201810201515,saturday,Botev Plovdiv,Cherno More Varna,2,1,3,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/parva-liga-2018-2019-botev-plovdiv-cherno-more-varna/
+bulgaria-2018-2019,12,2018-10-20,18:00,201810201800,saturday,PFC Ludogorets Razgrad,Levski Sofia,2,1,3,H,W,L,2,0,2,H,W,L,http://www.worldfootball.net/report/parva-liga-2018-2019-pfc-ludogorets-razgrad-levski-sofia/
+bulgaria-2018-2019,12,2018-10-21,15:30,201810211530,sunday,FC Dunav Ruse,Lokomotiv Plovdiv,1,0,1,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/parva-liga-2018-2019-fc-dunav-ruse-lokomotiv-plovdiv/
+bulgaria-2018-2019,12,2018-10-21,18:00,201810211800,sunday,CSKA Sofia,Etar Veliko Tarnovo,3,0,3,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/parva-liga-2018-2019-cska-sofia-etar-tarnovo/
+bulgaria-2018-2019,12,2018-10-21,18:00,201810211800,sunday,CSKA Sofia,Etar Tarnovo,3,0,3,H,W,L,1.0,0.0,1.0,H,W,L,http://www.worldfootball.net/report/parva-liga-2018-2019-cska-sofia-etar-tarnovo/
+bulgaria-2018-2019,12,2018-10-22,18:00,201810221800,monday,Vitosha Bistritsa,PFC Beroe,1,2,3,A,L,W,1,1,2,D,D,D,http://www.worldfootball.net/report/parva-liga-2018-2019-vitosha-bistritsa-pfc-beroe/
+bulgaria-2018-2019,13,2018-10-26,15:30,201810261530,friday,Cherno More Varna,FC Dunav Ruse,3,2,5,H,W,L,2,1,3,H,W,L,http://www.worldfootball.net/report/parva-liga-2018-2019-cherno-more-varna-fc-dunav-ruse/
+bulgaria-2018-2019,13,2018-10-26,17:45,201810261745,friday,Levski Sofia,FK Vereya,7,0,7,H,W,L,3,0,3,H,W,L,http://www.worldfootball.net/report/parva-liga-2018-2019-levski-sofia-fk-vereya/
+bulgaria-2018-2019,13,2018-10-27,10:30,201810271030,saturday,Lokomotiv Plovdiv,Vitosha Bistritsa,2,1,3,H,W,L,2,0,2,H,W,L,http://www.worldfootball.net/report/parva-liga-2018-2019-lokomotiv-plovdiv-vitosha-bistritsa/
+bulgaria-2018-2019,13,2018-10-27,13:00,201810271300,saturday,PFC Beroe,CSKA Sofia,1,1,2,D,D,D,1,1,2,D,D,D,http://www.worldfootball.net/report/parva-liga-2018-2019-pfc-beroe-cska-sofia/
+bulgaria-2018-2019,13,2018-10-27,15:30,201810271530,saturday,FK Botev Vratsa,Botev Plovdiv,0,1,1,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/parva-liga-2018-2019-fk-botev-vratsa-botev-plovdiv/
+bulgaria-2018-2019,13,2018-10-28,13:00,201810281300,sunday,Etar Veliko Tarnovo,Slavia Sofia,3,0,3,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/parva-liga-2018-2019-etar-tarnovo-slavia-sofia/
+bulgaria-2018-2019,13,2018-10-28,13:00,201810281300,sunday,Etar Tarnovo,Slavia Sofia,3,0,3,H,W,L,1.0,0.0,1.0,H,W,L,http://www.worldfootball.net/report/parva-liga-2018-2019-etar-tarnovo-slavia-sofia/
+bulgaria-2018-2019,13,2018-10-28,15:30,201810281530,sunday,Septemvri Sofia,PFC Ludogorets Razgrad,1,4,5,A,L,W,1,0,1,H,W,L,http://www.worldfootball.net/report/parva-liga-2018-2019-septemvri-sofia-pfc-ludogorets-razgrad/
+bulgaria-2018-2019,14,2018-11-03,10:30,201811031030,saturday,FC Dunav Ruse,Vitosha Bistritsa,3,0,3,H,W,L,3,0,3,H,W,L,http://www.worldfootball.net/report/parva-liga-2018-2019-fc-dunav-ruse-vitosha-bistritsa/
+bulgaria-2018-2019,14,2018-11-03,13:00,201811031300,saturday,Lokomotiv Plovdiv,CSKA Sofia,0,1,1,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/parva-liga-2018-2019-lokomotiv-plovdiv-cska-sofia/
+bulgaria-2018-2019,14,2018-11-03,15:15,201811031515,saturday,Septemvri Sofia,FK Vereya,1,0,1,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/parva-liga-2018-2019-septemvri-sofia-fk-vereya/
+bulgaria-2018-2019,14,2018-11-04,10:30,201811041030,sunday,FK Botev Vratsa,Cherno More Varna,2,1,3,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/parva-liga-2018-2019-fk-botev-vratsa-cherno-more-varna/
+bulgaria-2018-2019,14,2018-11-04,13:00,201811041300,sunday,Levski Sofia,Botev Plovdiv,4,1,5,H,W,L,1,1,2,D,D,D,http://www.worldfootball.net/report/parva-liga-2018-2019-levski-sofia-botev-plovdiv/
+bulgaria-2018-2019,14,2018-11-04,15:30,201811041530,sunday,Etar Veliko Tarnovo,PFC Ludogorets Razgrad,1,4,5,A,L,W,1,3,4,A,L,W,http://www.worldfootball.net/report/parva-liga-2018-2019-etar-tarnovo-pfc-ludogorets-razgrad/
+bulgaria-2018-2019,14,2018-11-04,15:30,201811041530,sunday,Etar Tarnovo,PFC Ludogorets Razgrad,1,4,5,A,L,W,1.0,3.0,4.0,A,L,W,http://www.worldfootball.net/report/parva-liga-2018-2019-etar-tarnovo-pfc-ludogorets-razgrad/
+bulgaria-2018-2019,14,2018-11-05,15:30,201811051530,monday,PFC Beroe,Slavia Sofia,2,0,2,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/parva-liga-2018-2019-pfc-beroe-slavia-sofia/
+bulgaria-2018-2019,15,2018-11-09,15:45,201811091545,friday,CSKA Sofia,Vitosha Bistritsa,3,0,3,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/parva-liga-2018-2019-cska-sofia-vitosha-bistritsa/
+bulgaria-2018-2019,15,2018-11-10,10:30,201811101030,saturday,Botev Plovdiv,Septemvri Sofia,2,0,2,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/parva-liga-2018-2019-botev-plovdiv-septemvri-sofia/
+bulgaria-2018-2019,15,2018-11-10,13:00,201811101300,saturday,Cherno More Varna,Levski Sofia,1,0,1,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/parva-liga-2018-2019-cherno-more-varna-levski-sofia/
+bulgaria-2018-2019,15,2018-11-10,15:15,201811101515,saturday,FK Vereya,Etar Veliko Tarnovo,0,1,1,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/parva-liga-2018-2019-fk-vereya-etar-tarnovo/
+bulgaria-2018-2019,15,2018-11-10,15:15,201811101515,saturday,FK Vereya,Etar Tarnovo,0,1,1,A,L,W,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/parva-liga-2018-2019-fk-vereya-etar-tarnovo/
+bulgaria-2018-2019,15,2018-11-11,10:15,201811111015,sunday,FK Botev Vratsa,FC Dunav Ruse,1,0,1,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/parva-liga-2018-2019-fk-botev-vratsa-fc-dunav-ruse/
+bulgaria-2018-2019,15,2018-11-11,12:30,201811111230,sunday,Slavia Sofia,Lokomotiv Plovdiv,1,1,2,D,D,D,0,1,1,A,L,W,http://www.worldfootball.net/report/parva-liga-2018-2019-slavia-sofia-lokomotiv-plovdiv/
+bulgaria-2018-2019,15,2018-11-11,14:45,201811111445,sunday,PFC Ludogorets Razgrad,PFC Beroe,1,0,1,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/parva-liga-2018-2019-pfc-ludogorets-razgrad-pfc-beroe/
+bulgaria-2018-2019,16,2018-11-23,15:30,201811231530,friday,Vitosha Bistritsa,Slavia Sofia,1,0,1,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/parva-liga-2018-2019-vitosha-bistritsa-slavia-sofia/
+bulgaria-2018-2019,16,2018-11-24,10:30,201811241030,saturday,Septemvri Sofia,Cherno More Varna,2,1,3,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/parva-liga-2018-2019-septemvri-sofia-cherno-more-varna/
+bulgaria-2018-2019,16,2018-11-24,13:00,201811241300,saturday,FC Dunav Ruse,CSKA Sofia,0,2,2,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/parva-liga-2018-2019-fc-dunav-ruse-cska-sofia/
+bulgaria-2018-2019,16,2018-11-24,15:30,201811241530,saturday,Lokomotiv Plovdiv,PFC Ludogorets Razgrad,0,1,1,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/parva-liga-2018-2019-lokomotiv-plovdiv-pfc-ludogorets-razgrad/
+bulgaria-2018-2019,16,2018-11-25,10:30,201811251030,sunday,Etar Veliko Tarnovo,Botev Plovdiv,1,0,1,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/parva-liga-2018-2019-etar-tarnovo-botev-plovdiv/
+bulgaria-2018-2019,16,2018-11-25,10:30,201811251030,sunday,Etar Tarnovo,Botev Plovdiv,1,0,1,H,W,L,1.0,0.0,1.0,H,W,L,http://www.worldfootball.net/report/parva-liga-2018-2019-etar-tarnovo-botev-plovdiv/
+bulgaria-2018-2019,16,2018-11-25,13:00,201811251300,sunday,PFC Beroe,FK Vereya,6,0,6,H,W,L,2,0,2,H,W,L,http://www.worldfootball.net/report/parva-liga-2018-2019-pfc-beroe-fk-vereya/
+bulgaria-2018-2019,16,2018-11-25,15:30,201811251530,sunday,Levski Sofia,FK Botev Vratsa,1,3,4,A,L,W,1,1,2,D,D,D,http://www.worldfootball.net/report/parva-liga-2018-2019-levski-sofia-fk-botev-vratsa/
+bulgaria-2018-2019,17,2018-11-30,15:30,201811301530,friday,Cherno More Varna,Etar Veliko Tarnovo,1,0,1,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/parva-liga-2018-2019-cherno-more-varna-etar-tarnovo/
+bulgaria-2018-2019,17,2018-11-30,15:30,201811301530,friday,Cherno More Varna,Etar Tarnovo,1,0,1,H,W,L,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/parva-liga-2018-2019-cherno-more-varna-etar-tarnovo/
+bulgaria-2018-2019,17,2018-12-01,10:30,201812011030,saturday,FK Vereya,Lokomotiv Plovdiv,2,2,4,D,D,D,2,1,3,H,W,L,http://www.worldfootball.net/report/parva-liga-2018-2019-fk-vereya-lokomotiv-plovdiv/
+bulgaria-2018-2019,17,2018-12-01,13:00,201812011300,saturday,Botev Plovdiv,PFC Beroe,4,1,5,H,W,L,2,1,3,H,W,L,http://www.worldfootball.net/report/parva-liga-2018-2019-botev-plovdiv-pfc-beroe/
+bulgaria-2018-2019,17,2018-12-01,15:30,201812011530,saturday,Levski Sofia,FC Dunav Ruse,3,0,3,H,W,L,3,0,3,H,W,L,http://www.worldfootball.net/report/parva-liga-2018-2019-levski-sofia-fc-dunav-ruse/
+bulgaria-2018-2019,17,2018-12-02,10:30,201812021030,sunday,FK Botev Vratsa,Septemvri Sofia,4,1,5,H,W,L,2,1,3,H,W,L,http://www.worldfootball.net/report/parva-liga-2018-2019-fk-botev-vratsa-septemvri-sofia/
+bulgaria-2018-2019,17,2018-12-02,12:45,201812021245,sunday,PFC Ludogorets Razgrad,Vitosha Bistritsa,3,0,3,H,W,L,2,0,2,H,W,L,http://www.worldfootball.net/report/parva-liga-2018-2019-pfc-ludogorets-razgrad-vitosha-bistritsa/
+bulgaria-2018-2019,17,2018-12-02,15:00,201812021500,sunday,Slavia Sofia,CSKA Sofia,1,0,1,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/parva-liga-2018-2019-slavia-sofia-cska-sofia/
+bulgaria-2018-2019,18,2018-12-04,13:00,201812041300,tuesday,PFC Beroe,Cherno More Varna,0,1,1,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/parva-liga-2018-2019-pfc-beroe-cherno-more-varna/
+bulgaria-2018-2019,18,2018-12-04,15:30,201812041530,tuesday,Lokomotiv Plovdiv,Botev Plovdiv,0,2,2,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/parva-liga-2018-2019-lokomotiv-plovdiv-botev-plovdiv/
+bulgaria-2018-2019,18,2018-12-05,13:00,201812051300,wednesday,Etar Veliko Tarnovo,FK Botev Vratsa,2,1,3,H,W,L,2,0,2,H,W,L,http://www.worldfootball.net/report/parva-liga-2018-2019-etar-tarnovo-fk-botev-vratsa/
+bulgaria-2018-2019,18,2018-12-05,13:00,201812051300,wednesday,Etar Tarnovo,FK Botev Vratsa,2,1,3,H,W,L,2.0,0.0,2.0,H,W,L,http://www.worldfootball.net/report/parva-liga-2018-2019-etar-tarnovo-fk-botev-vratsa/
+bulgaria-2018-2019,18,2018-12-05,15:30,201812051530,wednesday,Septemvri Sofia,Levski Sofia,2,2,4,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/parva-liga-2018-2019-septemvri-sofia-levski-sofia/
+bulgaria-2018-2019,18,2018-12-06,10:30,201812061030,thursday,Vitosha Bistritsa,FK Vereya,2,0,2,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/parva-liga-2018-2019-vitosha-bistritsa-fk-vereya/
+bulgaria-2018-2019,18,2018-12-06,13:00,201812061300,thursday,FC Dunav Ruse,Slavia Sofia,1,1,2,D,D,D,1,0,1,H,W,L,http://www.worldfootball.net/report/parva-liga-2018-2019-fc-dunav-ruse-slavia-sofia/
+bulgaria-2018-2019,18,2018-12-06,15:30,201812061530,thursday,CSKA Sofia,PFC Ludogorets Razgrad,1,1,2,D,D,D,0,1,1,A,L,W,http://www.worldfootball.net/report/parva-liga-2018-2019-cska-sofia-pfc-ludogorets-razgrad/
+bulgaria-2018-2019,19,2018-12-08,10:30,201812081030,saturday,Cherno More Varna,Lokomotiv Plovdiv,2,0,2,H,W,L,2,0,2,H,W,L,http://www.worldfootball.net/report/parva-liga-2018-2019-cherno-more-varna-lokomotiv-plovdiv/
+bulgaria-2018-2019,19,2018-12-08,13:00,201812081300,saturday,FK Botev Vratsa,PFC Beroe,0,1,1,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/parva-liga-2018-2019-fk-botev-vratsa-pfc-beroe/
+bulgaria-2018-2019,19,2018-12-08,15:30,201812081530,saturday,Levski Sofia,Etar Veliko Tarnovo,2,1,3,H,W,L,1,1,2,D,D,D,http://www.worldfootball.net/report/parva-liga-2018-2019-levski-sofia-etar-tarnovo/
+bulgaria-2018-2019,19,2018-12-08,15:30,201812081530,saturday,Levski Sofia,Etar Tarnovo,2,1,3,H,W,L,1.0,1.0,2.0,D,D,D,http://www.worldfootball.net/report/parva-liga-2018-2019-levski-sofia-etar-tarnovo/
+bulgaria-2018-2019,19,2018-12-09,10:30,201812091030,sunday,Septemvri Sofia,FC Dunav Ruse,2,1,3,H,W,L,0,1,1,A,L,W,http://www.worldfootball.net/report/parva-liga-2018-2019-septemvri-sofia-fc-dunav-ruse/
+bulgaria-2018-2019,19,2018-12-09,13:00,201812091300,sunday,FK Vereya,CSKA Sofia,0,1,1,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/parva-liga-2018-2019-fk-vereya-cska-sofia/
+bulgaria-2018-2019,19,2018-12-09,15:30,201812091530,sunday,PFC Ludogorets Razgrad,Slavia Sofia,2,0,2,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/parva-liga-2018-2019-pfc-ludogorets-razgrad-slavia-sofia/
+bulgaria-2018-2019,19,2018-12-10,15:30,201812101530,monday,Botev Plovdiv,Vitosha Bistritsa,3,0,3,H,W,L,3,0,3,H,W,L,http://www.worldfootball.net/report/parva-liga-2018-2019-botev-plovdiv-vitosha-bistritsa/
+bulgaria-2018-2019,20,2018-12-14,15:30,201812141530,friday,Slavia Sofia,FK Vereya,4,0,4,H,W,L,2,0,2,H,W,L,http://www.worldfootball.net/report/parva-liga-2018-2019-slavia-sofia-fk-vereya/
+bulgaria-2018-2019,20,2018-12-15,10:30,201812151030,saturday,Vitosha Bistritsa,Cherno More Varna,1,1,2,D,D,D,0,1,1,A,L,W,http://www.worldfootball.net/report/parva-liga-2018-2019-vitosha-bistritsa-cherno-more-varna/
+bulgaria-2018-2019,20,2018-12-15,13:00,201812151300,saturday,Lokomotiv Plovdiv,FK Botev Vratsa,4,0,4,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/parva-liga-2018-2019-lokomotiv-plovdiv-fk-botev-vratsa/
+bulgaria-2018-2019,20,2018-12-15,15:30,201812151530,saturday,PFC Beroe,Levski Sofia,2,1,3,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/parva-liga-2018-2019-pfc-beroe-levski-sofia/
+bulgaria-2018-2019,20,2018-12-16,10:30,201812161030,sunday,FC Dunav Ruse,PFC Ludogorets Razgrad,0,2,2,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/parva-liga-2018-2019-fc-dunav-ruse-pfc-ludogorets-razgrad/
+bulgaria-2018-2019,20,2018-12-16,13:00,201812161300,sunday,Etar Veliko Tarnovo,Septemvri Sofia,2,0,2,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/parva-liga-2018-2019-etar-tarnovo-septemvri-sofia/
+bulgaria-2018-2019,20,2018-12-16,13:00,201812161300,sunday,Etar Tarnovo,Septemvri Sofia,2,0,2,H,W,L,1.0,0.0,1.0,H,W,L,http://www.worldfootball.net/report/parva-liga-2018-2019-etar-tarnovo-septemvri-sofia/
+bulgaria-2018-2019,20,2018-12-16,17:00,201812161700,sunday,CSKA Sofia,Botev Plovdiv,2,1,3,H,W,L,2,0,2,H,W,L,http://www.worldfootball.net/report/parva-liga-2018-2019-cska-sofia-botev-plovdiv/
+bulgaria-2018-2019,21,2019-02-15,15:30,201902151530,friday,FK Vereya,PFC Ludogorets Razgrad,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/parva-liga-2018-2019-fk-vereya-pfc-ludogorets-razgrad/
+bulgaria-2018-2019,21,2019-02-16,10:30,201902161030,saturday,FK Botev Vratsa,Vitosha Bistritsa,1,0,1,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/parva-liga-2018-2019-fk-botev-vratsa-vitosha-bistritsa/
+bulgaria-2018-2019,21,2019-02-16,13:00,201902161300,saturday,Cherno More Varna,CSKA Sofia,2,0,2,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/parva-liga-2018-2019-cherno-more-varna-cska-sofia/
+bulgaria-2018-2019,21,2019-02-16,15:30,201902161530,saturday,Botev Plovdiv,Slavia Sofia,1,0,1,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/parva-liga-2018-2019-botev-plovdiv-slavia-sofia/
+bulgaria-2018-2019,21,2019-02-17,10:30,201902171030,sunday,Etar Veliko Tarnovo,FC Dunav Ruse,3,0,3,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/parva-liga-2018-2019-etar-veliko-tarnovo-fc-dunav-ruse/
+bulgaria-2018-2019,21,2019-02-17,13:00,201902171300,sunday,Septemvri Sofia,PFC Beroe,1,0,1,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/parva-liga-2018-2019-septemvri-sofia-pfc-beroe/
+bulgaria-2018-2019,21,2019-02-17,15:30,201902171530,sunday,Levski Sofia,Lokomotiv Plovdiv,1,1,2,D,D,D,0,1,1,A,L,W,http://www.worldfootball.net/report/parva-liga-2018-2019-levski-sofia-lokomotiv-plovdiv/
+bulgaria-2018-2019,22,2019-02-19,10:30,201902191030,tuesday,Slavia Sofia,Cherno More Varna,3,2,5,H,W,L,1,2,3,A,L,W,http://www.worldfootball.net/report/parva-liga-2018-2019-slavia-sofia-cherno-more-varna/
+bulgaria-2018-2019,22,2019-02-19,13:00,201902191300,tuesday,PFC Ludogorets Razgrad,Botev Plovdiv,1,1,2,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/parva-liga-2018-2019-pfc-ludogorets-razgrad-botev-plovdiv/
+bulgaria-2018-2019,22,2019-02-19,15:30,201902191530,tuesday,CSKA Sofia,FK Botev Vratsa,2,1,3,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/parva-liga-2018-2019-cska-sofia-fk-botev-vratsa/
+bulgaria-2018-2019,22,2019-02-20,10:15,201902201015,wednesday,FC Dunav Ruse,FK Vereya,1,0,1,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/parva-liga-2018-2019-fc-dunav-ruse-fk-vereya/
+bulgaria-2018-2019,22,2019-02-20,12:30,201902201230,wednesday,Lokomotiv Plovdiv,Septemvri Sofia,0,2,2,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/parva-liga-2018-2019-lokomotiv-plovdiv-septemvri-sofia/
+bulgaria-2018-2019,22,2019-02-20,15:00,201902201500,wednesday,Vitosha Bistritsa,Levski Sofia,0,2,2,A,L,W,0,2,2,A,L,W,http://www.worldfootball.net/report/parva-liga-2018-2019-vitosha-bistritsa-levski-sofia/
+bulgaria-2018-2019,22,2019-02-21,15:30,201902211530,thursday,PFC Beroe,Etar Veliko Tarnovo,1,0,1,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/parva-liga-2018-2019-pfc-beroe-etar-veliko-tarnovo/

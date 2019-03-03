@@ -1,0 +1,75 @@
+Div,Round,Date,Time,timestamp,Weekday,HomeTeam,AwayTeam,FTHG,FTAG,FTG,FTR,FTHR,FTAR,HTHG,HTAG,HTG,HTR,HTHR,HTAR,Report_url
+canada-2008,Matches,2008-05-28,00:30,200805280030,wednesday,Impact de Montréal,Toronto FC,0,1,1,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/canadian-championship-2008-spiele-impact-de-montreal-toronto-fc/
+canada-2008,Matches,2008-06-18,00:30,200806180030,wednesday,Impact de Montréal,Vancouver Whitecaps,2,0,2,H,W,L,2,0,2,H,W,L,http://www.worldfootball.net/report/canadian-championship-2008-spiele-impact-de-montreal-vancouver-whitecaps/
+canada-2008,Matches,2008-06-26,04:00,200806260400,thursday,Vancouver Whitecaps,Impact de Montréal,0,2,2,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/canadian-championship-2008-spiele-vancouver-whitecaps-impact-de-montreal/
+canada-2008,Matches,2008-07-01,21:00,200807012100,tuesday,Toronto FC,Vancouver Whitecaps,0,1,1,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/canadian-championship-2008-spiele-toronto-fc-vancouver-whitecaps/
+canada-2008,Matches,2008-07-10,03:00,200807100300,thursday,Vancouver Whitecaps,Toronto FC,2,2,4,D,D,D,1,0,1,H,W,L,http://www.worldfootball.net/report/canadian-championship-2008-spiele-vancouver-whitecaps-toronto-fc/
+canada-2008,Matches,2008-07-23,00:00,200807230000,wednesday,Toronto FC,Impact de Montréal,1,1,2,D,D,D,1,1,2,D,D,D,http://www.worldfootball.net/report/canadian-championship-2008-spiele-toronto-fc-impact-de-montreal/
+canada-2009,Matches,2009-05-07,01:00,200905070100,thursday,Toronto FC,Vancouver Whitecaps,1,0,1,H,W,L,1.0,0.0,1.0,H,W,L,http://www.worldfootball.net/report/canadian-championship-2009-spiele-toronto-fc-vancouver-whitecaps/
+canada-2009,Matches,2009-05-14,01:00,200905140100,thursday,Toronto FC,Impact de Montréal,1,0,1,H,W,L,1.0,0.0,1.0,H,W,L,http://www.worldfootball.net/report/canadian-championship-2009-spiele-toronto-fc-impact-de-montreal/
+canada-2009,Matches,2009-05-21,01:00,200905210100,thursday,Impact de Montréal,Vancouver Whitecaps,0,2,2,A,L,W,0.0,2.0,2.0,A,L,W,http://www.worldfootball.net/report/canadian-championship-2009-spiele-impact-de-montreal-vancouver-whitecaps/
+canada-2009,Matches,2009-05-28,03:30,200905280330,thursday,Vancouver Whitecaps,Impact de Montréal,1,0,1,H,W,L,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/canadian-championship-2009-spiele-vancouver-whitecaps-impact-de-montreal/
+canada-2009,Matches,2009-06-03,03:30,200906030330,wednesday,Vancouver Whitecaps,Toronto FC,2,0,2,H,W,L,1.0,0.0,1.0,H,W,L,http://www.worldfootball.net/report/canadian-championship-2009-spiele-vancouver-whitecaps-toronto-fc/
+canada-2009,Matches,2009-06-19,01:00,200906190100,friday,Impact de Montréal,Toronto FC,1,6,7,A,L,W,1.0,2.0,3.0,A,L,W,http://www.worldfootball.net/report/canadian-championship-2009-spiele-impact-de-montreal-toronto-fc/
+canada-2010,Matches,2010-04-29,01:00,201004290100,thursday,Toronto FC,Impact de Montréal,2,0,2,H,W,L,1.0,0.0,1.0,H,W,L,http://www.worldfootball.net/report/canadian-championship-2010-spiele-toronto-fc-impact-de-montreal/
+canada-2010,Matches,2010-05-06,00:30,201005060030,thursday,Vancouver Whitecaps,Impact de Montréal,1,1,2,D,D,D,0.0,1.0,1.0,A,L,W,http://www.worldfootball.net/report/canadian-championship-2010-spiele-vancouver-whitecaps-impact-de-montreal/
+canada-2010,Matches,2010-05-13,01:00,201005130100,thursday,Impact de Montréal,Toronto FC,0,1,1,A,L,W,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/canadian-championship-2010-spiele-impact-de-montreal-toronto-fc/
+canada-2010,Matches,2010-05-20,03:30,201005200330,thursday,Vancouver Whitecaps,Toronto FC,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/canadian-championship-2010-spiele-vancouver-whitecaps-toronto-fc/
+canada-2010,Matches,2010-05-27,03:00,201005270300,thursday,Impact de Montréal,Vancouver Whitecaps,1,1,2,D,D,D,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/canadian-championship-2010-spiele-impact-de-montreal-vancouver-whitecaps/
+canada-2010,Matches,2010-06-03,01:00,201006030100,thursday,Toronto FC,Vancouver Whitecaps,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/canadian-championship-2010-spiele-toronto-fc-vancouver-whitecaps/
+canada-2011,Semi-finals,2011-04-28,01:00,201104280100,thursday,FC Edmonton,Toronto FC,0,3,3,A,L,W,0.0,1.0,1.0,A,L,W,http://www.worldfootball.net/report/canadian-championship-2011-halbfinale-fc-edmonton-toronto-fc/
+canada-2011,Semi-finals,2011-04-28,01:00,201104280100,thursday,Impact de Montréal,Vancouver Whitecaps,0,1,1,A,L,W,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/canadian-championship-2011-halbfinale-impact-de-montreal-vancouver-whitecaps/
+canada-2011,Semi-finals,2011-05-05,01:00,201105050100,thursday,Toronto FC,FC Edmonton,1,0,1,H,W,L,1.0,0.0,1.0,H,W,L,http://www.worldfootball.net/report/canadian-championship-2011-halbfinale-toronto-fc-fc-edmonton/
+canada-2011,Semi-finals,2011-05-05,04:10,201105050410,thursday,Vancouver Whitecaps,Impact de Montréal,0,1,1,A,L,W,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/canadian-championship-2011-halbfinale-vancouver-whitecaps-impact-de-montreal/
+canada-2011,Final,2011-05-19,03:00,201105190300,thursday,Vancouver Whitecaps,Toronto FC,1,1,2,D,D,D,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/canadian-championship-2011-finale-vancouver-whitecaps-toronto-fc/
+canada-2011,Final,2011-07-02,17:30,201107021730,saturday,Toronto FC,Vancouver Whitecaps,2,1,3,H,W,L,0.0,1.0,1.0,A,L,W,http://www.worldfootball.net/report/canadian-championship-2011-finale-toronto-fc-vancouver-whitecaps/
+canada-2012,Semi-finals,2012-05-03,01:00,201205030100,thursday,Impact de Montréal,Toronto FC,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/canadian-championship-2012-halbfinale-impact-de-montreal-toronto-fc/
+canada-2012,Semi-finals,2012-05-03,03:00,201205030300,thursday,FC Edmonton,Vancouver Whitecaps,0,2,2,A,L,W,0.0,2.0,2.0,A,L,W,http://www.worldfootball.net/report/canadian-championship-2012-halbfinale-fc-edmonton-vancouver-whitecaps/
+canada-2012,Semi-finals,2012-05-10,01:00,201205100100,thursday,Toronto FC,Impact de Montréal,2,0,2,H,W,L,2.0,0.0,2.0,H,W,L,http://www.worldfootball.net/report/canadian-championship-2012-halbfinale-toronto-fc-impact-de-montreal/
+canada-2012,Semi-finals,2012-05-10,04:00,201205100400,thursday,Vancouver Whitecaps,FC Edmonton,3,1,4,H,W,L,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/canadian-championship-2012-halbfinale-vancouver-whitecaps-fc-edmonton/
+canada-2012,Final,2012-05-17,03:00,201205170300,thursday,Vancouver Whitecaps,Toronto FC,1,1,2,D,D,D,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/canadian-championship-2012-finale-vancouver-whitecaps-toronto-fc/
+canada-2012,Final,2012-05-24,01:00,201205240100,thursday,Toronto FC,Vancouver Whitecaps,1,0,1,H,W,L,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/canadian-championship-2012-finale-toronto-fc-vancouver-whitecaps/
+canada-2013,Semi-finals,2013-04-25,00:45,201304250045,thursday,Toronto FC,Impact de Montréal,2,0,2,H,W,L,,,,,,,
+canada-2013,Semi-finals,2013-04-25,02:45,201304250245,thursday,FC Edmonton,Vancouver Whitecaps,2,3,5,A,L,W,,,,,,,
+canada-2013,Semi-finals,2013-05-02,00:45,201305020045,thursday,Impact de Montréal,Toronto FC,6,0,6,H,W,L,,,,,,,
+canada-2013,Semi-finals,2013-05-02,03:15,201305020315,thursday,Vancouver Whitecaps,FC Edmonton,2,0,2,H,W,L,,,,,,,
+canada-2013,Final,2013-05-16,00:30,201305160030,thursday,Impact de Montréal,Vancouver Whitecaps,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
+canada-2013,Final,2013-05-30,03:00,201305300300,thursday,Vancouver Whitecaps,Impact de Montréal,2,2,4,D,D,D,,,,,,,
+canada-2014,1,2014-04-24,00:30,201404240030,thursday,Ottawa Fury,FC Edmonton,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
+canada-2014,1,2014-05-01,02:30,201405010230,thursday,FC Edmonton,Ottawa Fury,3,1,4,H,W,L,,,,,,,
+canada-2014,Semi-finals,2014-05-08,00:30,201405080030,thursday,Toronto FC,Vancouver Whitecaps,2,1,3,H,W,L,,,,,,,
+canada-2014,Semi-finals,2014-05-08,02:30,201405080230,thursday,FC Edmonton,Impact de Montréal,2,1,3,H,W,L,,,,,,,
+canada-2014,Semi-finals,2014-05-15,00:30,201405150030,thursday,Impact de Montréal,FC Edmonton,4,2,6,H,W,L,,,,,,,
+canada-2014,Semi-finals,2014-05-15,03:30,201405150330,thursday,Vancouver Whitecaps,Toronto FC,3,5,8,A,L,W,,,,,,,
+canada-2014,Final,2014-05-29,00:30,201405290030,thursday,Toronto FC,Impact de Montréal,1,1,2,D,D,D,,,,,,,
+canada-2014,Final,2014-06-05,00:30,201406050030,thursday,Impact de Montréal,Toronto FC,1,0,1,H,W,L,,,,,,,
+canada-2015,1,2015-04-23,00:30,201504230030,thursday,Ottawa Fury,FC Edmonton,1,3,4,A,L,W,,,,,,,
+canada-2015,1,2015-04-30,02:30,201504300230,thursday,FC Edmonton,Ottawa Fury,3,1,4,H,W,L,,,,,,,
+canada-2015,Semi-finals,2015-05-07,00:30,201505070030,thursday,Impact de Montréal,Toronto FC,1,0,1,H,W,L,,,,,,,
+canada-2015,Semi-finals,2015-05-14,00:30,201505140030,thursday,Toronto FC,Impact de Montréal,3,2,5,H,W,L,,,,,,,
+canada-2015,Semi-finals,2015-05-14,03:00,201505140300,thursday,Vancouver Whitecaps,FC Edmonton,1,1,2,D,D,D,,,,,,,
+canada-2015,Semi-finals,2015-05-21,03:00,201505210300,thursday,FC Edmonton,Vancouver Whitecaps,1,2,3,A,L,W,,,,,,,
+canada-2015,Final,2015-08-13,00:30,201508130030,thursday,Impact de Montréal,Vancouver Whitecaps,2,2,4,D,D,D,,,,,,,
+canada-2015,Final,2015-08-27,03:00,201508270300,thursday,Vancouver Whitecaps,Impact de Montréal,2,0,2,H,W,L,,,,,,,
+canada-2016,1,2016-05-12,02:00,201605120200,thursday,FC Edmonton,Ottawa Fury,0,3,3,A,L,W,0.0,1.0,1.0,A,L,W,http://www.worldfootball.net/report/canadian-championship-2016-1-runde-fc-edmonton-ottawa-fury/
+canada-2016,1,2016-05-19,00:30,201605190030,thursday,Ottawa Fury,FC Edmonton,0,2,2,A,L,W,0.0,2.0,2.0,A,L,W,http://www.worldfootball.net/report/canadian-championship-2016-1-runde-ottawa-fury-fc-edmonton/
+canada-2016,Semi-finals,2016-06-02,00:30,201606020030,thursday,Ottawa Fury,Vancouver Whitecaps,2,0,2,H,W,L,2.0,0.0,2.0,H,W,L,http://www.worldfootball.net/report/canadian-championship-2016-halbfinale-ottawa-fury-vancouver-whitecaps/
+canada-2016,Semi-finals,2016-06-02,00:30,201606020030,thursday,Toronto FC,Impact de Montréal,4,2,6,H,W,L,2.0,0.0,2.0,H,W,L,http://www.worldfootball.net/report/canadian-championship-2016-halbfinale-toronto-fc-impact-de-montreal/
+canada-2016,Semi-finals,2016-06-09,00:30,201606090030,thursday,Impact de Montréal,Toronto FC,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/canadian-championship-2016-halbfinale-impact-de-montreal-toronto-fc/
+canada-2016,Semi-finals,2016-06-09,03:00,201606090300,thursday,Vancouver Whitecaps,Ottawa Fury,3,0,3,H,W,L,2.0,0.0,2.0,H,W,L,http://www.worldfootball.net/report/canadian-championship-2016-halbfinale-vancouver-whitecaps-ottawa-fury/
+canada-2016,Final,2016-06-22,00:30,201606220030,wednesday,Toronto FC,Vancouver Whitecaps,1,0,1,H,W,L,1.0,0.0,1.0,H,W,L,http://www.worldfootball.net/report/canadian-championship-2016-finale-toronto-fc-vancouver-whitecaps/
+canada-2016,Final,2016-06-30,03:00,201606300300,thursday,Vancouver Whitecaps,Toronto FC,2,1,3,H,W,L,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/canadian-championship-2016-finale-vancouver-whitecaps-toronto-fc/
+canada,1,2017-05-04,00:30,201705040030,thursday,Ottawa Fury,FC Edmonton,1,0,1,H,W,L,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/canadian-championship-2017-1-runde-ottawa-fury-fc-edmonton/
+canada,1,2017-05-11,02:00,201705110200,thursday,FC Edmonton,Ottawa Fury,2,3,5,A,L,W,1.0,2.0,3.0,A,L,W,http://www.worldfootball.net/report/canadian-championship-2017-1-runde-fc-edmonton-ottawa-fury/
+canada,Semi-finals,2017-05-24,00:30,201705240030,wednesday,Ottawa Fury,Toronto FC,2,1,3,H,W,L,0.0,1.0,1.0,A,L,W,http://www.worldfootball.net/report/canadian-championship-2017-halbfinale-ottawa-fury-toronto-fc/
+canada,Semi-finals,2017-05-24,03:00,201705240300,wednesday,Vancouver Whitecaps,Impact de Montréal,2,1,3,H,W,L,2.0,0.0,2.0,H,W,L,http://www.worldfootball.net/report/canadian-championship-2017-halbfinale-vancouver-whitecaps-impact-de-montreal/
+canada,Semi-finals,2017-05-31,00:30,201705310030,wednesday,Impact de Montréal,Vancouver Whitecaps,4,2,6,H,W,L,3.0,0.0,3.0,H,W,L,http://www.worldfootball.net/report/canadian-championship-2017-halbfinale-impact-de-montreal-vancouver-whitecaps/
+canada,Semi-finals,2017-06-01,00:00,201706010000,thursday,Toronto FC,Ottawa Fury,4,0,4,H,W,L,2.0,0.0,2.0,H,W,L,http://www.worldfootball.net/report/canadian-championship-2017-halbfinale-toronto-fc-ottawa-fury/
+canada,Final,2017-06-22,00:30,201706220030,thursday,Impact de Montréal,Toronto FC,1,1,2,D,D,D,1.0,1.0,2.0,D,D,D,http://www.worldfootball.net/report/canadian-championship-2017-finale-impact-de-montreal-toronto-fc/
+canada,Final,2017-06-28,00:30,201706280030,wednesday,Toronto FC,Impact de Montréal,2,1,3,H,W,L,0.0,1.0,1.0,A,L,W,http://www.worldfootball.net/report/canadian-championship-2017-finale-toronto-fc-impact-de-montreal/
+canada-2018,Qual,2018-06-07,00:30,201806070030,thursday,AS Blainville,Oakville Blue Devils,2,1,3,H,W,L,,,,,,,
+canada-2018,Qual,2018-06-14,00:30,201806140030,thursday,Oakville Blue Devils,AS Blainville,0,1,1,A,L,W,,,,,,,
+canada-2018,Qual,2018-06-21,00:30,201806210030,thursday,AS Blainville,Ottawa Fury,0,1,1,A,L,W,,,,,,,
+canada-2018,Qual,2018-06-28,00:30,201806280030,thursday,Ottawa Fury,AS Blainville,1,0,1,H,W,L,,,,,,,
+canada-2018,Semi-finals,2018-07-19,00:30,201807190030,thursday,Ottawa Fury,Toronto FC,0,1,1,A,L,W,,,,,,,
+canada-2018,Semi-finals,2018-07-19,00:30,201807190030,thursday,Impact de Montréal,Vancouver Whitecaps,1,0,1,H,W,L,,,,,,,

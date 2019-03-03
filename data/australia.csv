@@ -1,8 +1,8 @@
 Div,Round,Date,Time,timestamp,Weekday,HomeTeam,AwayTeam,FTHG,FTAG,FTG,FTR,FTHR,FTAR,HTHG,HTAG,HTG,HTR,HTHR,HTAR,Report_url
 australia-1977,1,1977-04-02,,197704020000,saturday,Canberra City,West Adelaide Hellas,1,3,4,A,L,W,,,,,,,
-australia-1977,1,1977-04-02,,197704020000,saturday,Footscray JUST,St George-Budapest SC,0,0,0,D,D,D,0,0,0,D,D,D,
+australia-1977,1,1977-04-02,,197704020000,saturday,Footscray JUST,St George-Budapest SC,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
 australia-1977,1,1977-04-02,,197704020000,saturday,Sydney Olympic SC,South Melbourne Hellas,0,2,2,A,L,W,,,,,,,
-australia-1977,1,1977-04-03,,197704030000,sunday,Adelaide City FC,Brisbane Lions,0,0,0,D,D,D,0,0,0,D,D,D,
+australia-1977,1,1977-04-03,,197704030000,sunday,Adelaide City FC,Brisbane Lions,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
 australia-1977,1,1977-04-03,,197704030000,sunday,Brisbane City SC,Marconi-Fairfield,0,1,1,A,L,W,,,,,,,
 australia-1977,1,1977-04-03,,197704030000,sunday,Western Suburbs,Mooroolbark FC,5,0,5,H,W,L,,,,,,,
 australia-1977,1,1977-04-03,,197704030000,sunday,Fitzroy United SC,Eastern Suburbs Hakoah,1,3,4,A,L,W,,,,,,,
@@ -16,7 +16,7 @@ australia-1977,2,1977-04-11,,197704110000,monday,South Melbourne Hellas,Fitzroy 
 australia-1977,3,1977-04-17,,197704170000,sunday,Fitzroy United SC,Mooroolbark FC,2,0,2,H,W,L,,,,,,,
 australia-1977,3,1977-04-17,,197704170000,sunday,St George-Budapest SC,Marconi-Fairfield,1,3,4,A,L,W,,,,,,,
 australia-1977,3,1977-04-18,,197704180000,monday,Adelaide City FC,Canberra City,2,0,2,H,W,L,,,,,,,
-australia-1977,3,1977-04-18,,197704180000,monday,Brisbane City SC,Eastern Suburbs Hakoah,0,0,0,D,D,D,0,0,0,D,D,D,
+australia-1977,3,1977-04-18,,197704180000,monday,Brisbane City SC,Eastern Suburbs Hakoah,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
 australia-1977,3,1977-04-18,,197704180000,monday,Footscray JUST,South Melbourne Hellas,2,2,4,D,D,D,,,,,,,
 australia-1977,3,1977-04-18,,197704180000,monday,Sydney Olympic SC,West Adelaide Hellas,0,4,4,A,L,W,,,,,,,
 australia-1977,3,1977-04-18,,197704180000,monday,Western Suburbs,Brisbane Lions,3,0,3,H,W,L,,,,,,,
@@ -46,19 +46,19 @@ australia-1977,7,1977-05-16,,197705160000,monday,Eastern Suburbs Hakoah,South Me
 australia-1977,7,1977-05-16,,197705160000,monday,Footscray JUST,Canberra City,3,0,3,H,W,L,,,,,,,
 australia-1977,7,1977-05-16,,197705160000,monday,Marconi-Fairfield,West Adelaide Hellas,2,1,3,H,W,L,,,,,,,
 australia-1977,8,1977-05-22,,197705220000,sunday,Canberra City,Brisbane City SC,2,0,2,H,W,L,,,,,,,
-australia-1977,8,1977-05-22,,197705220000,sunday,South Melbourne Hellas,Adelaide City FC,0,0,0,D,D,D,0,0,0,D,D,D,
-australia-1977,8,1977-05-22,,197705220000,sunday,Western Suburbs,Footscray JUST,0,0,0,D,D,D,0,0,0,D,D,D,
+australia-1977,8,1977-05-22,,197705220000,sunday,South Melbourne Hellas,Adelaide City FC,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
+australia-1977,8,1977-05-22,,197705220000,sunday,Western Suburbs,Footscray JUST,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
 australia-1977,8,1977-05-23,,197705230000,monday,Brisbane Lions,Marconi-Fairfield,1,1,2,D,D,D,,,,,,,
 australia-1977,8,1977-05-23,,197705230000,monday,Mooroolbark FC,Eastern Suburbs Hakoah,2,2,4,D,D,D,,,,,,,
 australia-1977,8,1977-05-23,,197705230000,monday,Sydney Olympic SC,Fitzroy United SC,3,1,4,H,W,L,,,,,,,
 australia-1977,8,1977-05-23,,197705230000,monday,West Adelaide Hellas,St George-Budapest SC,3,3,6,D,D,D,,,,,,,
 australia-1977,9,1977-05-29,,197705290000,sunday,Footscray JUST,Sydney Olympic SC,1,0,1,H,W,L,,,,,,,
-australia-1977,9,1977-05-29,,197705290000,sunday,Marconi-Fairfield,Canberra City,0,0,0,D,D,D,0,0,0,D,D,D,
+australia-1977,9,1977-05-29,,197705290000,sunday,Marconi-Fairfield,Canberra City,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
 australia-1977,9,1977-05-29,,197705290000,sunday,South Melbourne Hellas,Mooroolbark FC,2,0,2,H,W,L,,,,,,,
 australia-1977,9,1977-05-30,,197705300000,monday,Adelaide City FC,Fitzroy United SC,1,0,1,H,W,L,,,,,,,
 australia-1977,9,1977-05-30,,197705300000,monday,Brisbane City SC,Western Suburbs,0,1,1,A,L,W,,,,,,,
 australia-1977,9,1977-05-30,,197705300000,monday,Eastern Suburbs Hakoah,West Adelaide Hellas,1,1,2,D,D,D,,,,,,,
-australia-1977,9,1977-05-30,,197705300000,monday,St George-Budapest SC,Brisbane Lions,0,0,0,D,D,D,0,0,0,D,D,D,
+australia-1977,9,1977-05-30,,197705300000,monday,St George-Budapest SC,Brisbane Lions,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
 australia-1977,10,1977-06-02,,197706020000,thursday,Western Suburbs,Marconi-Fairfield,1,1,2,D,D,D,,,,,,,
 australia-1977,10,1977-06-05,,197706050000,sunday,Canberra City,St George-Budapest SC,2,2,4,D,D,D,,,,,,,
 australia-1977,10,1977-06-05,,197706050000,sunday,Fitzroy United SC,Footscray JUST,2,0,2,H,W,L,,,,,,,
@@ -72,7 +72,7 @@ australia-1977,11,1977-06-11,,197706110000,saturday,St George-Budapest SC,Wester
 australia-1977,11,1977-06-12,,197706120000,sunday,Adelaide City FC,Footscray JUST,4,1,5,H,W,L,,,,,,,
 australia-1977,11,1977-06-12,,197706120000,sunday,Brisbane City SC,Fitzroy United SC,1,1,2,D,D,D,,,,,,,
 australia-1977,11,1977-06-12,,197706120000,sunday,Eastern Suburbs Hakoah,Canberra City,2,1,3,H,W,L,,,,,,,
-australia-1977,11,1977-06-12,,197706120000,sunday,Marconi-Fairfield,Sydney Olympic SC,0,0,0,D,D,D,0,0,0,D,D,D,
+australia-1977,11,1977-06-12,,197706120000,sunday,Marconi-Fairfield,Sydney Olympic SC,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
 australia-1977,11,1977-06-12,,197706120000,sunday,Mooroolbark FC,West Adelaide Hellas,1,1,2,D,D,D,,,,,,,
 australia-1977,6,1977-06-15,,197706150000,wednesday,South Melbourne Hellas,St George-Budapest SC,2,3,5,A,L,W,,,,,,,
 australia-1977,12,1977-06-20,,197706200000,monday,Brisbane Lions,Mooroolbark FC,2,1,3,H,W,L,,,,,,,
@@ -96,7 +96,7 @@ australia-1977,14,1977-07-04,,197707040000,monday,Brisbane City SC,St George-Bud
 australia-1977,14,1977-07-04,,197707040000,monday,Western Suburbs,West Adelaide Hellas,1,1,2,D,D,D,,,,,,,
 australia-1977,14,1977-07-04,,197707040000,monday,Fitzroy United SC,South Melbourne Hellas,5,2,7,H,W,L,,,,,,,
 australia-1977,6,1977-07-09,,197707090000,saturday,Brisbane Lions,Footscray JUST,2,0,2,H,W,L,,,,,,,
-australia-1977,15,1977-07-10,,197707100000,sunday,West Adelaide Hellas,Canberra City,0,0,0,D,D,D,0,0,0,D,D,D,
+australia-1977,15,1977-07-10,,197707100000,sunday,West Adelaide Hellas,Canberra City,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
 australia-1977,15,1977-07-11,,197707110000,monday,Eastern Suburbs Hakoah,Fitzroy United SC,1,1,2,D,D,D,,,,,,,
 australia-1977,15,1977-07-11,,197707110000,monday,Mooroolbark FC,Western Suburbs,0,2,2,A,L,W,,,,,,,
 australia-1977,15,1977-07-11,,197707110000,monday,St George-Budapest SC,Footscray JUST,2,0,2,H,W,L,,,,,,,
@@ -104,14 +104,14 @@ australia-1977,15,1977-07-11,,197707110000,monday,South Melbourne Hellas,Sydney 
 australia-1977,12,1977-07-16,,197707160000,saturday,Canberra City,South Melbourne Hellas,0,2,2,A,L,W,,,,,,,
 australia-1977,16,1977-07-18,,197707180000,monday,Adelaide City FC,St George-Budapest SC,1,1,2,D,D,D,,,,,,,
 australia-1977,16,1977-07-18,,197707180000,monday,Brisbane City SC,South Melbourne Hellas,2,0,2,H,W,L,,,,,,,
-australia-1977,16,1977-07-18,,197707180000,monday,Fitzroy United SC,West Adelaide Hellas,0,0,0,D,D,D,0,0,0,D,D,D,
+australia-1977,16,1977-07-18,,197707180000,monday,Fitzroy United SC,West Adelaide Hellas,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
 australia-1977,16,1977-07-18,,197707180000,monday,Footscray JUST,Mooroolbark FC,1,0,1,H,W,L,,,,,,,
 australia-1977,16,1977-07-18,,197707180000,monday,Marconi-Fairfield,Eastern Suburbs Hakoah,1,1,2,D,D,D,,,,,,,
 australia-1977,16,1977-07-18,,197707180000,monday,Sydney Olympic SC,Brisbane Lions,1,0,1,H,W,L,,,,,,,
 australia-1977,16,1977-07-18,,197707180000,monday,Western Suburbs,Canberra City,3,1,4,H,W,L,,,,,,,
 australia-1977,17,1977-07-24,,197707240000,sunday,Canberra City,Adelaide City FC,1,1,2,D,D,D,,,,,,,
 australia-1977,17,1977-07-24,,197707240000,sunday,Eastern Suburbs Hakoah,Brisbane City SC,3,1,4,H,W,L,,,,,,,
-australia-1977,17,1977-07-24,,197707240000,sunday,Marconi-Fairfield,St George-Budapest SC,0,0,0,D,D,D,0,0,0,D,D,D,
+australia-1977,17,1977-07-24,,197707240000,sunday,Marconi-Fairfield,St George-Budapest SC,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
 australia-1977,17,1977-07-25,,197707250000,monday,Brisbane Lions,Western Suburbs,4,0,4,H,W,L,,,,,,,
 australia-1977,17,1977-07-25,,197707250000,monday,Mooroolbark FC,Fitzroy United SC,1,2,3,A,L,W,,,,,,,
 australia-1977,17,1977-07-25,,197707250000,monday,South Melbourne Hellas,Footscray JUST,0,2,2,A,L,W,,,,,,,
@@ -122,7 +122,7 @@ australia-1977,18,1977-07-31,,197707310000,sunday,South Melbourne Hellas,Marconi
 australia-1977,18,1977-08-01,,197708010000,monday,Brisbane Lions,Fitzroy United SC,2,1,3,H,W,L,,,,,,,
 australia-1977,18,1977-08-01,,197708010000,monday,Eastern Suburbs Hakoah,St George-Budapest SC,2,2,4,D,D,D,,,,,,,
 australia-1977,18,1977-08-01,,197708010000,monday,West Adelaide Hellas,Footscray JUST,1,0,1,H,W,L,,,,,,,
-australia-1977,18,1977-08-01,,197708010000,monday,Western Suburbs,Adelaide City FC,0,0,0,D,D,D,0,0,0,D,D,D,
+australia-1977,18,1977-08-01,,197708010000,monday,Western Suburbs,Adelaide City FC,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
 australia-1977,15,1977-08-06,,197708060000,saturday,Marconi-Fairfield,Brisbane City SC,1,0,1,H,W,L,,,,,,,
 australia-1977,19,1977-08-07,,197708070000,sunday,Footscray JUST,Brisbane Lions,4,2,6,H,W,L,,,,,,,
 australia-1977,19,1977-08-08,,197708080000,monday,Adelaide City FC,Eastern Suburbs Hakoah,1,2,3,A,L,W,,,,,,,
@@ -134,7 +134,7 @@ australia-1977,19,1977-08-08,,197708080000,monday,Sydney Olympic SC,Western Subu
 australia-1977,20,1977-08-14,,197708140000,sunday,Brisbane Lions,Brisbane City SC,2,1,3,H,W,L,,,,,,,
 australia-1977,20,1977-08-14,,197708140000,sunday,Canberra City,Footscray JUST,0,1,1,A,L,W,,,,,,,
 australia-1977,20,1977-08-14,,197708140000,sunday,Mooroolbark FC,St George-Budapest SC,1,0,1,H,W,L,,,,,,,
-australia-1977,20,1977-08-14,,197708140000,sunday,South Melbourne Hellas,Eastern Suburbs Hakoah,0,0,0,D,D,D,0,0,0,D,D,D,
+australia-1977,20,1977-08-14,,197708140000,sunday,South Melbourne Hellas,Eastern Suburbs Hakoah,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
 australia-1977,20,1977-08-15,,197708150000,monday,Sydney Olympic SC,Adelaide City FC,3,1,4,H,W,L,,,,,,,
 australia-1977,15,1977-08-18,,197708180000,thursday,Brisbane Lions,Adelaide City FC,1,1,2,D,D,D,,,,,,,
 australia-1977,20,1977-08-20,,197708200000,saturday,West Adelaide Hellas,Marconi-Fairfield,0,1,1,A,L,W,,,,,,,
@@ -148,9 +148,9 @@ australia-1977,21,1977-08-22,,197708220000,monday,St George-Budapest SC,West Ade
 australia-1977,22,1977-08-29,,197708290000,monday,Brisbane Lions,St George-Budapest SC,1,1,2,D,D,D,,,,,,,
 australia-1977,22,1977-08-29,,197708290000,monday,Fitzroy United SC,Adelaide City FC,1,0,1,H,W,L,,,,,,,
 australia-1977,22,1977-08-29,,197708290000,monday,Mooroolbark FC,South Melbourne Hellas,2,4,6,A,L,W,,,,,,,
-australia-1977,22,1977-08-29,,197708290000,monday,Sydney Olympic SC,Footscray JUST,0,0,0,D,D,D,0,0,0,D,D,D,
+australia-1977,22,1977-08-29,,197708290000,monday,Sydney Olympic SC,Footscray JUST,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
 australia-1977,22,1977-08-29,,197708290000,monday,West Adelaide Hellas,Eastern Suburbs Hakoah,1,3,4,A,L,W,,,,,,,
-australia-1977,22,1977-08-29,,197708290000,monday,Western Suburbs,Brisbane City SC,0,0,0,D,D,D,0,0,0,D,D,D,
+australia-1977,22,1977-08-29,,197708290000,monday,Western Suburbs,Brisbane City SC,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
 australia-1977,20,1977-09-01,,197709010000,thursday,Western Suburbs,Fitzroy United SC,0,1,1,A,L,W,,,,,,,
 australia-1977,22,1977-09-01,,197709010000,thursday,Canberra City,Marconi-Fairfield,1,0,1,H,W,L,,,,,,,
 australia-1977,23,1977-09-04,,197709040000,sunday,South Melbourne Hellas,West Adelaide Hellas,1,2,3,A,L,W,,,,,,,
@@ -160,7 +160,7 @@ australia-1977,23,1977-09-05,,197709050000,monday,Eastern Suburbs Hakoah,Brisban
 australia-1977,23,1977-09-05,,197709050000,monday,Footscray JUST,Fitzroy United SC,1,3,4,A,L,W,,,,,,,
 australia-1977,23,1977-09-05,,197709050000,monday,Marconi-Fairfield,Western Suburbs,3,0,3,H,W,L,,,,,,,
 australia-1977,23,1977-09-05,,197709050000,monday,St George-Budapest SC,Canberra City,2,0,2,H,W,L,,,,,,,
-australia-1977,24,1977-09-11,,197709110000,sunday,Canberra City,Eastern Suburbs Hakoah,0,0,0,D,D,D,0,0,0,D,D,D,
+australia-1977,24,1977-09-11,,197709110000,sunday,Canberra City,Eastern Suburbs Hakoah,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
 australia-1977,24,1977-09-12,,197709120000,monday,Brisbane Lions,South Melbourne Hellas,2,0,2,H,W,L,,,,,,,
 australia-1977,24,1977-09-12,,197709120000,monday,Fitzroy United SC,Brisbane City SC,3,2,5,H,W,L,,,,,,,
 australia-1977,24,1977-09-12,,197709120000,monday,Footscray JUST,Adelaide City FC,3,4,7,A,L,W,,,,,,,
@@ -170,7 +170,7 @@ australia-1977,24,1977-09-12,,197709120000,monday,Western Suburbs,St George-Buda
 australia-1977,25,1977-09-19,,197709190000,monday,Adelaide City FC,West Adelaide Hellas,2,2,4,D,D,D,,,,,,,
 australia-1977,25,1977-09-19,,197709190000,monday,Brisbane City SC,Footscray JUST,1,3,4,A,L,W,,,,,,,
 australia-1977,25,1977-09-19,,197709190000,monday,Eastern Suburbs Hakoah,Western Suburbs,2,1,3,H,W,L,,,,,,,
-australia-1977,25,1977-09-19,,197709190000,monday,Marconi-Fairfield,Fitzroy United SC,0,0,0,D,D,D,0,0,0,D,D,D,
+australia-1977,25,1977-09-19,,197709190000,monday,Marconi-Fairfield,Fitzroy United SC,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
 australia-1977,25,1977-09-19,,197709190000,monday,Mooroolbark FC,Brisbane Lions,0,1,1,A,L,W,,,,,,,
 australia-1977,25,1977-09-19,,197709190000,monday,St George-Budapest SC,Sydney Olympic SC,3,3,6,D,D,D,,,,,,,
 australia-1977,25,1977-09-19,,197709190000,monday,South Melbourne Hellas,Canberra City,1,1,2,D,D,D,,,,,,,
@@ -179,7 +179,7 @@ australia-1977,26,1977-09-25,,197709250000,sunday,Fitzroy United SC,St George-Bu
 australia-1977,26,1977-09-26,,197709260000,monday,Adelaide City FC,Brisbane City SC,1,2,3,A,L,W,,,,,,,
 australia-1977,26,1977-09-26,,197709260000,monday,Brisbane Lions,West Adelaide Hellas,1,4,5,A,L,W,,,,,,,
 australia-1977,26,1977-09-26,,197709260000,monday,Footscray JUST,Marconi-Fairfield,3,4,7,A,L,W,,,,,,,
-australia-1977,26,1977-09-26,,197709260000,monday,Sydney Olympic SC,Eastern Suburbs Hakoah,0,0,0,D,D,D,0,0,0,D,D,D,
+australia-1977,26,1977-09-26,,197709260000,monday,Sydney Olympic SC,Eastern Suburbs Hakoah,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
 australia-1977,26,1977-09-26,,197709260000,monday,Western Suburbs,South Melbourne Hellas,2,0,2,H,W,L,,,,,,,
 australia-1978,1,1978-03-05,,197803050000,sunday,Adelaide City FC,Footscray JUST,0,1,1,A,L,W,,,,,,,
 australia-1978,1,1978-03-05,,197803050000,sunday,Brisbane Lions,Marconi-Fairfield,0,3,3,A,L,W,,,,,,,
@@ -7526,3 +7526,99 @@ australia-2017-2018-finals,Elimination Final,2018-04-22,09:00,201804220900,sunda
 australia-2017-2018-finals,Semi-Final,2018-04-27,10:50,201804271050,friday,Newcastle United Jets,Melbourne City FC,2,1,3,H,W,L,0.0,1.0,1.0,A,L,W,http://www.worldfootball.net/report/a-league-2017-2018-finals-semi-final-newcastle-united-jets-melbourne-city-fc/
 australia-2017-2018-finals,Semi-Final,2018-04-28,10:50,201804281050,saturday,Sydney FC,Melbourne Victory,2,2,4,D,D,D,1.0,1.0,2.0,D,D,D,http://www.worldfootball.net/report/a-league-2017-2018-finals-semi-final-sydney-fc-melbourne-victory/
 australia-2017-2018-finals,Final,2018-05-05,10:50,201805051050,saturday,Newcastle United Jets,Melbourne Victory,0,1,1,A,L,W,0.0,1.0,1.0,A,L,W,http://www.worldfootball.net/report/a-league-2017-2018-finals-finale-newcastle-united-jets-melbourne-victory/
+australia-2018-2019,1,2018-10-19,09:50,201810190950,friday,Adelaide United,Sydney FC,1,1,2,D,D,D,1,0,1,H,W,L,http://www.worldfootball.net/report/a-league-2018-2019-adelaide-united-sydney-fc/
+australia-2018-2019,1,2018-10-20,09:50,201810200950,saturday,Melbourne Victory,Melbourne City FC,1,2,3,A,L,W,1,1,2,D,D,D,http://www.worldfootball.net/report/a-league-2018-2019-melbourne-victory-melbourne-city-fc/
+australia-2018-2019,1,2018-10-21,05:00,201810210500,sunday,Wellington Phoenix,Newcastle United Jets,2,1,3,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/a-league-2018-2019-wellington-phoenix-newcastle-united-jets/
+australia-2018-2019,1,2018-10-21,07:00,201810210700,sunday,Brisbane Roar,Central Coast Mariners,1,1,2,D,D,D,0,1,1,A,L,W,http://www.worldfootball.net/report/a-league-2018-2019-brisbane-roar-central-coast-mariners/
+australia-2018-2019,1,2018-10-21,09:00,201810210900,sunday,Perth Glory,Western Sydney Wanderers,1,1,2,D,D,D,1,0,1,H,W,L,http://www.worldfootball.net/report/a-league-2018-2019-perth-glory-western-sydney-wanderers/
+australia-2018-2019,2,2018-10-26,09:50,201810260950,friday,Adelaide United,Newcastle United Jets,1,1,2,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/a-league-2018-2019-adelaide-united-newcastle-united-jets/
+australia-2018-2019,2,2018-10-27,07:35,201810270735,saturday,Central Coast Mariners,Melbourne City FC,1,1,2,D,D,D,1,0,1,H,W,L,http://www.worldfootball.net/report/a-league-2018-2019-central-coast-mariners-melbourne-city-fc/
+australia-2018-2019,2,2018-10-27,09:50,201810270950,saturday,Sydney FC,Western Sydney Wanderers,2,0,2,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/a-league-2018-2019-sydney-fc-western-sydney-wanderers/
+australia-2018-2019,2,2018-10-28,06:00,201810280600,sunday,Brisbane Roar,Wellington Phoenix,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/a-league-2018-2019-brisbane-roar-wellington-phoenix/
+australia-2018-2019,2,2018-10-28,08:00,201810280800,sunday,Melbourne Victory,Perth Glory,2,3,5,A,L,W,0,2,2,A,L,W,http://www.worldfootball.net/report/a-league-2018-2019-melbourne-victory-perth-glory/
+australia-2018-2019,3,2018-11-02,08:50,201811020850,friday,Melbourne City FC,Sydney FC,0,3,3,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/a-league-2018-2019-melbourne-city-fc-sydney-fc/
+australia-2018-2019,3,2018-11-03,06:35,201811030635,saturday,Wellington Phoenix,Western Sydney Wanderers,0,3,3,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/a-league-2018-2019-wellington-phoenix-western-sydney-wanderers/
+australia-2018-2019,3,2018-11-03,08:50,201811030850,saturday,Newcastle United Jets,Melbourne Victory,0,1,1,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/a-league-2018-2019-newcastle-united-jets-melbourne-victory/
+australia-2018-2019,3,2018-11-03,11:00,201811031100,saturday,Perth Glory,Brisbane Roar,2,1,3,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/a-league-2018-2019-perth-glory-brisbane-roar/
+australia-2018-2019,3,2018-11-04,06:00,201811040600,sunday,Central Coast Mariners,Adelaide United,0,3,3,A,L,W,0,2,2,A,L,W,http://www.worldfootball.net/report/a-league-2018-2019-central-coast-mariners-adelaide-united/
+australia-2018-2019,4,2018-11-09,08:50,201811090850,friday,Melbourne City FC,Wellington Phoenix,2,0,2,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/a-league-2018-2019-melbourne-city-fc-wellington-phoenix/
+australia-2018-2019,4,2018-11-10,06:35,201811100635,saturday,Western Sydney Wanderers,Brisbane Roar,2,2,4,D,D,D,2,1,3,H,W,L,http://www.worldfootball.net/report/a-league-2018-2019-western-sydney-wanderers-brisbane-roar/
+australia-2018-2019,4,2018-11-10,08:50,201811100850,saturday,Newcastle United Jets,Sydney FC,1,1,2,D,D,D,0,1,1,A,L,W,http://www.worldfootball.net/report/a-league-2018-2019-newcastle-united-jets-sydney-fc/
+australia-2018-2019,4,2018-11-11,06:00,201811110600,sunday,Adelaide United,Perth Glory,0,2,2,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/a-league-2018-2019-adelaide-united-perth-glory/
+australia-2018-2019,4,2018-11-11,08:00,201811110800,sunday,Melbourne Victory,Central Coast Mariners,4,1,5,H,W,L,3,0,3,H,W,L,http://www.worldfootball.net/report/a-league-2018-2019-melbourne-victory-central-coast-mariners/
+australia-2018-2019,5,2018-11-23,08:50,201811230850,friday,Western Sydney Wanderers,Newcastle United Jets,0,2,2,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/a-league-2018-2019-western-sydney-wanderers-newcastle-united-jets/
+australia-2018-2019,5,2018-11-24,06:35,201811240635,saturday,Wellington Phoenix,Adelaide United,1,3,4,A,L,W,1,1,2,D,D,D,http://www.worldfootball.net/report/a-league-2018-2019-wellington-phoenix-adelaide-united/
+australia-2018-2019,5,2018-11-24,08:50,201811240850,saturday,Brisbane Roar,Melbourne City FC,2,0,2,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/a-league-2018-2019-brisbane-roar-melbourne-city-fc/
+australia-2018-2019,5,2018-11-25,06:00,201811250600,sunday,Sydney FC,Melbourne Victory,1,2,3,A,L,W,1,1,2,D,D,D,http://www.worldfootball.net/report/a-league-2018-2019-sydney-fc-melbourne-victory/
+australia-2018-2019,5,2018-11-25,08:00,201811250800,sunday,Perth Glory,Central Coast Mariners,3,2,5,H,W,L,1,1,2,D,D,D,http://www.worldfootball.net/report/a-league-2018-2019-perth-glory-central-coast-mariners/
+australia-2018-2019,6,2018-11-30,08:50,201811300850,friday,Adelaide United,Brisbane Roar,2,1,3,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/a-league-2018-2019-adelaide-united-brisbane-roar/
+australia-2018-2019,6,2018-12-01,06:35,201812010635,saturday,Central Coast Mariners,Sydney FC,1,2,3,A,L,W,1,1,2,D,D,D,http://www.worldfootball.net/report/a-league-2018-2019-central-coast-mariners-sydney-fc/
+australia-2018-2019,6,2018-12-01,08:50,201812010850,saturday,Melbourne Victory,Western Sydney Wanderers,4,0,4,H,W,L,3,0,3,H,W,L,http://www.worldfootball.net/report/a-league-2018-2019-melbourne-victory-western-sydney-wanderers/
+australia-2018-2019,6,2018-12-02,06:00,201812020600,sunday,Wellington Phoenix,Perth Glory,1,1,2,D,D,D,1,0,1,H,W,L,http://www.worldfootball.net/report/a-league-2018-2019-wellington-phoenix-perth-glory/
+australia-2018-2019,6,2018-12-02,08:00,201812020800,sunday,Melbourne City FC,Newcastle United Jets,3,0,3,H,W,L,2,0,2,H,W,L,http://www.worldfootball.net/report/a-league-2018-2019-melbourne-city-fc-newcastle-united-jets/
+australia-2018-2019,7,2018-12-07,08:50,201812070850,friday,Western Sydney Wanderers,Central Coast Mariners,2,0,2,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/a-league-2018-2019-western-sydney-wanderers-central-coast-mariners/
+australia-2018-2019,7,2018-12-08,06:35,201812080635,saturday,Sydney FC,Wellington Phoenix,1,3,4,A,L,W,0,3,3,A,L,W,http://www.worldfootball.net/report/a-league-2018-2019-sydney-fc-wellington-phoenix/
+australia-2018-2019,7,2018-12-08,08:50,201812080850,saturday,Melbourne Victory,Adelaide United,2,0,2,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/a-league-2018-2019-melbourne-victory-adelaide-united/
+australia-2018-2019,7,2018-12-08,11:00,201812081100,saturday,Perth Glory,Melbourne City FC,1,0,1,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/a-league-2018-2019-perth-glory-melbourne-city-fc/
+australia-2018-2019,7,2018-12-09,06:00,201812090600,sunday,Newcastle United Jets,Brisbane Roar,2,0,2,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/a-league-2018-2019-newcastle-united-jets-brisbane-roar/
+australia-2018-2019,8,2018-12-14,08:50,201812140850,friday,Brisbane Roar,Melbourne Victory,2,4,6,A,L,W,2,4,6,A,L,W,http://www.worldfootball.net/report/a-league-2018-2019-brisbane-roar-melbourne-victory/
+australia-2018-2019,8,2018-12-15,06:35,201812150635,saturday,Wellington Phoenix,Central Coast Mariners,2,0,2,H,W,L,2,0,2,H,W,L,http://www.worldfootball.net/report/a-league-2018-2019-wellington-phoenix-central-coast-mariners/
+australia-2018-2019,8,2018-12-15,08:50,201812150850,saturday,Western Sydney Wanderers,Sydney FC,1,3,4,A,L,W,1,1,2,D,D,D,http://www.worldfootball.net/report/a-league-2018-2019-western-sydney-wanderers-sydney-fc/
+australia-2018-2019,8,2018-12-16,06:00,201812160600,sunday,Newcastle United Jets,Perth Glory,0,2,2,A,L,W,0,2,2,A,L,W,http://www.worldfootball.net/report/a-league-2018-2019-newcastle-united-jets-perth-glory/
+australia-2018-2019,8,2018-12-16,08:00,201812160800,sunday,Adelaide United,Melbourne City FC,0,2,2,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/a-league-2018-2019-adelaide-united-melbourne-city-fc/
+australia-2018-2019,9,2018-12-21,10:00,201812211000,friday,Perth Glory,Sydney FC,1,2,3,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/a-league-2018-2019-perth-glory-sydney-fc/
+australia-2018-2019,9,2018-12-22,06:35,201812220635,saturday,Wellington Phoenix,Brisbane Roar,4,1,5,H,W,L,1,1,2,D,D,D,http://www.worldfootball.net/report/a-league-2018-2019-wellington-phoenix-brisbane-roar/
+australia-2018-2019,9,2018-12-22,08:50,201812220850,saturday,Melbourne City FC,Melbourne Victory,1,1,2,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/a-league-2018-2019-melbourne-city-fc-melbourne-victory/
+australia-2018-2019,9,2018-12-23,06:00,201812230600,sunday,Central Coast Mariners,Newcastle United Jets,1,2,3,A,L,W,1,0,1,H,W,L,http://www.worldfootball.net/report/a-league-2018-2019-central-coast-mariners-newcastle-united-jets/
+australia-2018-2019,9,2018-12-26,08:50,201812260850,wednesday,Adelaide United,Western Sydney Wanderers,2,2,4,D,D,D,0,1,1,A,L,W,http://www.worldfootball.net/report/a-league-2018-2019-adelaide-united-western-sydney-wanderers/
+australia-2018-2019,10,2018-12-28,08:50,201812280850,friday,Melbourne Victory,Wellington Phoenix,1,1,2,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/a-league-2018-2019-melbourne-victory-wellington-phoenix/
+australia-2018-2019,10,2018-12-29,08:50,201812290850,saturday,Sydney FC,Brisbane Roar,2,1,3,H,W,L,1,1,2,D,D,D,http://www.worldfootball.net/report/a-league-2018-2019-sydney-fc-brisbane-roar/
+australia-2018-2019,10,2018-12-30,08:30,201812300830,sunday,Newcastle United Jets,Adelaide United,1,2,3,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/a-league-2018-2019-newcastle-united-jets-adelaide-united/
+australia-2018-2019,10,2018-12-31,08:00,201812310800,monday,Central Coast Mariners,Perth Glory,1,4,5,A,L,W,0,3,3,A,L,W,http://www.worldfootball.net/report/a-league-2018-2019-central-coast-mariners-perth-glory/
+australia-2018-2019,10,2019-01-01,08:50,201901010850,tuesday,Western Sydney Wanderers,Melbourne City FC,0,2,2,A,L,W,0,2,2,A,L,W,http://www.worldfootball.net/report/a-league-2018-2019-western-sydney-wanderers-melbourne-city-fc/
+australia-2018-2019,12,2019-01-02,08:50,201901020850,wednesday,Newcastle United Jets,Brisbane Roar,2,2,4,D,D,D,1,0,1,H,W,L,http://www.worldfootball.net/report/a-league-2018-2019-newcastle-united-jets-brisbane-roar_2/
+australia-2018-2019,11,2019-01-04,08:50,201901040850,friday,Sydney FC,Central Coast Mariners,5,2,7,H,W,L,0,1,1,A,L,W,http://www.worldfootball.net/report/a-league-2018-2019-sydney-fc-central-coast-mariners/
+australia-2018-2019,11,2019-01-05,06:35,201901050635,saturday,Adelaide United,Wellington Phoenix,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/a-league-2018-2019-adelaide-united-wellington-phoenix/
+australia-2018-2019,11,2019-01-05,08:50,201901050850,saturday,Western Sydney Wanderers,Melbourne Victory,1,2,3,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/a-league-2018-2019-western-sydney-wanderers-melbourne-victory/
+australia-2018-2019,11,2019-01-06,06:00,201901060600,sunday,Melbourne City FC,Newcastle United Jets,2,1,3,H,W,L,2,1,3,H,W,L,http://www.worldfootball.net/report/a-league-2018-2019-melbourne-city-fc-newcastle-united-jets_2/
+australia-2018-2019,11,2019-01-06,08:00,201901060800,sunday,Brisbane Roar,Perth Glory,2,4,6,A,L,W,2,0,2,H,W,L,http://www.worldfootball.net/report/a-league-2018-2019-brisbane-roar-perth-glory/
+australia-2018-2019,12,2019-01-08,08:50,201901080850,tuesday,Western Sydney Wanderers,Wellington Phoenix,2,3,5,A,L,W,1,1,2,D,D,D,http://www.worldfootball.net/report/a-league-2018-2019-western-sydney-wanderers-wellington-phoenix/
+australia-2018-2019,12,2019-01-09,08:50,201901090850,wednesday,Adelaide United,Melbourne Victory,2,0,2,H,W,L,2,0,2,H,W,L,http://www.worldfootball.net/report/a-league-2018-2019-adelaide-united-melbourne-victory/
+australia-2018-2019,12,2019-01-09,11:00,201901091100,wednesday,Perth Glory,Sydney FC,3,1,4,H,W,L,3,0,3,H,W,L,http://www.worldfootball.net/report/a-league-2018-2019-perth-glory-sydney-fc_2/
+australia-2018-2019,13,2019-01-11,08:50,201901110850,friday,Melbourne City FC,Brisbane Roar,1,0,1,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/a-league-2018-2019-melbourne-city-fc-brisbane-roar/
+australia-2018-2019,13,2019-01-12,06:35,201901120635,saturday,Wellington Phoenix,Central Coast Mariners,3,2,5,H,W,L,0,2,2,A,L,W,http://www.worldfootball.net/report/a-league-2018-2019-wellington-phoenix-central-coast-mariners_2/
+australia-2018-2019,13,2019-01-12,08:50,201901120850,saturday,Melbourne Victory,Newcastle United Jets,2,1,3,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/a-league-2018-2019-melbourne-victory-newcastle-united-jets/
+australia-2018-2019,13,2019-01-13,07:00,201901130700,sunday,Sydney FC,Adelaide United,2,1,3,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/a-league-2018-2019-sydney-fc-adelaide-united/
+australia-2018-2019,13,2019-01-13,09:00,201901130900,sunday,Perth Glory,Western Sydney Wanderers,4,3,7,H,W,L,0,1,1,A,L,W,http://www.worldfootball.net/report/a-league-2018-2019-perth-glory-western-sydney-wanderers_2/
+australia-2018-2019,15,2019-01-15,08:50,201901150850,tuesday,Brisbane Roar,Melbourne Victory,0,5,5,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/a-league-2018-2019-brisbane-roar-melbourne-victory_2/
+australia-2018-2019,12,2019-01-16,08:50,201901160850,wednesday,Central Coast Mariners,Melbourne City FC,2,1,3,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/a-league-2018-2019-central-coast-mariners-melbourne-city-fc_2/
+australia-2018-2019,14,2019-01-18,08:50,201901180850,friday,Western Sydney Wanderers,Adelaide United,1,2,3,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/a-league-2018-2019-western-sydney-wanderers-adelaide-united/
+australia-2018-2019,14,2019-01-19,06:35,201901190635,saturday,Sydney FC,Newcastle United Jets,1,0,1,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/a-league-2018-2019-sydney-fc-newcastle-united-jets/
+australia-2018-2019,14,2019-01-19,08:50,201901190850,saturday,Melbourne City FC,Perth Glory,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/a-league-2018-2019-melbourne-city-fc-perth-glory/
+australia-2018-2019,14,2019-01-20,06:00,201901200600,sunday,Melbourne Victory,Wellington Phoenix,3,3,6,D,D,D,1,3,4,A,L,W,http://www.worldfootball.net/report/a-league-2018-2019-melbourne-victory-wellington-phoenix_2/
+australia-2018-2019,14,2019-01-20,08:00,201901200800,sunday,Central Coast Mariners,Brisbane Roar,1,1,2,D,D,D,1,1,2,D,D,D,http://www.worldfootball.net/report/a-league-2018-2019-central-coast-mariners-brisbane-roar/
+australia-2018-2019,15,2019-01-22,08:50,201901220850,tuesday,Melbourne City FC,Western Sydney Wanderers,4,3,7,H,W,L,2,1,3,H,W,L,http://www.worldfootball.net/report/a-league-2018-2019-melbourne-city-fc-western-sydney-wanderers/
+australia-2018-2019,15,2019-01-23,06:35,201901230635,wednesday,Wellington Phoenix,Sydney FC,0,1,1,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/a-league-2018-2019-wellington-phoenix-sydney-fc/
+australia-2018-2019,15,2019-01-23,08:50,201901230850,wednesday,Newcastle United Jets,Central Coast Mariners,1,0,1,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/a-league-2018-2019-newcastle-united-jets-central-coast-mariners/
+australia-2018-2019,15,2019-01-23,11:00,201901231100,wednesday,Perth Glory,Adelaide United,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/a-league-2018-2019-perth-glory-adelaide-united/
+australia-2018-2019,16,2019-01-25,08:50,201901250850,friday,Brisbane Roar,Western Sydney Wanderers,2,2,4,D,D,D,0,2,2,A,L,W,http://www.worldfootball.net/report/a-league-2018-2019-brisbane-roar-western-sydney-wanderers/
+australia-2018-2019,16,2019-01-26,06:35,201901260635,saturday,Wellington Phoenix,Melbourne City FC,1,0,1,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/a-league-2018-2019-wellington-phoenix-melbourne-city-fc/
+australia-2018-2019,16,2019-01-26,08:50,201901260850,saturday,Melbourne Victory,Sydney FC,2,1,3,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/a-league-2018-2019-melbourne-victory-sydney-fc/
+australia-2018-2019,16,2019-01-27,07:00,201901270700,sunday,Adelaide United,Central Coast Mariners,2,1,3,H,W,L,0,1,1,A,L,W,http://www.worldfootball.net/report/a-league-2018-2019-adelaide-united-central-coast-mariners/
+australia-2018-2019,16,2019-01-27,09:00,201901270900,sunday,Perth Glory,Newcastle United Jets,2,0,2,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/a-league-2018-2019-perth-glory-newcastle-united-jets/
+australia-2018-2019,17,2019-02-01,08:50,201902010850,friday,Western Sydney Wanderers,Newcastle United Jets,1,5,6,A,L,W,0,3,3,A,L,W,http://www.worldfootball.net/report/a-league-2018-2019-western-sydney-wanderers-newcastle-united-jets_2/
+australia-2018-2019,17,2019-02-02,06:35,201902020635,saturday,Central Coast Mariners,Melbourne Victory,2,3,5,A,L,W,2,0,2,H,W,L,http://www.worldfootball.net/report/a-league-2018-2019-central-coast-mariners-melbourne-victory/
+australia-2018-2019,17,2019-02-02,08:50,201902020850,saturday,Adelaide United,Brisbane Roar,4,3,7,H,W,L,1,3,4,A,L,W,http://www.worldfootball.net/report/a-league-2018-2019-adelaide-united-brisbane-roar_2/
+australia-2018-2019,17,2019-02-02,11:00,201902021100,saturday,Perth Glory,Wellington Phoenix,3,0,3,H,W,L,2,0,2,H,W,L,http://www.worldfootball.net/report/a-league-2018-2019-perth-glory-wellington-phoenix/
+australia-2018-2019,17,2019-02-03,06:00,201902030600,sunday,Sydney FC,Melbourne City FC,2,0,2,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/a-league-2018-2019-sydney-fc-melbourne-city-fc/
+australia-2018-2019,18,2019-02-07,08:50,201902070850,thursday,Newcastle United Jets,Wellington Phoenix,1,1,2,D,D,D,1,0,1,H,W,L,http://www.worldfootball.net/report/a-league-2018-2019-newcastle-united-jets-wellington-phoenix/
+australia-2018-2019,18,2019-02-08,08:50,201902080850,friday,Brisbane Roar,Sydney FC,2,1,3,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/a-league-2018-2019-brisbane-roar-sydney-fc/
+australia-2018-2019,18,2019-02-09,06:35,201902090635,saturday,Western Sydney Wanderers,Central Coast Mariners,2,0,2,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/a-league-2018-2019-western-sydney-wanderers-central-coast-mariners_2/
+australia-2018-2019,18,2019-02-09,08:50,201902090850,saturday,Melbourne City FC,Adelaide United,1,1,2,D,D,D,0,1,1,A,L,W,http://www.worldfootball.net/report/a-league-2018-2019-melbourne-city-fc-adelaide-united/
+australia-2018-2019,18,2019-02-10,06:00,201902100600,sunday,Melbourne Victory,Perth Glory,1,2,3,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/a-league-2018-2019-melbourne-victory-perth-glory_2/
+australia-2018-2019,19,2019-02-15,06:35,201902150635,friday,Wellington Phoenix,Melbourne Victory,1,1,2,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/a-league-2018-2019-wellington-phoenix-melbourne-victory/
+australia-2018-2019,19,2019-02-15,08:50,201902150850,friday,Newcastle United Jets,Melbourne City FC,3,1,4,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/a-league-2018-2019-newcastle-united-jets-melbourne-city-fc/
+australia-2018-2019,19,2019-02-16,08:50,201902160850,saturday,Adelaide United,Western Sydney Wanderers,1,3,4,A,L,W,1,1,2,D,D,D,http://www.worldfootball.net/report/a-league-2018-2019-adelaide-united-western-sydney-wanderers_2/
+australia-2018-2019,19,2019-02-16,11:00,201902161100,saturday,Perth Glory,Brisbane Roar,4,0,4,H,W,L,3,0,3,H,W,L,http://www.worldfootball.net/report/a-league-2018-2019-perth-glory-brisbane-roar_2/
+australia-2018-2019,19,2019-02-17,06:00,201902170600,sunday,Sydney FC,Central Coast Mariners,1,1,2,D,D,D,0,1,1,A,L,W,http://www.worldfootball.net/report/a-league-2018-2019-sydney-fc-central-coast-mariners_2/
+australia-2018-2019,20,2019-02-22,08:50,201902220850,friday,Central Coast Mariners,Brisbane Roar,3,5,8,A,L,W,2,3,5,A,L,W,http://www.worldfootball.net/report/a-league-2018-2019-central-coast-mariners-brisbane-roar_2/

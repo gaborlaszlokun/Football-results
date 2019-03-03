@@ -7977,183 +7977,292 @@ austria-2016-2017,36,2017-05-28,15:30,201705281530,sunday,Rapid Wien,SKN St. Pö
 austria-2016-2017,36,2017-05-28,15:30,201705281530,sunday,FC Admira Wacker,Austria Wien,1,6,7,A,L,W,1.0,1.0,2.0,D,D,D,http://www.worldfootball.net/report/bundesliga-2016-2017-fc-admira-wacker-austria-wien_2/
 austria-2016-2017,36,2017-05-28,15:30,201705281530,sunday,Wolfsberger AC,Sturm Graz,1,0,1,H,W,L,1.0,0.0,1.0,H,W,L,http://www.worldfootball.net/report/bundesliga-2016-2017-wolfsberger-ac-sturm-graz_2/
 austria-2016-2017,36,2017-05-28,15:30,201705281530,sunday,SV Ried,SV Mattersburg,2,3,5,A,L,W,0.0,2.0,2.0,A,L,W,http://www.worldfootball.net/report/bundesliga-2016-2017-sv-ried-sv-mattersburg_2/
-austria-2017-2018,1,2017-07-22,15:00,201707221500,saturday,Rapid Wien,SV Mattersburg,2,2,4,D,D,D,1,0,1,H,W,L,http://www.worldfootball.net/report/bundesliga-2017-2018-rapid-wien-sv-mattersburg/
-austria-2017-2018,1,2017-07-22,17:30,201707221730,saturday,Wolfsberger AC,RB Salzburg,0,2,2,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/bundesliga-2017-2018-wolfsberger-ac-rb-salzburg/
-austria-2017-2018,1,2017-07-22,17:30,201707221730,saturday,LASK,FC Admira Wacker,3,0,3,H,W,L,2,0,2,H,W,L,http://www.worldfootball.net/report/bundesliga-2017-2018-lask-fc-admira-wacker/
-austria-2017-2018,1,2017-07-23,15:30,201707231530,sunday,SCR Altach,Austria Wien,3,0,3,H,W,L,2,0,2,H,W,L,http://www.worldfootball.net/report/bundesliga-2017-2018-scr-altach-austria-wien/
-austria-2017-2018,1,2017-07-23,18:00,201707231800,sunday,Sturm Graz,SKN St. Pölten,3,2,5,H,W,L,1,2,3,A,L,W,http://www.worldfootball.net/report/bundesliga-2017-2018-sturm-graz-skn-st-poelten/
-austria-2017-2018,2,2017-07-29,15:00,201707291500,saturday,RB Salzburg,LASK,1,1,2,D,D,D,1,0,1,H,W,L,http://www.worldfootball.net/report/bundesliga-2017-2018-rb-salzburg-lask/
-austria-2017-2018,2,2017-07-29,17:30,201707291730,saturday,SKN St. Pölten,Rapid Wien,1,4,5,A,L,W,0,2,2,A,L,W,http://www.worldfootball.net/report/bundesliga-2017-2018-skn-st-poelten-rapid-wien/
-austria-2017-2018,2,2017-07-29,17:30,201707291730,saturday,SV Mattersburg,Wolfsberger AC,1,0,1,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/bundesliga-2017-2018-sv-mattersburg-wolfsberger-ac/
-austria-2017-2018,2,2017-07-30,15:00,201707301500,sunday,Austria Wien,Sturm Graz,2,3,5,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/bundesliga-2017-2018-austria-wien-sturm-graz/
-austria-2017-2018,2,2017-07-30,17:30,201707301730,sunday,FC Admira Wacker,SCR Altach,4,1,5,H,W,L,3,0,3,H,W,L,http://www.worldfootball.net/report/bundesliga-2017-2018-fc-admira-wacker-scr-altach/
-austria-2017-2018,3,2017-08-05,15:00,201708051500,saturday,LASK,SKN St. Pölten,2,0,2,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/bundesliga-2017-2018-lask-skn-st-poelten/
-austria-2017-2018,3,2017-08-05,17:30,201708051730,saturday,RB Salzburg,FC Admira Wacker,5,1,6,H,W,L,2,0,2,H,W,L,http://www.worldfootball.net/report/bundesliga-2017-2018-rb-salzburg-fc-admira-wacker/
-austria-2017-2018,3,2017-08-06,15:30,201708061530,sunday,Wolfsberger AC,SCR Altach,1,0,1,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/bundesliga-2017-2018-wolfsberger-ac-scr-altach/
-austria-2017-2018,3,2017-08-06,15:30,201708061530,sunday,Rapid Wien,Austria Wien,2,2,4,D,D,D,1,0,1,H,W,L,http://www.worldfootball.net/report/bundesliga-2017-2018-rapid-wien-austria-wien/
-austria-2017-2018,3,2017-08-06,18:00,201708061800,sunday,SV Mattersburg,Sturm Graz,2,3,5,A,L,W,1,1,2,D,D,D,http://www.worldfootball.net/report/bundesliga-2017-2018-sv-mattersburg-sturm-graz/
-austria-2017-2018,4,2017-08-12,15:00,201708121500,saturday,SCR Altach,RB Salzburg,0,1,1,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/bundesliga-2017-2018-scr-altach-rb-salzburg/
-austria-2017-2018,4,2017-08-12,17:30,201708121730,saturday,Austria Wien,LASK,2,0,2,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/bundesliga-2017-2018-austria-wien-lask/
-austria-2017-2018,4,2017-08-12,17:30,201708121730,saturday,Sturm Graz,Wolfsberger AC,2,1,3,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/bundesliga-2017-2018-sturm-graz-wolfsberger-ac/
-austria-2017-2018,4,2017-08-12,17:30,201708121730,saturday,SKN St. Pölten,SV Mattersburg,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/bundesliga-2017-2018-skn-st-poelten-sv-mattersburg/
-austria-2017-2018,4,2017-08-13,15:30,201708131530,sunday,FC Admira Wacker,Rapid Wien,3,1,4,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/bundesliga-2017-2018-fc-admira-wacker-rapid-wien/
-austria-2017-2018,5,2017-08-19,15:00,201708191500,saturday,Rapid Wien,Sturm Graz,1,2,3,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/bundesliga-2017-2018-rapid-wien-sturm-graz/
-austria-2017-2018,5,2017-08-19,17:30,201708191730,saturday,Wolfsberger AC,FC Admira Wacker,2,0,2,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/bundesliga-2017-2018-wolfsberger-ac-fc-admira-wacker/
-austria-2017-2018,5,2017-08-20,15:30,201708201530,sunday,RB Salzburg,SKN St. Pölten,5,1,6,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/bundesliga-2017-2018-rb-salzburg-skn-st-poelten/
-austria-2017-2018,5,2017-08-20,15:30,201708201530,sunday,LASK,SCR Altach,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/bundesliga-2017-2018-lask-scr-altach/
-austria-2017-2018,5,2017-08-20,18:00,201708201800,sunday,SV Mattersburg,Austria Wien,1,3,4,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/bundesliga-2017-2018-sv-mattersburg-austria-wien/
-austria-2017-2018,6,2017-08-26,15:00,201708261500,saturday,Wolfsberger AC,SKN St. Pölten,2,1,3,H,W,L,0,1,1,A,L,W,http://www.worldfootball.net/report/bundesliga-2017-2018-wolfsberger-ac-skn-st-poelten/
-austria-2017-2018,6,2017-08-26,17:30,201708261730,saturday,Rapid Wien,LASK,1,0,1,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/bundesliga-2017-2018-rapid-wien-lask/
-austria-2017-2018,6,2017-08-27,15:30,201708271530,sunday,Sturm Graz,RB Salzburg,1,0,1,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/bundesliga-2017-2018-sturm-graz-rb-salzburg/
-austria-2017-2018,6,2017-08-27,15:30,201708271530,sunday,SCR Altach,SV Mattersburg,1,0,1,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/bundesliga-2017-2018-scr-altach-sv-mattersburg/
-austria-2017-2018,6,2017-08-27,18:00,201708271800,sunday,FC Admira Wacker,Austria Wien,1,3,4,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/bundesliga-2017-2018-fc-admira-wacker-austria-wien/
-austria-2017-2018,7,2017-09-09,15:00,201709091500,saturday,LASK,Sturm Graz,2,1,3,H,W,L,2,1,3,H,W,L,http://www.worldfootball.net/report/bundesliga-2017-2018-lask-sturm-graz/
-austria-2017-2018,7,2017-09-09,17:30,201709091730,saturday,Austria Wien,Wolfsberger AC,2,2,4,D,D,D,1,1,2,D,D,D,http://www.worldfootball.net/report/bundesliga-2017-2018-austria-wien-wolfsberger-ac/
-austria-2017-2018,7,2017-09-09,17:30,201709091730,saturday,SV Mattersburg,FC Admira Wacker,0,5,5,A,L,W,0,3,3,A,L,W,http://www.worldfootball.net/report/bundesliga-2017-2018-sv-mattersburg-fc-admira-wacker/
-austria-2017-2018,7,2017-09-09,17:30,201709091730,saturday,SKN St. Pölten,SCR Altach,1,2,3,A,L,W,0,2,2,A,L,W,http://www.worldfootball.net/report/bundesliga-2017-2018-skn-st-poelten-scr-altach/
-austria-2017-2018,7,2017-09-10,15:30,201709101530,sunday,RB Salzburg,Rapid Wien,2,2,4,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/bundesliga-2017-2018-rb-salzburg-rapid-wien/
-austria-2017-2018,8,2017-09-16,15:00,201709161500,saturday,SCR Altach,Rapid Wien,2,2,4,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/bundesliga-2017-2018-scr-altach-rapid-wien/
-austria-2017-2018,8,2017-09-16,17:30,201709161730,saturday,FC Admira Wacker,Sturm Graz,2,1,3,H,W,L,0,1,1,A,L,W,http://www.worldfootball.net/report/bundesliga-2017-2018-fc-admira-wacker-sturm-graz/
-austria-2017-2018,8,2017-09-16,17:30,201709161730,saturday,Wolfsberger AC,LASK,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/bundesliga-2017-2018-wolfsberger-ac-lask/
-austria-2017-2018,8,2017-09-17,15:30,201709171530,sunday,SV Mattersburg,RB Salzburg,1,2,3,A,L,W,1,1,2,D,D,D,http://www.worldfootball.net/report/bundesliga-2017-2018-sv-mattersburg-rb-salzburg/
-austria-2017-2018,8,2017-09-17,18:00,201709171800,sunday,Austria Wien,SKN St. Pölten,5,1,6,H,W,L,2,1,3,H,W,L,http://www.worldfootball.net/report/bundesliga-2017-2018-austria-wien-skn-st-poelten/
-austria-2017-2018,9,2017-09-23,15:00,201709231500,saturday,Rapid Wien,Wolfsberger AC,4,2,6,H,W,L,2,1,3,H,W,L,http://www.worldfootball.net/report/bundesliga-2017-2018-rapid-wien-wolfsberger-ac/
-austria-2017-2018,9,2017-09-23,17:30,201709231730,saturday,Sturm Graz,SCR Altach,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/bundesliga-2017-2018-sturm-graz-scr-altach/
-austria-2017-2018,9,2017-09-23,17:30,201709231730,saturday,SKN St. Pölten,FC Admira Wacker,1,1,2,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/bundesliga-2017-2018-skn-st-poelten-fc-admira-wacker/
-austria-2017-2018,9,2017-09-23,17:30,201709231730,saturday,LASK,SV Mattersburg,2,2,4,D,D,D,2,2,4,D,D,D,http://www.worldfootball.net/report/bundesliga-2017-2018-lask-sv-mattersburg/
-austria-2017-2018,9,2017-09-24,15:30,201709241530,sunday,RB Salzburg,Austria Wien,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/bundesliga-2017-2018-rb-salzburg-austria-wien/
-austria-2017-2018,10,2017-09-30,15:00,201709301500,saturday,SKN St. Pölten,Sturm Graz,0,3,3,A,L,W,0,2,2,A,L,W,http://www.worldfootball.net/report/bundesliga-2017-2018-skn-st-poelten-sturm-graz/
-austria-2017-2018,10,2017-09-30,17:30,201709301730,saturday,SV Mattersburg,Rapid Wien,0,1,1,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/bundesliga-2017-2018-sv-mattersburg-rapid-wien/
-austria-2017-2018,10,2017-09-30,17:30,201709301730,saturday,FC Admira Wacker,LASK,4,2,6,H,W,L,2,2,4,D,D,D,http://www.worldfootball.net/report/bundesliga-2017-2018-fc-admira-wacker-lask/
-austria-2017-2018,10,2017-10-01,15:30,201710011530,sunday,Austria Wien,SCR Altach,2,0,2,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/bundesliga-2017-2018-austria-wien-scr-altach/
-austria-2017-2018,10,2017-10-01,18:00,201710011800,sunday,RB Salzburg,Wolfsberger AC,2,1,3,H,W,L,2,0,2,H,W,L,http://www.worldfootball.net/report/bundesliga-2017-2018-rb-salzburg-wolfsberger-ac/
-austria-2017-2018,11,2017-10-14,15:00,201710141500,saturday,LASK,RB Salzburg,1,3,4,A,L,W,1,1,2,D,D,D,http://www.worldfootball.net/report/bundesliga-2017-2018-lask-rb-salzburg/
-austria-2017-2018,11,2017-10-14,17:30,201710141730,saturday,Rapid Wien,SKN St. Pölten,1,0,1,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/bundesliga-2017-2018-rapid-wien-skn-st-poelten/
-austria-2017-2018,11,2017-10-14,17:30,201710141730,saturday,SCR Altach,FC Admira Wacker,2,2,4,D,D,D,0,1,1,A,L,W,http://www.worldfootball.net/report/bundesliga-2017-2018-scr-altach-fc-admira-wacker/
-austria-2017-2018,11,2017-10-14,17:30,201710141730,saturday,Wolfsberger AC,SV Mattersburg,2,2,4,D,D,D,1,0,1,H,W,L,http://www.worldfootball.net/report/bundesliga-2017-2018-wolfsberger-ac-sv-mattersburg/
-austria-2017-2018,11,2017-10-15,15:30,201710151530,sunday,Sturm Graz,Austria Wien,3,0,3,H,W,L,2,0,2,H,W,L,http://www.worldfootball.net/report/bundesliga-2017-2018-sturm-graz-austria-wien/
-austria-2017-2018,12,2017-10-21,15:00,201710211500,saturday,Sturm Graz,SV Mattersburg,3,2,5,H,W,L,1,1,2,D,D,D,http://www.worldfootball.net/report/bundesliga-2017-2018-sturm-graz-sv-mattersburg/
-austria-2017-2018,12,2017-10-21,17:30,201710211730,saturday,SKN St. Pölten,LASK,0,1,1,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/bundesliga-2017-2018-skn-st-poelten-lask/
-austria-2017-2018,12,2017-10-21,17:30,201710211730,saturday,SCR Altach,Wolfsberger AC,3,2,5,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/bundesliga-2017-2018-scr-altach-wolfsberger-ac/
-austria-2017-2018,12,2017-10-22,13:00,201710221300,sunday,FC Admira Wacker,RB Salzburg,1,1,2,D,D,D,1,1,2,D,D,D,http://www.worldfootball.net/report/bundesliga-2017-2018-fc-admira-wacker-rb-salzburg/
-austria-2017-2018,12,2017-10-22,15:30,201710221530,sunday,Austria Wien,Rapid Wien,0,1,1,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/bundesliga-2017-2018-austria-wien-rapid-wien/
-austria-2017-2018,13,2017-10-28,15:00,201710281500,saturday,Rapid Wien,FC Admira Wacker,1,0,1,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/bundesliga-2017-2018-rapid-wien-fc-admira-wacker/
-austria-2017-2018,13,2017-10-28,17:30,201710281730,saturday,LASK,Austria Wien,2,2,4,D,D,D,0,2,2,A,L,W,http://www.worldfootball.net/report/bundesliga-2017-2018-lask-austria-wien/
-austria-2017-2018,13,2017-10-28,17:30,201710281730,saturday,RB Salzburg,SCR Altach,2,0,2,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/bundesliga-2017-2018-rb-salzburg-scr-altach/
-austria-2017-2018,13,2017-10-28,17:30,201710281730,saturday,SV Mattersburg,SKN St. Pölten,1,1,2,D,D,D,0,1,1,A,L,W,http://www.worldfootball.net/report/bundesliga-2017-2018-sv-mattersburg-skn-st-poelten/
-austria-2017-2018,13,2017-10-29,15:30,201710291530,sunday,Wolfsberger AC,Sturm Graz,0,2,2,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/bundesliga-2017-2018-wolfsberger-ac-sturm-graz/
-austria-2017-2018,14,2017-11-04,15:00,201711041500,saturday,Sturm Graz,Rapid Wien,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/bundesliga-2017-2018-sturm-graz-rapid-wien/
-austria-2017-2018,14,2017-11-04,17:30,201711041730,saturday,FC Admira Wacker,Wolfsberger AC,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/bundesliga-2017-2018-fc-admira-wacker-wolfsberger-ac/
-austria-2017-2018,14,2017-11-04,17:30,201711041730,saturday,SCR Altach,LASK,2,4,6,A,L,W,1,1,2,D,D,D,http://www.worldfootball.net/report/bundesliga-2017-2018-scr-altach-lask/
-austria-2017-2018,14,2017-11-05,13:00,201711051300,sunday,Austria Wien,SV Mattersburg,1,3,4,A,L,W,1,0,1,H,W,L,http://www.worldfootball.net/report/bundesliga-2017-2018-austria-wien-sv-mattersburg/
-austria-2017-2018,14,2017-11-05,15:30,201711051530,sunday,SKN St. Pölten,RB Salzburg,1,3,4,A,L,W,1,1,2,D,D,D,http://www.worldfootball.net/report/bundesliga-2017-2018-skn-st-poelten-rb-salzburg/
-austria-2017-2018,15,2017-11-18,15:00,201711181500,saturday,LASK,Rapid Wien,1,2,3,A,L,W,0,2,2,A,L,W,http://www.worldfootball.net/report/bundesliga-2017-2018-lask-rapid-wien/
-austria-2017-2018,15,2017-11-18,17:30,201711181730,saturday,SV Mattersburg,SCR Altach,1,0,1,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/bundesliga-2017-2018-sv-mattersburg-scr-altach/
-austria-2017-2018,15,2017-11-18,17:30,201711181730,saturday,Austria Wien,FC Admira Wacker,2,3,5,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/bundesliga-2017-2018-austria-wien-fc-admira-wacker/
-austria-2017-2018,15,2017-11-18,17:30,201711181730,saturday,SKN St. Pölten,Wolfsberger AC,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/bundesliga-2017-2018-skn-st-poelten-wolfsberger-ac/
-austria-2017-2018,15,2017-11-19,15:30,201711191530,sunday,RB Salzburg,Sturm Graz,5,0,5,H,W,L,3,0,3,H,W,L,http://www.worldfootball.net/report/bundesliga-2017-2018-rb-salzburg-sturm-graz/
-austria-2017-2018,16,2017-11-25,15:00,201711251500,saturday,Sturm Graz,LASK,1,0,1,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/bundesliga-2017-2018-sturm-graz-lask/
-austria-2017-2018,16,2017-11-25,17:30,201711251730,saturday,FC Admira Wacker,SV Mattersburg,2,0,2,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/bundesliga-2017-2018-fc-admira-wacker-sv-mattersburg/
-austria-2017-2018,16,2017-11-25,17:30,201711251730,saturday,SCR Altach,SKN St. Pölten,3,0,3,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/bundesliga-2017-2018-scr-altach-skn-st-poelten/
-austria-2017-2018,16,2017-11-26,13:00,201711261300,sunday,Wolfsberger AC,Austria Wien,1,2,3,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/bundesliga-2017-2018-wolfsberger-ac-austria-wien/
-austria-2017-2018,16,2017-11-26,15:30,201711261530,sunday,Rapid Wien,RB Salzburg,2,3,5,A,L,W,1,1,2,D,D,D,http://www.worldfootball.net/report/bundesliga-2017-2018-rapid-wien-rb-salzburg/
-austria-2017-2018,17,2017-11-28,18:00,201711281800,tuesday,Sturm Graz,FC Admira Wacker,6,1,7,H,W,L,4,1,5,H,W,L,http://www.worldfootball.net/report/bundesliga-2017-2018-sturm-graz-fc-admira-wacker/
-austria-2017-2018,17,2017-11-29,17:30,201711291730,wednesday,SKN St. Pölten,Austria Wien,1,0,1,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/bundesliga-2017-2018-skn-st-poelten-austria-wien/
-austria-2017-2018,17,2017-11-29,17:30,201711291730,wednesday,RB Salzburg,SV Mattersburg,2,0,2,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/bundesliga-2017-2018-rb-salzburg-sv-mattersburg/
-austria-2017-2018,17,2017-11-29,17:30,201711291730,wednesday,LASK,Wolfsberger AC,2,0,2,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/bundesliga-2017-2018-lask-wolfsberger-ac/
-austria-2017-2018,17,2017-11-29,19:30,201711291930,wednesday,Rapid Wien,SCR Altach,1,2,3,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/bundesliga-2017-2018-rapid-wien-scr-altach/
-austria-2017-2018,18,2017-12-02,15:00,201712021500,saturday,Wolfsberger AC,Rapid Wien,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/bundesliga-2017-2018-wolfsberger-ac-rapid-wien/
-austria-2017-2018,18,2017-12-02,17:30,201712021730,saturday,SCR Altach,Sturm Graz,1,2,3,A,L,W,1,0,1,H,W,L,http://www.worldfootball.net/report/bundesliga-2017-2018-scr-altach-sturm-graz/
-austria-2017-2018,18,2017-12-02,17:30,201712021730,saturday,FC Admira Wacker,SKN St. Pölten,1,0,1,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/bundesliga-2017-2018-fc-admira-wacker-skn-st-poelten/
-austria-2017-2018,18,2017-12-02,17:30,201712021730,saturday,SV Mattersburg,LASK,1,0,1,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/bundesliga-2017-2018-sv-mattersburg-lask/
-austria-2017-2018,18,2017-12-03,15:30,201712031530,sunday,Austria Wien,RB Salzburg,1,1,2,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/bundesliga-2017-2018-austria-wien-rb-salzburg/
-austria-2017-2018,19,2017-12-09,15:00,201712091500,saturday,Rapid Wien,SV Mattersburg,2,2,4,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/bundesliga-2017-2018-rapid-wien-sv-mattersburg_2/
-austria-2017-2018,19,2017-12-09,17:30,201712091730,saturday,Sturm Graz,SKN St. Pölten,3,2,5,H,W,L,3,2,5,H,W,L,http://www.worldfootball.net/report/bundesliga-2017-2018-sturm-graz-skn-st-poelten_2/
-austria-2017-2018,19,2017-12-09,17:30,201712091730,saturday,LASK,FC Admira Wacker,2,1,3,H,W,L,1,1,2,D,D,D,http://www.worldfootball.net/report/bundesliga-2017-2018-lask-fc-admira-wacker_2/
-austria-2017-2018,19,2017-12-10,13:00,201712101300,sunday,SCR Altach,Austria Wien,1,0,1,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/bundesliga-2017-2018-scr-altach-austria-wien_2/
-austria-2017-2018,19,2017-12-10,15:30,201712101530,sunday,Wolfsberger AC,RB Salzburg,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/bundesliga-2017-2018-wolfsberger-ac-rb-salzburg_2/
-austria-2017-2018,20,2017-12-16,15:00,201712161500,saturday,RB Salzburg,LASK,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/bundesliga-2017-2018-rb-salzburg-lask_2/
-austria-2017-2018,20,2017-12-16,17:30,201712161730,saturday,FC Admira Wacker,SCR Altach,3,1,4,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/bundesliga-2017-2018-fc-admira-wacker-scr-altach_2/
-austria-2017-2018,20,2017-12-16,17:30,201712161730,saturday,SV Mattersburg,Wolfsberger AC,5,1,6,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/bundesliga-2017-2018-sv-mattersburg-wolfsberger-ac_2/
-austria-2017-2018,20,2017-12-16,17:30,201712161730,saturday,SKN St. Pölten,Rapid Wien,0,5,5,A,L,W,0,2,2,A,L,W,http://www.worldfootball.net/report/bundesliga-2017-2018-skn-st-poelten-rapid-wien_2/
-austria-2017-2018,20,2017-12-17,15:30,201712171530,sunday,Austria Wien,Sturm Graz,1,0,1,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/bundesliga-2017-2018-austria-wien-sturm-graz_2/
-austria-2017-2018,21,2018-02-03,15:00,201802031500,saturday,SV Mattersburg,Sturm Graz,1,0,1,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/bundesliga-2017-2018-sv-mattersburg-sturm-graz_2/
-austria-2017-2018,21,2018-02-03,17:30,201802031730,saturday,RB Salzburg,FC Admira Wacker,2,1,3,H,W,L,1,1,2,D,D,D,http://www.worldfootball.net/report/bundesliga-2017-2018-rb-salzburg-fc-admira-wacker_2/
-austria-2017-2018,21,2018-02-03,17:30,201802031730,saturday,Wolfsberger AC,SCR Altach,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/bundesliga-2017-2018-wolfsberger-ac-scr-altach_2/
-austria-2017-2018,21,2018-02-03,17:30,201802031730,saturday,LASK,SKN St. Pölten,2,1,3,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/bundesliga-2017-2018-lask-skn-st-poelten_2/
-austria-2017-2018,21,2018-02-04,15:30,201802041530,sunday,Rapid Wien,Austria Wien,1,1,2,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/bundesliga-2017-2018-rapid-wien-austria-wien_2/
-austria-2017-2018,22,2018-02-10,15:00,201802101500,saturday,SCR Altach,RB Salzburg,0,1,1,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/bundesliga-2017-2018-scr-altach-rb-salzburg_2/
-austria-2017-2018,22,2018-02-10,17:30,201802101730,saturday,Austria Wien,LASK,1,3,4,A,L,W,1,1,2,D,D,D,http://www.worldfootball.net/report/bundesliga-2017-2018-austria-wien-lask_2/
-austria-2017-2018,22,2018-02-10,17:30,201802101730,saturday,Sturm Graz,Wolfsberger AC,0,1,1,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/bundesliga-2017-2018-sturm-graz-wolfsberger-ac_2/
-austria-2017-2018,22,2018-02-10,17:30,201802101730,saturday,SKN St. Pölten,SV Mattersburg,0,3,3,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/bundesliga-2017-2018-skn-st-poelten-sv-mattersburg_2/
-austria-2017-2018,22,2018-02-11,15:30,201802111530,sunday,FC Admira Wacker,Rapid Wien,2,1,3,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/bundesliga-2017-2018-fc-admira-wacker-rapid-wien_2/
-austria-2017-2018,23,2018-02-17,15:00,201802171500,saturday,Rapid Wien,Sturm Graz,1,1,2,D,D,D,0,1,1,A,L,W,http://www.worldfootball.net/report/bundesliga-2017-2018-rapid-wien-sturm-graz_2/
-austria-2017-2018,23,2018-02-17,17:30,201802171730,saturday,SV Mattersburg,Austria Wien,2,1,3,H,W,L,1,1,2,D,D,D,http://www.worldfootball.net/report/bundesliga-2017-2018-sv-mattersburg-austria-wien_2/
-austria-2017-2018,23,2018-02-17,17:30,201802171730,saturday,Wolfsberger AC,FC Admira Wacker,1,3,4,A,L,W,0,2,2,A,L,W,http://www.worldfootball.net/report/bundesliga-2017-2018-wolfsberger-ac-fc-admira-wacker_2/
-austria-2017-2018,23,2018-02-17,17:30,201802171730,saturday,LASK,SCR Altach,2,0,2,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/bundesliga-2017-2018-lask-scr-altach_2/
-austria-2017-2018,23,2018-02-18,15:30,201802181530,sunday,RB Salzburg,SKN St. Pölten,4,0,4,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/bundesliga-2017-2018-rb-salzburg-skn-st-poelten_2/
-austria-2017-2018,24,2018-02-24,15:00,201802241500,saturday,FC Admira Wacker,Austria Wien,2,1,3,H,W,L,1,1,2,D,D,D,http://www.worldfootball.net/report/bundesliga-2017-2018-fc-admira-wacker-austria-wien_2/
-austria-2017-2018,24,2018-02-24,17:30,201802241730,saturday,SCR Altach,SV Mattersburg,1,1,2,D,D,D,0,1,1,A,L,W,http://www.worldfootball.net/report/bundesliga-2017-2018-scr-altach-sv-mattersburg_2/
-austria-2017-2018,24,2018-02-24,17:30,201802241730,saturday,Rapid Wien,LASK,2,0,2,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/bundesliga-2017-2018-rapid-wien-lask_2/
-austria-2017-2018,24,2018-02-24,17:30,201802241730,saturday,Wolfsberger AC,SKN St. Pölten,0,1,1,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/bundesliga-2017-2018-wolfsberger-ac-skn-st-poelten_2/
-austria-2017-2018,24,2018-02-25,15:30,201802251530,sunday,Sturm Graz,RB Salzburg,2,4,6,A,L,W,1,1,2,D,D,D,http://www.worldfootball.net/report/bundesliga-2017-2018-sturm-graz-rb-salzburg_2/
-austria-2017-2018,25,2018-03-03,15:00,201803031500,saturday,LASK,Sturm Graz,0,2,2,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/bundesliga-2017-2018-lask-sturm-graz_2/
-austria-2017-2018,25,2018-03-03,17:30,201803031730,saturday,Austria Wien,Wolfsberger AC,2,0,2,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/bundesliga-2017-2018-austria-wien-wolfsberger-ac_2/
-austria-2017-2018,25,2018-03-03,17:30,201803031730,saturday,SV Mattersburg,FC Admira Wacker,3,2,5,H,W,L,2,1,3,H,W,L,http://www.worldfootball.net/report/bundesliga-2017-2018-sv-mattersburg-fc-admira-wacker_2/
-austria-2017-2018,25,2018-03-03,17:30,201803031730,saturday,SKN St. Pölten,SCR Altach,1,2,3,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/bundesliga-2017-2018-skn-st-poelten-scr-altach_2/
-austria-2017-2018,25,2018-03-04,15:30,201803041530,sunday,RB Salzburg,Rapid Wien,1,0,1,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/bundesliga-2017-2018-rb-salzburg-rapid-wien_2/
-austria-2017-2018,26,2018-03-10,15:00,201803101500,saturday,SCR Altach,Rapid Wien,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/bundesliga-2017-2018-scr-altach-rapid-wien_2/
-austria-2017-2018,26,2018-03-10,17:30,201803101730,saturday,Austria Wien,SKN St. Pölten,4,0,4,H,W,L,2,0,2,H,W,L,http://www.worldfootball.net/report/bundesliga-2017-2018-austria-wien-skn-st-poelten_2/
-austria-2017-2018,26,2018-03-10,17:30,201803101730,saturday,FC Admira Wacker,Sturm Graz,2,4,6,A,L,W,2,2,4,D,D,D,http://www.worldfootball.net/report/bundesliga-2017-2018-fc-admira-wacker-sturm-graz_2/
-austria-2017-2018,26,2018-03-10,17:30,201803101730,saturday,Wolfsberger AC,LASK,0,3,3,A,L,W,0,2,2,A,L,W,http://www.worldfootball.net/report/bundesliga-2017-2018-wolfsberger-ac-lask_2/
-austria-2017-2018,26,2018-03-11,15:30,201803111530,sunday,SV Mattersburg,RB Salzburg,2,2,4,D,D,D,0,1,1,A,L,W,http://www.worldfootball.net/report/bundesliga-2017-2018-sv-mattersburg-rb-salzburg_2/
-austria-2017-2018,27,2018-03-17,15:00,201803171500,saturday,Rapid Wien,Wolfsberger AC,5,1,6,H,W,L,3,0,3,H,W,L,http://www.worldfootball.net/report/bundesliga-2017-2018-rapid-wien-wolfsberger-ac_2/
-austria-2017-2018,27,2018-03-17,17:30,201803171730,saturday,Sturm Graz,SCR Altach,1,0,1,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/bundesliga-2017-2018-sturm-graz-scr-altach_2/
-austria-2017-2018,27,2018-03-17,17:30,201803171730,saturday,SKN St. Pölten,FC Admira Wacker,1,2,3,A,L,W,0,2,2,A,L,W,http://www.worldfootball.net/report/bundesliga-2017-2018-skn-st-poelten-fc-admira-wacker_2/
-austria-2017-2018,27,2018-03-17,17:30,201803171730,saturday,LASK,SV Mattersburg,3,1,4,H,W,L,0,1,1,A,L,W,http://www.worldfootball.net/report/bundesliga-2017-2018-lask-sv-mattersburg_2/
-austria-2017-2018,27,2018-03-18,13:30,201803181330,sunday,RB Salzburg,Austria Wien,5,0,5,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/bundesliga-2017-2018-rb-salzburg-austria-wien_2/
-austria-2017-2018,28,2018-03-31,15:00,201803311500,saturday,FC Admira Wacker,LASK,0,1,1,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/bundesliga-2017-2018-fc-admira-wacker-lask_2/
-austria-2017-2018,28,2018-03-31,17:30,201803311730,saturday,SKN St. Pölten,Sturm Graz,1,5,6,A,L,W,1,2,3,A,L,W,http://www.worldfootball.net/report/bundesliga-2017-2018-skn-st-poelten-sturm-graz_2/
-austria-2017-2018,28,2018-03-31,17:30,201803311730,saturday,Austria Wien,SCR Altach,2,1,3,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/bundesliga-2017-2018-austria-wien-scr-altach_2/
-austria-2017-2018,28,2018-03-31,17:30,201803311730,saturday,RB Salzburg,Wolfsberger AC,2,0,2,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/bundesliga-2017-2018-rb-salzburg-wolfsberger-ac_2/
-austria-2017-2018,28,2018-04-01,15:30,201804011530,sunday,SV Mattersburg,Rapid Wien,2,4,6,A,L,W,1,4,5,A,L,W,http://www.worldfootball.net/report/bundesliga-2017-2018-sv-mattersburg-rapid-wien_2/
-austria-2017-2018,29,2018-04-07,15:00,201804071500,saturday,Sturm Graz,Austria Wien,0,2,2,A,L,W,0,2,2,A,L,W,http://www.worldfootball.net/report/bundesliga-2017-2018-sturm-graz-austria-wien_2/
-austria-2017-2018,29,2018-04-07,17:30,201804071730,saturday,SCR Altach,FC Admira Wacker,1,2,3,A,L,W,1,1,2,D,D,D,http://www.worldfootball.net/report/bundesliga-2017-2018-scr-altach-fc-admira-wacker_2/
-austria-2017-2018,29,2018-04-07,17:30,201804071730,saturday,Wolfsberger AC,SV Mattersburg,0,2,2,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/bundesliga-2017-2018-wolfsberger-ac-sv-mattersburg_2/
-austria-2017-2018,29,2018-04-07,17:30,201804071730,saturday,Rapid Wien,SKN St. Pölten,2,1,3,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/bundesliga-2017-2018-rapid-wien-skn-st-poelten_2/
-austria-2017-2018,29,2018-04-08,14:00,201804081400,sunday,LASK,RB Salzburg,1,0,1,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/bundesliga-2017-2018-lask-rb-salzburg_2/
-austria-2017-2018,30,2018-04-14,15:00,201804141500,saturday,Sturm Graz,SV Mattersburg,3,0,3,H,W,L,2,0,2,H,W,L,http://www.worldfootball.net/report/bundesliga-2017-2018-sturm-graz-sv-mattersburg_2/
-austria-2017-2018,30,2018-04-14,17:30,201804141730,saturday,SCR Altach,Wolfsberger AC,2,1,3,H,W,L,1,1,2,D,D,D,http://www.worldfootball.net/report/bundesliga-2017-2018-scr-altach-wolfsberger-ac_2/
-austria-2017-2018,30,2018-04-14,17:30,201804141730,saturday,SKN St. Pölten,LASK,1,3,4,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/bundesliga-2017-2018-skn-st-poelten-lask_2/
-austria-2017-2018,30,2018-04-15,15:30,201804151530,sunday,Austria Wien,Rapid Wien,0,4,4,A,L,W,0,2,2,A,L,W,http://www.worldfootball.net/report/bundesliga-2017-2018-austria-wien-rapid-wien_2/
-austria-2017-2018,30,2018-04-15,18:00,201804151800,sunday,FC Admira Wacker,RB Salzburg,2,6,8,A,L,W,1,3,4,A,L,W,http://www.worldfootball.net/report/bundesliga-2017-2018-fc-admira-wacker-rb-salzburg_2/
-austria-2017-2018,31,2018-04-21,15:00,201804211500,saturday,Wolfsberger AC,Sturm Graz,2,1,3,H,W,L,1,1,2,D,D,D,http://www.worldfootball.net/report/bundesliga-2017-2018-wolfsberger-ac-sturm-graz_2/
-austria-2017-2018,31,2018-04-21,17:30,201804211730,saturday,LASK,Austria Wien,1,0,1,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/bundesliga-2017-2018-lask-austria-wien_2/
-austria-2017-2018,31,2018-04-21,17:30,201804211730,saturday,SV Mattersburg,SKN St. Pölten,1,1,2,D,D,D,0,1,1,A,L,W,http://www.worldfootball.net/report/bundesliga-2017-2018-sv-mattersburg-skn-st-poelten_2/
-austria-2017-2018,31,2018-04-22,13:30,201804221330,sunday,RB Salzburg,SCR Altach,3,1,4,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/bundesliga-2017-2018-rb-salzburg-scr-altach_2/
-austria-2017-2018,31,2018-04-22,15:30,201804221530,sunday,Rapid Wien,FC Admira Wacker,4,1,5,H,W,L,2,0,2,H,W,L,http://www.worldfootball.net/report/bundesliga-2017-2018-rapid-wien-fc-admira-wacker_2/
-austria-2017-2018,32,2018-04-28,15:00,201804281500,saturday,Austria Wien,SV Mattersburg,2,3,5,A,L,W,2,2,4,D,D,D,http://www.worldfootball.net/report/bundesliga-2017-2018-austria-wien-sv-mattersburg_2/
-austria-2017-2018,32,2018-04-28,17:30,201804281730,saturday,FC Admira Wacker,Wolfsberger AC,4,2,6,H,W,L,1,1,2,D,D,D,http://www.worldfootball.net/report/bundesliga-2017-2018-fc-admira-wacker-wolfsberger-ac_2/
-austria-2017-2018,32,2018-04-28,17:30,201804281730,saturday,SCR Altach,LASK,0,2,2,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/bundesliga-2017-2018-scr-altach-lask_2/
-austria-2017-2018,32,2018-04-29,15:30,201804291530,sunday,Sturm Graz,Rapid Wien,4,2,6,H,W,L,2,1,3,H,W,L,http://www.worldfootball.net/report/bundesliga-2017-2018-sturm-graz-rapid-wien_2/
-austria-2017-2018,32,2018-04-29,18:00,201804291800,sunday,SKN St. Pölten,RB Salzburg,0,2,2,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/bundesliga-2017-2018-skn-st-poelten-rb-salzburg_2/
-austria-2017-2018,33,2018-05-05,15:00,201805051500,saturday,LASK,Rapid Wien,0,2,2,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/bundesliga-2017-2018-lask-rapid-wien_2/
-austria-2017-2018,33,2018-05-05,17:30,201805051730,saturday,SV Mattersburg,SCR Altach,0,1,1,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/bundesliga-2017-2018-sv-mattersburg-scr-altach_2/
-austria-2017-2018,33,2018-05-05,17:30,201805051730,saturday,Austria Wien,FC Admira Wacker,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/bundesliga-2017-2018-austria-wien-fc-admira-wacker_2/
-austria-2017-2018,33,2018-05-05,17:30,201805051730,saturday,SKN St. Pölten,Wolfsberger AC,0,1,1,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/bundesliga-2017-2018-skn-st-poelten-wolfsberger-ac_2/
-austria-2017-2018,33,2018-05-06,15:30,201805061530,sunday,RB Salzburg,Sturm Graz,4,1,5,H,W,L,1,1,2,D,D,D,http://www.worldfootball.net/report/bundesliga-2017-2018-rb-salzburg-sturm-graz_2/
-austria-2017-2018,34,2018-05-12,15:00,201805121500,saturday,Sturm Graz,LASK,3,1,4,H,W,L,2,1,3,H,W,L,http://www.worldfootball.net/report/bundesliga-2017-2018-sturm-graz-lask_2/
-austria-2017-2018,34,2018-05-12,17:30,201805121730,saturday,FC Admira Wacker,SV Mattersburg,1,1,2,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/bundesliga-2017-2018-fc-admira-wacker-sv-mattersburg_2/
-austria-2017-2018,34,2018-05-12,17:30,201805121730,saturday,SCR Altach,SKN St. Pölten,1,3,4,A,L,W,1,2,3,A,L,W,http://www.worldfootball.net/report/bundesliga-2017-2018-scr-altach-skn-st-poelten_2/
-austria-2017-2018,34,2018-05-13,15:30,201805131530,sunday,Rapid Wien,RB Salzburg,1,4,5,A,L,W,0,3,3,A,L,W,http://www.worldfootball.net/report/bundesliga-2017-2018-rapid-wien-rb-salzburg_2/
-austria-2017-2018,34,2018-05-15,18:00,201805151800,tuesday,Wolfsberger AC,Austria Wien,2,1,3,H,W,L,2,0,2,H,W,L,http://www.worldfootball.net/report/bundesliga-2017-2018-wolfsberger-ac-austria-wien_2/
-austria-2017-2018,35,2018-05-20,15:30,201805201530,sunday,SKN St. Pölten,Austria Wien,2,0,2,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/bundesliga-2017-2018-skn-st-poelten-austria-wien_2/
-austria-2017-2018,35,2018-05-20,15:30,201805201530,sunday,Rapid Wien,SCR Altach,4,1,5,H,W,L,2,1,3,H,W,L,http://www.worldfootball.net/report/bundesliga-2017-2018-rapid-wien-scr-altach_2/
-austria-2017-2018,35,2018-05-20,15:30,201805201530,sunday,Sturm Graz,FC Admira Wacker,2,0,2,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/bundesliga-2017-2018-sturm-graz-fc-admira-wacker_2/
-austria-2017-2018,35,2018-05-20,15:30,201805201530,sunday,RB Salzburg,SV Mattersburg,1,0,1,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/bundesliga-2017-2018-rb-salzburg-sv-mattersburg_2/
-austria-2017-2018,35,2018-05-20,15:30,201805201530,sunday,LASK,Wolfsberger AC,1,3,4,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/bundesliga-2017-2018-lask-wolfsberger-ac_2/
-austria-2017-2018,36,2018-05-27,16:30,201805271630,sunday,Austria Wien,RB Salzburg,4,0,4,H,W,L,2,0,2,H,W,L,http://www.worldfootball.net/report/bundesliga-2017-2018-austria-wien-rb-salzburg_2/
-austria-2017-2018,36,2018-05-27,16:30,201805271630,sunday,SCR Altach,Sturm Graz,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/bundesliga-2017-2018-scr-altach-sturm-graz_2/
-austria-2017-2018,36,2018-05-27,16:30,201805271630,sunday,Wolfsberger AC,Rapid Wien,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/bundesliga-2017-2018-wolfsberger-ac-rapid-wien_2/
-austria-2017-2018,36,2018-05-27,16:30,201805271630,sunday,FC Admira Wacker,SKN St. Pölten,0,2,2,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/bundesliga-2017-2018-fc-admira-wacker-skn-st-poelten_2/
-austria-2017-2018,36,2018-05-27,16:30,201805271630,sunday,SV Mattersburg,LASK,2,1,3,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/bundesliga-2017-2018-sv-mattersburg-lask_2/
+austria-2017-2018,1,2017-07-22,15:00,201707221500,saturday,Rapid Wien,SV Mattersburg,2,2,4,D,D,D,1.0,0.0,1.0,H,W,L,http://www.worldfootball.net/report/bundesliga-2017-2018-rapid-wien-sv-mattersburg/
+austria-2017-2018,1,2017-07-22,17:30,201707221730,saturday,Wolfsberger AC,RB Salzburg,0,2,2,A,L,W,0.0,1.0,1.0,A,L,W,http://www.worldfootball.net/report/bundesliga-2017-2018-wolfsberger-ac-rb-salzburg/
+austria-2017-2018,1,2017-07-22,17:30,201707221730,saturday,LASK,FC Admira Wacker,3,0,3,H,W,L,2.0,0.0,2.0,H,W,L,http://www.worldfootball.net/report/bundesliga-2017-2018-lask-fc-admira-wacker/
+austria-2017-2018,1,2017-07-23,15:30,201707231530,sunday,SCR Altach,Austria Wien,3,0,3,H,W,L,2.0,0.0,2.0,H,W,L,http://www.worldfootball.net/report/bundesliga-2017-2018-scr-altach-austria-wien/
+austria-2017-2018,1,2017-07-23,18:00,201707231800,sunday,Sturm Graz,SKN St. Pölten,3,2,5,H,W,L,1.0,2.0,3.0,A,L,W,http://www.worldfootball.net/report/bundesliga-2017-2018-sturm-graz-skn-st-poelten/
+austria-2017-2018,2,2017-07-29,15:00,201707291500,saturday,RB Salzburg,LASK,1,1,2,D,D,D,1.0,0.0,1.0,H,W,L,http://www.worldfootball.net/report/bundesliga-2017-2018-rb-salzburg-lask/
+austria-2017-2018,2,2017-07-29,17:30,201707291730,saturday,SKN St. Pölten,Rapid Wien,1,4,5,A,L,W,0.0,2.0,2.0,A,L,W,http://www.worldfootball.net/report/bundesliga-2017-2018-skn-st-poelten-rapid-wien/
+austria-2017-2018,2,2017-07-29,17:30,201707291730,saturday,SV Mattersburg,Wolfsberger AC,1,0,1,H,W,L,1.0,0.0,1.0,H,W,L,http://www.worldfootball.net/report/bundesliga-2017-2018-sv-mattersburg-wolfsberger-ac/
+austria-2017-2018,2,2017-07-30,15:00,201707301500,sunday,Austria Wien,Sturm Graz,2,3,5,A,L,W,0.0,1.0,1.0,A,L,W,http://www.worldfootball.net/report/bundesliga-2017-2018-austria-wien-sturm-graz/
+austria-2017-2018,2,2017-07-30,17:30,201707301730,sunday,FC Admira Wacker,SCR Altach,4,1,5,H,W,L,3.0,0.0,3.0,H,W,L,http://www.worldfootball.net/report/bundesliga-2017-2018-fc-admira-wacker-scr-altach/
+austria-2017-2018,3,2017-08-05,15:00,201708051500,saturday,LASK,SKN St. Pölten,2,0,2,H,W,L,1.0,0.0,1.0,H,W,L,http://www.worldfootball.net/report/bundesliga-2017-2018-lask-skn-st-poelten/
+austria-2017-2018,3,2017-08-05,17:30,201708051730,saturday,RB Salzburg,FC Admira Wacker,5,1,6,H,W,L,2.0,0.0,2.0,H,W,L,http://www.worldfootball.net/report/bundesliga-2017-2018-rb-salzburg-fc-admira-wacker/
+austria-2017-2018,3,2017-08-06,15:30,201708061530,sunday,Wolfsberger AC,SCR Altach,1,0,1,H,W,L,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/bundesliga-2017-2018-wolfsberger-ac-scr-altach/
+austria-2017-2018,3,2017-08-06,15:30,201708061530,sunday,Rapid Wien,Austria Wien,2,2,4,D,D,D,1.0,0.0,1.0,H,W,L,http://www.worldfootball.net/report/bundesliga-2017-2018-rapid-wien-austria-wien/
+austria-2017-2018,3,2017-08-06,18:00,201708061800,sunday,SV Mattersburg,Sturm Graz,2,3,5,A,L,W,1.0,1.0,2.0,D,D,D,http://www.worldfootball.net/report/bundesliga-2017-2018-sv-mattersburg-sturm-graz/
+austria-2017-2018,4,2017-08-12,15:00,201708121500,saturday,SCR Altach,RB Salzburg,0,1,1,A,L,W,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/bundesliga-2017-2018-scr-altach-rb-salzburg/
+austria-2017-2018,4,2017-08-12,17:30,201708121730,saturday,Austria Wien,LASK,2,0,2,H,W,L,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/bundesliga-2017-2018-austria-wien-lask/
+austria-2017-2018,4,2017-08-12,17:30,201708121730,saturday,Sturm Graz,Wolfsberger AC,2,1,3,H,W,L,1.0,0.0,1.0,H,W,L,http://www.worldfootball.net/report/bundesliga-2017-2018-sturm-graz-wolfsberger-ac/
+austria-2017-2018,4,2017-08-12,17:30,201708121730,saturday,SKN St. Pölten,SV Mattersburg,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/bundesliga-2017-2018-skn-st-poelten-sv-mattersburg/
+austria-2017-2018,4,2017-08-13,15:30,201708131530,sunday,FC Admira Wacker,Rapid Wien,3,1,4,H,W,L,1.0,0.0,1.0,H,W,L,http://www.worldfootball.net/report/bundesliga-2017-2018-fc-admira-wacker-rapid-wien/
+austria-2017-2018,5,2017-08-19,15:00,201708191500,saturday,Rapid Wien,Sturm Graz,1,2,3,A,L,W,0.0,1.0,1.0,A,L,W,http://www.worldfootball.net/report/bundesliga-2017-2018-rapid-wien-sturm-graz/
+austria-2017-2018,5,2017-08-19,17:30,201708191730,saturday,Wolfsberger AC,FC Admira Wacker,2,0,2,H,W,L,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/bundesliga-2017-2018-wolfsberger-ac-fc-admira-wacker/
+austria-2017-2018,5,2017-08-20,15:30,201708201530,sunday,RB Salzburg,SKN St. Pölten,5,1,6,H,W,L,1.0,0.0,1.0,H,W,L,http://www.worldfootball.net/report/bundesliga-2017-2018-rb-salzburg-skn-st-poelten/
+austria-2017-2018,5,2017-08-20,15:30,201708201530,sunday,LASK,SCR Altach,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/bundesliga-2017-2018-lask-scr-altach/
+austria-2017-2018,5,2017-08-20,18:00,201708201800,sunday,SV Mattersburg,Austria Wien,1,3,4,A,L,W,0.0,1.0,1.0,A,L,W,http://www.worldfootball.net/report/bundesliga-2017-2018-sv-mattersburg-austria-wien/
+austria-2017-2018,6,2017-08-26,15:00,201708261500,saturday,Wolfsberger AC,SKN St. Pölten,2,1,3,H,W,L,0.0,1.0,1.0,A,L,W,http://www.worldfootball.net/report/bundesliga-2017-2018-wolfsberger-ac-skn-st-poelten/
+austria-2017-2018,6,2017-08-26,17:30,201708261730,saturday,Rapid Wien,LASK,1,0,1,H,W,L,1.0,0.0,1.0,H,W,L,http://www.worldfootball.net/report/bundesliga-2017-2018-rapid-wien-lask/
+austria-2017-2018,6,2017-08-27,15:30,201708271530,sunday,Sturm Graz,RB Salzburg,1,0,1,H,W,L,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/bundesliga-2017-2018-sturm-graz-rb-salzburg/
+austria-2017-2018,6,2017-08-27,15:30,201708271530,sunday,SCR Altach,SV Mattersburg,1,0,1,H,W,L,1.0,0.0,1.0,H,W,L,http://www.worldfootball.net/report/bundesliga-2017-2018-scr-altach-sv-mattersburg/
+austria-2017-2018,6,2017-08-27,18:00,201708271800,sunday,FC Admira Wacker,Austria Wien,1,3,4,A,L,W,0.0,1.0,1.0,A,L,W,http://www.worldfootball.net/report/bundesliga-2017-2018-fc-admira-wacker-austria-wien/
+austria-2017-2018,7,2017-09-09,15:00,201709091500,saturday,LASK,Sturm Graz,2,1,3,H,W,L,2.0,1.0,3.0,H,W,L,http://www.worldfootball.net/report/bundesliga-2017-2018-lask-sturm-graz/
+austria-2017-2018,7,2017-09-09,17:30,201709091730,saturday,Austria Wien,Wolfsberger AC,2,2,4,D,D,D,1.0,1.0,2.0,D,D,D,http://www.worldfootball.net/report/bundesliga-2017-2018-austria-wien-wolfsberger-ac/
+austria-2017-2018,7,2017-09-09,17:30,201709091730,saturday,SV Mattersburg,FC Admira Wacker,0,5,5,A,L,W,0.0,3.0,3.0,A,L,W,http://www.worldfootball.net/report/bundesliga-2017-2018-sv-mattersburg-fc-admira-wacker/
+austria-2017-2018,7,2017-09-09,17:30,201709091730,saturday,SKN St. Pölten,SCR Altach,1,2,3,A,L,W,0.0,2.0,2.0,A,L,W,http://www.worldfootball.net/report/bundesliga-2017-2018-skn-st-poelten-scr-altach/
+austria-2017-2018,7,2017-09-10,15:30,201709101530,sunday,RB Salzburg,Rapid Wien,2,2,4,D,D,D,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/bundesliga-2017-2018-rb-salzburg-rapid-wien/
+austria-2017-2018,8,2017-09-16,15:00,201709161500,saturday,SCR Altach,Rapid Wien,2,2,4,D,D,D,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/bundesliga-2017-2018-scr-altach-rapid-wien/
+austria-2017-2018,8,2017-09-16,17:30,201709161730,saturday,FC Admira Wacker,Sturm Graz,2,1,3,H,W,L,0.0,1.0,1.0,A,L,W,http://www.worldfootball.net/report/bundesliga-2017-2018-fc-admira-wacker-sturm-graz/
+austria-2017-2018,8,2017-09-16,17:30,201709161730,saturday,Wolfsberger AC,LASK,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/bundesliga-2017-2018-wolfsberger-ac-lask/
+austria-2017-2018,8,2017-09-17,15:30,201709171530,sunday,SV Mattersburg,RB Salzburg,1,2,3,A,L,W,1.0,1.0,2.0,D,D,D,http://www.worldfootball.net/report/bundesliga-2017-2018-sv-mattersburg-rb-salzburg/
+austria-2017-2018,8,2017-09-17,18:00,201709171800,sunday,Austria Wien,SKN St. Pölten,5,1,6,H,W,L,2.0,1.0,3.0,H,W,L,http://www.worldfootball.net/report/bundesliga-2017-2018-austria-wien-skn-st-poelten/
+austria-2017-2018,9,2017-09-23,15:00,201709231500,saturday,Rapid Wien,Wolfsberger AC,4,2,6,H,W,L,2.0,1.0,3.0,H,W,L,http://www.worldfootball.net/report/bundesliga-2017-2018-rapid-wien-wolfsberger-ac/
+austria-2017-2018,9,2017-09-23,17:30,201709231730,saturday,Sturm Graz,SCR Altach,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/bundesliga-2017-2018-sturm-graz-scr-altach/
+austria-2017-2018,9,2017-09-23,17:30,201709231730,saturday,SKN St. Pölten,FC Admira Wacker,1,1,2,D,D,D,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/bundesliga-2017-2018-skn-st-poelten-fc-admira-wacker/
+austria-2017-2018,9,2017-09-23,17:30,201709231730,saturday,LASK,SV Mattersburg,2,2,4,D,D,D,2.0,2.0,4.0,D,D,D,http://www.worldfootball.net/report/bundesliga-2017-2018-lask-sv-mattersburg/
+austria-2017-2018,9,2017-09-24,15:30,201709241530,sunday,RB Salzburg,Austria Wien,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/bundesliga-2017-2018-rb-salzburg-austria-wien/
+austria-2017-2018,10,2017-09-30,15:00,201709301500,saturday,SKN St. Pölten,Sturm Graz,0,3,3,A,L,W,0.0,2.0,2.0,A,L,W,http://www.worldfootball.net/report/bundesliga-2017-2018-skn-st-poelten-sturm-graz/
+austria-2017-2018,10,2017-09-30,17:30,201709301730,saturday,SV Mattersburg,Rapid Wien,0,1,1,A,L,W,0.0,1.0,1.0,A,L,W,http://www.worldfootball.net/report/bundesliga-2017-2018-sv-mattersburg-rapid-wien/
+austria-2017-2018,10,2017-09-30,17:30,201709301730,saturday,FC Admira Wacker,LASK,4,2,6,H,W,L,2.0,2.0,4.0,D,D,D,http://www.worldfootball.net/report/bundesliga-2017-2018-fc-admira-wacker-lask/
+austria-2017-2018,10,2017-10-01,15:30,201710011530,sunday,Austria Wien,SCR Altach,2,0,2,H,W,L,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/bundesliga-2017-2018-austria-wien-scr-altach/
+austria-2017-2018,10,2017-10-01,18:00,201710011800,sunday,RB Salzburg,Wolfsberger AC,2,1,3,H,W,L,2.0,0.0,2.0,H,W,L,http://www.worldfootball.net/report/bundesliga-2017-2018-rb-salzburg-wolfsberger-ac/
+austria-2017-2018,11,2017-10-14,15:00,201710141500,saturday,LASK,RB Salzburg,1,3,4,A,L,W,1.0,1.0,2.0,D,D,D,http://www.worldfootball.net/report/bundesliga-2017-2018-lask-rb-salzburg/
+austria-2017-2018,11,2017-10-14,17:30,201710141730,saturday,Rapid Wien,SKN St. Pölten,1,0,1,H,W,L,1.0,0.0,1.0,H,W,L,http://www.worldfootball.net/report/bundesliga-2017-2018-rapid-wien-skn-st-poelten/
+austria-2017-2018,11,2017-10-14,17:30,201710141730,saturday,SCR Altach,FC Admira Wacker,2,2,4,D,D,D,0.0,1.0,1.0,A,L,W,http://www.worldfootball.net/report/bundesliga-2017-2018-scr-altach-fc-admira-wacker/
+austria-2017-2018,11,2017-10-14,17:30,201710141730,saturday,Wolfsberger AC,SV Mattersburg,2,2,4,D,D,D,1.0,0.0,1.0,H,W,L,http://www.worldfootball.net/report/bundesliga-2017-2018-wolfsberger-ac-sv-mattersburg/
+austria-2017-2018,11,2017-10-15,15:30,201710151530,sunday,Sturm Graz,Austria Wien,3,0,3,H,W,L,2.0,0.0,2.0,H,W,L,http://www.worldfootball.net/report/bundesliga-2017-2018-sturm-graz-austria-wien/
+austria-2017-2018,12,2017-10-21,15:00,201710211500,saturday,Sturm Graz,SV Mattersburg,3,2,5,H,W,L,1.0,1.0,2.0,D,D,D,http://www.worldfootball.net/report/bundesliga-2017-2018-sturm-graz-sv-mattersburg/
+austria-2017-2018,12,2017-10-21,17:30,201710211730,saturday,SKN St. Pölten,LASK,0,1,1,A,L,W,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/bundesliga-2017-2018-skn-st-poelten-lask/
+austria-2017-2018,12,2017-10-21,17:30,201710211730,saturday,SCR Altach,Wolfsberger AC,3,2,5,H,W,L,1.0,0.0,1.0,H,W,L,http://www.worldfootball.net/report/bundesliga-2017-2018-scr-altach-wolfsberger-ac/
+austria-2017-2018,12,2017-10-22,13:00,201710221300,sunday,FC Admira Wacker,RB Salzburg,1,1,2,D,D,D,1.0,1.0,2.0,D,D,D,http://www.worldfootball.net/report/bundesliga-2017-2018-fc-admira-wacker-rb-salzburg/
+austria-2017-2018,12,2017-10-22,15:30,201710221530,sunday,Austria Wien,Rapid Wien,0,1,1,A,L,W,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/bundesliga-2017-2018-austria-wien-rapid-wien/
+austria-2017-2018,13,2017-10-28,15:00,201710281500,saturday,Rapid Wien,FC Admira Wacker,1,0,1,H,W,L,1.0,0.0,1.0,H,W,L,http://www.worldfootball.net/report/bundesliga-2017-2018-rapid-wien-fc-admira-wacker/
+austria-2017-2018,13,2017-10-28,17:30,201710281730,saturday,LASK,Austria Wien,2,2,4,D,D,D,0.0,2.0,2.0,A,L,W,http://www.worldfootball.net/report/bundesliga-2017-2018-lask-austria-wien/
+austria-2017-2018,13,2017-10-28,17:30,201710281730,saturday,RB Salzburg,SCR Altach,2,0,2,H,W,L,1.0,0.0,1.0,H,W,L,http://www.worldfootball.net/report/bundesliga-2017-2018-rb-salzburg-scr-altach/
+austria-2017-2018,13,2017-10-28,17:30,201710281730,saturday,SV Mattersburg,SKN St. Pölten,1,1,2,D,D,D,0.0,1.0,1.0,A,L,W,http://www.worldfootball.net/report/bundesliga-2017-2018-sv-mattersburg-skn-st-poelten/
+austria-2017-2018,13,2017-10-29,15:30,201710291530,sunday,Wolfsberger AC,Sturm Graz,0,2,2,A,L,W,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/bundesliga-2017-2018-wolfsberger-ac-sturm-graz/
+austria-2017-2018,14,2017-11-04,15:00,201711041500,saturday,Sturm Graz,Rapid Wien,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/bundesliga-2017-2018-sturm-graz-rapid-wien/
+austria-2017-2018,14,2017-11-04,17:30,201711041730,saturday,FC Admira Wacker,Wolfsberger AC,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/bundesliga-2017-2018-fc-admira-wacker-wolfsberger-ac/
+austria-2017-2018,14,2017-11-04,17:30,201711041730,saturday,SCR Altach,LASK,2,4,6,A,L,W,1.0,1.0,2.0,D,D,D,http://www.worldfootball.net/report/bundesliga-2017-2018-scr-altach-lask/
+austria-2017-2018,14,2017-11-05,13:00,201711051300,sunday,Austria Wien,SV Mattersburg,1,3,4,A,L,W,1.0,0.0,1.0,H,W,L,http://www.worldfootball.net/report/bundesliga-2017-2018-austria-wien-sv-mattersburg/
+austria-2017-2018,14,2017-11-05,15:30,201711051530,sunday,SKN St. Pölten,RB Salzburg,1,3,4,A,L,W,1.0,1.0,2.0,D,D,D,http://www.worldfootball.net/report/bundesliga-2017-2018-skn-st-poelten-rb-salzburg/
+austria-2017-2018,15,2017-11-18,15:00,201711181500,saturday,LASK,Rapid Wien,1,2,3,A,L,W,0.0,2.0,2.0,A,L,W,http://www.worldfootball.net/report/bundesliga-2017-2018-lask-rapid-wien/
+austria-2017-2018,15,2017-11-18,17:30,201711181730,saturday,SV Mattersburg,SCR Altach,1,0,1,H,W,L,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/bundesliga-2017-2018-sv-mattersburg-scr-altach/
+austria-2017-2018,15,2017-11-18,17:30,201711181730,saturday,Austria Wien,FC Admira Wacker,2,3,5,A,L,W,0.0,1.0,1.0,A,L,W,http://www.worldfootball.net/report/bundesliga-2017-2018-austria-wien-fc-admira-wacker/
+austria-2017-2018,15,2017-11-18,17:30,201711181730,saturday,SKN St. Pölten,Wolfsberger AC,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/bundesliga-2017-2018-skn-st-poelten-wolfsberger-ac/
+austria-2017-2018,15,2017-11-19,15:30,201711191530,sunday,RB Salzburg,Sturm Graz,5,0,5,H,W,L,3.0,0.0,3.0,H,W,L,http://www.worldfootball.net/report/bundesliga-2017-2018-rb-salzburg-sturm-graz/
+austria-2017-2018,16,2017-11-25,15:00,201711251500,saturday,Sturm Graz,LASK,1,0,1,H,W,L,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/bundesliga-2017-2018-sturm-graz-lask/
+austria-2017-2018,16,2017-11-25,17:30,201711251730,saturday,FC Admira Wacker,SV Mattersburg,2,0,2,H,W,L,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/bundesliga-2017-2018-fc-admira-wacker-sv-mattersburg/
+austria-2017-2018,16,2017-11-25,17:30,201711251730,saturday,SCR Altach,SKN St. Pölten,3,0,3,H,W,L,1.0,0.0,1.0,H,W,L,http://www.worldfootball.net/report/bundesliga-2017-2018-scr-altach-skn-st-poelten/
+austria-2017-2018,16,2017-11-26,13:00,201711261300,sunday,Wolfsberger AC,Austria Wien,1,2,3,A,L,W,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/bundesliga-2017-2018-wolfsberger-ac-austria-wien/
+austria-2017-2018,16,2017-11-26,15:30,201711261530,sunday,Rapid Wien,RB Salzburg,2,3,5,A,L,W,1.0,1.0,2.0,D,D,D,http://www.worldfootball.net/report/bundesliga-2017-2018-rapid-wien-rb-salzburg/
+austria-2017-2018,17,2017-11-28,18:00,201711281800,tuesday,Sturm Graz,FC Admira Wacker,6,1,7,H,W,L,4.0,1.0,5.0,H,W,L,http://www.worldfootball.net/report/bundesliga-2017-2018-sturm-graz-fc-admira-wacker/
+austria-2017-2018,17,2017-11-29,17:30,201711291730,wednesday,SKN St. Pölten,Austria Wien,1,0,1,H,W,L,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/bundesliga-2017-2018-skn-st-poelten-austria-wien/
+austria-2017-2018,17,2017-11-29,17:30,201711291730,wednesday,RB Salzburg,SV Mattersburg,2,0,2,H,W,L,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/bundesliga-2017-2018-rb-salzburg-sv-mattersburg/
+austria-2017-2018,17,2017-11-29,17:30,201711291730,wednesday,LASK,Wolfsberger AC,2,0,2,H,W,L,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/bundesliga-2017-2018-lask-wolfsberger-ac/
+austria-2017-2018,17,2017-11-29,19:30,201711291930,wednesday,Rapid Wien,SCR Altach,1,2,3,A,L,W,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/bundesliga-2017-2018-rapid-wien-scr-altach/
+austria-2017-2018,18,2017-12-02,15:00,201712021500,saturday,Wolfsberger AC,Rapid Wien,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/bundesliga-2017-2018-wolfsberger-ac-rapid-wien/
+austria-2017-2018,18,2017-12-02,17:30,201712021730,saturday,SCR Altach,Sturm Graz,1,2,3,A,L,W,1.0,0.0,1.0,H,W,L,http://www.worldfootball.net/report/bundesliga-2017-2018-scr-altach-sturm-graz/
+austria-2017-2018,18,2017-12-02,17:30,201712021730,saturday,FC Admira Wacker,SKN St. Pölten,1,0,1,H,W,L,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/bundesliga-2017-2018-fc-admira-wacker-skn-st-poelten/
+austria-2017-2018,18,2017-12-02,17:30,201712021730,saturday,SV Mattersburg,LASK,1,0,1,H,W,L,1.0,0.0,1.0,H,W,L,http://www.worldfootball.net/report/bundesliga-2017-2018-sv-mattersburg-lask/
+austria-2017-2018,18,2017-12-03,15:30,201712031530,sunday,Austria Wien,RB Salzburg,1,1,2,D,D,D,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/bundesliga-2017-2018-austria-wien-rb-salzburg/
+austria-2017-2018,19,2017-12-09,15:00,201712091500,saturday,Rapid Wien,SV Mattersburg,2,2,4,D,D,D,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/bundesliga-2017-2018-rapid-wien-sv-mattersburg_2/
+austria-2017-2018,19,2017-12-09,17:30,201712091730,saturday,Sturm Graz,SKN St. Pölten,3,2,5,H,W,L,3.0,2.0,5.0,H,W,L,http://www.worldfootball.net/report/bundesliga-2017-2018-sturm-graz-skn-st-poelten_2/
+austria-2017-2018,19,2017-12-09,17:30,201712091730,saturday,LASK,FC Admira Wacker,2,1,3,H,W,L,1.0,1.0,2.0,D,D,D,http://www.worldfootball.net/report/bundesliga-2017-2018-lask-fc-admira-wacker_2/
+austria-2017-2018,19,2017-12-10,13:00,201712101300,sunday,SCR Altach,Austria Wien,1,0,1,H,W,L,1.0,0.0,1.0,H,W,L,http://www.worldfootball.net/report/bundesliga-2017-2018-scr-altach-austria-wien_2/
+austria-2017-2018,19,2017-12-10,15:30,201712101530,sunday,Wolfsberger AC,RB Salzburg,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/bundesliga-2017-2018-wolfsberger-ac-rb-salzburg_2/
+austria-2017-2018,20,2017-12-16,15:00,201712161500,saturday,RB Salzburg,LASK,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/bundesliga-2017-2018-rb-salzburg-lask_2/
+austria-2017-2018,20,2017-12-16,17:30,201712161730,saturday,FC Admira Wacker,SCR Altach,3,1,4,H,W,L,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/bundesliga-2017-2018-fc-admira-wacker-scr-altach_2/
+austria-2017-2018,20,2017-12-16,17:30,201712161730,saturday,SV Mattersburg,Wolfsberger AC,5,1,6,H,W,L,1.0,0.0,1.0,H,W,L,http://www.worldfootball.net/report/bundesliga-2017-2018-sv-mattersburg-wolfsberger-ac_2/
+austria-2017-2018,20,2017-12-16,17:30,201712161730,saturday,SKN St. Pölten,Rapid Wien,0,5,5,A,L,W,0.0,2.0,2.0,A,L,W,http://www.worldfootball.net/report/bundesliga-2017-2018-skn-st-poelten-rapid-wien_2/
+austria-2017-2018,20,2017-12-17,15:30,201712171530,sunday,Austria Wien,Sturm Graz,1,0,1,H,W,L,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/bundesliga-2017-2018-austria-wien-sturm-graz_2/
+austria-2017-2018,21,2018-02-03,15:00,201802031500,saturday,SV Mattersburg,Sturm Graz,1,0,1,H,W,L,1.0,0.0,1.0,H,W,L,http://www.worldfootball.net/report/bundesliga-2017-2018-sv-mattersburg-sturm-graz_2/
+austria-2017-2018,21,2018-02-03,17:30,201802031730,saturday,RB Salzburg,FC Admira Wacker,2,1,3,H,W,L,1.0,1.0,2.0,D,D,D,http://www.worldfootball.net/report/bundesliga-2017-2018-rb-salzburg-fc-admira-wacker_2/
+austria-2017-2018,21,2018-02-03,17:30,201802031730,saturday,Wolfsberger AC,SCR Altach,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/bundesliga-2017-2018-wolfsberger-ac-scr-altach_2/
+austria-2017-2018,21,2018-02-03,17:30,201802031730,saturday,LASK,SKN St. Pölten,2,1,3,H,W,L,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/bundesliga-2017-2018-lask-skn-st-poelten_2/
+austria-2017-2018,21,2018-02-04,15:30,201802041530,sunday,Rapid Wien,Austria Wien,1,1,2,D,D,D,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/bundesliga-2017-2018-rapid-wien-austria-wien_2/
+austria-2017-2018,22,2018-02-10,15:00,201802101500,saturday,SCR Altach,RB Salzburg,0,1,1,A,L,W,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/bundesliga-2017-2018-scr-altach-rb-salzburg_2/
+austria-2017-2018,22,2018-02-10,17:30,201802101730,saturday,Austria Wien,LASK,1,3,4,A,L,W,1.0,1.0,2.0,D,D,D,http://www.worldfootball.net/report/bundesliga-2017-2018-austria-wien-lask_2/
+austria-2017-2018,22,2018-02-10,17:30,201802101730,saturday,Sturm Graz,Wolfsberger AC,0,1,1,A,L,W,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/bundesliga-2017-2018-sturm-graz-wolfsberger-ac_2/
+austria-2017-2018,22,2018-02-10,17:30,201802101730,saturday,SKN St. Pölten,SV Mattersburg,0,3,3,A,L,W,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/bundesliga-2017-2018-skn-st-poelten-sv-mattersburg_2/
+austria-2017-2018,22,2018-02-11,15:30,201802111530,sunday,FC Admira Wacker,Rapid Wien,2,1,3,H,W,L,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/bundesliga-2017-2018-fc-admira-wacker-rapid-wien_2/
+austria-2017-2018,23,2018-02-17,15:00,201802171500,saturday,Rapid Wien,Sturm Graz,1,1,2,D,D,D,0.0,1.0,1.0,A,L,W,http://www.worldfootball.net/report/bundesliga-2017-2018-rapid-wien-sturm-graz_2/
+austria-2017-2018,23,2018-02-17,17:30,201802171730,saturday,SV Mattersburg,Austria Wien,2,1,3,H,W,L,1.0,1.0,2.0,D,D,D,http://www.worldfootball.net/report/bundesliga-2017-2018-sv-mattersburg-austria-wien_2/
+austria-2017-2018,23,2018-02-17,17:30,201802171730,saturday,Wolfsberger AC,FC Admira Wacker,1,3,4,A,L,W,0.0,2.0,2.0,A,L,W,http://www.worldfootball.net/report/bundesliga-2017-2018-wolfsberger-ac-fc-admira-wacker_2/
+austria-2017-2018,23,2018-02-17,17:30,201802171730,saturday,LASK,SCR Altach,2,0,2,H,W,L,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/bundesliga-2017-2018-lask-scr-altach_2/
+austria-2017-2018,23,2018-02-18,15:30,201802181530,sunday,RB Salzburg,SKN St. Pölten,4,0,4,H,W,L,1.0,0.0,1.0,H,W,L,http://www.worldfootball.net/report/bundesliga-2017-2018-rb-salzburg-skn-st-poelten_2/
+austria-2017-2018,24,2018-02-24,15:00,201802241500,saturday,FC Admira Wacker,Austria Wien,2,1,3,H,W,L,1.0,1.0,2.0,D,D,D,http://www.worldfootball.net/report/bundesliga-2017-2018-fc-admira-wacker-austria-wien_2/
+austria-2017-2018,24,2018-02-24,17:30,201802241730,saturday,SCR Altach,SV Mattersburg,1,1,2,D,D,D,0.0,1.0,1.0,A,L,W,http://www.worldfootball.net/report/bundesliga-2017-2018-scr-altach-sv-mattersburg_2/
+austria-2017-2018,24,2018-02-24,17:30,201802241730,saturday,Rapid Wien,LASK,2,0,2,H,W,L,1.0,0.0,1.0,H,W,L,http://www.worldfootball.net/report/bundesliga-2017-2018-rapid-wien-lask_2/
+austria-2017-2018,24,2018-02-24,17:30,201802241730,saturday,Wolfsberger AC,SKN St. Pölten,0,1,1,A,L,W,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/bundesliga-2017-2018-wolfsberger-ac-skn-st-poelten_2/
+austria-2017-2018,24,2018-02-25,15:30,201802251530,sunday,Sturm Graz,RB Salzburg,2,4,6,A,L,W,1.0,1.0,2.0,D,D,D,http://www.worldfootball.net/report/bundesliga-2017-2018-sturm-graz-rb-salzburg_2/
+austria-2017-2018,25,2018-03-03,15:00,201803031500,saturday,LASK,Sturm Graz,0,2,2,A,L,W,0.0,1.0,1.0,A,L,W,http://www.worldfootball.net/report/bundesliga-2017-2018-lask-sturm-graz_2/
+austria-2017-2018,25,2018-03-03,17:30,201803031730,saturday,Austria Wien,Wolfsberger AC,2,0,2,H,W,L,1.0,0.0,1.0,H,W,L,http://www.worldfootball.net/report/bundesliga-2017-2018-austria-wien-wolfsberger-ac_2/
+austria-2017-2018,25,2018-03-03,17:30,201803031730,saturday,SV Mattersburg,FC Admira Wacker,3,2,5,H,W,L,2.0,1.0,3.0,H,W,L,http://www.worldfootball.net/report/bundesliga-2017-2018-sv-mattersburg-fc-admira-wacker_2/
+austria-2017-2018,25,2018-03-03,17:30,201803031730,saturday,SKN St. Pölten,SCR Altach,1,2,3,A,L,W,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/bundesliga-2017-2018-skn-st-poelten-scr-altach_2/
+austria-2017-2018,25,2018-03-04,15:30,201803041530,sunday,RB Salzburg,Rapid Wien,1,0,1,H,W,L,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/bundesliga-2017-2018-rb-salzburg-rapid-wien_2/
+austria-2017-2018,26,2018-03-10,15:00,201803101500,saturday,SCR Altach,Rapid Wien,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/bundesliga-2017-2018-scr-altach-rapid-wien_2/
+austria-2017-2018,26,2018-03-10,17:30,201803101730,saturday,Austria Wien,SKN St. Pölten,4,0,4,H,W,L,2.0,0.0,2.0,H,W,L,http://www.worldfootball.net/report/bundesliga-2017-2018-austria-wien-skn-st-poelten_2/
+austria-2017-2018,26,2018-03-10,17:30,201803101730,saturday,FC Admira Wacker,Sturm Graz,2,4,6,A,L,W,2.0,2.0,4.0,D,D,D,http://www.worldfootball.net/report/bundesliga-2017-2018-fc-admira-wacker-sturm-graz_2/
+austria-2017-2018,26,2018-03-10,17:30,201803101730,saturday,Wolfsberger AC,LASK,0,3,3,A,L,W,0.0,2.0,2.0,A,L,W,http://www.worldfootball.net/report/bundesliga-2017-2018-wolfsberger-ac-lask_2/
+austria-2017-2018,26,2018-03-11,15:30,201803111530,sunday,SV Mattersburg,RB Salzburg,2,2,4,D,D,D,0.0,1.0,1.0,A,L,W,http://www.worldfootball.net/report/bundesliga-2017-2018-sv-mattersburg-rb-salzburg_2/
+austria-2017-2018,27,2018-03-17,15:00,201803171500,saturday,Rapid Wien,Wolfsberger AC,5,1,6,H,W,L,3.0,0.0,3.0,H,W,L,http://www.worldfootball.net/report/bundesliga-2017-2018-rapid-wien-wolfsberger-ac_2/
+austria-2017-2018,27,2018-03-17,17:30,201803171730,saturday,Sturm Graz,SCR Altach,1,0,1,H,W,L,1.0,0.0,1.0,H,W,L,http://www.worldfootball.net/report/bundesliga-2017-2018-sturm-graz-scr-altach_2/
+austria-2017-2018,27,2018-03-17,17:30,201803171730,saturday,SKN St. Pölten,FC Admira Wacker,1,2,3,A,L,W,0.0,2.0,2.0,A,L,W,http://www.worldfootball.net/report/bundesliga-2017-2018-skn-st-poelten-fc-admira-wacker_2/
+austria-2017-2018,27,2018-03-17,17:30,201803171730,saturday,LASK,SV Mattersburg,3,1,4,H,W,L,0.0,1.0,1.0,A,L,W,http://www.worldfootball.net/report/bundesliga-2017-2018-lask-sv-mattersburg_2/
+austria-2017-2018,27,2018-03-18,13:30,201803181330,sunday,RB Salzburg,Austria Wien,5,0,5,H,W,L,1.0,0.0,1.0,H,W,L,http://www.worldfootball.net/report/bundesliga-2017-2018-rb-salzburg-austria-wien_2/
+austria-2017-2018,28,2018-03-31,15:00,201803311500,saturday,FC Admira Wacker,LASK,0,1,1,A,L,W,0.0,1.0,1.0,A,L,W,http://www.worldfootball.net/report/bundesliga-2017-2018-fc-admira-wacker-lask_2/
+austria-2017-2018,28,2018-03-31,17:30,201803311730,saturday,SKN St. Pölten,Sturm Graz,1,5,6,A,L,W,1.0,2.0,3.0,A,L,W,http://www.worldfootball.net/report/bundesliga-2017-2018-skn-st-poelten-sturm-graz_2/
+austria-2017-2018,28,2018-03-31,17:30,201803311730,saturday,Austria Wien,SCR Altach,2,1,3,H,W,L,1.0,0.0,1.0,H,W,L,http://www.worldfootball.net/report/bundesliga-2017-2018-austria-wien-scr-altach_2/
+austria-2017-2018,28,2018-03-31,17:30,201803311730,saturday,RB Salzburg,Wolfsberger AC,2,0,2,H,W,L,1.0,0.0,1.0,H,W,L,http://www.worldfootball.net/report/bundesliga-2017-2018-rb-salzburg-wolfsberger-ac_2/
+austria-2017-2018,28,2018-04-01,15:30,201804011530,sunday,SV Mattersburg,Rapid Wien,2,4,6,A,L,W,1.0,4.0,5.0,A,L,W,http://www.worldfootball.net/report/bundesliga-2017-2018-sv-mattersburg-rapid-wien_2/
+austria-2017-2018,29,2018-04-07,15:00,201804071500,saturday,Sturm Graz,Austria Wien,0,2,2,A,L,W,0.0,2.0,2.0,A,L,W,http://www.worldfootball.net/report/bundesliga-2017-2018-sturm-graz-austria-wien_2/
+austria-2017-2018,29,2018-04-07,17:30,201804071730,saturday,SCR Altach,FC Admira Wacker,1,2,3,A,L,W,1.0,1.0,2.0,D,D,D,http://www.worldfootball.net/report/bundesliga-2017-2018-scr-altach-fc-admira-wacker_2/
+austria-2017-2018,29,2018-04-07,17:30,201804071730,saturday,Wolfsberger AC,SV Mattersburg,0,2,2,A,L,W,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/bundesliga-2017-2018-wolfsberger-ac-sv-mattersburg_2/
+austria-2017-2018,29,2018-04-07,17:30,201804071730,saturday,Rapid Wien,SKN St. Pölten,2,1,3,H,W,L,1.0,0.0,1.0,H,W,L,http://www.worldfootball.net/report/bundesliga-2017-2018-rapid-wien-skn-st-poelten_2/
+austria-2017-2018,29,2018-04-08,14:00,201804081400,sunday,LASK,RB Salzburg,1,0,1,H,W,L,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/bundesliga-2017-2018-lask-rb-salzburg_2/
+austria-2017-2018,30,2018-04-14,15:00,201804141500,saturday,Sturm Graz,SV Mattersburg,3,0,3,H,W,L,2.0,0.0,2.0,H,W,L,http://www.worldfootball.net/report/bundesliga-2017-2018-sturm-graz-sv-mattersburg_2/
+austria-2017-2018,30,2018-04-14,17:30,201804141730,saturday,SCR Altach,Wolfsberger AC,2,1,3,H,W,L,1.0,1.0,2.0,D,D,D,http://www.worldfootball.net/report/bundesliga-2017-2018-scr-altach-wolfsberger-ac_2/
+austria-2017-2018,30,2018-04-14,17:30,201804141730,saturday,SKN St. Pölten,LASK,1,3,4,A,L,W,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/bundesliga-2017-2018-skn-st-poelten-lask_2/
+austria-2017-2018,30,2018-04-15,15:30,201804151530,sunday,Austria Wien,Rapid Wien,0,4,4,A,L,W,0.0,2.0,2.0,A,L,W,http://www.worldfootball.net/report/bundesliga-2017-2018-austria-wien-rapid-wien_2/
+austria-2017-2018,30,2018-04-15,18:00,201804151800,sunday,FC Admira Wacker,RB Salzburg,2,6,8,A,L,W,1.0,3.0,4.0,A,L,W,http://www.worldfootball.net/report/bundesliga-2017-2018-fc-admira-wacker-rb-salzburg_2/
+austria-2017-2018,31,2018-04-21,15:00,201804211500,saturday,Wolfsberger AC,Sturm Graz,2,1,3,H,W,L,1.0,1.0,2.0,D,D,D,http://www.worldfootball.net/report/bundesliga-2017-2018-wolfsberger-ac-sturm-graz_2/
+austria-2017-2018,31,2018-04-21,17:30,201804211730,saturday,LASK,Austria Wien,1,0,1,H,W,L,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/bundesliga-2017-2018-lask-austria-wien_2/
+austria-2017-2018,31,2018-04-21,17:30,201804211730,saturday,SV Mattersburg,SKN St. Pölten,1,1,2,D,D,D,0.0,1.0,1.0,A,L,W,http://www.worldfootball.net/report/bundesliga-2017-2018-sv-mattersburg-skn-st-poelten_2/
+austria-2017-2018,31,2018-04-22,13:30,201804221330,sunday,RB Salzburg,SCR Altach,3,1,4,H,W,L,1.0,0.0,1.0,H,W,L,http://www.worldfootball.net/report/bundesliga-2017-2018-rb-salzburg-scr-altach_2/
+austria-2017-2018,31,2018-04-22,15:30,201804221530,sunday,Rapid Wien,FC Admira Wacker,4,1,5,H,W,L,2.0,0.0,2.0,H,W,L,http://www.worldfootball.net/report/bundesliga-2017-2018-rapid-wien-fc-admira-wacker_2/
+austria-2017-2018,32,2018-04-28,15:00,201804281500,saturday,Austria Wien,SV Mattersburg,2,3,5,A,L,W,2.0,2.0,4.0,D,D,D,http://www.worldfootball.net/report/bundesliga-2017-2018-austria-wien-sv-mattersburg_2/
+austria-2017-2018,32,2018-04-28,17:30,201804281730,saturday,FC Admira Wacker,Wolfsberger AC,4,2,6,H,W,L,1.0,1.0,2.0,D,D,D,http://www.worldfootball.net/report/bundesliga-2017-2018-fc-admira-wacker-wolfsberger-ac_2/
+austria-2017-2018,32,2018-04-28,17:30,201804281730,saturday,SCR Altach,LASK,0,2,2,A,L,W,0.0,1.0,1.0,A,L,W,http://www.worldfootball.net/report/bundesliga-2017-2018-scr-altach-lask_2/
+austria-2017-2018,32,2018-04-29,15:30,201804291530,sunday,Sturm Graz,Rapid Wien,4,2,6,H,W,L,2.0,1.0,3.0,H,W,L,http://www.worldfootball.net/report/bundesliga-2017-2018-sturm-graz-rapid-wien_2/
+austria-2017-2018,32,2018-04-29,18:00,201804291800,sunday,SKN St. Pölten,RB Salzburg,0,2,2,A,L,W,0.0,1.0,1.0,A,L,W,http://www.worldfootball.net/report/bundesliga-2017-2018-skn-st-poelten-rb-salzburg_2/
+austria-2017-2018,33,2018-05-05,15:00,201805051500,saturday,LASK,Rapid Wien,0,2,2,A,L,W,0.0,1.0,1.0,A,L,W,http://www.worldfootball.net/report/bundesliga-2017-2018-lask-rapid-wien_2/
+austria-2017-2018,33,2018-05-05,17:30,201805051730,saturday,SV Mattersburg,SCR Altach,0,1,1,A,L,W,0.0,1.0,1.0,A,L,W,http://www.worldfootball.net/report/bundesliga-2017-2018-sv-mattersburg-scr-altach_2/
+austria-2017-2018,33,2018-05-05,17:30,201805051730,saturday,Austria Wien,FC Admira Wacker,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/bundesliga-2017-2018-austria-wien-fc-admira-wacker_2/
+austria-2017-2018,33,2018-05-05,17:30,201805051730,saturday,SKN St. Pölten,Wolfsberger AC,0,1,1,A,L,W,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/bundesliga-2017-2018-skn-st-poelten-wolfsberger-ac_2/
+austria-2017-2018,33,2018-05-06,15:30,201805061530,sunday,RB Salzburg,Sturm Graz,4,1,5,H,W,L,1.0,1.0,2.0,D,D,D,http://www.worldfootball.net/report/bundesliga-2017-2018-rb-salzburg-sturm-graz_2/
+austria-2017-2018,34,2018-05-12,15:00,201805121500,saturday,Sturm Graz,LASK,3,1,4,H,W,L,2.0,1.0,3.0,H,W,L,http://www.worldfootball.net/report/bundesliga-2017-2018-sturm-graz-lask_2/
+austria-2017-2018,34,2018-05-12,17:30,201805121730,saturday,FC Admira Wacker,SV Mattersburg,1,1,2,D,D,D,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/bundesliga-2017-2018-fc-admira-wacker-sv-mattersburg_2/
+austria-2017-2018,34,2018-05-12,17:30,201805121730,saturday,SCR Altach,SKN St. Pölten,1,3,4,A,L,W,1.0,2.0,3.0,A,L,W,http://www.worldfootball.net/report/bundesliga-2017-2018-scr-altach-skn-st-poelten_2/
+austria-2017-2018,34,2018-05-13,15:30,201805131530,sunday,Rapid Wien,RB Salzburg,1,4,5,A,L,W,0.0,3.0,3.0,A,L,W,http://www.worldfootball.net/report/bundesliga-2017-2018-rapid-wien-rb-salzburg_2/
+austria-2017-2018,34,2018-05-15,18:00,201805151800,tuesday,Wolfsberger AC,Austria Wien,2,1,3,H,W,L,2.0,0.0,2.0,H,W,L,http://www.worldfootball.net/report/bundesliga-2017-2018-wolfsberger-ac-austria-wien_2/
+austria-2017-2018,35,2018-05-20,15:30,201805201530,sunday,SKN St. Pölten,Austria Wien,2,0,2,H,W,L,1.0,0.0,1.0,H,W,L,http://www.worldfootball.net/report/bundesliga-2017-2018-skn-st-poelten-austria-wien_2/
+austria-2017-2018,35,2018-05-20,15:30,201805201530,sunday,Rapid Wien,SCR Altach,4,1,5,H,W,L,2.0,1.0,3.0,H,W,L,http://www.worldfootball.net/report/bundesliga-2017-2018-rapid-wien-scr-altach_2/
+austria-2017-2018,35,2018-05-20,15:30,201805201530,sunday,Sturm Graz,FC Admira Wacker,2,0,2,H,W,L,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/bundesliga-2017-2018-sturm-graz-fc-admira-wacker_2/
+austria-2017-2018,35,2018-05-20,15:30,201805201530,sunday,RB Salzburg,SV Mattersburg,1,0,1,H,W,L,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/bundesliga-2017-2018-rb-salzburg-sv-mattersburg_2/
+austria-2017-2018,35,2018-05-20,15:30,201805201530,sunday,LASK,Wolfsberger AC,1,3,4,A,L,W,0.0,1.0,1.0,A,L,W,http://www.worldfootball.net/report/bundesliga-2017-2018-lask-wolfsberger-ac_2/
+austria-2017-2018,36,2018-05-27,16:30,201805271630,sunday,Austria Wien,RB Salzburg,4,0,4,H,W,L,2.0,0.0,2.0,H,W,L,http://www.worldfootball.net/report/bundesliga-2017-2018-austria-wien-rb-salzburg_2/
+austria-2017-2018,36,2018-05-27,16:30,201805271630,sunday,SCR Altach,Sturm Graz,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/bundesliga-2017-2018-scr-altach-sturm-graz_2/
+austria-2017-2018,36,2018-05-27,16:30,201805271630,sunday,Wolfsberger AC,Rapid Wien,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/bundesliga-2017-2018-wolfsberger-ac-rapid-wien_2/
+austria-2017-2018,36,2018-05-27,16:30,201805271630,sunday,FC Admira Wacker,SKN St. Pölten,0,2,2,A,L,W,0.0,1.0,1.0,A,L,W,http://www.worldfootball.net/report/bundesliga-2017-2018-fc-admira-wacker-skn-st-poelten_2/
+austria-2017-2018,36,2018-05-27,16:30,201805271630,sunday,SV Mattersburg,LASK,2,1,3,H,W,L,1.0,0.0,1.0,H,W,L,http://www.worldfootball.net/report/bundesliga-2017-2018-sv-mattersburg-lask_2/
+austria-2018-2019,1,2018-07-27,19:45,201807271945,friday,Austria Wien,FC Wacker Innsbruck,2,1,3,H,W,L,1,1,2,D,D,D,http://www.worldfootball.net/report/bundesliga-2018-2019-austria-wien-fc-wacker-innsbruck/
+austria-2018-2019,1,2018-07-28,16:00,201807281600,saturday,Sturm Graz,TSV Hartberg,3,2,5,H,W,L,2,1,3,H,W,L,http://www.worldfootball.net/report/bundesliga-2018-2019-sturm-graz-tsv-hartberg/
+austria-2018-2019,1,2018-07-28,16:00,201807281600,saturday,SCR Altach,SV Mattersburg,2,3,5,A,L,W,1,1,2,D,D,D,http://www.worldfootball.net/report/bundesliga-2018-2019-scr-altach-sv-mattersburg/
+austria-2018-2019,1,2018-07-29,16:00,201807291600,sunday,SKN St. Pölten,Wolfsberger AC,4,3,7,H,W,L,2,2,4,D,D,D,http://www.worldfootball.net/report/bundesliga-2018-2019-skn-st-poelten-wolfsberger-ac/
+austria-2018-2019,1,2018-07-29,16:00,201807291600,sunday,FC Admira Wacker,Rapid Wien,0,3,3,A,L,W,0,3,3,A,L,W,http://www.worldfootball.net/report/bundesliga-2018-2019-fc-admira-wacker-rapid-wien/
+austria-2018-2019,1,2018-07-29,16:00,201807291600,sunday,RB Salzburg,LASK,3,1,4,H,W,L,3,0,3,H,W,L,http://www.worldfootball.net/report/bundesliga-2018-2019-rb-salzburg-lask/
+austria-2018-2019,2,2018-08-04,16:00,201808041600,saturday,Rapid Wien,SCR Altach,1,1,2,D,D,D,1,0,1,H,W,L,http://www.worldfootball.net/report/bundesliga-2018-2019-rapid-wien-scr-altach/
+austria-2018-2019,2,2018-08-04,16:00,201808041600,saturday,SV Mattersburg,RB Salzburg,0,2,2,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/bundesliga-2018-2019-sv-mattersburg-rb-salzburg/
+austria-2018-2019,2,2018-08-04,16:00,201808041600,saturday,FC Wacker Innsbruck,Sturm Graz,2,3,5,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/bundesliga-2018-2019-fc-wacker-innsbruck-sturm-graz/
+austria-2018-2019,2,2018-08-05,16:00,201808051600,sunday,TSV Hartberg,FC Admira Wacker,0,1,1,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/bundesliga-2018-2019-tsv-hartberg-fc-admira-wacker/
+austria-2018-2019,2,2018-08-05,16:00,201808051600,sunday,LASK,SKN St. Pölten,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/bundesliga-2018-2019-lask-skn-st-poelten/
+austria-2018-2019,2,2018-08-05,16:00,201808051600,sunday,Wolfsberger AC,Austria Wien,1,0,1,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/bundesliga-2018-2019-wolfsberger-ac-austria-wien/
+austria-2018-2019,3,2018-08-11,16:00,201808111600,saturday,RB Salzburg,Austria Wien,2,0,2,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/bundesliga-2018-2019-rb-salzburg-austria-wien/
+austria-2018-2019,3,2018-08-11,16:00,201808111600,saturday,SCR Altach,FC Wacker Innsbruck,1,2,3,A,L,W,1,2,3,A,L,W,http://www.worldfootball.net/report/bundesliga-2018-2019-scr-altach-fc-wacker-innsbruck/
+austria-2018-2019,3,2018-08-11,16:00,201808111600,saturday,TSV Hartberg,SV Mattersburg,4,2,6,H,W,L,3,1,4,H,W,L,http://www.worldfootball.net/report/bundesliga-2018-2019-tsv-hartberg-sv-mattersburg/
+austria-2018-2019,3,2018-08-12,16:00,201808121600,sunday,SKN St. Pölten,Sturm Graz,2,0,2,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/bundesliga-2018-2019-skn-st-poelten-sturm-graz/
+austria-2018-2019,3,2018-08-12,16:00,201808121600,sunday,FC Admira Wacker,LASK,0,1,1,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/bundesliga-2018-2019-fc-admira-wacker-lask/
+austria-2018-2019,3,2018-08-12,16:00,201808121600,sunday,Rapid Wien,Wolfsberger AC,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/bundesliga-2018-2019-rapid-wien-wolfsberger-ac/
+austria-2018-2019,4,2018-08-18,16:00,201808181600,saturday,RB Salzburg,TSV Hartberg,2,0,2,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/bundesliga-2018-2019-rb-salzburg-tsv-hartberg/
+austria-2018-2019,4,2018-08-18,16:00,201808181600,saturday,SV Mattersburg,Wolfsberger AC,0,6,6,A,L,W,0,3,3,A,L,W,http://www.worldfootball.net/report/bundesliga-2018-2019-sv-mattersburg-wolfsberger-ac/
+austria-2018-2019,4,2018-08-18,16:00,201808181600,saturday,FC Wacker Innsbruck,SKN St. Pölten,0,2,2,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/bundesliga-2018-2019-fc-wacker-innsbruck-skn-st-poelten/
+austria-2018-2019,4,2018-08-19,16:00,201808191600,sunday,Sturm Graz,SCR Altach,1,1,2,D,D,D,1,0,1,H,W,L,http://www.worldfootball.net/report/bundesliga-2018-2019-sturm-graz-scr-altach/
+austria-2018-2019,4,2018-08-19,16:00,201808191600,sunday,Austria Wien,FC Admira Wacker,4,0,4,H,W,L,2,0,2,H,W,L,http://www.worldfootball.net/report/bundesliga-2018-2019-austria-wien-fc-admira-wacker/
+austria-2018-2019,4,2018-08-19,16:00,201808191600,sunday,LASK,Rapid Wien,2,1,3,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/bundesliga-2018-2019-lask-rapid-wien/
+austria-2018-2019,5,2018-08-25,16:00,201808251600,saturday,SCR Altach,RB Salzburg,2,3,5,A,L,W,1,2,3,A,L,W,http://www.worldfootball.net/report/bundesliga-2018-2019-scr-altach-rb-salzburg/
+austria-2018-2019,5,2018-08-25,16:00,201808251600,saturday,Wolfsberger AC,Sturm Graz,1,1,2,D,D,D,1,0,1,H,W,L,http://www.worldfootball.net/report/bundesliga-2018-2019-wolfsberger-ac-sturm-graz/
+austria-2018-2019,5,2018-08-25,16:00,201808251600,saturday,SKN St. Pölten,Austria Wien,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/bundesliga-2018-2019-skn-st-poelten-austria-wien/
+austria-2018-2019,5,2018-08-26,16:00,201808261600,sunday,TSV Hartberg,LASK,0,1,1,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/bundesliga-2018-2019-tsv-hartberg-lask/
+austria-2018-2019,5,2018-08-26,16:00,201808261600,sunday,FC Admira Wacker,SV Mattersburg,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/bundesliga-2018-2019-fc-admira-wacker-sv-mattersburg/
+austria-2018-2019,5,2018-08-26,16:00,201808261600,sunday,Rapid Wien,FC Wacker Innsbruck,2,1,3,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/bundesliga-2018-2019-rapid-wien-fc-wacker-innsbruck/
+austria-2018-2019,6,2018-09-01,16:00,201809011600,saturday,Austria Wien,SV Mattersburg,2,1,3,H,W,L,0,1,1,A,L,W,http://www.worldfootball.net/report/bundesliga-2018-2019-austria-wien-sv-mattersburg/
+austria-2018-2019,6,2018-09-01,16:00,201809011600,saturday,SCR Altach,SKN St. Pölten,1,2,3,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/bundesliga-2018-2019-scr-altach-skn-st-poelten/
+austria-2018-2019,6,2018-09-01,16:00,201809011600,saturday,FC Wacker Innsbruck,TSV Hartberg,2,1,3,H,W,L,1,1,2,D,D,D,http://www.worldfootball.net/report/bundesliga-2018-2019-fc-wacker-innsbruck-tsv-hartberg/
+austria-2018-2019,6,2018-09-02,16:00,201809021600,sunday,LASK,Wolfsberger AC,2,0,2,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/bundesliga-2018-2019-lask-wolfsberger-ac/
+austria-2018-2019,6,2018-09-02,16:00,201809021600,sunday,RB Salzburg,FC Admira Wacker,3,1,4,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/bundesliga-2018-2019-rb-salzburg-fc-admira-wacker/
+austria-2018-2019,6,2018-09-02,16:00,201809021600,sunday,Sturm Graz,Rapid Wien,1,1,2,D,D,D,1,0,1,H,W,L,http://www.worldfootball.net/report/bundesliga-2018-2019-sturm-graz-rapid-wien/
+austria-2018-2019,7,2018-09-15,16:00,201809151600,saturday,FC Admira Wacker,Sturm Graz,2,3,5,A,L,W,1,1,2,D,D,D,http://www.worldfootball.net/report/bundesliga-2018-2019-fc-admira-wacker-sturm-graz/
+austria-2018-2019,7,2018-09-15,16:00,201809151600,saturday,SKN St. Pölten,RB Salzburg,1,3,4,A,L,W,1,1,2,D,D,D,http://www.worldfootball.net/report/bundesliga-2018-2019-skn-st-poelten-rb-salzburg/
+austria-2018-2019,7,2018-09-15,16:00,201809151600,saturday,TSV Hartberg,SCR Altach,2,1,3,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/bundesliga-2018-2019-tsv-hartberg-scr-altach/
+austria-2018-2019,7,2018-09-16,13:30,201809161330,sunday,Wolfsberger AC,FC Wacker Innsbruck,3,1,4,H,W,L,0,1,1,A,L,W,http://www.worldfootball.net/report/bundesliga-2018-2019-wolfsberger-ac-fc-wacker-innsbruck/
+austria-2018-2019,7,2018-09-16,13:30,201809161330,sunday,SV Mattersburg,LASK,1,3,4,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/bundesliga-2018-2019-sv-mattersburg-lask/
+austria-2018-2019,7,2018-09-16,16:00,201809161600,sunday,Rapid Wien,Austria Wien,0,1,1,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/bundesliga-2018-2019-rapid-wien-austria-wien/
+austria-2018-2019,8,2018-09-22,16:00,201809221600,saturday,Sturm Graz,SV Mattersburg,1,2,3,A,L,W,1,1,2,D,D,D,http://www.worldfootball.net/report/bundesliga-2018-2019-sturm-graz-sv-mattersburg/
+austria-2018-2019,8,2018-09-22,16:00,201809221600,saturday,SCR Altach,Wolfsberger AC,0,1,1,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/bundesliga-2018-2019-scr-altach-wolfsberger-ac/
+austria-2018-2019,8,2018-09-22,16:00,201809221600,saturday,SKN St. Pölten,TSV Hartberg,3,0,3,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/bundesliga-2018-2019-skn-st-poelten-tsv-hartberg/
+austria-2018-2019,8,2018-09-23,13:30,201809231330,sunday,Austria Wien,LASK,0,3,3,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/bundesliga-2018-2019-austria-wien-lask/
+austria-2018-2019,8,2018-09-23,13:30,201809231330,sunday,FC Wacker Innsbruck,FC Admira Wacker,1,3,4,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/bundesliga-2018-2019-fc-wacker-innsbruck-fc-admira-wacker/
+austria-2018-2019,8,2018-09-23,16:00,201809231600,sunday,RB Salzburg,Rapid Wien,2,1,3,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/bundesliga-2018-2019-rb-salzburg-rapid-wien/
+austria-2018-2019,9,2018-09-29,16:00,201809291600,saturday,Rapid Wien,SKN St. Pölten,0,2,2,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/bundesliga-2018-2019-rapid-wien-skn-st-poelten/
+austria-2018-2019,9,2018-09-29,16:00,201809291600,saturday,FC Admira Wacker,SCR Altach,2,4,6,A,L,W,1,2,3,A,L,W,http://www.worldfootball.net/report/bundesliga-2018-2019-fc-admira-wacker-scr-altach/
+austria-2018-2019,9,2018-09-29,16:00,201809291600,saturday,Wolfsberger AC,RB Salzburg,1,4,5,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/bundesliga-2018-2019-wolfsberger-ac-rb-salzburg/
+austria-2018-2019,9,2018-09-30,13:30,201809301330,sunday,SV Mattersburg,FC Wacker Innsbruck,2,1,3,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/bundesliga-2018-2019-sv-mattersburg-fc-wacker-innsbruck/
+austria-2018-2019,9,2018-09-30,13:30,201809301330,sunday,TSV Hartberg,Austria Wien,0,1,1,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/bundesliga-2018-2019-tsv-hartberg-austria-wien/
+austria-2018-2019,9,2018-09-30,16:00,201809301600,sunday,LASK,Sturm Graz,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/bundesliga-2018-2019-lask-sturm-graz/
+austria-2018-2019,10,2018-10-06,16:00,201810061600,saturday,SCR Altach,Austria Wien,2,0,2,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/bundesliga-2018-2019-scr-altach-austria-wien/
+austria-2018-2019,10,2018-10-06,16:00,201810061600,saturday,Wolfsberger AC,TSV Hartberg,3,4,7,A,L,W,2,1,3,H,W,L,http://www.worldfootball.net/report/bundesliga-2018-2019-wolfsberger-ac-tsv-hartberg/
+austria-2018-2019,10,2018-10-06,16:00,201810061600,saturday,SKN St. Pölten,FC Admira Wacker,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/bundesliga-2018-2019-skn-st-poelten-fc-admira-wacker/
+austria-2018-2019,10,2018-10-07,13:30,201810071330,sunday,Rapid Wien,SV Mattersburg,1,0,1,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/bundesliga-2018-2019-rapid-wien-sv-mattersburg/
+austria-2018-2019,10,2018-10-07,13:30,201810071330,sunday,FC Wacker Innsbruck,LASK,1,0,1,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/bundesliga-2018-2019-fc-wacker-innsbruck-lask/
+austria-2018-2019,10,2018-10-07,16:00,201810071600,sunday,Sturm Graz,RB Salzburg,1,2,3,A,L,W,1,1,2,D,D,D,http://www.worldfootball.net/report/bundesliga-2018-2019-sturm-graz-rb-salzburg/
+austria-2018-2019,11,2018-10-20,16:00,201810201600,saturday,RB Salzburg,FC Wacker Innsbruck,1,1,2,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/bundesliga-2018-2019-rb-salzburg-fc-wacker-innsbruck/
+austria-2018-2019,11,2018-10-20,16:00,201810201600,saturday,LASK,SCR Altach,1,1,2,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/bundesliga-2018-2019-lask-scr-altach/
+austria-2018-2019,11,2018-10-20,16:00,201810201600,saturday,TSV Hartberg,Rapid Wien,3,0,3,H,W,L,2,0,2,H,W,L,http://www.worldfootball.net/report/bundesliga-2018-2019-tsv-hartberg-rapid-wien/
+austria-2018-2019,11,2018-10-21,13:30,201810211330,sunday,FC Admira Wacker,Wolfsberger AC,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/bundesliga-2018-2019-fc-admira-wacker-wolfsberger-ac/
+austria-2018-2019,11,2018-10-21,13:30,201810211330,sunday,SV Mattersburg,SKN St. Pölten,2,0,2,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/bundesliga-2018-2019-sv-mattersburg-skn-st-poelten/
+austria-2018-2019,11,2018-10-21,16:00,201810211600,sunday,Austria Wien,Sturm Graz,1,1,2,D,D,D,0,1,1,A,L,W,http://www.worldfootball.net/report/bundesliga-2018-2019-austria-wien-sturm-graz/
+austria-2018-2019,12,2018-10-27,16:00,201810271600,saturday,SV Mattersburg,SCR Altach,1,1,2,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/bundesliga-2018-2019-sv-mattersburg-scr-altach/
+austria-2018-2019,12,2018-10-27,16:00,201810271600,saturday,FC Wacker Innsbruck,Austria Wien,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/bundesliga-2018-2019-fc-wacker-innsbruck-austria-wien/
+austria-2018-2019,12,2018-10-27,16:00,201810271600,saturday,TSV Hartberg,Sturm Graz,2,0,2,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/bundesliga-2018-2019-tsv-hartberg-sturm-graz/
+austria-2018-2019,12,2018-10-28,13:30,201810281330,sunday,Rapid Wien,FC Admira Wacker,2,0,2,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/bundesliga-2018-2019-rapid-wien-fc-admira-wacker/
+austria-2018-2019,12,2018-10-28,13:30,201810281330,sunday,Wolfsberger AC,SKN St. Pölten,1,0,1,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/bundesliga-2018-2019-wolfsberger-ac-skn-st-poelten/
+austria-2018-2019,12,2018-10-28,16:00,201810281600,sunday,LASK,RB Salzburg,3,3,6,D,D,D,2,2,4,D,D,D,http://www.worldfootball.net/report/bundesliga-2018-2019-lask-rb-salzburg/
+austria-2018-2019,13,2018-11-03,16:00,201811031600,saturday,Sturm Graz,FC Wacker Innsbruck,1,1,2,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/bundesliga-2018-2019-sturm-graz-fc-wacker-innsbruck/
+austria-2018-2019,13,2018-11-03,16:00,201811031600,saturday,FC Admira Wacker,TSV Hartberg,2,3,5,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/bundesliga-2018-2019-fc-admira-wacker-tsv-hartberg/
+austria-2018-2019,13,2018-11-03,16:00,201811031600,saturday,SKN St. Pölten,LASK,2,2,4,D,D,D,1,1,2,D,D,D,http://www.worldfootball.net/report/bundesliga-2018-2019-skn-st-poelten-lask/
+austria-2018-2019,13,2018-11-04,13:30,201811041330,sunday,RB Salzburg,SV Mattersburg,2,1,3,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/bundesliga-2018-2019-rb-salzburg-sv-mattersburg/
+austria-2018-2019,13,2018-11-04,13:30,201811041330,sunday,Austria Wien,Wolfsberger AC,2,3,5,A,L,W,2,1,3,H,W,L,http://www.worldfootball.net/report/bundesliga-2018-2019-austria-wien-wolfsberger-ac/
+austria-2018-2019,13,2018-11-04,16:00,201811041600,sunday,SCR Altach,Rapid Wien,2,2,4,D,D,D,1,2,3,A,L,W,http://www.worldfootball.net/report/bundesliga-2018-2019-scr-altach-rapid-wien/
+austria-2018-2019,14,2018-11-10,16:00,201811101600,saturday,FC Wacker Innsbruck,SCR Altach,1,0,1,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/bundesliga-2018-2019-fc-wacker-innsbruck-scr-altach/
+austria-2018-2019,14,2018-11-10,16:00,201811101600,saturday,Sturm Graz,SKN St. Pölten,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/bundesliga-2018-2019-sturm-graz-skn-st-poelten/
+austria-2018-2019,14,2018-11-10,16:00,201811101600,saturday,LASK,FC Admira Wacker,5,1,6,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/bundesliga-2018-2019-lask-fc-admira-wacker/
+austria-2018-2019,14,2018-11-11,13:30,201811111330,sunday,SV Mattersburg,TSV Hartberg,1,2,3,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/bundesliga-2018-2019-sv-mattersburg-tsv-hartberg/
+austria-2018-2019,14,2018-11-11,13:30,201811111330,sunday,Wolfsberger AC,Rapid Wien,3,1,4,H,W,L,0,1,1,A,L,W,http://www.worldfootball.net/report/bundesliga-2018-2019-wolfsberger-ac-rapid-wien/
+austria-2018-2019,14,2018-11-11,16:00,201811111600,sunday,Austria Wien,RB Salzburg,0,2,2,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/bundesliga-2018-2019-austria-wien-rb-salzburg/
+austria-2018-2019,15,2018-11-24,16:00,201811241600,saturday,TSV Hartberg,RB Salzburg,0,4,4,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/bundesliga-2018-2019-tsv-hartberg-rb-salzburg/
+austria-2018-2019,15,2018-11-24,16:00,201811241600,saturday,Wolfsberger AC,SV Mattersburg,2,2,4,D,D,D,1,0,1,H,W,L,http://www.worldfootball.net/report/bundesliga-2018-2019-wolfsberger-ac-sv-mattersburg/
+austria-2018-2019,15,2018-11-24,16:00,201811241600,saturday,FC Admira Wacker,Austria Wien,1,2,3,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/bundesliga-2018-2019-fc-admira-wacker-austria-wien/
+austria-2018-2019,15,2018-11-25,13:30,201811251330,sunday,SCR Altach,Sturm Graz,0,2,2,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/bundesliga-2018-2019-scr-altach-sturm-graz/
+austria-2018-2019,15,2018-11-25,13:30,201811251330,sunday,SKN St. Pölten,FC Wacker Innsbruck,2,0,2,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/bundesliga-2018-2019-skn-st-poelten-fc-wacker-innsbruck/
+austria-2018-2019,15,2018-11-25,16:00,201811251600,sunday,Rapid Wien,LASK,0,1,1,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/bundesliga-2018-2019-rapid-wien-lask/
+austria-2018-2019,16,2018-12-01,16:00,201812011600,saturday,Austria Wien,SKN St. Pölten,2,0,2,H,W,L,2,0,2,H,W,L,http://www.worldfootball.net/report/bundesliga-2018-2019-austria-wien-skn-st-poelten/
+austria-2018-2019,16,2018-12-01,16:00,201812011600,saturday,LASK,TSV Hartberg,3,3,6,D,D,D,2,2,4,D,D,D,http://www.worldfootball.net/report/bundesliga-2018-2019-lask-tsv-hartberg/
+austria-2018-2019,16,2018-12-01,16:00,201812011600,saturday,SV Mattersburg,FC Admira Wacker,2,2,4,D,D,D,0,1,1,A,L,W,http://www.worldfootball.net/report/bundesliga-2018-2019-sv-mattersburg-fc-admira-wacker/
+austria-2018-2019,16,2018-12-02,13:30,201812021330,sunday,RB Salzburg,SCR Altach,1,0,1,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/bundesliga-2018-2019-rb-salzburg-scr-altach/
+austria-2018-2019,16,2018-12-02,13:30,201812021330,sunday,FC Wacker Innsbruck,Rapid Wien,0,1,1,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/bundesliga-2018-2019-fc-wacker-innsbruck-rapid-wien/
+austria-2018-2019,16,2018-12-02,16:00,201812021600,sunday,Sturm Graz,Wolfsberger AC,3,0,3,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/bundesliga-2018-2019-sturm-graz-wolfsberger-ac/
+austria-2018-2019,17,2018-12-08,16:00,201812081600,saturday,SKN St. Pölten,SCR Altach,2,1,3,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/bundesliga-2018-2019-skn-st-poelten-scr-altach/
+austria-2018-2019,17,2018-12-08,16:00,201812081600,saturday,Wolfsberger AC,LASK,1,1,2,D,D,D,1,1,2,D,D,D,http://www.worldfootball.net/report/bundesliga-2018-2019-wolfsberger-ac-lask/
+austria-2018-2019,17,2018-12-08,16:00,201812081600,saturday,FC Admira Wacker,RB Salzburg,2,2,4,D,D,D,1,1,2,D,D,D,http://www.worldfootball.net/report/bundesliga-2018-2019-fc-admira-wacker-rb-salzburg/
+austria-2018-2019,17,2018-12-09,13:30,201812091330,sunday,SV Mattersburg,Austria Wien,2,1,3,H,W,L,0,1,1,A,L,W,http://www.worldfootball.net/report/bundesliga-2018-2019-sv-mattersburg-austria-wien/
+austria-2018-2019,17,2018-12-09,13:30,201812091330,sunday,TSV Hartberg,FC Wacker Innsbruck,2,2,4,D,D,D,2,1,3,H,W,L,http://www.worldfootball.net/report/bundesliga-2018-2019-tsv-hartberg-fc-wacker-innsbruck/
+austria-2018-2019,17,2018-12-09,16:00,201812091600,sunday,Rapid Wien,Sturm Graz,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/bundesliga-2018-2019-rapid-wien-sturm-graz/
+austria-2018-2019,18,2018-12-15,16:00,201812151600,saturday,Sturm Graz,FC Admira Wacker,3,0,3,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/bundesliga-2018-2019-sturm-graz-fc-admira-wacker/
+austria-2018-2019,18,2018-12-15,16:00,201812151600,saturday,FC Wacker Innsbruck,Wolfsberger AC,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/bundesliga-2018-2019-fc-wacker-innsbruck-wolfsberger-ac/
+austria-2018-2019,18,2018-12-15,16:00,201812151600,saturday,LASK,SV Mattersburg,2,1,3,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/bundesliga-2018-2019-lask-sv-mattersburg/
+austria-2018-2019,18,2018-12-16,13:30,201812161330,sunday,RB Salzburg,SKN St. Pölten,5,1,6,H,W,L,5,0,5,H,W,L,http://www.worldfootball.net/report/bundesliga-2018-2019-rb-salzburg-skn-st-poelten/
+austria-2018-2019,18,2018-12-16,13:30,201812161330,sunday,SCR Altach,TSV Hartberg,6,1,7,H,W,L,2,0,2,H,W,L,http://www.worldfootball.net/report/bundesliga-2018-2019-scr-altach-tsv-hartberg/
+austria-2018-2019,18,2018-12-16,16:00,201812161600,sunday,Austria Wien,Rapid Wien,6,1,7,H,W,L,4,1,5,H,W,L,http://www.worldfootball.net/report/bundesliga-2018-2019-austria-wien-rapid-wien/
+austria-2018-2019,19,2019-02-22,18:30,201902221830,friday,LASK,Austria Wien,2,0,2,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/bundesliga-2018-2019-lask-austria-wien/

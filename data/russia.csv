@@ -199,9 +199,9 @@ russia-1992-meisterschaft,2,1992-09-05,,199209050000,saturday,Spartak Moskva,CSK
 russia-1992-meisterschaft,2,1992-09-05,,199209050000,saturday,Lok. Nizhni Novgorod,Dinamo Moskva,0,2,2,A,L,W,,,,,,,
 russia-1992-meisterschaft,2,1992-09-05,,199209050000,saturday,Rostselmash Rostov,Spartak Vladikavkaz,1,0,1,H,W,L,,,,,,,
 russia-1992-meisterschaft,2,1992-09-06,,199209060000,sunday,Asmaral Moskva,Lokomotiv Moskva,0,3,3,A,L,W,,,,,,,
-russia-1992-abstieg,3,1992-09-07,,199209070000,monday,Okean Nakhodka,Torpedo Moskva,0,0,0,D,D,D,0,0,0,D,D,D,
+russia-1992-abstieg,3,1992-09-07,,199209070000,monday,Okean Nakhodka,Torpedo Moskva,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
 russia-1992-abstieg,3,1992-09-07,,199209070000,monday,Dinamo Stavropol,Krylia Sovetov,0,3,3,A,L,W,,,,,,,
-russia-1992-abstieg,3,1992-09-09,,199209090000,wednesday,Kuban Krasnodar,Uralmash Ekaterinburg,0,0,0,D,D,D,0,0,0,D,D,D,
+russia-1992-abstieg,3,1992-09-09,,199209090000,wednesday,Kuban Krasnodar,Uralmash Ekaterinburg,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
 russia-1992-abstieg,3,1992-09-09,,199209090000,wednesday,Shinnik Yaroslavl,FK Tekstilschik Kamyshin,2,0,2,H,W,L,,,,,,,
 russia-1992-abstieg,3,1992-09-09,,199209090000,wednesday,Rotor Volgograd (old),Dinamo-Gazovik Tyumen,3,2,5,H,W,L,,,,,,,
 russia-1992-abstieg,3,1992-09-09,,199209090000,wednesday,Zenit St. Petersburg,Fakel Voronezh,2,0,2,H,W,L,,,,,,,
@@ -253,7 +253,7 @@ russia-1992-meisterschaft,6,1992-10-17,,199210170000,saturday,Spartak Moskva,Lok
 russia-1992-meisterschaft,6,1992-10-17,,199210170000,saturday,Asmaral Moskva,CSKA Moskva,2,5,7,A,L,W,,,,,,,
 russia-1992-meisterschaft,6,1992-10-17,,199210170000,saturday,Lok. Nizhni Novgorod,Spartak Vladikavkaz,1,3,4,A,L,W,,,,,,,
 russia-1992-meisterschaft,6,1992-10-17,,199210170000,saturday,Rostselmash Rostov,Dinamo Moskva,0,2,2,A,L,W,,,,,,,
-russia-1992-abstieg,9,1992-10-18,,199210180000,sunday,Krylia Sovetov,Dinamo Stavropol,0,0,0,D,D,D,0,0,0,D,D,D,
+russia-1992-abstieg,9,1992-10-18,,199210180000,sunday,Krylia Sovetov,Dinamo Stavropol,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
 russia-1992-abstieg,9,1992-10-18,,199210180000,sunday,Zenit St. Petersburg,Dinamo-Gazovik Tyumen,4,0,4,H,W,L,,,,,,,
 russia-1992-abstieg,9,1992-10-18,,199210180000,sunday,Shinnik Yaroslavl,Uralmash Ekaterinburg,0,4,4,A,L,W,,,,,,,
 russia-1992-abstieg,10,1992-10-25,,199210250000,sunday,Dinamo Stavropol,Torpedo Moskva,1,0,1,H,W,L,,,,,,,
@@ -266,13 +266,13 @@ russia-1992-abstieg,11,1992-10-30,,199210300000,friday,Torpedo Moskva,Fakel Voro
 russia-1992-meisterschaft,7,1992-10-31,,199210310000,saturday,Spartak Vladikavkaz,Asmaral Moskva,3,0,3,H,W,L,,,,,,,
 russia-1992-meisterschaft,7,1992-10-31,,199210310000,saturday,Dinamo Moskva,Spartak Moskva,2,5,7,A,L,W,,,,,,,
 russia-1992-meisterschaft,7,1992-10-31,,199210310000,saturday,CSKA Moskva,Lok. Nizhni Novgorod,0,2,2,A,L,W,,,,,,,
-russia-1992-abstieg,11,1992-11-01,,199211010000,sunday,Shinnik Yaroslavl,Dinamo Stavropol,0,0,0,D,D,D,0,0,0,D,D,D,
+russia-1992-abstieg,11,1992-11-01,,199211010000,sunday,Shinnik Yaroslavl,Dinamo Stavropol,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
 russia-1992-abstieg,11,1992-11-01,,199211010000,sunday,Krylia Sovetov,Dinamo-Gazovik Tyumen,4,0,4,H,W,L,,,,,,,
 russia-1992-abstieg,11,1992-11-01,,199211010000,sunday,Rotor Volgograd (old),FK Tekstilschik Kamyshin,2,1,3,H,W,L,,,,,,,
 russia-1992-abstieg,11,1992-11-01,,199211010000,sunday,Zenit St. Petersburg,Uralmash Ekaterinburg,1,0,1,H,W,L,,,,,,,
 russia-1992-meisterschaft,7,1992-11-01,,199211010000,sunday,Lokomotiv Moskva,Rostselmash Rostov,1,0,1,H,W,L,,,,,,,
 russia-1992-abstieg,11,1992-11-03,,199211030000,tuesday,Kuban Krasnodar,Okean Nakhodka,1,1,2,D,D,D,,,,,,,
-russia-1992-abstieg,12,1992-11-07,,199211070000,saturday,FK Tekstilschik Kamyshin,Zenit St. Petersburg,0,0,0,D,D,D,0,0,0,D,D,D,
+russia-1992-abstieg,12,1992-11-07,,199211070000,saturday,FK Tekstilschik Kamyshin,Zenit St. Petersburg,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
 russia-1992-abstieg,12,1992-11-07,,199211070000,saturday,Uralmash Ekaterinburg,Rotor Volgograd (old),2,1,3,H,W,L,,,,,,,
 russia-1992-abstieg,12,1992-11-07,,199211070000,saturday,Dinamo Stavropol,Kuban Krasnodar,3,0,3,H,W,L,,,,,,,
 russia-1992-abstieg,12,1992-11-07,,199211070000,saturday,Fakel Voronezh,Krylia Sovetov,1,0,1,H,W,L,,,,,,,
@@ -6592,3 +6592,138 @@ russia-2017-2018,30,2018-05-13,12:00,201805131200,sunday,FK Rostov,FC Ural,1,0,1
 russia-2017-2018,30,2018-05-13,12:00,201805131200,sunday,FK Krasnodar,Rubin Kazan,1,1,2,D,D,D,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/premier-liga-2017-2018-fk-krasnodar-rubin-kazan/
 russia-2017-2018,30,2018-05-13,12:00,201805131200,sunday,FC Ufa,FK Tosno,5,0,5,H,W,L,2.0,0.0,2.0,H,W,L,http://www.worldfootball.net/report/premier-liga-2017-2018-fc-ufa-fk-tosno/
 russia-2017-2018,30,2018-05-13,12:00,201805131200,sunday,Zenit St. Petersburg,SKA-Energia Khabarovsk,6,0,6,H,W,L,3.0,0.0,3.0,H,W,L,http://www.worldfootball.net/report/premier-liga-2017-2018-zenit-st-petersburg-ska-energia-khabarovsk/
+russia-2018-2019,1,2018-07-28,14:30,201807281430,saturday,FC Ural,Anzhi Makhachkala,0,1,1,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/premier-liga-2018-2019-fc-ural-anzhi-makhachkala/
+russia-2018-2019,1,2018-07-28,17:00,201807281700,saturday,Spartak Moskva,FK Orenburg,1,0,1,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/premier-liga-2018-2019-spartak-moskva-fk-orenburg/
+russia-2018-2019,1,2018-07-28,19:30,201807281930,saturday,FK Rostov,Akhmat Grozny,1,0,1,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/premier-liga-2018-2019-fk-rostov-akhmat-grozny/
+russia-2018-2019,1,2018-07-29,12:00,201807291200,sunday,Enisey Krasnoyarsk,Zenit St. Petersburg,0,2,2,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/premier-liga-2018-2019-enisey-krasnoyarsk-zenit-st-petersburg/
+russia-2018-2019,1,2018-07-29,14:30,201807291430,sunday,Arsenal Tula,Dinamo Moskva,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/premier-liga-2018-2019-arsenal-tula-dinamo-moskva/
+russia-2018-2019,1,2018-07-29,17:00,201807291700,sunday,Rubin Kazan,FK Krasnodar,2,1,3,H,W,L,2,1,3,H,W,L,http://www.worldfootball.net/report/premier-liga-2018-2019-rubin-kazan-fk-krasnodar/
+russia-2018-2019,1,2018-07-30,16:00,201807301600,monday,FC Ufa,Lokomotiv Moskva,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/premier-liga-2018-2019-fc-ufa-lokomotiv-moskva/
+russia-2018-2019,1,2018-07-31,17:00,201807311700,tuesday,Krylia Sovetov,CSKA Moskva,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/premier-liga-2018-2019-krylia-sovetov-cska-moskva/
+russia-2018-2019,2,2018-08-03,17:30,201808031730,friday,Dinamo Moskva,Rubin Kazan,1,1,2,D,D,D,1,0,1,H,W,L,http://www.worldfootball.net/report/premier-liga-2018-2019-dinamo-moskva-rubin-kazan/
+russia-2018-2019,2,2018-08-04,12:00,201808041200,saturday,FC Ural,FK Krasnodar,1,2,3,A,L,W,1,0,1,H,W,L,http://www.worldfootball.net/report/premier-liga-2018-2019-fc-ural-fk-krasnodar/
+russia-2018-2019,2,2018-08-04,14:30,201808041430,saturday,Zenit St. Petersburg,Arsenal Tula,1,0,1,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/premier-liga-2018-2019-zenit-st-petersburg-arsenal-tula/
+russia-2018-2019,2,2018-08-04,17:00,201808041700,saturday,Lokomotiv Moskva,Spartak Moskva,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/premier-liga-2018-2019-lokomotiv-moskva-spartak-moskva/
+russia-2018-2019,2,2018-08-05,14:30,201808051430,sunday,Krylia Sovetov,FK Orenburg,0,3,3,A,L,W,0,3,3,A,L,W,http://www.worldfootball.net/report/premier-liga-2018-2019-krylia-sovetov-fk-orenburg/
+russia-2018-2019,2,2018-08-05,17:00,201808051700,sunday,CSKA Moskva,FK Rostov,0,1,1,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/premier-liga-2018-2019-cska-moskva-fk-rostov/
+russia-2018-2019,2,2018-08-05,19:30,201808051930,sunday,Akhmat Grozny,Enisey Krasnoyarsk,1,0,1,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/premier-liga-2018-2019-akhmat-grozny-enisey-krasnoyarsk/
+russia-2018-2019,2,2018-08-06,15:30,201808061530,monday,FC Ufa,Anzhi Makhachkala,3,0,3,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/premier-liga-2018-2019-fc-ufa-anzhi-makhachkala/
+russia-2018-2019,3,2018-08-10,15:30,201808101530,friday,FC Ural,Dinamo Moskva,1,1,2,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/premier-liga-2018-2019-fc-ural-dinamo-moskva/
+russia-2018-2019,3,2018-08-11,14:30,201808111430,saturday,Enisey Krasnoyarsk,CSKA Moskva,1,1,2,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/premier-liga-2018-2019-enisey-krasnoyarsk-cska-moskva/
+russia-2018-2019,3,2018-08-11,17:00,201808111700,saturday,Spartak Moskva,Anzhi Makhachkala,1,0,1,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/premier-liga-2018-2019-spartak-moskva-anzhi-makhachkala/
+russia-2018-2019,3,2018-08-11,19:30,201808111930,saturday,FK Rostov,Krylia Sovetov,0,1,1,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/premier-liga-2018-2019-fk-rostov-krylia-sovetov/
+russia-2018-2019,3,2018-08-12,12:00,201808121200,sunday,FK Orenburg,Lokomotiv Moskva,1,0,1,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/premier-liga-2018-2019-fk-orenburg-lokomotiv-moskva/
+russia-2018-2019,3,2018-08-12,14:30,201808121430,sunday,Arsenal Tula,Akhmat Grozny,3,1,4,H,W,L,0,1,1,A,L,W,http://www.worldfootball.net/report/premier-liga-2018-2019-arsenal-tula-akhmat-grozny/
+russia-2018-2019,3,2018-08-13,15:30,201808131530,monday,FC Ufa,FK Krasnodar,0,1,1,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/premier-liga-2018-2019-fc-ufa-fk-krasnodar/
+russia-2018-2019,3,2018-08-13,18:00,201808131800,monday,Rubin Kazan,Zenit St. Petersburg,0,1,1,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/premier-liga-2018-2019-rubin-kazan-zenit-st-petersburg/
+russia-2018-2019,4,2018-08-17,17:30,201808171730,friday,Anzhi Makhachkala,FK Orenburg,1,3,4,A,L,W,1,0,1,H,W,L,http://www.worldfootball.net/report/premier-liga-2018-2019-anzhi-makhachkala-fk-orenburg/
+russia-2018-2019,4,2018-08-18,14:30,201808181430,saturday,CSKA Moskva,Arsenal Tula,3,0,3,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/premier-liga-2018-2019-cska-moskva-arsenal-tula/
+russia-2018-2019,4,2018-08-18,17:00,201808181700,saturday,FK Krasnodar,Spartak Moskva,0,1,1,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/premier-liga-2018-2019-fk-krasnodar-spartak-moskva/
+russia-2018-2019,4,2018-08-18,19:30,201808181930,saturday,Akhmat Grozny,Rubin Kazan,1,1,2,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/premier-liga-2018-2019-akhmat-grozny-rubin-kazan/
+russia-2018-2019,4,2018-08-19,14:30,201808191430,sunday,Krylia Sovetov,Lokomotiv Moskva,0,1,1,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/premier-liga-2018-2019-krylia-sovetov-lokomotiv-moskva/
+russia-2018-2019,4,2018-08-19,17:00,201808191700,sunday,Zenit St. Petersburg,FC Ural,4,1,5,H,W,L,2,1,3,H,W,L,http://www.worldfootball.net/report/premier-liga-2018-2019-zenit-st-petersburg-fc-ural/
+russia-2018-2019,4,2018-08-19,19:30,201808191930,sunday,FK Rostov,Enisey Krasnoyarsk,4,0,4,H,W,L,2,0,2,H,W,L,http://www.worldfootball.net/report/premier-liga-2018-2019-fk-rostov-enisey-krasnoyarsk/
+russia-2018-2019,4,2018-08-20,17:30,201808201730,monday,Dinamo Moskva,FC Ufa,3,0,3,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/premier-liga-2018-2019-dinamo-moskva-fc-ufa/
+russia-2018-2019,5,2018-08-24,17:30,201808241730,friday,Arsenal Tula,FK Rostov,0,1,1,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/premier-liga-2018-2019-arsenal-tula-fk-rostov/
+russia-2018-2019,5,2018-08-25,12:00,201808251200,saturday,FC Ural,Akhmat Grozny,2,1,3,H,W,L,0,1,1,A,L,W,http://www.worldfootball.net/report/premier-liga-2018-2019-fc-ural-akhmat-grozny/
+russia-2018-2019,5,2018-08-25,14:30,201808251430,saturday,Rubin Kazan,CSKA Moskva,1,1,2,D,D,D,1,0,1,H,W,L,http://www.worldfootball.net/report/premier-liga-2018-2019-rubin-kazan-cska-moskva/
+russia-2018-2019,5,2018-08-25,17:00,201808251700,saturday,Spartak Moskva,Dinamo Moskva,2,1,3,H,W,L,2,0,2,H,W,L,http://www.worldfootball.net/report/premier-liga-2018-2019-spartak-moskva-dinamo-moskva/
+russia-2018-2019,5,2018-08-26,12:00,201808261200,sunday,FK Orenburg,FK Krasnodar,1,1,2,D,D,D,1,0,1,H,W,L,http://www.worldfootball.net/report/premier-liga-2018-2019-fk-orenburg-fk-krasnodar/
+russia-2018-2019,5,2018-08-26,14:30,201808261430,sunday,FC Ufa,Zenit St. Petersburg,0,2,2,A,L,W,0,2,2,A,L,W,http://www.worldfootball.net/report/premier-liga-2018-2019-fc-ufa-zenit-st-petersburg/
+russia-2018-2019,5,2018-08-26,17:00,201808261700,sunday,Lokomotiv Moskva,Anzhi Makhachkala,2,1,3,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/premier-liga-2018-2019-lokomotiv-moskva-anzhi-makhachkala/
+russia-2018-2019,5,2018-08-27,15:30,201808271530,monday,Enisey Krasnoyarsk,Krylia Sovetov,1,0,1,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/premier-liga-2018-2019-enisey-krasnoyarsk-krylia-sovetov/
+russia-2018-2019,6,2018-08-31,17:30,201808311730,friday,FK Rostov,Rubin Kazan,1,1,2,D,D,D,1,0,1,H,W,L,http://www.worldfootball.net/report/premier-liga-2018-2019-fk-rostov-rubin-kazan/
+russia-2018-2019,6,2018-09-01,12:00,201809011200,saturday,Krylia Sovetov,Anzhi Makhachkala,1,0,1,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/premier-liga-2018-2019-krylia-sovetov-anzhi-makhachkala/
+russia-2018-2019,6,2018-09-01,14:30,201809011430,saturday,CSKA Moskva,FC Ural,4,0,4,H,W,L,2,0,2,H,W,L,http://www.worldfootball.net/report/premier-liga-2018-2019-cska-moskva-fc-ural/
+russia-2018-2019,6,2018-09-01,17:00,201809011700,saturday,FK Krasnodar,Lokomotiv Moskva,2,1,3,H,W,L,1,1,2,D,D,D,http://www.worldfootball.net/report/premier-liga-2018-2019-fk-krasnodar-lokomotiv-moskva/
+russia-2018-2019,6,2018-09-02,12:00,201809021200,sunday,Enisey Krasnoyarsk,Arsenal Tula,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/premier-liga-2018-2019-enisey-krasnoyarsk-arsenal-tula/
+russia-2018-2019,6,2018-09-02,14:30,201809021430,sunday,Dinamo Moskva,FK Orenburg,2,0,2,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/premier-liga-2018-2019-dinamo-moskva-fk-orenburg/
+russia-2018-2019,6,2018-09-02,17:00,201809021700,sunday,Zenit St. Petersburg,Spartak Moskva,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/premier-liga-2018-2019-zenit-st-petersburg-spartak-moskva/
+russia-2018-2019,6,2018-09-02,19:30,201809021930,sunday,Akhmat Grozny,FC Ufa,2,1,3,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/premier-liga-2018-2019-akhmat-grozny-fc-ufa/
+russia-2018-2019,7,2018-09-14,17:30,201809141730,friday,Lokomotiv Moskva,Dinamo Moskva,1,1,2,D,D,D,1,1,2,D,D,D,http://www.worldfootball.net/report/premier-liga-2018-2019-lokomotiv-moskva-dinamo-moskva/
+russia-2018-2019,7,2018-09-15,12:00,201809151200,saturday,Rubin Kazan,Enisey Krasnoyarsk,1,0,1,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/premier-liga-2018-2019-rubin-kazan-enisey-krasnoyarsk/
+russia-2018-2019,7,2018-09-15,14:30,201809151430,saturday,FC Ufa,CSKA Moskva,0,3,3,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/premier-liga-2018-2019-fc-ufa-cska-moskva/
+russia-2018-2019,7,2018-09-15,17:00,201809151700,saturday,Arsenal Tula,Krylia Sovetov,4,0,4,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/premier-liga-2018-2019-arsenal-tula-krylia-sovetov/
+russia-2018-2019,7,2018-09-16,12:00,201809161200,sunday,FK Orenburg,Zenit St. Petersburg,1,2,3,A,L,W,0,2,2,A,L,W,http://www.worldfootball.net/report/premier-liga-2018-2019-fk-orenburg-zenit-st-petersburg/
+russia-2018-2019,7,2018-09-16,14:30,201809161430,sunday,Anzhi Makhachkala,FK Krasnodar,0,4,4,A,L,W,0,2,2,A,L,W,http://www.worldfootball.net/report/premier-liga-2018-2019-anzhi-makhachkala-fk-krasnodar/
+russia-2018-2019,7,2018-09-16,17:00,201809161700,sunday,Spartak Moskva,Akhmat Grozny,1,2,3,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/premier-liga-2018-2019-spartak-moskva-akhmat-grozny/
+russia-2018-2019,7,2018-09-17,15:30,201809171530,monday,FC Ural,FK Rostov,1,1,2,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/premier-liga-2018-2019-fc-ural-fk-rostov/
+russia-2018-2019,8,2018-09-22,09:30,201809220930,saturday,Enisey Krasnoyarsk,FC Ural,1,2,3,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/premier-liga-2018-2019-enisey-krasnoyarsk-fc-ural/
+russia-2018-2019,8,2018-09-22,12:00,201809221200,saturday,Dinamo Moskva,Anzhi Makhachkala,0,1,1,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/premier-liga-2018-2019-dinamo-moskva-anzhi-makhachkala/
+russia-2018-2019,8,2018-09-22,14:30,201809221430,saturday,Arsenal Tula,Rubin Kazan,2,2,4,D,D,D,1,0,1,H,W,L,http://www.worldfootball.net/report/premier-liga-2018-2019-arsenal-tula-rubin-kazan/
+russia-2018-2019,8,2018-09-22,17:00,201809221700,saturday,FK Rostov,FC Ufa,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/premier-liga-2018-2019-fk-rostov-fc-ufa/
+russia-2018-2019,8,2018-09-22,17:00,201809221700,saturday,Akhmat Grozny,FK Orenburg,1,1,2,D,D,D,1,0,1,H,W,L,http://www.worldfootball.net/report/premier-liga-2018-2019-akhmat-grozny-fk-orenburg/
+russia-2018-2019,8,2018-09-23,14:30,201809231430,sunday,Zenit St. Petersburg,Lokomotiv Moskva,5,3,8,H,W,L,1,1,2,D,D,D,http://www.worldfootball.net/report/premier-liga-2018-2019-zenit-st-petersburg-lokomotiv-moskva/
+russia-2018-2019,8,2018-09-23,17:00,201809231700,sunday,CSKA Moskva,Spartak Moskva,1,1,2,D,D,D,0,1,1,A,L,W,http://www.worldfootball.net/report/premier-liga-2018-2019-cska-moskva-spartak-moskva/
+russia-2018-2019,8,2018-09-24,16:30,201809241630,monday,Krylia Sovetov,FK Krasnodar,0,3,3,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/premier-liga-2018-2019-krylia-sovetov-fk-krasnodar/
+russia-2018-2019,9,2018-09-28,15:30,201809281530,friday,FK Orenburg,CSKA Moskva,0,1,1,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/premier-liga-2018-2019-fk-orenburg-cska-moskva/
+russia-2018-2019,9,2018-09-29,09:30,201809290930,saturday,FC Ural,Arsenal Tula,2,1,3,H,W,L,0,1,1,A,L,W,http://www.worldfootball.net/report/premier-liga-2018-2019-fc-ural-arsenal-tula/
+russia-2018-2019,9,2018-09-29,14:30,201809291430,saturday,FC Ufa,Enisey Krasnoyarsk,2,1,3,H,W,L,0,1,1,A,L,W,http://www.worldfootball.net/report/premier-liga-2018-2019-fc-ufa-enisey-krasnoyarsk/
+russia-2018-2019,9,2018-09-29,17:00,201809291700,saturday,Lokomotiv Moskva,Akhmat Grozny,2,0,2,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/premier-liga-2018-2019-lokomotiv-moskva-akhmat-grozny/
+russia-2018-2019,9,2018-09-30,12:00,201809301200,sunday,Anzhi Makhachkala,Zenit St. Petersburg,2,1,3,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/premier-liga-2018-2019-anzhi-makhachkala-zenit-st-petersburg/
+russia-2018-2019,9,2018-09-30,14:30,201809301430,sunday,FK Krasnodar,Dinamo Moskva,3,0,3,H,W,L,2,0,2,H,W,L,http://www.worldfootball.net/report/premier-liga-2018-2019-fk-krasnodar-dinamo-moskva/
+russia-2018-2019,9,2018-09-30,17:00,201809301700,sunday,Spartak Moskva,FK Rostov,0,1,1,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/premier-liga-2018-2019-spartak-moskva-fk-rostov/
+russia-2018-2019,9,2018-10-01,17:30,201810011730,monday,Rubin Kazan,Krylia Sovetov,2,1,3,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/premier-liga-2018-2019-rubin-kazan-krylia-sovetov/
+russia-2018-2019,10,2018-10-05,17:30,201810051730,friday,Arsenal Tula,FC Ufa,1,1,2,D,D,D,0,1,1,A,L,W,http://www.worldfootball.net/report/premier-liga-2018-2019-arsenal-tula-fc-ufa/
+russia-2018-2019,10,2018-10-06,12:00,201810061200,saturday,Krylia Sovetov,Dinamo Moskva,1,0,1,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/premier-liga-2018-2019-krylia-sovetov-dinamo-moskva/
+russia-2018-2019,10,2018-10-06,14:30,201810061430,saturday,FK Rostov,FK Orenburg,0,1,1,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/premier-liga-2018-2019-fk-rostov-fk-orenburg/
+russia-2018-2019,10,2018-10-06,17:00,201810061700,saturday,Rubin Kazan,FC Ural,1,0,1,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/premier-liga-2018-2019-rubin-kazan-fc-ural/
+russia-2018-2019,10,2018-10-07,09:30,201810070930,sunday,Enisey Krasnoyarsk,Spartak Moskva,2,3,5,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/premier-liga-2018-2019-enisey-krasnoyarsk-spartak-moskva/
+russia-2018-2019,10,2018-10-07,12:00,201810071200,sunday,Akhmat Grozny,Anzhi Makhachkala,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/premier-liga-2018-2019-akhmat-grozny-anzhi-makhachkala/
+russia-2018-2019,10,2018-10-07,14:30,201810071430,sunday,Zenit St. Petersburg,FK Krasnodar,2,1,3,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/premier-liga-2018-2019-zenit-st-petersburg-fk-krasnodar/
+russia-2018-2019,10,2018-10-07,17:00,201810071700,sunday,CSKA Moskva,Lokomotiv Moskva,0,1,1,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/premier-liga-2018-2019-cska-moskva-lokomotiv-moskva/
+russia-2018-2019,11,2018-10-19,16:00,201810191600,friday,Anzhi Makhachkala,CSKA Moskva,0,2,2,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/premier-liga-2018-2019-anzhi-makhachkala-cska-moskva/
+russia-2018-2019,11,2018-10-19,18:30,201810191830,friday,Lokomotiv Moskva,FK Rostov,2,1,3,H,W,L,1,1,2,D,D,D,http://www.worldfootball.net/report/premier-liga-2018-2019-lokomotiv-moskva-fk-rostov/
+russia-2018-2019,11,2018-10-20,09:30,201810200930,saturday,FK Orenburg,Enisey Krasnoyarsk,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/premier-liga-2018-2019-fk-orenburg-enisey-krasnoyarsk/
+russia-2018-2019,11,2018-10-20,12:00,201810201200,saturday,FC Ural,Krylia Sovetov,1,1,2,D,D,D,1,0,1,H,W,L,http://www.worldfootball.net/report/premier-liga-2018-2019-fc-ural-krylia-sovetov/
+russia-2018-2019,11,2018-10-20,14:30,201810201430,saturday,FC Ufa,Rubin Kazan,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/premier-liga-2018-2019-fc-ufa-rubin-kazan/
+russia-2018-2019,11,2018-10-21,12:00,201810211200,sunday,Dinamo Moskva,Zenit St. Petersburg,1,0,1,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/premier-liga-2018-2019-dinamo-moskva-zenit-st-petersburg/
+russia-2018-2019,11,2018-10-21,14:30,201810211430,sunday,Spartak Moskva,Arsenal Tula,2,3,5,A,L,W,2,1,3,H,W,L,http://www.worldfootball.net/report/premier-liga-2018-2019-spartak-moskva-arsenal-tula/
+russia-2018-2019,11,2018-10-21,17:00,201810211700,sunday,FK Krasnodar,Akhmat Grozny,0,1,1,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/premier-liga-2018-2019-fk-krasnodar-akhmat-grozny/
+russia-2018-2019,12,2018-10-27,12:00,201810271200,saturday,FC Ural,FC Ufa,1,1,2,D,D,D,0,1,1,A,L,W,http://www.worldfootball.net/report/premier-liga-2018-2019-fc-ural-fc-ufa/
+russia-2018-2019,12,2018-10-27,14:30,201810271430,saturday,Arsenal Tula,FK Orenburg,2,2,4,D,D,D,1,0,1,H,W,L,http://www.worldfootball.net/report/premier-liga-2018-2019-arsenal-tula-fk-orenburg/
+russia-2018-2019,12,2018-10-27,17:00,201810271700,saturday,FK Rostov,Anzhi Makhachkala,1,0,1,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/premier-liga-2018-2019-fk-rostov-anzhi-makhachkala/
+russia-2018-2019,12,2018-10-28,11:00,201810281100,sunday,Enisey Krasnoyarsk,Lokomotiv Moskva,0,3,3,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/premier-liga-2018-2019-enisey-krasnoyarsk-lokomotiv-moskva/
+russia-2018-2019,12,2018-10-28,13:30,201810281330,sunday,Akhmat Grozny,Dinamo Moskva,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/premier-liga-2018-2019-akhmat-grozny-dinamo-moskva/
+russia-2018-2019,12,2018-10-28,16:00,201810281600,sunday,CSKA Moskva,FK Krasnodar,1,2,3,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/premier-liga-2018-2019-cska-moskva-fk-krasnodar/
+russia-2018-2019,12,2018-10-29,15:00,201810291500,monday,Krylia Sovetov,Zenit St. Petersburg,0,1,1,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/premier-liga-2018-2019-krylia-sovetov-zenit-st-petersburg/
+russia-2018-2019,12,2018-10-29,17:30,201810291730,monday,Rubin Kazan,Spartak Moskva,1,1,2,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/premier-liga-2018-2019-rubin-kazan-spartak-moskva/
+russia-2018-2019,13,2018-11-03,11:00,201811031100,saturday,Lokomotiv Moskva,Arsenal Tula,3,1,4,H,W,L,1,1,2,D,D,D,http://www.worldfootball.net/report/premier-liga-2018-2019-lokomotiv-moskva-arsenal-tula/
+russia-2018-2019,13,2018-11-03,13:30,201811031330,saturday,Dinamo Moskva,CSKA Moskva,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/premier-liga-2018-2019-dinamo-moskva-cska-moskva/
+russia-2018-2019,13,2018-11-04,11:00,201811041100,sunday,Zenit St. Petersburg,Akhmat Grozny,1,0,1,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/premier-liga-2018-2019-zenit-st-petersburg-akhmat-grozny/
+russia-2018-2019,13,2018-11-04,13:30,201811041330,sunday,FK Krasnodar,FK Rostov,2,2,4,D,D,D,1,1,2,D,D,D,http://www.worldfootball.net/report/premier-liga-2018-2019-fk-krasnodar-fk-rostov/
+russia-2018-2019,13,2018-11-04,16:00,201811041600,sunday,Spartak Moskva,FC Ural,1,2,3,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/premier-liga-2018-2019-spartak-moskva-fc-ural/
+russia-2018-2019,13,2018-11-05,11:00,201811051100,monday,FK Orenburg,Rubin Kazan,1,0,1,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/premier-liga-2018-2019-fk-orenburg-rubin-kazan/
+russia-2018-2019,13,2018-11-05,13:30,201811051330,monday,FC Ufa,Krylia Sovetov,1,2,3,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/premier-liga-2018-2019-fc-ufa-krylia-sovetov/
+russia-2018-2019,13,2018-11-05,16:00,201811051600,monday,Anzhi Makhachkala,Enisey Krasnoyarsk,2,1,3,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/premier-liga-2018-2019-anzhi-makhachkala-enisey-krasnoyarsk/
+russia-2018-2019,14,2018-11-09,16:30,201811091630,friday,Arsenal Tula,Anzhi Makhachkala,2,0,2,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/premier-liga-2018-2019-arsenal-tula-anzhi-makhachkala/
+russia-2018-2019,14,2018-11-10,11:00,201811101100,saturday,FC Ural,FK Orenburg,2,1,3,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/premier-liga-2018-2019-fc-ural-fk-orenburg/
+russia-2018-2019,14,2018-11-10,13:30,201811101330,saturday,Krylia Sovetov,Akhmat Grozny,1,2,3,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/premier-liga-2018-2019-krylia-sovetov-akhmat-grozny/
+russia-2018-2019,14,2018-11-10,16:00,201811101600,saturday,FK Rostov,Dinamo Moskva,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/premier-liga-2018-2019-fk-rostov-dinamo-moskva/
+russia-2018-2019,14,2018-11-11,11:00,201811111100,sunday,FC Ufa,Spartak Moskva,2,0,2,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/premier-liga-2018-2019-fc-ufa-spartak-moskva/
+russia-2018-2019,14,2018-11-11,13:00,201811111300,sunday,FK Krasnodar,Enisey Krasnoyarsk,3,0,3,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/premier-liga-2018-2019-fk-krasnodar-enisey-krasnoyarsk/
+russia-2018-2019,14,2018-11-11,13:30,201811111330,sunday,Rubin Kazan,Lokomotiv Moskva,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/premier-liga-2018-2019-rubin-kazan-lokomotiv-moskva/
+russia-2018-2019,14,2018-11-11,16:00,201811111600,sunday,CSKA Moskva,Zenit St. Petersburg,2,0,2,H,W,L,2,0,2,H,W,L,http://www.worldfootball.net/report/premier-liga-2018-2019-cska-moskva-zenit-st-petersburg/
+russia-2018-2019,15,2018-11-23,15:00,201811231500,friday,Akhmat Grozny,CSKA Moskva,0,2,2,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/premier-liga-2018-2019-akhmat-grozny-cska-moskva/
+russia-2018-2019,15,2018-11-23,17:30,201811231730,friday,Lokomotiv Moskva,FC Ural,1,2,3,A,L,W,1,1,2,D,D,D,http://www.worldfootball.net/report/premier-liga-2018-2019-lokomotiv-moskva-fc-ural/
+russia-2018-2019,15,2018-11-24,11:00,201811241100,saturday,Dinamo Moskva,Enisey Krasnoyarsk,1,2,3,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/premier-liga-2018-2019-dinamo-moskva-enisey-krasnoyarsk/
+russia-2018-2019,15,2018-11-24,13:30,201811241330,saturday,FK Orenburg,FC Ufa,1,0,1,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/premier-liga-2018-2019-fk-orenburg-fc-ufa/
+russia-2018-2019,15,2018-11-24,16:00,201811241600,saturday,Anzhi Makhachkala,Rubin Kazan,1,1,2,D,D,D,1,1,2,D,D,D,http://www.worldfootball.net/report/premier-liga-2018-2019-anzhi-makhachkala-rubin-kazan/
+russia-2018-2019,15,2018-11-25,11:00,201811251100,sunday,Spartak Moskva,Krylia Sovetov,3,1,4,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/premier-liga-2018-2019-spartak-moskva-krylia-sovetov/
+russia-2018-2019,15,2018-11-25,13:30,201811251330,sunday,FK Krasnodar,Arsenal Tula,3,0,3,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/premier-liga-2018-2019-fk-krasnodar-arsenal-tula/
+russia-2018-2019,15,2018-11-25,16:00,201811251600,sunday,Zenit St. Petersburg,FK Rostov,2,0,2,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/premier-liga-2018-2019-zenit-st-petersburg-fk-rostov/
+russia-2018-2019,16,2018-11-30,16:30,201811301630,friday,Rubin Kazan,Dinamo Moskva,1,1,2,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/premier-liga-2018-2019-rubin-kazan-dinamo-moskva/
+russia-2018-2019,16,2018-12-01,11:00,201812011100,saturday,Enisey Krasnoyarsk,Akhmat Grozny,1,1,2,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/premier-liga-2018-2019-enisey-krasnoyarsk-akhmat-grozny/
+russia-2018-2019,16,2018-12-01,16:00,201812011600,saturday,Anzhi Makhachkala,FC Ufa,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/premier-liga-2018-2019-anzhi-makhachkala-fc-ufa/
+russia-2018-2019,16,2018-12-02,11:00,201812021100,sunday,FK Krasnodar,FC Ural,2,0,2,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/premier-liga-2018-2019-fk-krasnodar-fc-ural/
+russia-2018-2019,16,2018-12-02,13:30,201812021330,sunday,FK Rostov,CSKA Moskva,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/premier-liga-2018-2019-fk-rostov-cska-moskva/
+russia-2018-2019,16,2018-12-02,16:00,201812021600,sunday,Spartak Moskva,Lokomotiv Moskva,2,1,3,H,W,L,2,0,2,H,W,L,http://www.worldfootball.net/report/premier-liga-2018-2019-spartak-moskva-lokomotiv-moskva/
+russia-2018-2019,16,2018-12-03,16:30,201812031630,monday,Arsenal Tula,Zenit St. Petersburg,4,2,6,H,W,L,2,1,3,H,W,L,http://www.worldfootball.net/report/premier-liga-2018-2019-arsenal-tula-zenit-st-petersburg/
+russia-2018-2019,17,2018-12-08,09:30,201812080930,saturday,Krylia Sovetov,FK Rostov,1,0,1,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/premier-liga-2018-2019-krylia-sovetov-fk-rostov/
+russia-2018-2019,17,2018-12-08,12:00,201812081200,saturday,CSKA Moskva,Enisey Krasnoyarsk,2,1,3,H,W,L,2,0,2,H,W,L,http://www.worldfootball.net/report/premier-liga-2018-2019-cska-moskva-enisey-krasnoyarsk/
+russia-2018-2019,17,2018-12-08,14:30,201812081430,saturday,Lokomotiv Moskva,FK Orenburg,2,1,3,H,W,L,0,1,1,A,L,W,http://www.worldfootball.net/report/premier-liga-2018-2019-lokomotiv-moskva-fk-orenburg/
+russia-2018-2019,17,2018-12-08,17:00,201812081700,saturday,Anzhi Makhachkala,Spartak Moskva,0,3,3,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/premier-liga-2018-2019-anzhi-makhachkala-spartak-moskva/
+russia-2018-2019,17,2018-12-09,11:00,201812091100,sunday,Dinamo Moskva,FC Ural,4,0,4,H,W,L,2,0,2,H,W,L,http://www.worldfootball.net/report/premier-liga-2018-2019-dinamo-moskva-fc-ural/
+russia-2018-2019,17,2018-12-09,13:30,201812091330,sunday,FK Krasnodar,FC Ufa,1,1,2,D,D,D,1,1,2,D,D,D,http://www.worldfootball.net/report/premier-liga-2018-2019-fk-krasnodar-fc-ufa/
+russia-2018-2019,17,2018-12-09,16:00,201812091600,sunday,Zenit St. Petersburg,Rubin Kazan,1,2,3,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/premier-liga-2018-2019-zenit-st-petersburg-rubin-kazan/
+russia-2018-2019,17,2018-12-10,16:30,201812101630,monday,Akhmat Grozny,Arsenal Tula,2,0,2,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/premier-liga-2018-2019-akhmat-grozny-arsenal-tula/

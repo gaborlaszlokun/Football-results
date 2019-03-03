@@ -1,7 +1,7 @@
 Div,Round,Date,Time,timestamp,Weekday,HomeTeam,AwayTeam,FTHG,FTAG,FTG,FTR,FTHR,FTAR,HTHG,HTAG,HTG,HTR,HTHR,HTAR,Report_url
 portugal-1955-1956,1,1955-09-18,,195509180000,sunday,Vitória Setúbal,Caldas SC,3,0,3,H,W,L,,,,,,,
 portugal-1955-1956,1,1955-09-18,,195509180000,sunday,União Torreense,Lusitano GC,2,0,2,H,W,L,,,,,,,
-portugal-1955-1956,1,1955-09-18,,195509180000,sunday,CD da CUF Barreiro,Sporting CP,0,0,0,D,D,D,0,0,0,D,D,D,
+portugal-1955-1956,1,1955-09-18,,195509180000,sunday,CD da CUF Barreiro,Sporting CP,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
 portugal-1955-1956,1,1955-09-18,,195509180000,sunday,Sporting Covilhã,FC Porto,2,2,4,D,D,D,,,,,,,
 portugal-1955-1956,1,1955-09-18,,195509180000,sunday,Sporting Braga,SL Benfica,2,3,5,A,L,W,,,,,,,
 portugal-1955-1956,1,1955-09-18,,195509180000,sunday,Os Belenenses,Académica de Coimbra,3,1,4,H,W,L,,,,,,,
@@ -61,7 +61,7 @@ portugal-1955-1956,9,1955-11-13,,195511130000,sunday,Caldas SC,Académica de Coi
 portugal-1955-1956,9,1955-11-13,,195511130000,sunday,Sporting Braga,CD da CUF Barreiro,4,1,5,H,W,L,,,,,,,
 portugal-1955-1956,9,1955-11-13,,195511130000,sunday,SL Benfica,Os Belenenses,1,0,1,H,W,L,,,,,,,
 portugal-1955-1956,9,1955-11-13,,195511130000,sunday,FC Barreirense,FC Porto,1,4,5,A,L,W,,,,,,,
-portugal-1955-1956,9,1955-11-13,,195511130000,sunday,Atlético CP,União Torreense,0,0,0,D,D,D,0,0,0,D,D,D,
+portugal-1955-1956,9,1955-11-13,,195511130000,sunday,Atlético CP,União Torreense,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
 portugal-1955-1956,10,1955-11-27,,195511270000,sunday,Vitória Setúbal,Atlético CP,9,2,11,H,W,L,,,,,,,
 portugal-1955-1956,10,1955-11-27,,195511270000,sunday,União Torreense,Sporting Braga,3,0,3,H,W,L,,,,,,,
 portugal-1955-1956,10,1955-11-27,,195511270000,sunday,Sporting CP,Sporting Covilhã,3,0,3,H,W,L,,,,,,,
@@ -98,7 +98,7 @@ portugal-1955-1956,14,1956-01-15,,195601150000,sunday,SL Benfica,Sporting Braga,
 portugal-1955-1956,14,1956-01-15,,195601150000,sunday,FC Barreirense,Atlético CP,3,2,5,H,W,L,,,,,,,
 portugal-1955-1956,14,1956-01-15,,195601150000,sunday,Académica de Coimbra,Os Belenenses,0,5,5,A,L,W,,,,,,,
 portugal-1955-1956,15,1956-01-22,,195601220000,sunday,Vitória Setúbal,Lusitano GC,5,1,6,H,W,L,,,,,,,
-portugal-1955-1956,15,1956-01-22,,195601220000,sunday,União Torreense,Sporting CP,0,0,0,D,D,D,0,0,0,D,D,D,
+portugal-1955-1956,15,1956-01-22,,195601220000,sunday,União Torreense,Sporting CP,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
 portugal-1955-1956,15,1956-01-22,,195601220000,sunday,CD da CUF Barreiro,Académica de Coimbra,1,0,1,H,W,L,,,,,,,
 portugal-1955-1956,15,1956-01-22,,195601220000,sunday,Sporting Covilhã,SL Benfica,2,4,6,A,L,W,,,,,,,
 portugal-1955-1956,15,1956-01-22,,195601220000,sunday,Sporting Braga,FC Barreirense,1,1,2,D,D,D,,,,,,,
@@ -107,12 +107,12 @@ portugal-1955-1956,15,1956-01-22,,195601220000,sunday,Atlético CP,Caldas SC,1,1
 portugal-1955-1956,16,1956-01-29,,195601290000,sunday,Sporting CP,Vitória Setúbal,2,0,2,H,W,L,,,,,,,
 portugal-1955-1956,16,1956-01-29,,195601290000,sunday,FC Porto,CD da CUF Barreiro,3,1,4,H,W,L,,,,,,,
 portugal-1955-1956,16,1956-01-29,,195601290000,sunday,Lusitano GC,Atlético CP,1,1,2,D,D,D,,,,,,,
-portugal-1955-1956,16,1956-01-29,,195601290000,sunday,Caldas SC,Sporting Braga,0,0,0,D,D,D,0,0,0,D,D,D,
+portugal-1955-1956,16,1956-01-29,,195601290000,sunday,Caldas SC,Sporting Braga,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
 portugal-1955-1956,16,1956-01-29,,195601290000,sunday,Os Belenenses,Sporting Covilhã,4,1,5,H,W,L,,,,,,,
 portugal-1955-1956,16,1956-01-29,,195601290000,sunday,FC Barreirense,SL Benfica,2,4,6,A,L,W,,,,,,,
 portugal-1955-1956,16,1956-01-29,,195601290000,sunday,Académica de Coimbra,União Torreense,4,1,5,H,W,L,,,,,,,
 portugal-1955-1956,17,1956-02-05,,195602050000,sunday,Vitória Setúbal,Académica de Coimbra,2,1,3,H,W,L,,,,,,,
-portugal-1955-1956,17,1956-02-05,,195602050000,sunday,União Torreense,FC Porto,0,0,0,D,D,D,0,0,0,D,D,D,
+portugal-1955-1956,17,1956-02-05,,195602050000,sunday,União Torreense,FC Porto,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
 portugal-1955-1956,17,1956-02-05,,195602050000,sunday,CD da CUF Barreiro,Os Belenenses,1,2,3,A,L,W,,,,,,,
 portugal-1955-1956,17,1956-02-05,,195602050000,sunday,Sporting Covilhã,FC Barreirense,4,0,4,H,W,L,,,,,,,
 portugal-1955-1956,17,1956-02-05,,195602050000,sunday,Sporting Braga,Lusitano GC,0,2,2,A,L,W,,,,,,,
@@ -15931,3 +15931,203 @@ portugal-2017-2018,34,2018-05-13,18:00,201805131800,sunday,Portimonense SC,Paço
 portugal-2017-2018,34,2018-05-13,18:00,201805131800,sunday,SL Benfica,Moreirense FC,1,0,1,H,W,L,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/primeira-liga-2017-2018-sl-benfica-moreirense-fc/
 portugal-2017-2018,34,2018-05-13,18:00,201805131800,sunday,CS Marítimo,Sporting CP,2,1,3,H,W,L,1.0,1.0,2.0,D,D,D,http://www.worldfootball.net/report/primeira-liga-2017-2018-cs-maritimo-sporting-cp/
 portugal-2017-2018,34,2018-05-13,18:00,201805131800,sunday,Vitória Setúbal,CD Tondela,1,0,1,H,W,L,1.0,0.0,1.0,H,W,L,http://www.worldfootball.net/report/primeira-liga-2017-2018-vitoria-setubal-cd-tondela/
+portugal-2018-2019,1,2018-08-10,20:30,201808102030,friday,SL Benfica,Vitória Guimarães,3,2,5,H,W,L,3,0,3,H,W,L,http://www.worldfootball.net/report/primeira-liga-2018-2019-sl-benfica-vitoria-guimaraes/
+portugal-2018-2019,1,2018-08-11,16:30,201808111630,saturday,Vitória Setúbal,CD Aves,2,0,2,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/primeira-liga-2018-2019-vitoria-setubal-cd-aves/
+portugal-2018-2019,1,2018-08-11,19:00,201808111900,saturday,CD Tondela,Os Belenenses,0,1,1,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/primeira-liga-2018-2019-cd-tondela-os-belenenses/
+portugal-2018-2019,1,2018-08-11,21:00,201808112100,saturday,FC Porto,GD Chaves,5,0,5,H,W,L,3,0,3,H,W,L,http://www.worldfootball.net/report/primeira-liga-2018-2019-fc-porto-gd-chaves/
+portugal-2018-2019,1,2018-08-12,16:00,201808121600,sunday,CS Marítimo,CD Santa Clara,1,0,1,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/primeira-liga-2018-2019-cs-maritimo-cd-santa-clara/
+portugal-2018-2019,1,2018-08-12,16:00,201808121600,sunday,CD Feirense,Rio Ave FC,2,0,2,H,W,L,2,0,2,H,W,L,http://www.worldfootball.net/report/primeira-liga-2018-2019-cd-feirense-rio-ave-fc/
+portugal-2018-2019,1,2018-08-12,18:30,201808121830,sunday,Moreirense FC,Sporting CP,1,3,4,A,L,W,1,1,2,D,D,D,http://www.worldfootball.net/report/primeira-liga-2018-2019-moreirense-fc-sporting-cp/
+portugal-2018-2019,1,2018-08-12,20:30,201808122030,sunday,Sporting Braga,CD Nacional,4,2,6,H,W,L,2,2,4,D,D,D,http://www.worldfootball.net/report/primeira-liga-2018-2019-sporting-braga-cd-nacional/
+portugal-2018-2019,1,2018-08-13,20:15,201808132015,monday,Portimonense SC,Boavista,0,2,2,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/primeira-liga-2018-2019-portimonense-sc-boavista/
+portugal-2018-2019,2,2018-08-17,20:30,201808172030,friday,CD Aves,CD Tondela,2,2,4,D,D,D,1,1,2,D,D,D,http://www.worldfootball.net/report/primeira-liga-2018-2019-cd-aves-cd-tondela/
+portugal-2018-2019,2,2018-08-18,16:30,201808181630,saturday,GD Chaves,Portimonense SC,2,0,2,H,W,L,2,0,2,H,W,L,http://www.worldfootball.net/report/primeira-liga-2018-2019-gd-chaves-portimonense-sc/
+portugal-2018-2019,2,2018-08-18,19:00,201808181900,saturday,Boavista,SL Benfica,0,2,2,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/primeira-liga-2018-2019-boavista-sl-benfica/
+portugal-2018-2019,2,2018-08-18,21:00,201808182100,saturday,Sporting CP,Vitória Setúbal,2,1,3,H,W,L,1,1,2,D,D,D,http://www.worldfootball.net/report/primeira-liga-2018-2019-sporting-cp-vitoria-setubal/
+portugal-2018-2019,2,2018-08-19,16:00,201808191600,sunday,Rio Ave FC,CS Marítimo,3,1,4,H,W,L,2,0,2,H,W,L,http://www.worldfootball.net/report/primeira-liga-2018-2019-rio-ave-fc-cs-maritimo/
+portugal-2018-2019,2,2018-08-19,16:00,201808191600,sunday,CD Nacional,Moreirense FC,1,2,3,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/primeira-liga-2018-2019-cd-nacional-moreirense-fc/
+portugal-2018-2019,2,2018-08-19,18:30,201808191830,sunday,Os Belenenses,FC Porto,2,3,5,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/primeira-liga-2018-2019-os-belenenses-fc-porto/
+portugal-2018-2019,2,2018-08-19,20:30,201808192030,sunday,CD Santa Clara,Sporting Braga,3,3,6,D,D,D,0,3,3,A,L,W,http://www.worldfootball.net/report/primeira-liga-2018-2019-cd-santa-clara-sporting-braga/
+portugal-2018-2019,2,2018-08-20,20:15,201808202015,monday,Vitória Guimarães,CD Feirense,0,1,1,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/primeira-liga-2018-2019-vitoria-guimaraes-cd-feirense/
+portugal-2018-2019,3,2018-08-24,20:30,201808242030,friday,CS Marítimo,GD Chaves,2,1,3,H,W,L,0,1,1,A,L,W,http://www.worldfootball.net/report/primeira-liga-2018-2019-cs-maritimo-gd-chaves/
+portugal-2018-2019,3,2018-08-25,16:30,201808251630,saturday,Portimonense SC,CD Santa Clara,2,2,4,D,D,D,0,1,1,A,L,W,http://www.worldfootball.net/report/primeira-liga-2018-2019-portimonense-sc-cd-santa-clara/
+portugal-2018-2019,3,2018-08-25,19:00,201808251900,saturday,SL Benfica,Sporting CP,1,1,2,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/primeira-liga-2018-2019-sl-benfica-sporting-cp/
+portugal-2018-2019,3,2018-08-25,21:00,201808252100,saturday,FC Porto,Vitória Guimarães,2,3,5,A,L,W,2,0,2,H,W,L,http://www.worldfootball.net/report/primeira-liga-2018-2019-fc-porto-vitoria-guimaraes/
+portugal-2018-2019,3,2018-08-26,16:00,201808261600,sunday,Vitória Setúbal,CD Nacional,1,2,3,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/primeira-liga-2018-2019-vitoria-setubal-cd-nacional/
+portugal-2018-2019,3,2018-08-26,16:00,201808261600,sunday,CD Feirense,Boavista,1,1,2,D,D,D,0,1,1,A,L,W,http://www.worldfootball.net/report/primeira-liga-2018-2019-cd-feirense-boavista/
+portugal-2018-2019,3,2018-08-26,18:30,201808261830,sunday,CD Tondela,Rio Ave FC,1,1,2,D,D,D,0,1,1,A,L,W,http://www.worldfootball.net/report/primeira-liga-2018-2019-cd-tondela-rio-ave-fc/
+portugal-2018-2019,3,2018-08-26,20:30,201808262030,sunday,Sporting Braga,CD Aves,3,1,4,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/primeira-liga-2018-2019-sporting-braga-cd-aves/
+portugal-2018-2019,3,2018-08-27,20:15,201808272015,monday,Moreirense FC,Os Belenenses,1,1,2,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/primeira-liga-2018-2019-moreirense-fc-os-belenenses/
+portugal-2018-2019,4,2018-08-31,19:00,201808311900,friday,GD Chaves,Sporting Braga,0,1,1,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/primeira-liga-2018-2019-gd-chaves-sporting-braga/
+portugal-2018-2019,4,2018-08-31,21:15,201808312115,friday,Vitória Guimarães,CD Tondela,1,0,1,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/primeira-liga-2018-2019-vitoria-guimaraes-cd-tondela/
+portugal-2018-2019,4,2018-09-01,16:30,201809011630,saturday,Os Belenenses,Vitória Setúbal,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/primeira-liga-2018-2019-os-belenenses-vitoria-setubal/
+portugal-2018-2019,4,2018-09-01,19:00,201809011900,saturday,CD Santa Clara,Boavista,4,2,6,H,W,L,1,1,2,D,D,D,http://www.worldfootball.net/report/primeira-liga-2018-2019-cd-santa-clara-boavista/
+portugal-2018-2019,4,2018-09-01,21:00,201809012100,saturday,Sporting CP,CD Feirense,1,0,1,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/primeira-liga-2018-2019-sporting-cp-cd-feirense/
+portugal-2018-2019,4,2018-09-02,16:00,201809021600,sunday,Rio Ave FC,Portimonense SC,2,1,3,H,W,L,0,1,1,A,L,W,http://www.worldfootball.net/report/primeira-liga-2018-2019-rio-ave-fc-portimonense-sc/
+portugal-2018-2019,4,2018-09-02,16:00,201809021600,sunday,CD Aves,CS Marítimo,0,1,1,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/primeira-liga-2018-2019-cd-aves-cs-maritimo/
+portugal-2018-2019,4,2018-09-02,18:30,201809021830,sunday,CD Nacional,SL Benfica,0,4,4,A,L,W,0,2,2,A,L,W,http://www.worldfootball.net/report/primeira-liga-2018-2019-cd-nacional-sl-benfica/
+portugal-2018-2019,4,2018-09-02,20:30,201809022030,sunday,FC Porto,Moreirense FC,3,0,3,H,W,L,2,0,2,H,W,L,http://www.worldfootball.net/report/primeira-liga-2018-2019-fc-porto-moreirense-fc/
+portugal-2018-2019,5,2018-09-21,20:30,201809212030,friday,Boavista,GD Chaves,1,2,3,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/primeira-liga-2018-2019-boavista-gd-chaves/
+portugal-2018-2019,5,2018-09-22,16:30,201809221630,saturday,CD Santa Clara,Rio Ave FC,1,3,4,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/primeira-liga-2018-2019-cd-santa-clara-rio-ave-fc/
+portugal-2018-2019,5,2018-09-22,19:00,201809221900,saturday,CS Marítimo,Os Belenenses,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/primeira-liga-2018-2019-cs-maritimo-os-belenenses/
+portugal-2018-2019,5,2018-09-22,21:00,201809222100,saturday,Vitória Setúbal,FC Porto,0,2,2,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/primeira-liga-2018-2019-vitoria-setubal-fc-porto/
+portugal-2018-2019,5,2018-09-23,16:00,201809231600,sunday,CD Tondela,Moreirense FC,2,0,2,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/primeira-liga-2018-2019-cd-tondela-moreirense-fc/
+portugal-2018-2019,5,2018-09-23,16:00,201809231600,sunday,CD Feirense,CD Nacional,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/primeira-liga-2018-2019-cd-feirense-cd-nacional/
+portugal-2018-2019,5,2018-09-23,18:30,201809231830,sunday,SL Benfica,CD Aves,2,0,2,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/primeira-liga-2018-2019-sl-benfica-cd-aves/
+portugal-2018-2019,5,2018-09-23,20:30,201809232030,sunday,Portimonense SC,Vitória Guimarães,3,2,5,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/primeira-liga-2018-2019-portimonense-sc-vitoria-guimaraes/
+portugal-2018-2019,5,2018-09-24,20:15,201809242015,monday,Sporting Braga,Sporting CP,1,0,1,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/primeira-liga-2018-2019-sporting-braga-sporting-cp/
+portugal-2018-2019,6,2018-09-27,21:15,201809272115,thursday,GD Chaves,SL Benfica,2,2,4,D,D,D,0,1,1,A,L,W,http://www.worldfootball.net/report/primeira-liga-2018-2019-gd-chaves-sl-benfica/
+portugal-2018-2019,6,2018-09-28,20:30,201809282030,friday,FC Porto,CD Tondela,1,0,1,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/primeira-liga-2018-2019-fc-porto-cd-tondela/
+portugal-2018-2019,6,2018-09-29,16:30,201809291630,saturday,Moreirense FC,CD Feirense,1,0,1,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/primeira-liga-2018-2019-moreirense-fc-cd-feirense/
+portugal-2018-2019,6,2018-09-29,19:00,201809291900,saturday,Rio Ave FC,Boavista,2,1,3,H,W,L,2,0,2,H,W,L,http://www.worldfootball.net/report/primeira-liga-2018-2019-rio-ave-fc-boavista/
+portugal-2018-2019,6,2018-09-29,21:00,201809292100,saturday,Sporting CP,CS Marítimo,2,0,2,H,W,L,2,0,2,H,W,L,http://www.worldfootball.net/report/primeira-liga-2018-2019-sporting-cp-cs-maritimo/
+portugal-2018-2019,6,2018-09-30,16:00,201809301600,sunday,CD Nacional,CD Santa Clara,0,3,3,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/primeira-liga-2018-2019-cd-nacional-cd-santa-clara/
+portugal-2018-2019,6,2018-09-30,18:30,201809301830,sunday,Vitória Guimarães,Vitória Setúbal,1,1,2,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/primeira-liga-2018-2019-vitoria-guimaraes-vitoria-setubal/
+portugal-2018-2019,6,2018-09-30,20:30,201809302030,sunday,Os Belenenses,Sporting Braga,0,3,3,A,L,W,0,2,2,A,L,W,http://www.worldfootball.net/report/primeira-liga-2018-2019-os-belenenses-sporting-braga/
+portugal-2018-2019,6,2018-10-01,20:15,201810012015,monday,CD Aves,Portimonense SC,3,0,3,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/primeira-liga-2018-2019-cd-aves-portimonense-sc/
+portugal-2018-2019,7,2018-10-05,15:30,201810051530,friday,CD Tondela,CD Nacional,1,1,2,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/primeira-liga-2018-2019-cd-tondela-cd-nacional/
+portugal-2018-2019,7,2018-10-05,18:00,201810051800,friday,CD Santa Clara,GD Chaves,1,0,1,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/primeira-liga-2018-2019-cd-santa-clara-gd-chaves/
+portugal-2018-2019,7,2018-10-05,20:30,201810052030,friday,CD Feirense,Os Belenenses,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/primeira-liga-2018-2019-cd-feirense-os-belenenses/
+portugal-2018-2019,7,2018-10-06,15:30,201810061530,saturday,Vitória Setúbal,Moreirense FC,3,0,3,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/primeira-liga-2018-2019-vitoria-setubal-moreirense-fc/
+portugal-2018-2019,7,2018-10-06,18:00,201810061800,saturday,CS Marítimo,Vitória Guimarães,1,3,4,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/primeira-liga-2018-2019-cs-maritimo-vitoria-guimaraes/
+portugal-2018-2019,7,2018-10-06,20:30,201810062030,saturday,Sporting Braga,Rio Ave FC,1,1,2,D,D,D,1,1,2,D,D,D,http://www.worldfootball.net/report/primeira-liga-2018-2019-sporting-braga-rio-ave-fc/
+portugal-2018-2019,7,2018-10-07,15:00,201810071500,sunday,Boavista,CD Aves,1,0,1,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/primeira-liga-2018-2019-boavista-cd-aves/
+portugal-2018-2019,7,2018-10-07,17:30,201810071730,sunday,SL Benfica,FC Porto,1,0,1,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/primeira-liga-2018-2019-sl-benfica-fc-porto/
+portugal-2018-2019,7,2018-10-07,20:00,201810072000,sunday,Portimonense SC,Sporting CP,4,2,6,H,W,L,2,0,2,H,W,L,http://www.worldfootball.net/report/primeira-liga-2018-2019-portimonense-sc-sporting-cp/
+portugal-2018-2019,8,2018-10-26,19:00,201810261900,friday,CD Nacional,Portimonense SC,0,1,1,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/primeira-liga-2018-2019-cd-nacional-portimonense-sc/
+portugal-2018-2019,8,2018-10-26,21:15,201810262115,friday,Vitória Guimarães,Sporting Braga,1,1,2,D,D,D,1,1,2,D,D,D,http://www.worldfootball.net/report/primeira-liga-2018-2019-vitoria-guimaraes-sporting-braga/
+portugal-2018-2019,8,2018-10-27,15:30,201810271530,saturday,CD Aves,CD Santa Clara,1,2,3,A,L,W,0,2,2,A,L,W,http://www.worldfootball.net/report/primeira-liga-2018-2019-cd-aves-cd-santa-clara/
+portugal-2018-2019,8,2018-10-27,18:00,201810271800,saturday,Rio Ave FC,GD Chaves,1,0,1,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/primeira-liga-2018-2019-rio-ave-fc-gd-chaves/
+portugal-2018-2019,8,2018-10-27,20:30,201810272030,saturday,Os Belenenses,SL Benfica,2,0,2,H,W,L,2,0,2,H,W,L,http://www.worldfootball.net/report/primeira-liga-2018-2019-os-belenenses-sl-benfica/
+portugal-2018-2019,8,2018-10-28,15:00,201810281500,sunday,Moreirense FC,CS Marítimo,1,0,1,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/primeira-liga-2018-2019-moreirense-fc-cs-maritimo/
+portugal-2018-2019,8,2018-10-28,15:00,201810281500,sunday,CD Tondela,Vitória Setúbal,1,2,3,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/primeira-liga-2018-2019-cd-tondela-vitoria-setubal/
+portugal-2018-2019,8,2018-10-28,17:30,201810281730,sunday,FC Porto,CD Feirense,2,0,2,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/primeira-liga-2018-2019-fc-porto-cd-feirense/
+portugal-2018-2019,8,2018-10-28,20:00,201810282000,sunday,Sporting CP,Boavista,3,0,3,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/primeira-liga-2018-2019-sporting-cp-boavista/
+portugal-2018-2019,9,2018-11-02,20:30,201811022030,friday,SL Benfica,Moreirense FC,1,3,4,A,L,W,1,3,4,A,L,W,http://www.worldfootball.net/report/primeira-liga-2018-2019-sl-benfica-moreirense-fc/
+portugal-2018-2019,9,2018-11-03,15:30,201811031530,saturday,Portimonense SC,Os Belenenses,1,1,2,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/primeira-liga-2018-2019-portimonense-sc-os-belenenses/
+portugal-2018-2019,9,2018-11-03,18:00,201811031800,saturday,CS Marítimo,FC Porto,0,2,2,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/primeira-liga-2018-2019-cs-maritimo-fc-porto/
+portugal-2018-2019,9,2018-11-03,20:30,201811032030,saturday,Boavista,Vitória Guimarães,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/primeira-liga-2018-2019-boavista-vitoria-guimaraes/
+portugal-2018-2019,9,2018-11-04,15:00,201811041500,sunday,CD Feirense,CD Tondela,2,4,6,A,L,W,1,1,2,D,D,D,http://www.worldfootball.net/report/primeira-liga-2018-2019-cd-feirense-cd-tondela/
+portugal-2018-2019,9,2018-11-04,17:30,201811041730,sunday,CD Santa Clara,Sporting CP,1,2,3,A,L,W,1,0,1,H,W,L,http://www.worldfootball.net/report/primeira-liga-2018-2019-cd-santa-clara-sporting-cp/
+portugal-2018-2019,9,2018-11-04,20:00,201811042000,sunday,Sporting Braga,Vitória Setúbal,2,1,3,H,W,L,2,1,3,H,W,L,http://www.worldfootball.net/report/primeira-liga-2018-2019-sporting-braga-vitoria-setubal/
+portugal-2018-2019,9,2018-11-05,19:00,201811051900,monday,Rio Ave FC,CD Nacional,3,3,6,D,D,D,2,1,3,H,W,L,http://www.worldfootball.net/report/primeira-liga-2018-2019-rio-ave-fc-cd-nacional/
+portugal-2018-2019,9,2018-11-05,21:15,201811052115,monday,GD Chaves,CD Aves,1,2,3,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/primeira-liga-2018-2019-gd-chaves-cd-aves/
+portugal-2018-2019,10,2018-11-09,19:00,201811091900,friday,Moreirense FC,Portimonense SC,2,0,2,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/primeira-liga-2018-2019-moreirense-fc-portimonense-sc/
+portugal-2018-2019,10,2018-11-09,21:15,201811092115,friday,Vitória Setúbal,CD Feirense,2,1,3,H,W,L,1,1,2,D,D,D,http://www.worldfootball.net/report/primeira-liga-2018-2019-vitoria-setubal-cd-feirense/
+portugal-2018-2019,10,2018-11-10,15:30,201811101530,saturday,Os Belenenses,Boavista,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/primeira-liga-2018-2019-os-belenenses-boavista/
+portugal-2018-2019,10,2018-11-10,15:30,201811101530,saturday,CD Aves,Rio Ave FC,2,1,3,H,W,L,2,0,2,H,W,L,http://www.worldfootball.net/report/primeira-liga-2018-2019-cd-aves-rio-ave-fc/
+portugal-2018-2019,10,2018-11-10,18:00,201811101800,saturday,CD Nacional,CS Marítimo,1,0,1,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/primeira-liga-2018-2019-cd-nacional-cs-maritimo/
+portugal-2018-2019,10,2018-11-10,20:30,201811102030,saturday,FC Porto,Sporting Braga,1,0,1,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/primeira-liga-2018-2019-fc-porto-sporting-braga/
+portugal-2018-2019,10,2018-11-11,15:00,201811111500,sunday,Vitória Guimarães,CD Santa Clara,2,0,2,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/primeira-liga-2018-2019-vitoria-guimaraes-cd-santa-clara/
+portugal-2018-2019,10,2018-11-11,17:30,201811111730,sunday,CD Tondela,SL Benfica,1,3,4,A,L,W,1,1,2,D,D,D,http://www.worldfootball.net/report/primeira-liga-2018-2019-cd-tondela-sl-benfica/
+portugal-2018-2019,10,2018-11-11,20:00,201811112000,sunday,Sporting CP,GD Chaves,2,1,3,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/primeira-liga-2018-2019-sporting-cp-gd-chaves/
+portugal-2018-2019,11,2018-11-30,20:30,201811302030,friday,CD Santa Clara,Os Belenenses,2,3,5,A,L,W,1,1,2,D,D,D,http://www.worldfootball.net/report/primeira-liga-2018-2019-cd-santa-clara-os-belenenses/
+portugal-2018-2019,11,2018-12-01,15:30,201812011530,saturday,CS Marítimo,Vitória Setúbal,0,1,1,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/primeira-liga-2018-2019-cs-maritimo-vitoria-setubal/
+portugal-2018-2019,11,2018-12-01,18:00,201812011800,saturday,SL Benfica,CD Feirense,4,0,4,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/primeira-liga-2018-2019-sl-benfica-cd-feirense/
+portugal-2018-2019,11,2018-12-01,20:30,201812012030,saturday,Sporting Braga,Moreirense FC,2,0,2,H,W,L,2,0,2,H,W,L,http://www.worldfootball.net/report/primeira-liga-2018-2019-sporting-braga-moreirense-fc/
+portugal-2018-2019,11,2018-12-02,15:00,201812021500,sunday,Portimonense SC,CD Tondela,3,2,5,H,W,L,3,1,4,H,W,L,http://www.worldfootball.net/report/primeira-liga-2018-2019-portimonense-sc-cd-tondela/
+portugal-2018-2019,11,2018-12-02,15:00,201812021500,sunday,CD Aves,CD Nacional,2,3,5,A,L,W,1,1,2,D,D,D,http://www.worldfootball.net/report/primeira-liga-2018-2019-cd-aves-cd-nacional/
+portugal-2018-2019,11,2018-12-02,17:30,201812021730,sunday,GD Chaves,Vitória Guimarães,0,1,1,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/primeira-liga-2018-2019-gd-chaves-vitoria-guimaraes/
+portugal-2018-2019,11,2018-12-02,20:00,201812022000,sunday,Boavista,FC Porto,0,1,1,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/primeira-liga-2018-2019-boavista-fc-porto/
+portugal-2018-2019,11,2018-12-03,20:15,201812032015,monday,Rio Ave FC,Sporting CP,1,3,4,A,L,W,1,2,3,A,L,W,http://www.worldfootball.net/report/primeira-liga-2018-2019-rio-ave-fc-sporting-cp/
+portugal-2018-2019,12,2018-12-07,20:30,201812072030,friday,FC Porto,Portimonense SC,4,1,5,H,W,L,1,1,2,D,D,D,http://www.worldfootball.net/report/primeira-liga-2018-2019-fc-porto-portimonense-sc/
+portugal-2018-2019,12,2018-12-08,15:30,201812081530,saturday,Os Belenenses,GD Chaves,1,0,1,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/primeira-liga-2018-2019-os-belenenses-gd-chaves/
+portugal-2018-2019,12,2018-12-08,18:00,201812081800,saturday,CD Tondela,Sporting Braga,0,1,1,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/primeira-liga-2018-2019-cd-tondela-sporting-braga/
+portugal-2018-2019,12,2018-12-08,20:30,201812082030,saturday,Vitória Setúbal,SL Benfica,0,1,1,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/primeira-liga-2018-2019-vitoria-setubal-sl-benfica/
+portugal-2018-2019,12,2018-12-09,15:00,201812091500,sunday,CD Nacional,Boavista,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/primeira-liga-2018-2019-cd-nacional-boavista/
+portugal-2018-2019,12,2018-12-09,15:00,201812091500,sunday,Moreirense FC,CD Santa Clara,0,1,1,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/primeira-liga-2018-2019-moreirense-fc-cd-santa-clara/
+portugal-2018-2019,12,2018-12-09,17:30,201812091730,sunday,Vitória Guimarães,Rio Ave FC,3,2,5,H,W,L,2,1,3,H,W,L,http://www.worldfootball.net/report/primeira-liga-2018-2019-vitoria-guimaraes-rio-ave-fc/
+portugal-2018-2019,12,2018-12-09,20:00,201812092000,sunday,Sporting CP,CD Aves,4,1,5,H,W,L,2,1,3,H,W,L,http://www.worldfootball.net/report/primeira-liga-2018-2019-sporting-cp-cd-aves/
+portugal-2018-2019,12,2018-12-10,20:15,201812102015,monday,CD Feirense,CS Marítimo,1,1,2,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/primeira-liga-2018-2019-cd-feirense-cs-maritimo/
+portugal-2018-2019,13,2018-12-14,19:00,201812141900,friday,Portimonense SC,Vitória Setúbal,3,1,4,H,W,L,2,0,2,H,W,L,http://www.worldfootball.net/report/primeira-liga-2018-2019-portimonense-sc-vitoria-setubal/
+portugal-2018-2019,13,2018-12-14,21:15,201812142115,friday,Sporting Braga,CD Feirense,4,0,4,H,W,L,2,0,2,H,W,L,http://www.worldfootball.net/report/primeira-liga-2018-2019-sporting-braga-cd-feirense/
+portugal-2018-2019,13,2018-12-15,15:30,201812151530,saturday,GD Chaves,Moreirense FC,1,2,3,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/primeira-liga-2018-2019-gd-chaves-moreirense-fc/
+portugal-2018-2019,13,2018-12-15,15:30,201812151530,saturday,Boavista,CD Tondela,2,0,2,H,W,L,2,0,2,H,W,L,http://www.worldfootball.net/report/primeira-liga-2018-2019-boavista-cd-tondela/
+portugal-2018-2019,13,2018-12-15,18:00,201812151800,saturday,CD Aves,Vitória Guimarães,1,1,2,D,D,D,1,1,2,D,D,D,http://www.worldfootball.net/report/primeira-liga-2018-2019-cd-aves-vitoria-guimaraes/
+portugal-2018-2019,13,2018-12-15,20:30,201812152030,saturday,CD Santa Clara,FC Porto,1,2,3,A,L,W,1,1,2,D,D,D,http://www.worldfootball.net/report/primeira-liga-2018-2019-cd-santa-clara-fc-porto/
+portugal-2018-2019,13,2018-12-16,15:00,201812161500,sunday,Rio Ave FC,Os Belenenses,2,2,4,D,D,D,1,0,1,H,W,L,http://www.worldfootball.net/report/primeira-liga-2018-2019-rio-ave-fc-os-belenenses/
+portugal-2018-2019,13,2018-12-16,17:30,201812161730,sunday,CS Marítimo,SL Benfica,0,1,1,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/primeira-liga-2018-2019-cs-maritimo-sl-benfica/
+portugal-2018-2019,13,2018-12-16,20:00,201812162000,sunday,Sporting CP,CD Nacional,5,2,7,H,W,L,1,2,3,A,L,W,http://www.worldfootball.net/report/primeira-liga-2018-2019-sporting-cp-cd-nacional/
+portugal-2018-2019,14,2018-12-22,15:30,201812221530,saturday,Vitória Setúbal,CD Santa Clara,0,2,2,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/primeira-liga-2018-2019-vitoria-setubal-cd-santa-clara/
+portugal-2018-2019,14,2018-12-22,15:30,201812221530,saturday,CD Tondela,CS Marítimo,2,1,3,H,W,L,1,1,2,D,D,D,http://www.worldfootball.net/report/primeira-liga-2018-2019-cd-tondela-cs-maritimo/
+portugal-2018-2019,14,2018-12-22,15:30,201812221530,saturday,CD Feirense,Portimonense SC,0,1,1,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/primeira-liga-2018-2019-cd-feirense-portimonense-sc/
+portugal-2018-2019,14,2018-12-22,18:00,201812221800,saturday,Os Belenenses,CD Aves,5,2,7,H,W,L,2,2,4,D,D,D,http://www.worldfootball.net/report/primeira-liga-2018-2019-os-belenenses-cd-aves/
+portugal-2018-2019,14,2018-12-22,20:30,201812222030,saturday,Moreirense FC,Boavista,2,1,3,H,W,L,2,1,3,H,W,L,http://www.worldfootball.net/report/primeira-liga-2018-2019-moreirense-fc-boavista/
+portugal-2018-2019,14,2018-12-23,15:00,201812231500,sunday,CD Nacional,GD Chaves,2,0,2,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/primeira-liga-2018-2019-cd-nacional-gd-chaves/
+portugal-2018-2019,14,2018-12-23,15:00,201812231500,sunday,FC Porto,Rio Ave FC,2,1,3,H,W,L,2,1,3,H,W,L,http://www.worldfootball.net/report/primeira-liga-2018-2019-fc-porto-rio-ave-fc/
+portugal-2018-2019,14,2018-12-23,17:30,201812231730,sunday,SL Benfica,Sporting Braga,6,2,8,H,W,L,2,0,2,H,W,L,http://www.worldfootball.net/report/primeira-liga-2018-2019-sl-benfica-sporting-braga/
+portugal-2018-2019,14,2018-12-23,20:00,201812232000,sunday,Vitória Guimarães,Sporting CP,1,0,1,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/primeira-liga-2018-2019-vitoria-guimaraes-sporting-cp/
+portugal-2018-2019,15,2019-01-02,16:00,201901021600,wednesday,CD Santa Clara,CD Tondela,1,2,3,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/primeira-liga-2018-2019-cd-santa-clara-cd-tondela/
+portugal-2018-2019,15,2019-01-02,18:00,201901021800,wednesday,CD Nacional,Vitória Guimarães,1,0,1,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/primeira-liga-2018-2019-cd-nacional-vitoria-guimaraes/
+portugal-2018-2019,15,2019-01-02,18:00,201901021800,wednesday,Boavista,Vitória Setúbal,1,0,1,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/primeira-liga-2018-2019-boavista-vitoria-setubal/
+portugal-2018-2019,15,2019-01-02,18:00,201901021800,wednesday,Sporting Braga,CS Marítimo,2,0,2,H,W,L,2,0,2,H,W,L,http://www.worldfootball.net/report/primeira-liga-2018-2019-sporting-braga-cs-maritimo/
+portugal-2018-2019,15,2019-01-02,20:15,201901022015,wednesday,Portimonense SC,SL Benfica,2,0,2,H,W,L,2,0,2,H,W,L,http://www.worldfootball.net/report/primeira-liga-2018-2019-portimonense-sc-sl-benfica/
+portugal-2018-2019,15,2019-01-02,20:15,201901022015,wednesday,Rio Ave FC,Moreirense FC,1,2,3,A,L,W,1,0,1,H,W,L,http://www.worldfootball.net/report/primeira-liga-2018-2019-rio-ave-fc-moreirense-fc/
+portugal-2018-2019,15,2019-01-03,16:00,201901031600,thursday,GD Chaves,CD Feirense,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/primeira-liga-2018-2019-gd-chaves-cd-feirense/
+portugal-2018-2019,15,2019-01-03,18:00,201901031800,thursday,Sporting CP,Os Belenenses,2,1,3,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/primeira-liga-2018-2019-sporting-cp-os-belenenses/
+portugal-2018-2019,15,2019-01-03,20:15,201901032015,thursday,CD Aves,FC Porto,0,1,1,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/primeira-liga-2018-2019-cd-aves-fc-porto/
+portugal-2018-2019,16,2019-01-05,20:30,201901052030,saturday,CS Marítimo,Portimonense SC,2,1,3,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/primeira-liga-2018-2019-cs-maritimo-portimonense-sc/
+portugal-2018-2019,16,2019-01-06,15:00,201901061500,sunday,Vitória Setúbal,GD Chaves,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/primeira-liga-2018-2019-vitoria-setubal-gd-chaves/
+portugal-2018-2019,16,2019-01-06,15:00,201901061500,sunday,CD Feirense,CD Santa Clara,2,2,4,D,D,D,0,1,1,A,L,W,http://www.worldfootball.net/report/primeira-liga-2018-2019-cd-feirense-cd-santa-clara/
+portugal-2018-2019,16,2019-01-06,15:00,201901061500,sunday,Os Belenenses,Vitória Guimarães,1,0,1,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/primeira-liga-2018-2019-os-belenenses-vitoria-guimaraes/
+portugal-2018-2019,16,2019-01-06,17:30,201901061730,sunday,SL Benfica,Rio Ave FC,4,2,6,H,W,L,2,2,4,D,D,D,http://www.worldfootball.net/report/primeira-liga-2018-2019-sl-benfica-rio-ave-fc/
+portugal-2018-2019,16,2019-01-06,20:00,201901062000,sunday,Sporting Braga,Boavista,1,0,1,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/primeira-liga-2018-2019-sporting-braga-boavista/
+portugal-2018-2019,16,2019-01-07,17:00,201901071700,monday,Moreirense FC,CD Aves,1,0,1,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/primeira-liga-2018-2019-moreirense-fc-cd-aves/
+portugal-2018-2019,16,2019-01-07,19:00,201901071900,monday,CD Tondela,Sporting CP,2,1,3,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/primeira-liga-2018-2019-cd-tondela-sporting-cp/
+portugal-2018-2019,16,2019-01-07,21:15,201901072115,monday,FC Porto,CD Nacional,3,1,4,H,W,L,2,1,3,H,W,L,http://www.worldfootball.net/report/primeira-liga-2018-2019-fc-porto-cd-nacional/
+portugal-2018-2019,17,2019-01-10,20:15,201901102015,thursday,Portimonense SC,Sporting Braga,1,1,2,D,D,D,1,0,1,H,W,L,http://www.worldfootball.net/report/primeira-liga-2018-2019-portimonense-sc-sporting-braga/
+portugal-2018-2019,17,2019-01-11,19:00,201901111900,friday,CD Santa Clara,SL Benfica,0,2,2,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/primeira-liga-2018-2019-cd-santa-clara-sl-benfica/
+portugal-2018-2019,17,2019-01-11,19:00,201901111900,friday,CD Aves,CD Feirense,1,1,2,D,D,D,1,0,1,H,W,L,http://www.worldfootball.net/report/primeira-liga-2018-2019-cd-aves-cd-feirense/
+portugal-2018-2019,17,2019-01-11,21:15,201901112115,friday,Vitória Guimarães,Moreirense FC,1,0,1,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/primeira-liga-2018-2019-vitoria-guimaraes-moreirense-fc/
+portugal-2018-2019,17,2019-01-12,15:30,201901121530,saturday,Sporting CP,FC Porto,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/primeira-liga-2018-2019-sporting-cp-fc-porto/
+portugal-2018-2019,17,2019-01-12,20:30,201901122030,saturday,Boavista,CS Marítimo,0,1,1,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/primeira-liga-2018-2019-boavista-cs-maritimo/
+portugal-2018-2019,17,2019-01-13,15:00,201901131500,sunday,CD Nacional,Os Belenenses,0,1,1,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/primeira-liga-2018-2019-cd-nacional-os-belenenses/
+portugal-2018-2019,17,2019-01-13,17:30,201901131730,sunday,GD Chaves,CD Tondela,2,1,3,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/primeira-liga-2018-2019-gd-chaves-cd-tondela/
+portugal-2018-2019,17,2019-01-13,20:00,201901132000,sunday,Rio Ave FC,Vitória Setúbal,1,1,2,D,D,D,1,0,1,H,W,L,http://www.worldfootball.net/report/primeira-liga-2018-2019-rio-ave-fc-vitoria-setubal/
+portugal-2018-2019,18,2019-01-18,18:45,201901181845,friday,CD Nacional,Sporting Braga,0,3,3,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/primeira-liga-2018-2019-cd-nacional-sporting-braga/
+portugal-2018-2019,18,2019-01-18,19:00,201901181900,friday,GD Chaves,FC Porto,1,4,5,A,L,W,0,2,2,A,L,W,http://www.worldfootball.net/report/primeira-liga-2018-2019-gd-chaves-fc-porto/
+portugal-2018-2019,18,2019-01-18,21:15,201901182115,friday,Vitória Guimarães,SL Benfica,0,1,1,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/primeira-liga-2018-2019-vitoria-guimaraes-sl-benfica/
+portugal-2018-2019,18,2019-01-19,15:30,201901191530,saturday,Os Belenenses,CD Tondela,2,2,4,D,D,D,1,2,3,A,L,W,http://www.worldfootball.net/report/primeira-liga-2018-2019-os-belenenses-cd-tondela/
+portugal-2018-2019,18,2019-01-19,18:00,201901191800,saturday,Sporting CP,Moreirense FC,2,1,3,H,W,L,2,1,3,H,W,L,http://www.worldfootball.net/report/primeira-liga-2018-2019-sporting-cp-moreirense-fc/
+portugal-2018-2019,18,2019-01-19,20:30,201901192030,saturday,CD Santa Clara,CS Marítimo,0,1,1,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/primeira-liga-2018-2019-cd-santa-clara-cs-maritimo/
+portugal-2018-2019,18,2019-01-20,15:00,201901201500,sunday,CD Aves,Vitória Setúbal,2,1,3,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/primeira-liga-2018-2019-cd-aves-vitoria-setubal/
+portugal-2018-2019,18,2019-01-20,17:30,201901201730,sunday,Boavista,Portimonense SC,0,2,2,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/primeira-liga-2018-2019-boavista-portimonense-sc/
+portugal-2018-2019,18,2019-01-20,20:00,201901202000,sunday,Rio Ave FC,CD Feirense,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/primeira-liga-2018-2019-rio-ave-fc-cd-feirense/
+portugal-2018-2019,19,2019-01-28,17:00,201901281700,monday,CS Marítimo,Rio Ave FC,0,2,2,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/primeira-liga-2018-2019-cs-maritimo-rio-ave-fc/
+portugal-2018-2019,19,2019-01-28,19:00,201901281900,monday,Moreirense FC,CD Nacional,2,1,3,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/primeira-liga-2018-2019-moreirense-fc-cd-nacional/
+portugal-2018-2019,19,2019-01-28,19:00,201901281900,monday,CD Tondela,CD Aves,0,2,2,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/primeira-liga-2018-2019-cd-tondela-cd-aves/
+portugal-2018-2019,19,2019-01-28,21:15,201901282115,monday,CD Feirense,Vitória Guimarães,1,2,3,A,L,W,1,2,3,A,L,W,http://www.worldfootball.net/report/primeira-liga-2018-2019-cd-feirense-vitoria-guimaraes/
+portugal-2018-2019,19,2019-01-29,19:00,201901291900,tuesday,Portimonense SC,GD Chaves,0,1,1,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/primeira-liga-2018-2019-portimonense-sc-gd-chaves/
+portugal-2018-2019,19,2019-01-29,19:00,201901291900,tuesday,SL Benfica,Boavista,5,1,6,H,W,L,2,1,3,H,W,L,http://www.worldfootball.net/report/primeira-liga-2018-2019-sl-benfica-boavista/
+portugal-2018-2019,19,2019-01-29,21:15,201901292115,tuesday,Sporting Braga,CD Santa Clara,1,0,1,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/primeira-liga-2018-2019-sporting-braga-cd-santa-clara/
+portugal-2018-2019,19,2019-01-30,19:00,201901301900,wednesday,Vitória Setúbal,Sporting CP,1,1,2,D,D,D,1,0,1,H,W,L,http://www.worldfootball.net/report/primeira-liga-2018-2019-vitoria-setubal-sporting-cp/
+portugal-2018-2019,19,2019-01-30,21:15,201901302115,wednesday,FC Porto,Os Belenenses,3,0,3,H,W,L,2,0,2,H,W,L,http://www.worldfootball.net/report/primeira-liga-2018-2019-fc-porto-os-belenenses/
+portugal-2018-2019,20,2019-02-01,20:30,201902012030,friday,Rio Ave FC,CD Tondela,2,2,4,D,D,D,1,1,2,D,D,D,http://www.worldfootball.net/report/primeira-liga-2018-2019-rio-ave-fc-cd-tondela/
+portugal-2018-2019,20,2019-02-02,15:30,201902021530,saturday,GD Chaves,CS Marítimo,1,0,1,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/primeira-liga-2018-2019-gd-chaves-cs-maritimo/
+portugal-2018-2019,20,2019-02-02,18:00,201902021800,saturday,Boavista,CD Feirense,2,0,2,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/primeira-liga-2018-2019-boavista-cd-feirense/
+portugal-2018-2019,20,2019-02-02,20:30,201902022030,saturday,CD Aves,Sporting Braga,0,2,2,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/primeira-liga-2018-2019-cd-aves-sporting-braga/
+portugal-2018-2019,20,2019-02-03,15:00,201902031500,sunday,CD Santa Clara,Portimonense SC,2,1,3,H,W,L,1,1,2,D,D,D,http://www.worldfootball.net/report/primeira-liga-2018-2019-cd-santa-clara-portimonense-sc/
+portugal-2018-2019,20,2019-02-03,15:00,201902031500,sunday,CD Nacional,Vitória Setúbal,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/primeira-liga-2018-2019-cd-nacional-vitoria-setubal/
+portugal-2018-2019,20,2019-02-03,17:30,201902031730,sunday,Sporting CP,SL Benfica,2,4,6,A,L,W,1,2,3,A,L,W,http://www.worldfootball.net/report/primeira-liga-2018-2019-sporting-cp-sl-benfica/
+portugal-2018-2019,20,2019-02-03,20:00,201902032000,sunday,Vitória Guimarães,FC Porto,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/primeira-liga-2018-2019-vitoria-guimaraes-fc-porto/
+portugal-2018-2019,20,2019-02-04,20:15,201902042015,monday,Os Belenenses,Moreirense FC,0,1,1,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/primeira-liga-2018-2019-os-belenenses-moreirense-fc/
+portugal-2018-2019,21,2019-02-08,20:30,201902082030,friday,Moreirense FC,FC Porto,1,1,2,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/primeira-liga-2018-2019-moreirense-fc-fc-porto/
+portugal-2018-2019,21,2019-02-09,15:30,201902091530,saturday,CS Marítimo,CD Aves,0,1,1,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/primeira-liga-2018-2019-cs-maritimo-cd-aves/
+portugal-2018-2019,21,2019-02-09,18:00,201902091800,saturday,Portimonense SC,Rio Ave FC,0,1,1,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/primeira-liga-2018-2019-portimonense-sc-rio-ave-fc/
+portugal-2018-2019,21,2019-02-09,20:30,201902092030,saturday,CD Tondela,Vitória Guimarães,1,0,1,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/primeira-liga-2018-2019-cd-tondela-vitoria-guimaraes/
+portugal-2018-2019,21,2019-02-10,15:00,201902101500,sunday,Sporting Braga,GD Chaves,2,1,3,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/primeira-liga-2018-2019-sporting-braga-gd-chaves/
+portugal-2018-2019,21,2019-02-10,15:00,201902101500,sunday,Boavista,CD Santa Clara,1,0,1,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/primeira-liga-2018-2019-boavista-cd-santa-clara/
+portugal-2018-2019,21,2019-02-10,17:30,201902101730,sunday,SL Benfica,CD Nacional,10,0,10,H,W,L,3,0,3,H,W,L,http://www.worldfootball.net/report/primeira-liga-2018-2019-sl-benfica-cd-nacional/
+portugal-2018-2019,21,2019-02-10,20:00,201902102000,sunday,CD Feirense,Sporting CP,1,3,4,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/primeira-liga-2018-2019-cd-feirense-sporting-cp/
+portugal-2018-2019,21,2019-02-11,20:15,201902112015,monday,Vitória Setúbal,Os Belenenses,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/primeira-liga-2018-2019-vitoria-setubal-os-belenenses/
+portugal-2018-2019,22,2019-02-15,20:30,201902152030,friday,Rio Ave FC,CD Santa Clara,1,2,3,A,L,W,1,1,2,D,D,D,http://www.worldfootball.net/report/primeira-liga-2018-2019-rio-ave-fc-cd-santa-clara/
+portugal-2018-2019,22,2019-02-16,15:30,201902161530,saturday,CD Nacional,CD Feirense,4,0,4,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/primeira-liga-2018-2019-cd-nacional-cd-feirense/
+portugal-2018-2019,22,2019-02-16,18:00,201902161800,saturday,Vitória Guimarães,Portimonense SC,2,0,2,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/primeira-liga-2018-2019-vitoria-guimaraes-portimonense-sc/
+portugal-2018-2019,22,2019-02-16,20:30,201902162030,saturday,FC Porto,Vitória Setúbal,2,0,2,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/primeira-liga-2018-2019-fc-porto-vitoria-setubal/
+portugal-2018-2019,22,2019-02-17,15:00,201902171500,sunday,Moreirense FC,CD Tondela,2,0,2,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/primeira-liga-2018-2019-moreirense-fc-cd-tondela/
+portugal-2018-2019,22,2019-02-17,15:00,201902171500,sunday,Os Belenenses,CS Marítimo,0,1,1,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/primeira-liga-2018-2019-os-belenenses-cs-maritimo/
+portugal-2018-2019,22,2019-02-17,17:30,201902171730,sunday,GD Chaves,Boavista,1,1,2,D,D,D,1,0,1,H,W,L,http://www.worldfootball.net/report/primeira-liga-2018-2019-gd-chaves-boavista/
+portugal-2018-2019,22,2019-02-17,20:00,201902172000,sunday,Sporting CP,Sporting Braga,3,0,3,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/primeira-liga-2018-2019-sporting-cp-sporting-braga/
+portugal-2018-2019,22,2019-02-18,20:15,201902182015,monday,CD Aves,SL Benfica,0,3,3,A,L,W,0,2,2,A,L,W,http://www.worldfootball.net/report/primeira-liga-2018-2019-cd-aves-sl-benfica/
+portugal-2018-2019,23,2019-02-22,19:00,201902221900,friday,Sporting Braga,Os Belenenses,0,2,2,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/primeira-liga-2018-2019-sporting-braga-os-belenenses/
+portugal-2018-2019,23,2019-02-22,21:15,201902222115,friday,CD Tondela,FC Porto,0,3,3,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/primeira-liga-2018-2019-cd-tondela-fc-porto/

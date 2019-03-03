@@ -1,11 +1,11 @@
 Div,Round,Date,Time,timestamp,Weekday,HomeTeam,AwayTeam,FTHG,FTAG,FTG,FTR,FTHR,FTAR,HTHG,HTAG,HTG,HTR,HTHR,HTAR,Report_url
-south korea-2004,1,2004-04-03,07:00,200404030700,saturday,Incheon United,Jeonbuk FC,0,0,0,D,D,D,0,0,0,D,D,D,
+south korea-2004,1,2004-04-03,07:00,200404030700,saturday,Incheon United,Jeonbuk FC,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
 south korea-2004,1,2004-04-03,07:00,200404030700,saturday,Daejeon Citizen,Pohang Steelers,0,1,1,A,L,W,,,,,,,
 south korea-2004,1,2004-04-03,07:00,200404030700,saturday,Gwangju Sangmu,Seongnam Ilhwa Chunma,1,0,1,H,W,L,,,,,,,
 south korea-2004,1,2004-04-03,07:00,200404030700,saturday,Chunnam Dragons,Daegu FC,4,1,5,H,W,L,,,,,,,
 south korea-2004,1,2004-04-03,07:00,200404030700,saturday,Bucheon SK,Ulsan Hyundai,0,1,1,A,L,W,,,,,,,
 south korea-2004,1,2004-04-03,07:00,200404030700,saturday,FC Seoul,Busan I'Cons,1,1,2,D,D,D,,,,,,,
-south korea-2004,2,2004-04-10,07:00,200404100700,saturday,Busan I'Cons,Bucheon SK,0,0,0,D,D,D,0,0,0,D,D,D,
+south korea-2004,2,2004-04-10,07:00,200404100700,saturday,Busan I'Cons,Bucheon SK,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
 south korea-2004,2,2004-04-10,07:00,200404100700,saturday,Ulsan Hyundai,Chunnam Dragons,1,1,2,D,D,D,,,,,,,
 south korea-2004,2,2004-04-10,07:00,200404100700,saturday,Daegu FC,Gwangju Sangmu,4,2,6,H,W,L,,,,,,,
 south korea-2004,2,2004-04-10,07:00,200404100700,saturday,Seongnam Ilhwa Chunma,Daejeon Citizen,2,1,3,H,W,L,,,,,,,
@@ -13,13 +13,13 @@ south korea-2004,2,2004-04-10,07:00,200404100700,saturday,Pohang Steelers,Incheo
 south korea-2004,2,2004-04-10,07:00,200404100700,saturday,Jeonbuk FC,Suwon Bluewings,1,1,2,D,D,D,,,,,,,
 south korea-2004,3,2004-04-17,07:00,200404170700,saturday,Incheon United,Seongnam Ilhwa Chunma,1,0,1,H,W,L,,,,,,,
 south korea-2004,3,2004-04-17,07:00,200404170700,saturday,Daejeon Citizen,Daegu FC,1,1,2,D,D,D,,,,,,,
-south korea-2004,3,2004-04-17,07:00,200404170700,saturday,Gwangju Sangmu,Ulsan Hyundai,0,0,0,D,D,D,0,0,0,D,D,D,
+south korea-2004,3,2004-04-17,07:00,200404170700,saturday,Gwangju Sangmu,Ulsan Hyundai,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
 south korea-2004,3,2004-04-17,07:00,200404170700,saturday,Chunnam Dragons,Busan I'Cons,0,1,1,A,L,W,,,,,,,
 south korea-2004,3,2004-04-17,07:00,200404170700,saturday,Bucheon SK,FC Seoul,1,1,2,D,D,D,,,,,,,
 south korea-2004,3,2004-04-17,07:00,200404170700,saturday,Suwon Bluewings,Pohang Steelers,1,2,3,A,L,W,,,,,,,
-south korea-2004,4,2004-04-24,07:00,200404240700,saturday,FC Seoul,Chunnam Dragons,0,0,0,D,D,D,0,0,0,D,D,D,
-south korea-2004,4,2004-04-24,07:00,200404240700,saturday,Busan I'Cons,Gwangju Sangmu,0,0,0,D,D,D,0,0,0,D,D,D,
-south korea-2004,4,2004-04-24,07:00,200404240700,saturday,Ulsan Hyundai,Daejeon Citizen,0,0,0,D,D,D,0,0,0,D,D,D,
+south korea-2004,4,2004-04-24,07:00,200404240700,saturday,FC Seoul,Chunnam Dragons,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
+south korea-2004,4,2004-04-24,07:00,200404240700,saturday,Busan I'Cons,Gwangju Sangmu,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
+south korea-2004,4,2004-04-24,07:00,200404240700,saturday,Ulsan Hyundai,Daejeon Citizen,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
 south korea-2004,4,2004-04-24,07:00,200404240700,saturday,Daegu FC,Incheon United,5,0,5,H,W,L,,,,,,,
 south korea-2004,4,2004-04-24,07:00,200404240700,saturday,Seongnam Ilhwa Chunma,Suwon Bluewings,2,2,4,D,D,D,,,,,,,
 south korea-2004,4,2004-04-24,07:00,200404240700,saturday,Pohang Steelers,Jeonbuk FC,0,2,2,A,L,W,,,,,,,
@@ -27,10 +27,10 @@ south korea-2004,5,2004-05-05,07:00,200405050700,wednesday,Incheon United,Ulsan 
 south korea-2004,5,2004-05-05,07:00,200405050700,wednesday,Daejeon Citizen,Busan I'Cons,2,0,2,H,W,L,,,,,,,
 south korea-2004,5,2004-05-05,07:00,200405050700,wednesday,Gwangju Sangmu,FC Seoul,0,1,1,A,L,W,,,,,,,
 south korea-2004,5,2004-05-05,07:00,200405050700,wednesday,Suwon Bluewings,Daegu FC,1,0,1,H,W,L,,,,,,,
-south korea-2004,5,2004-05-05,07:30,200405050730,wednesday,Chunnam Dragons,Bucheon SK,0,0,0,D,D,D,0,0,0,D,D,D,
+south korea-2004,5,2004-05-05,07:30,200405050730,wednesday,Chunnam Dragons,Bucheon SK,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
 south korea-2004,5,2004-05-05,11:00,200405051100,wednesday,Jeonbuk FC,Seongnam Ilhwa Chunma,2,0,2,H,W,L,,,,,,,
-south korea-2004,6,2004-05-08,07:00,200405080700,saturday,Bucheon SK,Gwangju Sangmu,0,0,0,D,D,D,0,0,0,D,D,D,
-south korea-2004,6,2004-05-08,07:00,200405080700,saturday,FC Seoul,Daejeon Citizen,0,0,0,D,D,D,0,0,0,D,D,D,
+south korea-2004,6,2004-05-08,07:00,200405080700,saturday,Bucheon SK,Gwangju Sangmu,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
+south korea-2004,6,2004-05-08,07:00,200405080700,saturday,FC Seoul,Daejeon Citizen,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
 south korea-2004,6,2004-05-08,07:00,200405080700,saturday,Busan I'Cons,Incheon United,1,1,2,D,D,D,,,,,,,
 south korea-2004,6,2004-05-08,09:00,200405080900,saturday,Daegu FC,Jeonbuk FC,2,3,5,A,L,W,,,,,,,
 south korea-2004,6,2004-05-08,11:00,200405081100,saturday,Seongnam Ilhwa Chunma,Pohang Steelers,1,2,3,A,L,W,,,,,,,
@@ -41,9 +41,9 @@ south korea-2004,7,2004-05-15,11:00,200405151100,saturday,Pohang Steelers,Daegu 
 south korea-2004,7,2004-05-16,11:00,200405161100,sunday,Jeonbuk FC,Ulsan Hyundai,1,2,3,A,L,W,,,,,,,
 south korea-2004,7,2004-05-16,11:00,200405161100,sunday,Suwon Bluewings,Busan I'Cons,1,2,3,A,L,W,,,,,,,
 south korea-2004,7,2004-05-16,11:00,200405161100,sunday,Gwangju Sangmu,Chunnam Dragons,2,2,4,D,D,D,,,,,,,
-south korea-2004,8,2004-05-23,07:00,200405230700,sunday,Bucheon SK,Incheon United,0,0,0,D,D,D,0,0,0,D,D,D,
+south korea-2004,8,2004-05-23,07:00,200405230700,sunday,Bucheon SK,Incheon United,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
 south korea-2004,8,2004-05-23,07:00,200405230700,sunday,FC Seoul,Suwon Bluewings,1,0,1,H,W,L,,,,,,,
-south korea-2004,8,2004-05-23,07:00,200405230700,sunday,Busan I'Cons,Jeonbuk FC,0,0,0,D,D,D,0,0,0,D,D,D,
+south korea-2004,8,2004-05-23,07:00,200405230700,sunday,Busan I'Cons,Jeonbuk FC,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
 south korea-2004,8,2004-05-23,07:00,200405230700,sunday,Daegu FC,Seongnam Ilhwa Chunma,2,3,5,A,L,W,,,,,,,
 south korea-2004,8,2004-05-23,11:00,200405231100,sunday,Ulsan Hyundai,Pohang Steelers,0,1,1,A,L,W,,,,,,,
 south korea-2004,8,2004-05-23,11:00,200405231100,sunday,Chunnam Dragons,Daejeon Citizen,3,1,4,H,W,L,,,,,,,
@@ -56,7 +56,7 @@ south korea-2004,9,2004-05-26,11:00,200405261100,wednesday,Suwon Bluewings,Buche
 south korea-2004,10,2004-05-30,07:00,200405300700,sunday,Busan I'Cons,Seongnam Ilhwa Chunma,1,1,2,D,D,D,,,,,,,
 south korea-2004,10,2004-05-30,07:00,200405300700,sunday,Bucheon SK,Jeonbuk FC,0,3,3,A,L,W,,,,,,,
 south korea-2004,10,2004-05-30,11:00,200405301100,sunday,FC Seoul,Pohang Steelers,1,1,2,D,D,D,,,,,,,
-south korea-2004,10,2004-05-30,11:00,200405301100,sunday,Ulsan Hyundai,Daegu FC,0,0,0,D,D,D,0,0,0,D,D,D,
+south korea-2004,10,2004-05-30,11:00,200405301100,sunday,Ulsan Hyundai,Daegu FC,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
 south korea-2004,10,2004-05-30,11:00,200405301100,sunday,Gwangju Sangmu,Incheon United,1,0,1,H,W,L,,,,,,,
 south korea-2004,10,2004-05-30,11:00,200405301100,sunday,Chunnam Dragons,Suwon Bluewings,2,2,4,D,D,D,,,,,,,
 south korea-2004,11,2004-06-13,07:00,200406130700,sunday,Incheon United,Daejeon Citizen,1,0,1,H,W,L,,,,,,,
@@ -66,7 +66,7 @@ south korea-2004,11,2004-06-13,11:00,200406131100,sunday,Suwon Bluewings,Gwangju
 south korea-2004,11,2004-06-13,11:00,200406131100,sunday,Seongnam Ilhwa Chunma,FC Seoul,2,1,3,H,W,L,,,,,,,
 south korea-2004,11,2004-06-13,11:00,200406131100,sunday,Pohang Steelers,Bucheon SK,1,1,2,D,D,D,,,,,,,
 south korea-2004,12,2004-06-20,07:00,200406200700,sunday,Chunnam Dragons,Pohang Steelers,2,2,4,D,D,D,,,,,,,
-south korea-2004,12,2004-06-20,09:00,200406200900,sunday,Busan I'Cons,Ulsan Hyundai,0,0,0,D,D,D,0,0,0,D,D,D,
+south korea-2004,12,2004-06-20,09:00,200406200900,sunday,Busan I'Cons,Ulsan Hyundai,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
 south korea-2004,12,2004-06-20,10:00,200406201000,sunday,Daejeon Citizen,Suwon Bluewings,1,0,1,H,W,L,,,,,,,
 south korea-2004,12,2004-06-20,11:00,200406201100,sunday,Gwangju Sangmu,Jeonbuk FC,1,0,1,H,W,L,,,,,,,
 south korea-2004,12,2004-06-20,11:00,200406201100,sunday,Bucheon SK,Seongnam Ilhwa Chunma,1,1,2,D,D,D,,,,,,,
@@ -77,16 +77,16 @@ south korea-2004,13,2004-06-27,07:00,200406270700,sunday,Seongnam Ilhwa Chunma,C
 south korea-2004,13,2004-06-27,07:00,200406270700,sunday,Pohang Steelers,Gwangju Sangmu,1,1,2,D,D,D,,,,,,,
 south korea-2004,13,2004-06-27,07:00,200406270700,sunday,Jeonbuk FC,Daejeon Citizen,1,1,2,D,D,D,,,,,,,
 south korea-2004,13,2004-06-27,07:00,200406270700,sunday,Suwon Bluewings,Incheon United,3,2,5,H,W,L,,,,,,,
-south korea-2004,14,2004-08-29,07:00,200408290700,sunday,Ulsan Hyundai,Busan I'Cons,0,0,0,D,D,D,0,0,0,D,D,D,
+south korea-2004,14,2004-08-29,07:00,200408290700,sunday,Ulsan Hyundai,Busan I'Cons,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
 south korea-2004,14,2004-08-29,07:00,200408290700,sunday,Daegu FC,FC Seoul,2,2,4,D,D,D,,,,,,,
 south korea-2004,14,2004-08-29,07:00,200408290700,sunday,Seongnam Ilhwa Chunma,Bucheon SK,1,1,2,D,D,D,,,,,,,
 south korea-2004,14,2004-08-29,07:00,200408290700,sunday,Pohang Steelers,Chunnam Dragons,1,0,1,H,W,L,,,,,,,
-south korea-2004,14,2004-08-29,07:00,200408290700,sunday,Jeonbuk FC,Gwangju Sangmu,0,0,0,D,D,D,0,0,0,D,D,D,
+south korea-2004,14,2004-08-29,07:00,200408290700,sunday,Jeonbuk FC,Gwangju Sangmu,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
 south korea-2004,14,2004-08-29,07:00,200408290700,sunday,Suwon Bluewings,Daejeon Citizen,1,2,3,A,L,W,,,,,,,
 south korea-2004,15,2004-09-01,11:00,200409011100,wednesday,Daejeon Citizen,Incheon United,0,1,1,A,L,W,,,,,,,
 south korea-2004,15,2004-09-01,11:00,200409011100,wednesday,Gwangju Sangmu,Suwon Bluewings,1,0,1,H,W,L,,,,,,,
-south korea-2004,15,2004-09-01,11:00,200409011100,wednesday,Chunnam Dragons,Jeonbuk FC,0,0,0,D,D,D,0,0,0,D,D,D,
-south korea-2004,15,2004-09-01,11:00,200409011100,wednesday,Bucheon SK,Pohang Steelers,0,0,0,D,D,D,0,0,0,D,D,D,
+south korea-2004,15,2004-09-01,11:00,200409011100,wednesday,Chunnam Dragons,Jeonbuk FC,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
+south korea-2004,15,2004-09-01,11:00,200409011100,wednesday,Bucheon SK,Pohang Steelers,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
 south korea-2004,15,2004-09-01,11:00,200409011100,wednesday,FC Seoul,Seongnam Ilhwa Chunma,2,0,2,H,W,L,,,,,,,
 south korea-2004,15,2004-09-01,11:00,200409011100,wednesday,Busan I'Cons,Daegu FC,2,1,3,H,W,L,,,,,,,
 south korea-2004,16,2004-09-07,11:00,200409071100,tuesday,Jeonbuk FC,Bucheon SK,3,1,4,H,W,L,,,,,,,
@@ -94,12 +94,12 @@ south korea-2004,16,2004-09-11,07:00,200409110700,saturday,Daegu FC,Ulsan Hyunda
 south korea-2004,16,2004-09-11,07:00,200409110700,saturday,Seongnam Ilhwa Chunma,Busan I'Cons,1,1,2,D,D,D,,,,,,,
 south korea-2004,16,2004-09-11,11:00,200409111100,saturday,Suwon Bluewings,Chunnam Dragons,2,1,3,H,W,L,,,,,,,
 south korea-2004,16,2004-09-11,11:00,200409111100,saturday,Pohang Steelers,FC Seoul,0,1,1,A,L,W,,,,,,,
-south korea-2004,16,2004-09-12,11:00,200409121100,sunday,Incheon United,Gwangju Sangmu,0,0,0,D,D,D,0,0,0,D,D,D,
+south korea-2004,16,2004-09-12,11:00,200409121100,sunday,Incheon United,Gwangju Sangmu,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
 south korea-2004,17,2004-09-19,07:00,200409190700,sunday,Gwangju Sangmu,Daejeon Citizen,1,1,2,D,D,D,,,,,,,
 south korea-2004,17,2004-09-19,07:00,200409190700,sunday,Bucheon SK,Suwon Bluewings,1,1,2,D,D,D,,,,,,,
 south korea-2004,17,2004-09-19,07:00,200409190700,sunday,Busan I'Cons,Pohang Steelers,1,1,2,D,D,D,,,,,,,
 south korea-2004,17,2004-09-19,07:30,200409190730,sunday,Chunnam Dragons,Incheon United,2,1,3,H,W,L,,,,,,,
-south korea-2004,17,2004-09-26,07:00,200409260700,sunday,FC Seoul,Jeonbuk FC,0,0,0,D,D,D,0,0,0,D,D,D,
+south korea-2004,17,2004-09-26,07:00,200409260700,sunday,FC Seoul,Jeonbuk FC,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
 south korea-2004,17,2004-09-26,09:00,200409260900,sunday,Ulsan Hyundai,Seongnam Ilhwa Chunma,2,1,3,H,W,L,,,,,,,
 south korea-2004,18,2004-10-03,07:00,200410030700,sunday,Incheon United,Bucheon SK,3,1,4,H,W,L,,,,,,,
 south korea-2004,18,2004-10-03,07:00,200410030700,sunday,Daejeon Citizen,Chunnam Dragons,0,2,2,A,L,W,,,,,,,
@@ -128,18 +128,18 @@ south korea-2004,21,2004-10-31,07:00,200410310700,sunday,Seongnam Ilhwa Chunma,J
 south korea-2004,22,2004-11-03,11:00,200411031100,wednesday,Incheon United,Daegu FC,1,1,2,D,D,D,,,,,,,
 south korea-2004,22,2004-11-03,11:00,200411031100,wednesday,Daejeon Citizen,Ulsan Hyundai,1,3,4,A,L,W,,,,,,,
 south korea-2004,22,2004-11-03,11:00,200411031100,wednesday,Gwangju Sangmu,Busan I'Cons,1,0,1,H,W,L,,,,,,,
-south korea-2004,22,2004-11-03,11:00,200411031100,wednesday,Chunnam Dragons,FC Seoul,0,0,0,D,D,D,0,0,0,D,D,D,
+south korea-2004,22,2004-11-03,11:00,200411031100,wednesday,Chunnam Dragons,FC Seoul,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
 south korea-2004,22,2004-11-03,11:00,200411031100,wednesday,Jeonbuk FC,Pohang Steelers,1,0,1,H,W,L,,,,,,,
 south korea-2004,22,2004-11-03,11:00,200411031100,wednesday,Suwon Bluewings,Seongnam Ilhwa Chunma,1,2,3,A,L,W,,,,,,,
 south korea-2004,23,2004-11-07,07:00,200411070700,sunday,FC Seoul,Bucheon SK,1,1,2,D,D,D,,,,,,,
 south korea-2004,23,2004-11-07,07:00,200411070700,sunday,Busan I'Cons,Chunnam Dragons,1,2,3,A,L,W,,,,,,,
-south korea-2004,23,2004-11-07,07:00,200411070700,sunday,Ulsan Hyundai,Gwangju Sangmu,0,0,0,D,D,D,0,0,0,D,D,D,
+south korea-2004,23,2004-11-07,07:00,200411070700,sunday,Ulsan Hyundai,Gwangju Sangmu,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
 south korea-2004,23,2004-11-07,07:00,200411070700,sunday,Daegu FC,Daejeon Citizen,2,0,2,H,W,L,,,,,,,
-south korea-2004,23,2004-11-07,07:00,200411070700,sunday,Seongnam Ilhwa Chunma,Incheon United,0,0,0,D,D,D,0,0,0,D,D,D,
+south korea-2004,23,2004-11-07,07:00,200411070700,sunday,Seongnam Ilhwa Chunma,Incheon United,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
 south korea-2004,23,2004-11-07,07:00,200411070700,sunday,Pohang Steelers,Suwon Bluewings,0,1,1,A,L,W,,,,,,,
 south korea-2004,24,2004-11-10,11:00,200411101100,wednesday,Incheon United,Pohang Steelers,1,0,1,H,W,L,,,,,,,
 south korea-2004,24,2004-11-10,11:00,200411101100,wednesday,Daejeon Citizen,Seongnam Ilhwa Chunma,1,1,2,D,D,D,,,,,,,
-south korea-2004,24,2004-11-10,11:00,200411101100,wednesday,Gwangju Sangmu,Daegu FC,0,0,0,D,D,D,0,0,0,D,D,D,
+south korea-2004,24,2004-11-10,11:00,200411101100,wednesday,Gwangju Sangmu,Daegu FC,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
 south korea-2004,24,2004-11-10,11:00,200411101100,wednesday,Chunnam Dragons,Ulsan Hyundai,1,0,1,H,W,L,,,,,,,
 south korea-2004,24,2004-11-10,11:00,200411101100,wednesday,Bucheon SK,Busan I'Cons,0,3,3,A,L,W,,,,,,,
 south korea-2004,24,2004-11-10,11:00,200411101100,wednesday,Suwon Bluewings,Jeonbuk FC,2,1,3,H,W,L,,,,,,,
@@ -149,12 +149,12 @@ south korea-2004,25,2004-11-13,07:00,200411130700,saturday,Pohang Steelers,Daeje
 south korea-2004,25,2004-11-13,07:00,200411130700,saturday,Jeonbuk FC,Incheon United,0,1,1,A,L,W,,,,,,,
 south korea-2004,25,2004-11-13,09:00,200411130900,saturday,Ulsan Hyundai,Bucheon SK,2,0,2,H,W,L,,,,,,,
 south korea-2004,25,2004-11-14,07:00,200411140700,sunday,Busan I'Cons,FC Seoul,2,0,2,H,W,L,,,,,,,
-south korea-2004,26,2004-11-20,07:00,200411200700,saturday,Incheon United,Suwon Bluewings,0,0,0,D,D,D,0,0,0,D,D,D,
+south korea-2004,26,2004-11-20,07:00,200411200700,saturday,Incheon United,Suwon Bluewings,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
 south korea-2004,26,2004-11-20,07:00,200411200700,saturday,Daejeon Citizen,Jeonbuk FC,1,0,1,H,W,L,,,,,,,
 south korea-2004,26,2004-11-20,07:00,200411200700,saturday,Gwangju Sangmu,Pohang Steelers,2,3,5,A,L,W,,,,,,,
 south korea-2004,26,2004-11-20,07:00,200411200700,saturday,Chunnam Dragons,Seongnam Ilhwa Chunma,1,0,1,H,W,L,,,,,,,
 south korea-2004,26,2004-11-20,07:00,200411200700,saturday,Bucheon SK,Daegu FC,4,0,4,H,W,L,,,,,,,
-south korea-2004,26,2004-11-20,07:00,200411200700,saturday,FC Seoul,Ulsan Hyundai,0,0,0,D,D,D,0,0,0,D,D,D,
+south korea-2004,26,2004-11-20,07:00,200411200700,saturday,FC Seoul,Ulsan Hyundai,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
 south korea-2004-playoff,Semi-finals,2004-12-05,,200412050000,sunday,Suwon Bluewings,Chunnam Dragons,1,0,1,H,W,L,,,,,,,
 south korea-2004-playoff,Semi-finals,2004-12-05,,200412050000,sunday,Pohang Steelers,Ulsan Hyundai,1,0,1,H,W,L,,,,,,,
 south korea-2004-playoff,Final,2004-12-08,,200412080000,wednesday,Pohang Steelers,Suwon Bluewings,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
@@ -3155,3 +3155,132 @@ south korea-2018,14,2018-05-20,06:00,201805200600,sunday,Incheon United,Ulsan Hy
 south korea-2018,14,2018-05-20,06:00,201805200600,sunday,Sangju Sangmu,Jeju United,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/k-league-1-2018-sangju-sangmu-jeju-united/
 south korea-2018,14,2018-05-20,08:00,201805200800,sunday,FC Seoul,Jeonbuk FC,0,4,4,A,L,W,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/k-league-1-2018-fc-seoul-jeonbuk-fc/
 south korea-2018,14,2018-05-20,08:00,201805200800,sunday,Pohang Steelers,Suwon Bluewings,1,1,2,D,D,D,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/k-league-1-2018-pohang-steelers-suwon-bluewings/
+south korea-2018,15,2018-07-07,11:00,201807071100,saturday,Jeonbuk FC,Incheon United,3,3,6,D,D,D,2.0,3.0,5.0,A,L,W,http://www.worldfootball.net/report/k-league-1-2018-jeonbuk-fc-incheon-united/
+south korea-2018,15,2018-07-07,11:00,201807071100,saturday,Suwon Bluewings,Jeju United,2,3,5,A,L,W,0.0,1.0,1.0,A,L,W,http://www.worldfootball.net/report/k-league-1-2018-suwon-bluewings-jeju-united/
+south korea-2018,15,2018-07-07,11:00,201807071100,saturday,Gyeongnam FC,Pohang Steelers,2,0,2,H,W,L,1.0,0.0,1.0,H,W,L,http://www.worldfootball.net/report/k-league-1-2018-gyeongnam-fc-pohang-steelers/
+south korea-2018,15,2018-07-08,10:00,201807081000,sunday,Gangwon FC,Jeonnam Dragons,1,1,2,D,D,D,0.0,1.0,1.0,A,L,W,http://www.worldfootball.net/report/k-league-1-2018-gangwon-fc-jeonnam-dragons/
+south korea-2018,15,2018-07-08,11:00,201807081100,sunday,Daegu FC,FC Seoul,2,2,4,D,D,D,2.0,2.0,4.0,D,D,D,http://www.worldfootball.net/report/k-league-1-2018-daegu-fc-fc-seoul/
+south korea-2018,15,2018-07-08,11:30,201807081130,sunday,Sangju Sangmu,Ulsan Hyundai,2,3,5,A,L,W,0.0,2.0,2.0,A,L,W,http://www.worldfootball.net/report/k-league-1-2018-sangju-sangmu-ulsan-hyundai/
+south korea-2018,16,2018-07-11,11:30,201807111130,wednesday,Ulsan Hyundai,Jeonbuk FC,0,2,2,A,L,W,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/k-league-1-2018-ulsan-hyundai-jeonbuk-fc/
+south korea-2018,16,2018-07-11,11:30,201807111130,wednesday,Pohang Steelers,FC Seoul,0,3,3,A,L,W,0.0,2.0,2.0,A,L,W,http://www.worldfootball.net/report/k-league-1-2018-pohang-steelers-fc-seoul/
+south korea-2018,16,2018-07-11,11:30,201807111130,wednesday,Jeonnam Dragons,Suwon Bluewings,0,2,2,A,L,W,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/k-league-1-2018-jeonnam-dragons-suwon-bluewings/
+south korea-2018,16,2018-07-11,11:30,201807111130,wednesday,Jeju United,Gyeongnam FC,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/k-league-1-2018-jeju-united-gyeongnam-fc/
+south korea-2018,16,2018-07-11,11:30,201807111130,wednesday,Incheon United,Gangwon FC,3,3,6,D,D,D,2.0,0.0,2.0,H,W,L,http://www.worldfootball.net/report/k-league-1-2018-incheon-united-gangwon-fc/
+south korea-2018,16,2018-07-11,11:30,201807111130,wednesday,Sangju Sangmu,Daegu FC,0,1,1,A,L,W,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/k-league-1-2018-sangju-sangmu-daegu-fc/
+south korea-2018,17,2018-07-14,11:00,201807141100,saturday,Suwon Bluewings,Jeonbuk FC,0,3,3,A,L,W,0.0,1.0,1.0,A,L,W,http://www.worldfootball.net/report/k-league-1-2018-suwon-bluewings-jeonbuk-fc/
+south korea-2018,17,2018-07-14,11:00,201807141100,saturday,Gyeongnam FC,Incheon United,3,0,3,H,W,L,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/k-league-1-2018-gyeongnam-fc-incheon-united/
+south korea-2018,17,2018-07-14,11:00,201807141100,saturday,Jeonnam Dragons,Sangju Sangmu,2,0,2,H,W,L,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/k-league-1-2018-jeonnam-dragons-sangju-sangmu/
+south korea-2018,17,2018-07-15,11:00,201807151100,sunday,FC Seoul,Ulsan Hyundai,1,1,2,D,D,D,1.0,1.0,2.0,D,D,D,http://www.worldfootball.net/report/k-league-1-2018-fc-seoul-ulsan-hyundai/
+south korea-2018,17,2018-07-15,11:00,201807151100,sunday,Pohang Steelers,Gangwon FC,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/k-league-1-2018-pohang-steelers-gangwon-fc/
+south korea-2018,17,2018-07-15,11:00,201807151100,sunday,Jeju United,Daegu FC,1,2,3,A,L,W,1.0,0.0,1.0,H,W,L,http://www.worldfootball.net/report/k-league-1-2018-jeju-united-daegu-fc/
+south korea-2018,18,2018-07-18,11:00,201807181100,wednesday,Jeonbuk FC,Jeju United,1,0,1,H,W,L,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/k-league-1-2018-jeonbuk-fc-jeju-united/
+south korea-2018,18,2018-07-18,11:30,201807181130,wednesday,FC Seoul,Jeonnam Dragons,2,1,3,H,W,L,0.0,1.0,1.0,A,L,W,http://www.worldfootball.net/report/k-league-1-2018-fc-seoul-jeonnam-dragons/
+south korea-2018,18,2018-07-18,11:30,201807181130,wednesday,Suwon Bluewings,Incheon United,5,2,7,H,W,L,2.0,0.0,2.0,H,W,L,http://www.worldfootball.net/report/k-league-1-2018-suwon-bluewings-incheon-united/
+south korea-2018,18,2018-07-18,11:30,201807181130,wednesday,Daegu FC,Pohang Steelers,0,1,1,A,L,W,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/k-league-1-2018-daegu-fc-pohang-steelers/
+south korea-2018,18,2018-07-18,11:30,201807181130,wednesday,Sangju Sangmu,Gyeongnam FC,0,1,1,A,L,W,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/k-league-1-2018-sangju-sangmu-gyeongnam-fc/
+south korea-2018,18,2018-07-18,12:00,201807181200,wednesday,Gangwon FC,Ulsan Hyundai,3,3,6,D,D,D,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/k-league-1-2018-gangwon-fc-ulsan-hyundai/
+south korea-2018,19,2018-07-21,11:00,201807211100,saturday,Pohang Steelers,Jeonnam Dragons,3,1,4,H,W,L,1.0,1.0,2.0,D,D,D,http://www.worldfootball.net/report/k-league-1-2018-pohang-steelers-jeonnam-dragons/
+south korea-2018,19,2018-07-21,11:00,201807211100,saturday,Gyeongnam FC,Suwon Bluewings,2,2,4,D,D,D,1.0,1.0,2.0,D,D,D,http://www.worldfootball.net/report/k-league-1-2018-gyeongnam-fc-suwon-bluewings/
+south korea-2018,19,2018-07-21,12:00,201807211200,saturday,Gangwon FC,Jeju United,3,1,4,H,W,L,1.0,1.0,2.0,D,D,D,http://www.worldfootball.net/report/k-league-1-2018-gangwon-fc-jeju-united/
+south korea-2018,19,2018-07-22,10:00,201807221000,sunday,Incheon United,FC Seoul,2,1,3,H,W,L,1.0,1.0,2.0,D,D,D,http://www.worldfootball.net/report/k-league-1-2018-incheon-united-fc-seoul/
+south korea-2018,19,2018-07-22,11:00,201807221100,sunday,Ulsan Hyundai,Daegu FC,2,0,2,H,W,L,1.0,0.0,1.0,H,W,L,http://www.worldfootball.net/report/k-league-1-2018-ulsan-hyundai-daegu-fc/
+south korea-2018,19,2018-07-22,11:30,201807221130,sunday,Sangju Sangmu,Jeonbuk FC,0,2,2,A,L,W,0.0,2.0,2.0,A,L,W,http://www.worldfootball.net/report/k-league-1-2018-sangju-sangmu-jeonbuk-fc/
+south korea-2018,20,2018-07-28,11:00,201807281100,saturday,FC Seoul,Gyeongnam FC,2,3,5,A,L,W,1.0,1.0,2.0,D,D,D,http://www.worldfootball.net/report/k-league-1-2018-fc-seoul-gyeongnam-fc/
+south korea-2018,20,2018-07-28,11:00,201807281100,saturday,Jeonnam Dragons,Incheon United,1,3,4,A,L,W,1.0,1.0,2.0,D,D,D,http://www.worldfootball.net/report/k-league-1-2018-jeonnam-dragons-incheon-united/
+south korea-2018,20,2018-07-28,11:30,201807281130,saturday,Sangju Sangmu,Pohang Steelers,2,1,3,H,W,L,2.0,1.0,3.0,H,W,L,http://www.worldfootball.net/report/k-league-1-2018-sangju-sangmu-pohang-steelers/
+south korea-2018,20,2018-07-29,11:00,201807291100,sunday,Suwon Bluewings,Gangwon FC,2,0,2,H,W,L,1.0,0.0,1.0,H,W,L,http://www.worldfootball.net/report/k-league-1-2018-suwon-bluewings-gangwon-fc/
+south korea-2018,20,2018-07-29,11:00,201807291100,sunday,Daegu FC,Jeonbuk FC,1,3,4,A,L,W,0.0,2.0,2.0,A,L,W,http://www.worldfootball.net/report/k-league-1-2018-daegu-fc-jeonbuk-fc/
+south korea-2018,20,2018-07-29,11:00,201807291100,sunday,Jeju United,Ulsan Hyundai,1,1,2,D,D,D,1.0,0.0,1.0,H,W,L,http://www.worldfootball.net/report/k-league-1-2018-jeju-united-ulsan-hyundai/
+south korea-2018,21,2018-08-04,12:00,201808041200,saturday,FC Seoul,Jeju United,3,0,3,H,W,L,1.0,0.0,1.0,H,W,L,http://www.worldfootball.net/report/k-league-1-2018-fc-seoul-jeju-united/
+south korea-2018,21,2018-08-04,12:00,201808041200,saturday,Incheon United,Pohang Steelers,1,2,3,A,L,W,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/k-league-1-2018-incheon-united-pohang-steelers/
+south korea-2018,21,2018-08-04,12:00,201808041200,saturday,Sangju Sangmu,Suwon Bluewings,1,1,2,D,D,D,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/k-league-1-2018-sangju-sangmu-suwon-bluewings/
+south korea-2018,21,2018-08-05,12:00,201808051200,sunday,Jeonbuk FC,Gyeongnam FC,0,1,1,A,L,W,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/k-league-1-2018-jeonbuk-fc-gyeongnam-fc/
+south korea-2018,21,2018-08-05,12:00,201808051200,sunday,Jeonnam Dragons,Ulsan Hyundai,1,2,3,A,L,W,0.0,1.0,1.0,A,L,W,http://www.worldfootball.net/report/k-league-1-2018-jeonnam-dragons-ulsan-hyundai/
+south korea-2018,21,2018-08-05,12:00,201808051200,sunday,Gangwon FC,Daegu FC,1,3,4,A,L,W,0.0,1.0,1.0,A,L,W,http://www.worldfootball.net/report/k-league-1-2018-gangwon-fc-daegu-fc/
+south korea-2018,22,2018-08-11,11:00,201808111100,saturday,Jeonbuk FC,Gangwon FC,3,1,4,H,W,L,1.0,0.0,1.0,H,W,L,http://www.worldfootball.net/report/k-league-1-2018-jeonbuk-fc-gangwon-fc/
+south korea-2018,22,2018-08-11,11:00,201808111100,saturday,Jeju United,Pohang Steelers,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/k-league-1-2018-jeju-united-pohang-steelers/
+south korea-2018,22,2018-08-11,11:00,201808111100,saturday,Daegu FC,Incheon United,2,1,3,H,W,L,1.0,0.0,1.0,H,W,L,http://www.worldfootball.net/report/k-league-1-2018-daegu-fc-incheon-united/
+south korea-2018,22,2018-08-12,11:00,201808121100,sunday,Ulsan Hyundai,Suwon Bluewings,1,0,1,H,W,L,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/k-league-1-2018-ulsan-hyundai-suwon-bluewings/
+south korea-2018,22,2018-08-12,11:00,201808121100,sunday,Gyeongnam FC,Jeonnam Dragons,3,0,3,H,W,L,1.0,0.0,1.0,H,W,L,http://www.worldfootball.net/report/k-league-1-2018-gyeongnam-fc-jeonnam-dragons/
+south korea-2018,22,2018-08-12,11:30,201808121130,sunday,Sangju Sangmu,FC Seoul,1,2,3,A,L,W,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/k-league-1-2018-sangju-sangmu-fc-seoul/
+south korea-2018,23,2018-08-15,11:00,201808151100,wednesday,Suwon Bluewings,FC Seoul,1,2,3,A,L,W,1.0,0.0,1.0,H,W,L,http://www.worldfootball.net/report/k-league-1-2018-suwon-bluewings-fc-seoul/
+south korea-2018,23,2018-08-15,11:00,201808151100,wednesday,Pohang Steelers,Jeonbuk FC,5,2,7,H,W,L,2.0,0.0,2.0,H,W,L,http://www.worldfootball.net/report/k-league-1-2018-pohang-steelers-jeonbuk-fc/
+south korea-2018,23,2018-08-15,11:00,201808151100,wednesday,Jeju United,Daegu FC,2,3,5,A,L,W,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/k-league-1-2018-jeju-united-daegu-fc_2/
+south korea-2018,23,2018-08-15,11:00,201808151100,wednesday,Jeonnam Dragons,Gangwon FC,0,1,1,A,L,W,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/k-league-1-2018-jeonnam-dragons-gangwon-fc_2/
+south korea-2018,23,2018-08-15,11:30,201808151130,wednesday,Gyeongnam FC,Ulsan Hyundai,3,3,6,D,D,D,0.0,2.0,2.0,A,L,W,http://www.worldfootball.net/report/k-league-1-2018-gyeongnam-fc-ulsan-hyundai_2/
+south korea-2018,23,2018-08-15,11:30,201808151130,wednesday,Incheon United,Sangju Sangmu,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/k-league-1-2018-incheon-united-sangju-sangmu/
+south korea-2018,24,2018-08-18,11:00,201808181100,saturday,Pohang Steelers,Gyeongnam FC,0,3,3,A,L,W,0.0,1.0,1.0,A,L,W,http://www.worldfootball.net/report/k-league-1-2018-pohang-steelers-gyeongnam-fc/
+south korea-2018,24,2018-08-18,11:00,201808181100,saturday,Daegu FC,Ulsan Hyundai,0,2,2,A,L,W,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/k-league-1-2018-daegu-fc-ulsan-hyundai/
+south korea-2018,24,2018-08-18,11:30,201808181130,saturday,Sangju Sangmu,Jeju United,1,1,2,D,D,D,0.0,1.0,1.0,A,L,W,http://www.worldfootball.net/report/k-league-1-2018-sangju-sangmu-jeju-united_2/
+south korea-2018,24,2018-08-19,11:00,201808191100,sunday,FC Seoul,Jeonbuk FC,0,2,2,A,L,W,0.0,1.0,1.0,A,L,W,http://www.worldfootball.net/report/k-league-1-2018-fc-seoul-jeonbuk-fc_2/
+south korea-2018,24,2018-08-19,11:00,201808191100,sunday,Jeonnam Dragons,Suwon Bluewings,6,4,10,H,W,L,2.0,3.0,5.0,A,L,W,http://www.worldfootball.net/report/k-league-1-2018-jeonnam-dragons-suwon-bluewings_2/
+south korea-2018,24,2018-08-19,11:00,201808191100,sunday,Gangwon FC,Incheon United,7,0,7,H,W,L,3.0,0.0,3.0,H,W,L,http://www.worldfootball.net/report/k-league-1-2018-gangwon-fc-incheon-united/
+south korea-2018,25,2018-08-22,11:00,201808221100,wednesday,Jeonbuk FC,Daegu FC,2,1,3,H,W,L,0.0,1.0,1.0,A,L,W,http://www.worldfootball.net/report/k-league-1-2018-jeonbuk-fc-daegu-fc_2/
+south korea-2018,25,2018-08-22,11:30,201808221130,wednesday,FC Seoul,Pohang Steelers,0,1,1,A,L,W,0.0,1.0,1.0,A,L,W,http://www.worldfootball.net/report/k-league-1-2018-fc-seoul-pohang-steelers/
+south korea-2018,25,2018-08-22,11:30,201808221130,wednesday,Ulsan Hyundai,Sangju Sangmu,4,1,5,H,W,L,1.0,1.0,2.0,D,D,D,http://www.worldfootball.net/report/k-league-1-2018-ulsan-hyundai-sangju-sangmu/
+south korea-2018,25,2018-08-22,11:30,201808221130,wednesday,Incheon United,Jeonnam Dragons,3,1,4,H,W,L,2.0,0.0,2.0,H,W,L,http://www.worldfootball.net/report/k-league-1-2018-incheon-united-jeonnam-dragons/
+south korea-2018,25,2018-08-22,11:30,201808221130,wednesday,Gyeongnam FC,Gangwon FC,2,1,3,H,W,L,0.0,1.0,1.0,A,L,W,http://www.worldfootball.net/report/k-league-1-2018-gyeongnam-fc-gangwon-fc_2/
+south korea-2018,26,2018-08-25,11:00,201808251100,saturday,Ulsan Hyundai,FC Seoul,4,1,5,H,W,L,3.0,0.0,3.0,H,W,L,http://www.worldfootball.net/report/k-league-1-2018-ulsan-hyundai-fc-seoul/
+south korea-2018,26,2018-08-25,11:00,201808251100,saturday,Suwon Bluewings,Gyeongnam FC,1,0,1,H,W,L,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/k-league-1-2018-suwon-bluewings-gyeongnam-fc_2/
+south korea-2018,26,2018-08-25,11:00,201808251100,saturday,Jeju United,Incheon United,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/k-league-1-2018-jeju-united-incheon-united/
+south korea-2018,26,2018-08-25,11:30,201808251130,saturday,Sangju Sangmu,Jeonbuk FC,2,2,4,D,D,D,0.0,2.0,2.0,A,L,W,http://www.worldfootball.net/report/k-league-1-2018-sangju-sangmu-jeonbuk-fc_2/
+south korea-2018,26,2018-08-26,11:00,201808261100,sunday,Jeonnam Dragons,Pohang Steelers,3,2,5,H,W,L,0.0,1.0,1.0,A,L,W,http://www.worldfootball.net/report/k-league-1-2018-jeonnam-dragons-pohang-steelers/
+south korea-2018,26,2018-08-26,11:00,201808261100,sunday,Daegu FC,Gangwon FC,2,0,2,H,W,L,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/k-league-1-2018-daegu-fc-gangwon-fc/
+south korea-2018,27,2018-09-01,11:30,201809011130,saturday,Sangju Sangmu,Jeonnam Dragons,1,2,3,A,L,W,0.0,1.0,1.0,A,L,W,http://www.worldfootball.net/report/k-league-1-2018-sangju-sangmu-jeonnam-dragons_2/
+south korea-2018,27,2018-09-01,12:00,201809011200,saturday,Gangwon FC,FC Seoul,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/k-league-1-2018-gangwon-fc-fc-seoul_2/
+south korea-2018,27,2018-09-02,10:00,201809021000,sunday,Pohang Steelers,Jeju United,2,2,4,D,D,D,0.0,1.0,1.0,A,L,W,http://www.worldfootball.net/report/k-league-1-2018-pohang-steelers-jeju-united_2/
+south korea-2018,27,2018-09-02,10:00,201809021000,sunday,Incheon United,Ulsan Hyundai,3,2,5,H,W,L,2.0,1.0,3.0,H,W,L,http://www.worldfootball.net/report/k-league-1-2018-incheon-united-ulsan-hyundai_2/
+south korea-2018,27,2018-09-02,11:00,201809021100,sunday,Gyeongnam FC,Jeonbuk FC,0,3,3,A,L,W,0.0,2.0,2.0,A,L,W,http://www.worldfootball.net/report/k-league-1-2018-gyeongnam-fc-jeonbuk-fc/
+south korea-2018,27,2018-09-02,11:00,201809021100,sunday,Daegu FC,Suwon Bluewings,4,2,6,H,W,L,3.0,1.0,4.0,H,W,L,http://www.worldfootball.net/report/k-league-1-2018-daegu-fc-suwon-bluewings/
+south korea-2018,25,2018-09-08,08:00,201809080800,saturday,Jeju United,Suwon Bluewings,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/k-league-1-2018-jeju-united-suwon-bluewings/
+south korea-2018,28,2018-09-15,06:00,201809150600,saturday,Jeonbuk FC,Jeju United,4,0,4,H,W,L,1.0,0.0,1.0,H,W,L,http://www.worldfootball.net/report/k-league-1-2018-jeonbuk-fc-jeju-united_2/
+south korea-2018,28,2018-09-15,06:00,201809150600,saturday,Ulsan Hyundai,Pohang Steelers,2,0,2,H,W,L,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/k-league-1-2018-ulsan-hyundai-pohang-steelers_2/
+south korea-2018,28,2018-09-15,08:00,201809150800,saturday,Incheon United,Suwon Bluewings,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/k-league-1-2018-incheon-united-suwon-bluewings_2/
+south korea-2018,28,2018-09-16,06:00,201809160600,sunday,Jeonnam Dragons,Gyeongnam FC,3,3,6,D,D,D,0.0,2.0,2.0,A,L,W,http://www.worldfootball.net/report/k-league-1-2018-jeonnam-dragons-gyeongnam-fc/
+south korea-2018,28,2018-09-16,08:00,201809160800,sunday,FC Seoul,Daegu FC,0,2,2,A,L,W,0.0,1.0,1.0,A,L,W,http://www.worldfootball.net/report/k-league-1-2018-fc-seoul-daegu-fc_2/
+south korea-2018,28,2018-09-16,08:00,201809160800,sunday,Gangwon FC,Sangju Sangmu,2,3,5,A,L,W,1.0,1.0,2.0,D,D,D,http://www.worldfootball.net/report/k-league-1-2018-gangwon-fc-sangju-sangmu/
+south korea-2018,29,2018-09-22,06:00,201809220600,saturday,Gyeongnam FC,FC Seoul,2,1,3,H,W,L,0.0,1.0,1.0,A,L,W,http://www.worldfootball.net/report/k-league-1-2018-gyeongnam-fc-fc-seoul_2/
+south korea-2018,29,2018-09-22,06:00,201809220600,saturday,Pohang Steelers,Incheon United,1,0,1,H,W,L,1.0,0.0,1.0,H,W,L,http://www.worldfootball.net/report/k-league-1-2018-pohang-steelers-incheon-united_2/
+south korea-2018,29,2018-09-22,08:00,201809220800,saturday,Sangju Sangmu,Daegu FC,2,5,7,A,L,W,0.0,3.0,3.0,A,L,W,http://www.worldfootball.net/report/k-league-1-2018-sangju-sangmu-daegu-fc_2/
+south korea-2018,29,2018-09-23,06:00,201809230600,sunday,Jeju United,Gangwon FC,2,2,4,D,D,D,1.0,2.0,3.0,A,L,W,http://www.worldfootball.net/report/k-league-1-2018-jeju-united-gangwon-fc_2/
+south korea-2018,29,2018-09-23,08:00,201809230800,sunday,Suwon Bluewings,Jeonbuk FC,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/k-league-1-2018-suwon-bluewings-jeonbuk-fc_2/
+south korea-2018,29,2018-09-23,08:00,201809230800,sunday,Jeonnam Dragons,Ulsan Hyundai,1,0,1,H,W,L,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/k-league-1-2018-jeonnam-dragons-ulsan-hyundai_2/
+south korea-2018,30,2018-09-26,06:00,201809260600,wednesday,Gangwon FC,Suwon Bluewings,1,0,1,H,W,L,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/k-league-1-2018-gangwon-fc-suwon-bluewings/
+south korea-2018,30,2018-09-26,06:00,201809260600,wednesday,Sangju Sangmu,Pohang Steelers,1,2,3,A,L,W,0.0,2.0,2.0,A,L,W,http://www.worldfootball.net/report/k-league-1-2018-sangju-sangmu-pohang-steelers_2/
+south korea-2018,30,2018-09-26,06:00,201809260600,wednesday,Daegu FC,Gyeongnam FC,2,2,4,D,D,D,0.0,1.0,1.0,A,L,W,http://www.worldfootball.net/report/k-league-1-2018-daegu-fc-gyeongnam-fc_2/
+south korea-2018,30,2018-09-26,07:00,201809260700,wednesday,Ulsan Hyundai,Jeju United,3,2,5,H,W,L,3.0,1.0,4.0,H,W,L,http://www.worldfootball.net/report/k-league-1-2018-ulsan-hyundai-jeju-united/
+south korea-2018,30,2018-09-26,08:00,201809260800,wednesday,FC Seoul,Incheon United,1,1,2,D,D,D,0.0,1.0,1.0,A,L,W,http://www.worldfootball.net/report/k-league-1-2018-fc-seoul-incheon-united/
+south korea-2018,30,2018-09-26,08:00,201809260800,wednesday,Jeonbuk FC,Jeonnam Dragons,1,0,1,H,W,L,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/k-league-1-2018-jeonbuk-fc-jeonnam-dragons/
+south korea-2018,31,2018-09-29,06:00,201809290600,saturday,Suwon Bluewings,Ulsan Hyundai,2,2,4,D,D,D,0.0,1.0,1.0,A,L,W,http://www.worldfootball.net/report/k-league-1-2018-suwon-bluewings-ulsan-hyundai_2/
+south korea-2018,31,2018-09-29,08:00,201809290800,saturday,Jeonbuk FC,Gangwon FC,3,2,5,H,W,L,0.0,1.0,1.0,A,L,W,http://www.worldfootball.net/report/k-league-1-2018-jeonbuk-fc-gangwon-fc_2/
+south korea-2018,31,2018-09-29,08:00,201809290800,saturday,Jeju United,Jeonnam Dragons,1,0,1,H,W,L,1.0,0.0,1.0,H,W,L,http://www.worldfootball.net/report/k-league-1-2018-jeju-united-jeonnam-dragons_2/
+south korea-2018,31,2018-09-30,06:00,201809300600,sunday,FC Seoul,Sangju Sangmu,2,2,4,D,D,D,1.0,0.0,1.0,H,W,L,http://www.worldfootball.net/report/k-league-1-2018-fc-seoul-sangju-sangmu_2/
+south korea-2018,31,2018-09-30,08:00,201809300800,sunday,Pohang Steelers,Daegu FC,2,1,3,H,W,L,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/k-league-1-2018-pohang-steelers-daegu-fc/
+south korea-2018,31,2018-09-30,08:00,201809300800,sunday,Incheon United,Gyeongnam FC,2,2,4,D,D,D,0.0,1.0,1.0,A,L,W,http://www.worldfootball.net/report/k-league-1-2018-incheon-united-gyeongnam-fc_2/
+south korea-2018,32,2018-10-06,06:00,201810060600,saturday,Gangwon FC,Pohang Steelers,1,1,2,D,D,D,1.0,0.0,1.0,H,W,L,http://www.worldfootball.net/report/k-league-1-2018-gangwon-fc-pohang-steelers_2/
+south korea-2018,32,2018-10-06,06:00,201810060600,saturday,Daegu FC,Incheon United,1,2,3,A,L,W,1.0,1.0,2.0,D,D,D,http://www.worldfootball.net/report/k-league-1-2018-daegu-fc-incheon-united_2/
+south korea-2018,32,2018-10-06,08:00,201810060800,saturday,Jeonnam Dragons,FC Seoul,1,0,1,H,W,L,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/k-league-1-2018-jeonnam-dragons-fc-seoul_2/
+south korea-2018,32,2018-10-07,06:00,201810070600,sunday,Sangju Sangmu,Suwon Bluewings,1,2,3,A,L,W,1.0,0.0,1.0,H,W,L,http://www.worldfootball.net/report/k-league-1-2018-sangju-sangmu-suwon-bluewings_2/
+south korea-2018,32,2018-10-07,06:00,201810070600,sunday,Gyeongnam FC,Jeju United,0,1,1,A,L,W,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/k-league-1-2018-gyeongnam-fc-jeju-united/
+south korea-2018,32,2018-10-07,08:00,201810070800,sunday,Ulsan Hyundai,Jeonbuk FC,2,2,4,D,D,D,0.0,0.0,0.0,D,D,D,http://www.worldfootball.net/report/k-league-1-2018-ulsan-hyundai-jeonbuk-fc_2/
+south korea-2018,33,2018-10-20,06:00,201810200600,saturday,Jeonbuk FC,Incheon United,3,2,5,H,W,L,1.0,2.0,3.0,A,L,W,
+south korea-2018,33,2018-10-20,06:00,201810200600,saturday,Suwon Bluewings,Pohang Steelers,2,0,2,H,W,L,0.0,0.0,0.0,D,D,D,
+south korea-2018,33,2018-10-20,06:00,201810200600,saturday,Jeju United,FC Seoul,1,0,1,H,W,L,0.0,0.0,0.0,D,D,D,
+south korea-2018,33,2018-10-20,06:00,201810200600,saturday,Ulsan Hyundai,Gangwon FC,2,0,2,H,W,L,0.0,0.0,0.0,D,D,D,
+south korea-2018,33,2018-10-20,06:00,201810200600,saturday,Daegu FC,Jeonnam Dragons,2,1,3,H,W,L,0.0,0.0,0.0,D,D,D,
+south korea-2018,33,2018-10-20,06:00,201810200600,saturday,Gyeongnam FC,Sangju Sangmu,2,1,3,H,W,L,1.0,0.0,1.0,H,W,L,
+south korea-2018-meisterschaft,1,2018-10-27,06:00,201810270600,saturday,Pohang Steelers,Jeju United,1,2,3,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/k-league-1-2018-meisterschaft-pohang-steelers-jeju-united/
+south korea-2018-meisterschaft,1,2018-10-28,07:00,201810280700,sunday,Jeonbuk FC,Suwon Bluewings,2,0,2,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/k-league-1-2018-meisterschaft-jeonbuk-fc-suwon-bluewings/
+south korea-2018-meisterschaft,1,2018-10-28,07:00,201810280700,sunday,Ulsan Hyundai,Gyeongnam FC,1,0,1,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/k-league-1-2018-meisterschaft-ulsan-hyundai-gyeongnam-fc/
+south korea-2018-meisterschaft,2,2018-11-03,05:00,201811030500,saturday,Jeju United,Gyeongnam FC,0,1,1,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/k-league-1-2018-meisterschaft-jeju-united-gyeongnam-fc/
+south korea-2018-meisterschaft,2,2018-11-04,05:00,201811040500,sunday,Jeonbuk FC,Ulsan Hyundai,3,1,4,H,W,L,3,0,3,H,W,L,http://www.worldfootball.net/report/k-league-1-2018-meisterschaft-jeonbuk-fc-ulsan-hyundai/
+south korea-2018-meisterschaft,2,2018-11-04,07:00,201811040700,sunday,Suwon Bluewings,Pohang Steelers,1,3,4,A,L,W,1,1,2,D,D,D,http://www.worldfootball.net/report/k-league-1-2018-meisterschaft-suwon-bluewings-pohang-steelers/
+south korea-2018-meisterschaft,3,2018-11-10,05:00,201811100500,saturday,Suwon Bluewings,Ulsan Hyundai,3,3,6,D,D,D,0,2,2,A,L,W,http://www.worldfootball.net/report/k-league-1-2018-meisterschaft-suwon-bluewings-ulsan-hyundai/
+south korea-2018-meisterschaft,3,2018-11-10,07:00,201811100700,saturday,Gyeongnam FC,Pohang Steelers,1,2,3,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/k-league-1-2018-meisterschaft-gyeongnam-fc-pohang-steelers/
+south korea-2018-meisterschaft,3,2018-11-10,07:00,201811100700,saturday,Jeju United,Jeonbuk FC,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/k-league-1-2018-meisterschaft-jeju-united-jeonbuk-fc/
+south korea-2018-meisterschaft,4,2018-11-25,05:00,201811250500,sunday,Gyeongnam FC,Suwon Bluewings,2,1,3,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/k-league-1-2018-meisterschaft-gyeongnam-fc-suwon-bluewings/
+south korea-2018-meisterschaft,4,2018-11-25,05:00,201811250500,sunday,Ulsan Hyundai,Jeju United,0,1,1,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/k-league-1-2018-meisterschaft-ulsan-hyundai-jeju-united/
+south korea-2018-meisterschaft,4,2018-11-25,07:00,201811250700,sunday,Pohang Steelers,Jeonbuk FC,1,1,2,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/k-league-1-2018-meisterschaft-pohang-steelers-jeonbuk-fc/
+south korea-2018-meisterschaft,5,2018-12-02,05:00,201812020500,sunday,Jeonbuk FC,Gyeongnam FC,1,1,2,D,D,D,1,0,1,H,W,L,http://www.worldfootball.net/report/k-league-1-2018-meisterschaft-jeonbuk-fc-gyeongnam-fc/
+south korea-2018-meisterschaft,5,2018-12-02,05:00,201812020500,sunday,Suwon Bluewings,Jeju United,0,2,2,A,L,W,0,2,2,A,L,W,http://www.worldfootball.net/report/k-league-1-2018-meisterschaft-suwon-bluewings-jeju-united/
+south korea-2018-meisterschaft,5,2018-12-02,05:00,201812020500,sunday,Pohang Steelers,Ulsan Hyundai,1,3,4,A,L,W,1,1,2,D,D,D,http://www.worldfootball.net/report/k-league-1-2018-meisterschaft-pohang-steelers-ulsan-hyundai/

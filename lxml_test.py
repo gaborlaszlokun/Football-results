@@ -7,13 +7,15 @@ Created on Thu Mar  1 08:15:09 2018
 
 import pandas as pd
 from lxml import html
+from urllib.request import urlopen
 
 url = "http://www.worldfootball.net/report/a-league-2017-2018-western-sydney-wanderers-perth-glory/"
 url = "http://www.worldfootball.net/report/a-league-2017-2018-central-coast-mariners-melbourne-city-fc/"
 url = "http://www.worldfootball.net/report/primera-division-2018-apertura-liverpool-fc-boston-river/"
 url = "http://www.worldfootball.net/report/nb-i-2017-2018-ferencvarosi-tc-budapest-honved/"
 url = "http://www.worldfootball.net/report/primera-division-2017-2018-ud-las-palmas-fc-barcelona/"
-url = "http://www.worldfootball.net/report/nb-i-2017-2018-videoton-fc-budapesti-vasas/"
+#url = "http://www.worldfootball.net/report/nb-i-2017-2018-videoton-fc-budapesti-vasas/"
+url = "https://www.worldfootball.net/report/serie-a-1964-1965-acf-fiorentina-foggia-calcio/"
 
 def halftime_res(table):
     home_goals = []
@@ -29,6 +31,19 @@ def halftime_res(table):
                 if int(minute) < 46:
                     home_goals.append(minute)
     print(len(home_goals), len(away_goals))
+
+def goal_minutes(table):
+    home_goals = []
+    away_goals = []
+    tr = table.findall('tr')
+    for i in tr:
+        if len(i) > 1:
+            minute = i.findall('td')[1].text_content().strip().split(".")[0].split(" ")[-1]
+            if 'style' in i.findall('td')[1].attrib:
+                away_goals.append(minute)
+            else:
+                home_goals.append(minute)
+    print(home_goals,away_goals)
  
 def goal_quartiles(table):
     None
@@ -40,12 +55,23 @@ def cards_sum(tree):
     red += len(tree.xpath('//img[contains(@title, "Second yellow card")]'))
     print(yellow, red)
 
+#TODO: cut down the nationality ( " (")    )
 def get_attend(tree):
     if len(tree.xpath('//img[contains(@title, "Attendance")]')) > 0:
         attend = tree.xpath('//img[contains(@title, "Attendance")]/../..')[0].findall('td')[2].text_content().strip().replace(".","")
-        print(attend)
+        return attend
+    else:
+        return " "
+
+def get_referee(tree):
+    if len(tree.xpath('//img[contains(@title, "Referee")]')) > 0:
+        referee = tree.xpath('//img[contains(@title, "Referee")]/../..')[0].findall('td')[2].text_content().strip().replace(".","")
+        return referee.split(" (")[0]
+    else:
+        return " "
         
-tree = html.parse(url)
+#tree = html.parse(url)
+tree = html.parse(urlopen(url))
 table = tree.xpath('//table[contains(@class, "standard_tabelle")]')[1]
 
 #attend = tree.xpath('//img[contains(@title, "Attendance")]')[0].xpath('@src')[0]
@@ -53,7 +79,10 @@ table = tree.xpath('//table[contains(@class, "standard_tabelle")]')[1]
 
 halftime_res(table)
 cards_sum(tree)
-get_attend(tree)
+
+goal_minutes(table)
+print(get_attend(tree))
+print(get_referee(tree))
 
 #away_goal = tree.xpath('//td[contains(@style, "padding-left: 50px;")]')[0].text_content().strip()
 #print(away_goal)

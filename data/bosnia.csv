@@ -1,7 +1,7 @@
 Div,Round,Date,Time,timestamp,Weekday,HomeTeam,AwayTeam,FTHG,FTAG,FTG,FTR,FTHR,FTAR,HTHG,HTAG,HTG,HTR,HTHR,HTAR,Report_url
 bosnia-herzegovina-2002-2003,1,2002-08-03,,200208030000,saturday,FK Sarajevo,NK Posušje,4,0,4,H,W,L,,,,,,,
 bosnia-herzegovina-2002-2003,1,2002-08-03,,200208030000,saturday,FK Kozara,HNK Orašje,1,1,2,D,D,D,,,,,,,
-bosnia-herzegovina-2002-2003,1,2002-08-03,,200208030000,saturday,FK Mladost Gacko,NK Brotnjo,0,0,0,D,D,D,0,0,0,D,D,D,
+bosnia-herzegovina-2002-2003,1,2002-08-03,,200208030000,saturday,FK Mladost Gacko,NK Brotnjo,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
 bosnia-herzegovina-2002-2003,1,2002-08-03,,200208030000,saturday,NK Bosna Visoko,Leotar Trebinje,0,9,9,A,L,W,,,,,,,
 bosnia-herzegovina-2002-2003,1,2002-08-03,,200208030000,saturday,Čelik Zenica,Sloboda Tuzla,3,0,3,H,W,L,,,,,,,
 bosnia-herzegovina-2002-2003,1,2002-08-04,,200208040000,sunday,NK Zepce,Željezničar Sarajevo,1,1,2,D,D,D,,,,,,,
@@ -11,9 +11,9 @@ bosnia-herzegovina-2002-2003,1,2002-08-04,,200208040000,sunday,Zrinjski Mostar,N
 bosnia-herzegovina-2002-2003,1,2002-08-04,,200208040000,sunday,Široki Brijeg,Velež Mostar,2,1,3,H,W,L,,,,,,,
 bosnia-herzegovina-2002-2003,2,2002-08-10,,200208100000,saturday,Borac Banja Luka,NK Bosna Visoko,3,1,4,H,W,L,,,,,,,
 bosnia-herzegovina-2002-2003,2,2002-08-10,,200208100000,saturday,Buducnost Banovici,FK Mladost Gacko,3,1,4,H,W,L,,,,,,,
-bosnia-herzegovina-2002-2003,2,2002-08-10,,200208100000,saturday,Leotar Trebinje,Čelik Zenica,0,0,0,D,D,D,0,0,0,D,D,D,
+bosnia-herzegovina-2002-2003,2,2002-08-10,,200208100000,saturday,Leotar Trebinje,Čelik Zenica,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
 bosnia-herzegovina-2002-2003,2,2002-08-10,,200208100000,saturday,HNK Orašje,FK Sarajevo,2,0,2,H,W,L,,,,,,,
-bosnia-herzegovina-2002-2003,2,2002-08-10,,200208100000,saturday,Sloboda Tuzla,Glasinac Sokolac,0,0,0,D,D,D,0,0,0,D,D,D,
+bosnia-herzegovina-2002-2003,2,2002-08-10,,200208100000,saturday,Sloboda Tuzla,Glasinac Sokolac,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
 bosnia-herzegovina-2002-2003,2,2002-08-10,,200208100000,saturday,Velež Mostar,NK Jedinstvo,2,0,2,H,W,L,,,,,,,
 bosnia-herzegovina-2002-2003,2,2002-08-10,,200208100000,saturday,Željezničar Sarajevo,Rudar Ugljevik,0,1,1,A,L,W,,,,,,,
 bosnia-herzegovina-2002-2003,2,2002-08-10,,200208100000,saturday,Široki Brijeg,NK Zepce,3,0,3,H,W,L,,,,,,,
@@ -43,9 +43,9 @@ bosnia-herzegovina-2002-2003,5,2002-08-31,,200208310000,saturday,NK Bosna Visoko
 bosnia-herzegovina-2002-2003,5,2002-08-31,,200208310000,saturday,NK Jedinstvo,NK Brotnjo,1,1,2,D,D,D,,,,,,,
 bosnia-herzegovina-2002-2003,5,2002-08-31,,200208310000,saturday,FK Kozara,Leotar Trebinje,2,2,4,D,D,D,,,,,,,
 bosnia-herzegovina-2002-2003,5,2002-08-31,,200208310000,saturday,FK Mladost Gacko,Borac Banja Luka,2,0,2,H,W,L,,,,,,,
-bosnia-herzegovina-2002-2003,5,2002-09-01,,200209010000,sunday,Čelik Zenica,Široki Brijeg,0,0,0,D,D,D,0,0,0,D,D,D,
+bosnia-herzegovina-2002-2003,5,2002-09-01,,200209010000,sunday,Čelik Zenica,Široki Brijeg,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
 bosnia-herzegovina-2002-2003,5,2002-09-01,,200209010000,sunday,Glasinac Sokolac,Željezničar Sarajevo,0,1,1,A,L,W,,,,,,,
-bosnia-herzegovina-2002-2003,5,2002-09-01,,200209010000,sunday,NK Posušje,HNK Orašje,0,0,0,D,D,D,0,0,0,D,D,D,
+bosnia-herzegovina-2002-2003,5,2002-09-01,,200209010000,sunday,NK Posušje,HNK Orašje,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
 bosnia-herzegovina-2002-2003,5,2002-09-01,,200209010000,sunday,Rudar Ugljevik,Velež Mostar,4,0,4,H,W,L,,,,,,,
 bosnia-herzegovina-2002-2003,5,2002-09-01,,200209010000,sunday,FK Sarajevo,Sloboda Tuzla,2,0,2,H,W,L,,,,,,,
 bosnia-herzegovina-2002-2003,5,2002-09-02,,200209020000,monday,Zrinjski Mostar,Buducnost Banovici,2,0,2,H,W,L,,,,,,,
@@ -64,9 +64,9 @@ bosnia-herzegovina-2002-2003,7,2002-09-14,,200209140000,saturday,FK Sarajevo,Bor
 bosnia-herzegovina-2002-2003,7,2002-09-14,,200209140000,saturday,NK Bosna Visoko,Velež Mostar,1,0,1,H,W,L,,,,,,,
 bosnia-herzegovina-2002-2003,7,2002-09-14,,200209140000,saturday,Čelik Zenica,Rudar Ugljevik,2,1,3,H,W,L,,,,,,,
 bosnia-herzegovina-2002-2003,7,2002-09-14,,200209140000,saturday,NK Jedinstvo,Sloboda Tuzla,2,1,3,H,W,L,,,,,,,
-bosnia-herzegovina-2002-2003,7,2002-09-14,,200209140000,saturday,FK Kozara,Željezničar Sarajevo,0,0,0,D,D,D,0,0,0,D,D,D,
-bosnia-herzegovina-2002-2003,7,2002-09-14,,200209140000,saturday,FK Mladost Gacko,Široki Brijeg,0,0,0,D,D,D,0,0,0,D,D,D,
-bosnia-herzegovina-2002-2003,7,2002-09-15,,200209150000,sunday,Glasinac Sokolac,NK Zepce,0,0,0,D,D,D,0,0,0,D,D,D,
+bosnia-herzegovina-2002-2003,7,2002-09-14,,200209140000,saturday,FK Kozara,Željezničar Sarajevo,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
+bosnia-herzegovina-2002-2003,7,2002-09-14,,200209140000,saturday,FK Mladost Gacko,Široki Brijeg,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
+bosnia-herzegovina-2002-2003,7,2002-09-15,,200209150000,sunday,Glasinac Sokolac,NK Zepce,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
 bosnia-herzegovina-2002-2003,7,2002-09-15,,200209150000,sunday,NK Posušje,Buducnost Banovici,2,1,3,H,W,L,,,,,,,
 bosnia-herzegovina-2002-2003,7,2002-09-15,,200209150000,sunday,Zrinjski Mostar,Leotar Trebinje,1,0,1,H,W,L,,,,,,,
 bosnia-herzegovina-2002-2003,8,2002-09-22,,200209220000,sunday,Velež Mostar,NK Brotnjo,0,1,1,A,L,W,,,,,,,
@@ -95,17 +95,17 @@ bosnia-herzegovina-2002-2003,10,2002-09-28,,200209280000,saturday,Željezničar 
 bosnia-herzegovina-2002-2003,10,2002-09-28,,200209280000,saturday,NK Bosna Visoko,FK Mladost Gacko,2,3,5,A,L,W,,,,,,,
 bosnia-herzegovina-2002-2003,10,2002-09-28,,200209280000,saturday,Čelik Zenica,Glasinac Sokolac,4,0,4,H,W,L,,,,,,,
 bosnia-herzegovina-2002-2003,10,2002-09-29,,200209290000,sunday,Sloboda Tuzla,NK Brotnjo,3,0,3,H,W,L,,,,,,,
-bosnia-herzegovina-2002-2003,10,2002-09-29,,200209290000,sunday,NK Zepce,FK Sarajevo,0,0,0,D,D,D,0,0,0,D,D,D,
+bosnia-herzegovina-2002-2003,10,2002-09-29,,200209290000,sunday,NK Zepce,FK Sarajevo,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
 bosnia-herzegovina-2002-2003,10,2002-09-29,,200209290000,sunday,Rudar Ugljevik,FK Kozara,3,1,4,H,W,L,,,,,,,
 bosnia-herzegovina-2002-2003,10,2002-09-29,,200209290000,sunday,Široki Brijeg,Zrinjski Mostar,4,0,4,H,W,L,,,,,,,
 bosnia-herzegovina-2002-2003,9,2002-10-02,,200210020000,wednesday,Glasinac Sokolac,NK Bosna Visoko,4,0,4,H,W,L,,,,,,,
 bosnia-herzegovina-2002-2003,11,2002-10-06,,200210060000,sunday,Glasinac Sokolac,Velež Mostar,3,2,5,H,W,L,,,,,,,
-bosnia-herzegovina-2002-2003,11,2002-10-06,,200210060000,sunday,FK Mladost Gacko,Čelik Zenica,0,0,0,D,D,D,0,0,0,D,D,D,
+bosnia-herzegovina-2002-2003,11,2002-10-06,,200210060000,sunday,FK Mladost Gacko,Čelik Zenica,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
 bosnia-herzegovina-2002-2003,11,2002-10-06,,200210060000,sunday,FK Kozara,NK Bosna Visoko,2,1,3,H,W,L,,,,,,,
 bosnia-herzegovina-2002-2003,11,2002-10-06,,200210060000,sunday,FK Sarajevo,Rudar Ugljevik,4,2,6,H,W,L,,,,,,,
 bosnia-herzegovina-2002-2003,11,2002-10-06,,200210060000,sunday,Zrinjski Mostar,NK Zepce,0,1,1,A,L,W,,,,,,,
 bosnia-herzegovina-2002-2003,11,2002-10-06,,200210060000,sunday,NK Jedinstvo,Široki Brijeg,5,2,7,H,W,L,,,,,,,
-bosnia-herzegovina-2002-2003,11,2002-10-06,,200210060000,sunday,NK Posušje,Željezničar Sarajevo,0,0,0,D,D,D,0,0,0,D,D,D,
+bosnia-herzegovina-2002-2003,11,2002-10-06,,200210060000,sunday,NK Posušje,Željezničar Sarajevo,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
 bosnia-herzegovina-2002-2003,11,2002-10-06,,200210060000,sunday,HNK Orašje,Borac Banja Luka,1,0,1,H,W,L,,,,,,,
 bosnia-herzegovina-2002-2003,11,2002-10-06,,200210060000,sunday,NK Brotnjo,Leotar Trebinje,0,1,1,A,L,W,,,,,,,
 bosnia-herzegovina-2002-2003,11,2002-10-06,,200210060000,sunday,Buducnost Banovici,Sloboda Tuzla,1,1,2,D,D,D,,,,,,,
@@ -145,11 +145,11 @@ bosnia-herzegovina-2002-2003,15,2002-10-30,,200210300000,wednesday,Zrinjski Most
 bosnia-herzegovina-2002-2003,15,2002-10-30,,200210300000,wednesday,NK Jedinstvo,Čelik Zenica,1,1,2,D,D,D,,,,,,,
 bosnia-herzegovina-2002-2003,15,2002-10-30,,200210300000,wednesday,NK Posušje,NK Bosna Visoko,2,0,2,H,W,L,,,,,,,
 bosnia-herzegovina-2002-2003,15,2002-10-30,,200210300000,wednesday,HNK Orašje,Rudar Ugljevik,2,0,2,H,W,L,,,,,,,
-bosnia-herzegovina-2002-2003,15,2002-10-30,,200210300000,wednesday,NK Brotnjo,NK Zepce,0,0,0,D,D,D,0,0,0,D,D,D,
+bosnia-herzegovina-2002-2003,15,2002-10-30,,200210300000,wednesday,NK Brotnjo,NK Zepce,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
 bosnia-herzegovina-2002-2003,15,2002-10-30,,200210300000,wednesday,Buducnost Banovici,Široki Brijeg,1,3,4,A,L,W,,,,,,,
 bosnia-herzegovina-2002-2003,15,2002-10-30,,200210300000,wednesday,Sloboda Tuzla,Željezničar Sarajevo,0,1,1,A,L,W,,,,,,,
 bosnia-herzegovina-2002-2003,15,2002-10-30,,200210300000,wednesday,Leotar Trebinje,Borac Banja Luka,2,1,3,H,W,L,,,,,,,
-bosnia-herzegovina-2002-2003,16,2002-11-02,,200211020000,saturday,Velež Mostar,Borac Banja Luka,0,0,0,D,D,D,0,0,0,D,D,D,
+bosnia-herzegovina-2002-2003,16,2002-11-02,,200211020000,saturday,Velež Mostar,Borac Banja Luka,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
 bosnia-herzegovina-2002-2003,16,2002-11-02,,200211020000,saturday,NK Bosna Visoko,HNK Orašje,1,1,2,D,D,D,,,,,,,
 bosnia-herzegovina-2002-2003,16,2002-11-02,,200211020000,saturday,Čelik Zenica,NK Posušje,5,0,5,H,W,L,,,,,,,
 bosnia-herzegovina-2002-2003,16,2002-11-02,,200211020000,saturday,FK Mladost Gacko,Zrinjski Mostar,2,1,3,H,W,L,,,,,,,
@@ -162,7 +162,7 @@ bosnia-herzegovina-2002-2003,16,2002-11-03,,200211030000,sunday,Željezničar Sa
 bosnia-herzegovina-2002-2003,17,2002-11-09,,200211090000,saturday,FK Sarajevo,Velež Mostar,3,1,4,H,W,L,,,,,,,
 bosnia-herzegovina-2002-2003,17,2002-11-09,,200211090000,saturday,NK Jedinstvo,FK Mladost Gacko,2,1,3,H,W,L,,,,,,,
 bosnia-herzegovina-2002-2003,17,2002-11-09,,200211090000,saturday,HNK Orašje,Čelik Zenica,2,2,4,D,D,D,,,,,,,
-bosnia-herzegovina-2002-2003,17,2002-11-09,,200211090000,saturday,Buducnost Banovici,Rudar Ugljevik,0,0,0,D,D,D,0,0,0,D,D,D,
+bosnia-herzegovina-2002-2003,17,2002-11-09,,200211090000,saturday,Buducnost Banovici,Rudar Ugljevik,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
 bosnia-herzegovina-2002-2003,17,2002-11-09,,200211090000,saturday,Sloboda Tuzla,NK Zepce,1,0,1,H,W,L,,,,,,,
 bosnia-herzegovina-2002-2003,17,2002-11-09,,200211090000,saturday,Leotar Trebinje,Široki Brijeg,1,0,1,H,W,L,,,,,,,
 bosnia-herzegovina-2002-2003,17,2002-11-09,,200211090000,saturday,Borac Banja Luka,Željezničar Sarajevo,2,0,2,H,W,L,,,,,,,
@@ -193,15 +193,15 @@ bosnia-herzegovina-2002-2003,20,2003-02-22,,200302220000,saturday,HNK Orašje,FK
 bosnia-herzegovina-2002-2003,20,2003-02-22,,200302220000,saturday,Leotar Trebinje,NK Bosna Visoko,2,1,3,H,W,L,,,,,,,
 bosnia-herzegovina-2002-2003,20,2003-02-22,,200302220000,saturday,Sloboda Tuzla,Čelik Zenica,1,0,1,H,W,L,,,,,,,
 bosnia-herzegovina-2002-2003,20,2003-02-22,,200302220000,saturday,Željezničar Sarajevo,NK Zepce,6,1,7,H,W,L,,,,,,,
-bosnia-herzegovina-2002-2003,20,2003-02-22,,200302220000,saturday,Borac Banja Luka,Rudar Ugljevik,0,0,0,D,D,D,0,0,0,D,D,D,
-bosnia-herzegovina-2002-2003,20,2003-02-22,,200302220000,saturday,Buducnost Banovici,Glasinac Sokolac,0,0,0,D,D,D,0,0,0,D,D,D,
+bosnia-herzegovina-2002-2003,20,2003-02-22,,200302220000,saturday,Borac Banja Luka,Rudar Ugljevik,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
+bosnia-herzegovina-2002-2003,20,2003-02-22,,200302220000,saturday,Buducnost Banovici,Glasinac Sokolac,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
 bosnia-herzegovina-2002-2003,20,2003-02-22,,200302220000,saturday,NK Jedinstvo,Zrinjski Mostar,4,1,5,H,W,L,,,,,,,
 bosnia-herzegovina-2002-2003,20,2003-02-22,,200302220000,saturday,Velež Mostar,Široki Brijeg,1,3,4,A,L,W,,,,,,,
 bosnia-herzegovina-2002-2003,20,2003-02-23,,200302230000,sunday,NK Posušje,FK Sarajevo,3,0,3,H,W,L,,,,,,,
 bosnia-herzegovina-2002-2003,20,2003-02-23,,200302230000,sunday,NK Brotnjo,FK Mladost Gacko,1,0,1,H,W,L,,,,,,,
 bosnia-herzegovina-2002-2003,21,2003-03-01,,200303010000,saturday,NK Bosna Visoko,Borac Banja Luka,1,2,3,A,L,W,,,,,,,
 bosnia-herzegovina-2002-2003,21,2003-03-01,,200303010000,saturday,FK Mladost Gacko,Buducnost Banovici,1,0,1,H,W,L,,,,,,,
-bosnia-herzegovina-2002-2003,21,2003-03-01,,200303010000,saturday,Čelik Zenica,Leotar Trebinje,0,0,0,D,D,D,0,0,0,D,D,D,
+bosnia-herzegovina-2002-2003,21,2003-03-01,,200303010000,saturday,Čelik Zenica,Leotar Trebinje,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
 bosnia-herzegovina-2002-2003,21,2003-03-01,,200303010000,saturday,FK Sarajevo,HNK Orašje,3,0,3,H,W,L,,,,,,,
 bosnia-herzegovina-2002-2003,21,2003-03-01,,200303010000,saturday,NK Jedinstvo,Velež Mostar,1,0,1,H,W,L,,,,,,,
 bosnia-herzegovina-2002-2003,21,2003-03-02,,200303020000,sunday,Glasinac Sokolac,Sloboda Tuzla,1,0,1,H,W,L,,,,,,,
@@ -224,13 +224,13 @@ bosnia-herzegovina-2002-2003,23,2003-03-12,,200303120000,wednesday,FK Kozara,Slo
 bosnia-herzegovina-2002-2003,23,2003-03-12,,200303120000,wednesday,NK Posušje,Velež Mostar,2,0,2,H,W,L,,,,,,,
 bosnia-herzegovina-2002-2003,23,2003-03-12,,200303120000,wednesday,Glasinac Sokolac,Borac Banja Luka,0,2,2,A,L,W,,,,,,,
 bosnia-herzegovina-2002-2003,23,2003-03-12,,200303120000,wednesday,NK Jedinstvo,HNK Orašje,2,1,3,H,W,L,,,,,,,
-bosnia-herzegovina-2002-2003,23,2003-03-12,,200303120000,wednesday,FK Sarajevo,Buducnost Banovici,0,0,0,D,D,D,0,0,0,D,D,D,
-bosnia-herzegovina-2002-2003,23,2003-03-12,,200303120000,wednesday,Čelik Zenica,Željezničar Sarajevo,0,0,0,D,D,D,0,0,0,D,D,D,
+bosnia-herzegovina-2002-2003,23,2003-03-12,,200303120000,wednesday,FK Sarajevo,Buducnost Banovici,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
+bosnia-herzegovina-2002-2003,23,2003-03-12,,200303120000,wednesday,Čelik Zenica,Željezničar Sarajevo,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
 bosnia-herzegovina-2002-2003,23,2003-03-12,,200303120000,wednesday,FK Mladost Gacko,Leotar Trebinje,1,1,2,D,D,D,,,,,,,
 bosnia-herzegovina-2002-2003,23,2003-03-12,,200303120000,wednesday,Zrinjski Mostar,NK Brotnjo,1,0,1,H,W,L,,,,,,,
 bosnia-herzegovina-2002-2003,23,2003-03-12,,200303120000,wednesday,Rudar Ugljevik,NK Zepce,1,3,4,A,L,W,,,,,,,
 bosnia-herzegovina-2002-2003,24,2003-03-15,,200303150000,saturday,NK Zepce,NK Bosna Visoko,6,1,7,H,W,L,,,,,,,
-bosnia-herzegovina-2002-2003,24,2003-03-15,,200303150000,saturday,NK Brotnjo,NK Jedinstvo,0,0,0,D,D,D,0,0,0,D,D,D,
+bosnia-herzegovina-2002-2003,24,2003-03-15,,200303150000,saturday,NK Brotnjo,NK Jedinstvo,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
 bosnia-herzegovina-2002-2003,24,2003-03-15,,200303150000,saturday,Leotar Trebinje,FK Kozara,1,0,1,H,W,L,,,,,,,
 bosnia-herzegovina-2002-2003,24,2003-03-15,,200303150000,saturday,Borac Banja Luka,FK Mladost Gacko,3,0,3,H,W,L,,,,,,,
 bosnia-herzegovina-2002-2003,24,2003-03-15,,200303150000,saturday,Široki Brijeg,Čelik Zenica,1,0,1,H,W,L,,,,,,,
@@ -249,9 +249,9 @@ bosnia-herzegovina-2002-2003,25,2003-03-23,,200303230000,sunday,NK Posušje,NK B
 bosnia-herzegovina-2002-2003,25,2003-03-23,,200303230000,sunday,Zrinjski Mostar,Sloboda Tuzla,1,1,2,D,D,D,,,,,,,
 bosnia-herzegovina-2002-2003,25,2003-03-23,,200303230000,sunday,FK Sarajevo,Leotar Trebinje,2,0,2,H,W,L,,,,,,,
 bosnia-herzegovina-2002-2003,25,2003-03-23,,200303230000,sunday,Glasinac Sokolac,Široki Brijeg,2,0,2,H,W,L,,,,,,,
-bosnia-herzegovina-2002-2003,26,2003-04-05,,200304050000,saturday,Borac Banja Luka,FK Sarajevo,0,0,0,D,D,D,0,0,0,D,D,D,
+bosnia-herzegovina-2002-2003,26,2003-04-05,,200304050000,saturday,Borac Banja Luka,FK Sarajevo,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
 bosnia-herzegovina-2002-2003,26,2003-04-05,,200304050000,saturday,Velež Mostar,NK Bosna Visoko,4,0,4,H,W,L,,,,,,,
-bosnia-herzegovina-2002-2003,26,2003-04-05,,200304050000,saturday,Sloboda Tuzla,NK Jedinstvo,0,0,0,D,D,D,0,0,0,D,D,D,
+bosnia-herzegovina-2002-2003,26,2003-04-05,,200304050000,saturday,Sloboda Tuzla,NK Jedinstvo,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
 bosnia-herzegovina-2002-2003,26,2003-04-05,,200304050000,saturday,Željezničar Sarajevo,FK Kozara,1,0,1,H,W,L,,,,,,,
 bosnia-herzegovina-2002-2003,26,2003-04-05,,200304050000,saturday,Buducnost Banovici,NK Posušje,1,1,2,D,D,D,,,,,,,
 bosnia-herzegovina-2002-2003,26,2003-04-05,,200304050000,saturday,Leotar Trebinje,Zrinjski Mostar,4,0,4,H,W,L,,,,,,,
@@ -280,13 +280,13 @@ bosnia-herzegovina-2002-2003,28,2003-04-16,,200304160000,wednesday,Sloboda Tuzla
 bosnia-herzegovina-2002-2003,28,2003-04-16,,200304160000,wednesday,Buducnost Banovici,NK Brotnjo,5,0,5,H,W,L,,,,,,,
 bosnia-herzegovina-2002-2003,28,2003-04-16,,200304160000,wednesday,NK Bosna Visoko,Glasinac Sokolac,0,3,3,A,L,W,,,,,,,
 bosnia-herzegovina-2002-2003,29,2003-04-19,,200304190000,saturday,Buducnost Banovici,Velež Mostar,2,1,3,H,W,L,,,,,,,
-bosnia-herzegovina-2002-2003,29,2003-04-19,,200304190000,saturday,HNK Orašje,Leotar Trebinje,0,0,0,D,D,D,0,0,0,D,D,D,
+bosnia-herzegovina-2002-2003,29,2003-04-19,,200304190000,saturday,HNK Orašje,Leotar Trebinje,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
 bosnia-herzegovina-2002-2003,29,2003-04-19,,200304190000,saturday,NK Posušje,Borac Banja Luka,3,2,5,H,W,L,,,,,,,
-bosnia-herzegovina-2002-2003,29,2003-04-19,,200304190000,saturday,NK Jedinstvo,Željezničar Sarajevo,0,0,0,D,D,D,0,0,0,D,D,D,
+bosnia-herzegovina-2002-2003,29,2003-04-19,,200304190000,saturday,NK Jedinstvo,Željezničar Sarajevo,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
 bosnia-herzegovina-2002-2003,29,2003-04-19,,200304190000,saturday,FK Mladost Gacko,NK Bosna Visoko,3,0,3,H,W,L,,,,,,,
 bosnia-herzegovina-2002-2003,29,2003-04-19,,200304190000,saturday,Glasinac Sokolac,Čelik Zenica,1,0,1,H,W,L,,,,,,,
 bosnia-herzegovina-2002-2003,29,2003-04-19,,200304190000,saturday,NK Brotnjo,Sloboda Tuzla,1,0,1,H,W,L,,,,,,,
-bosnia-herzegovina-2002-2003,29,2003-04-19,,200304190000,saturday,FK Sarajevo,NK Zepce,0,0,0,D,D,D,0,0,0,D,D,D,
+bosnia-herzegovina-2002-2003,29,2003-04-19,,200304190000,saturday,FK Sarajevo,NK Zepce,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
 bosnia-herzegovina-2002-2003,29,2003-04-19,,200304190000,saturday,FK Kozara,Rudar Ugljevik,2,1,3,H,W,L,,,,,,,
 bosnia-herzegovina-2002-2003,29,2003-04-19,,200304190000,saturday,Zrinjski Mostar,Široki Brijeg,1,0,1,H,W,L,,,,,,,
 bosnia-herzegovina-2002-2003,30,2003-04-23,,200304230000,wednesday,Velež Mostar,Glasinac Sokolac,3,0,3,H,W,L,,,,,,,
@@ -314,7 +314,7 @@ bosnia-herzegovina-2002-2003,32,2003-04-30,,200304300000,wednesday,Glasinac Soko
 bosnia-herzegovina-2002-2003,32,2003-04-30,,200304300000,wednesday,Čelik Zenica,FK Sarajevo,1,1,2,D,D,D,,,,,,,
 bosnia-herzegovina-2002-2003,32,2003-04-30,,200304300000,wednesday,NK Bosna Visoko,Zrinjski Mostar,0,2,2,A,L,W,,,,,,,
 bosnia-herzegovina-2002-2003,32,2003-04-30,,200304300000,wednesday,Rudar Ugljevik,NK Jedinstvo,2,0,2,H,W,L,,,,,,,
-bosnia-herzegovina-2002-2003,32,2003-04-30,,200304300000,wednesday,NK Zepce,NK Posušje,0,0,0,D,D,D,0,0,0,D,D,D,
+bosnia-herzegovina-2002-2003,32,2003-04-30,,200304300000,wednesday,NK Zepce,NK Posušje,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
 bosnia-herzegovina-2002-2003,32,2003-04-30,,200304300000,wednesday,Široki Brijeg,HNK Orašje,4,0,4,H,W,L,,,,,,,
 bosnia-herzegovina-2002-2003,32,2003-04-30,,200304300000,wednesday,Željezničar Sarajevo,NK Brotnjo,4,2,6,H,W,L,,,,,,,
 bosnia-herzegovina-2002-2003,32,2003-04-30,,200304300000,wednesday,Borac Banja Luka,Buducnost Banovici,5,0,5,H,W,L,,,,,,,
@@ -345,7 +345,7 @@ bosnia-herzegovina-2002-2003,35,2003-05-10,,200305100000,saturday,Zrinjski Mosta
 bosnia-herzegovina-2002-2003,35,2003-05-10,,200305100000,saturday,Sloboda Tuzla,Široki Brijeg,4,0,4,H,W,L,,,,,,,
 bosnia-herzegovina-2002-2003,35,2003-05-10,,200305100000,saturday,NK Jedinstvo,Glasinac Sokolac,2,0,2,H,W,L,,,,,,,
 bosnia-herzegovina-2002-2003,35,2003-05-10,,200305100000,saturday,Leotar Trebinje,Željezničar Sarajevo,2,2,4,D,D,D,,,,,,,
-bosnia-herzegovina-2002-2003,35,2003-05-11,,200305110000,sunday,NK Posušje,Čelik Zenica,0,0,0,D,D,D,0,0,0,D,D,D,
+bosnia-herzegovina-2002-2003,35,2003-05-11,,200305110000,sunday,NK Posušje,Čelik Zenica,0,0,0,D,D,D,0.0,0.0,0.0,D,D,D,
 bosnia-herzegovina-2002-2003,35,2003-05-11,,200305110000,sunday,FK Sarajevo,FK Kozara,6,2,8,H,W,L,,,,,,,
 bosnia-herzegovina-2002-2003,35,2003-05-11,,200305110000,sunday,NK Brotnjo,Rudar Ugljevik,2,1,3,H,W,L,,,,,,,
 bosnia-herzegovina-2002-2003,35,2003-05-14,,200305140000,wednesday,Buducnost Banovici,NK Zepce,2,3,5,A,L,W,,,,,,,
@@ -3880,3 +3880,117 @@ bosnia-herzegovina-2017-2018-abstieg,32,2018-05-19,16:00,201805191600,saturday,N
 bosnia-herzegovina-2017-2018-meisterschaft,32,2018-05-19,16:00,201805191600,saturday,Željezničar Sarajevo,FK Sarajevo,2,1,3,H,W,L,2.0,1.0,3.0,H,W,L,http://www.worldfootball.net/report/premier-liga-2017-2018-meisterschaft-zeljeznicar-sarajevo-fk-sarajevo/
 bosnia-herzegovina-2017-2018-meisterschaft,32,2018-05-20,16:00,201805201600,sunday,Radnik Bijeljina,Široki Brijeg,3,3,6,D,D,D,1.0,1.0,2.0,D,D,D,http://www.worldfootball.net/report/premier-liga-2017-2018-meisterschaft-radnik-bijeljina-siroki-brijeg/
 bosnia-herzegovina-2017-2018-meisterschaft,32,2018-05-20,16:00,201805201600,sunday,Zrinjski Mostar,FK Krupa,4,0,4,H,W,L,3.0,0.0,3.0,H,W,L,http://www.worldfootball.net/report/premier-liga-2017-2018-meisterschaft-zrinjski-mostar-fk-krupa/
+bosnia-herzegovina-2018-2019,1,2018-07-21,16:30,201807211630,saturday,FK Krupa,Čelik Zenica,3,1,4,H,W,L,2,1,3,H,W,L,http://www.worldfootball.net/report/premier-liga-2018-2019-fk-krupa-celik-zenica/
+bosnia-herzegovina-2018-2019,1,2018-07-21,16:30,201807211630,saturday,FK Mladost Doboj-Kakanj,Zvijezda 09 Bijeljina,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/premier-liga-2018-2019-fk-mladost-doboj-kakanj-zvijezda-09-bijeljina/
+bosnia-herzegovina-2018-2019,1,2018-07-21,16:30,201807211630,saturday,NK GOŠK Gabela,Željezničar Sarajevo,0,1,1,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/premier-liga-2018-2019-nk-gosk-gabela-zeljeznicar-sarajevo/
+bosnia-herzegovina-2018-2019,1,2018-07-21,19:00,201807211900,saturday,Sloboda Tuzla,Zrinjski Mostar,0,1,1,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/premier-liga-2018-2019-sloboda-tuzla-zrinjski-mostar/
+bosnia-herzegovina-2018-2019,1,2018-07-22,16:30,201807221630,sunday,Radnik Bijeljina,FK Sarajevo,2,1,3,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/premier-liga-2018-2019-radnik-bijeljina-fk-sarajevo/
+bosnia-herzegovina-2018-2019,1,2018-07-22,19:30,201807221930,sunday,Široki Brijeg,FK Tuzla City,1,0,1,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/premier-liga-2018-2019-siroki-brijeg-fk-tuzla-city/
+bosnia-herzegovina-2018-2019,2,2018-07-28,16:00,201807281600,saturday,FK Tuzla City,Radnik Bijeljina,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/premier-liga-2018-2019-fk-tuzla-city-radnik-bijeljina/
+bosnia-herzegovina-2018-2019,2,2018-07-28,16:30,201807281630,saturday,Zvijezda 09 Bijeljina,Sloboda Tuzla,1,1,2,D,D,D,1,0,1,H,W,L,http://www.worldfootball.net/report/premier-liga-2018-2019-zvijezda-09-bijeljina-sloboda-tuzla/
+bosnia-herzegovina-2018-2019,2,2018-07-28,16:30,201807281630,saturday,FK Krupa,Široki Brijeg,2,2,4,D,D,D,2,1,3,H,W,L,http://www.worldfootball.net/report/premier-liga-2018-2019-fk-krupa-siroki-brijeg/
+bosnia-herzegovina-2018-2019,2,2018-07-29,17:30,201807291730,sunday,FK Sarajevo,FK Mladost Doboj-Kakanj,4,0,4,H,W,L,2,0,2,H,W,L,http://www.worldfootball.net/report/premier-liga-2018-2019-fk-sarajevo-fk-mladost-doboj-kakanj/
+bosnia-herzegovina-2018-2019,2,2018-07-29,19:00,201807291900,sunday,Zrinjski Mostar,NK GOŠK Gabela,3,1,4,H,W,L,2,0,2,H,W,L,http://www.worldfootball.net/report/premier-liga-2018-2019-zrinjski-mostar-nk-gosk-gabela/
+bosnia-herzegovina-2018-2019,2,2018-07-29,19:30,201807291930,sunday,Čelik Zenica,Željezničar Sarajevo,1,0,1,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/premier-liga-2018-2019-celik-zenica-zeljeznicar-sarajevo/
+bosnia-herzegovina-2018-2019,3,2018-08-04,16:00,201808041600,saturday,Radnik Bijeljina,FK Krupa,2,2,4,D,D,D,1,2,3,A,L,W,http://www.worldfootball.net/report/premier-liga-2018-2019-radnik-bijeljina-fk-krupa/
+bosnia-herzegovina-2018-2019,3,2018-08-04,16:30,201808041630,saturday,FK Mladost Doboj-Kakanj,FK Tuzla City,0,1,1,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/premier-liga-2018-2019-fk-mladost-doboj-kakanj-fk-tuzla-city/
+bosnia-herzegovina-2018-2019,3,2018-08-05,16:30,201808051630,sunday,NK GOŠK Gabela,Zvijezda 09 Bijeljina,2,2,4,D,D,D,2,2,4,D,D,D,http://www.worldfootball.net/report/premier-liga-2018-2019-nk-gosk-gabela-zvijezda-09-bijeljina/
+bosnia-herzegovina-2018-2019,3,2018-08-05,18:00,201808051800,sunday,Sloboda Tuzla,FK Sarajevo,0,1,1,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/premier-liga-2018-2019-sloboda-tuzla-fk-sarajevo/
+bosnia-herzegovina-2018-2019,3,2018-08-05,19:30,201808051930,sunday,Široki Brijeg,Čelik Zenica,6,0,6,H,W,L,3,0,3,H,W,L,http://www.worldfootball.net/report/premier-liga-2018-2019-siroki-brijeg-celik-zenica/
+bosnia-herzegovina-2018-2019,3,2018-08-05,20:00,201808052000,sunday,Željezničar Sarajevo,Zrinjski Mostar,2,0,2,H,W,L,2,0,2,H,W,L,http://www.worldfootball.net/report/premier-liga-2018-2019-zeljeznicar-sarajevo-zrinjski-mostar/
+bosnia-herzegovina-2018-2019,4,2018-08-11,16:30,201808111630,saturday,FK Krupa,FK Mladost Doboj-Kakanj,2,2,4,D,D,D,2,0,2,H,W,L,http://www.worldfootball.net/report/premier-liga-2018-2019-fk-krupa-fk-mladost-doboj-kakanj/
+bosnia-herzegovina-2018-2019,4,2018-08-11,19:00,201808111900,saturday,FK Sarajevo,NK GOŠK Gabela,1,1,2,D,D,D,1,0,1,H,W,L,http://www.worldfootball.net/report/premier-liga-2018-2019-fk-sarajevo-nk-gosk-gabela/
+bosnia-herzegovina-2018-2019,4,2018-08-11,19:45,201808111945,saturday,FK Tuzla City,Sloboda Tuzla,0,1,1,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/premier-liga-2018-2019-fk-tuzla-city-sloboda-tuzla/
+bosnia-herzegovina-2018-2019,4,2018-08-12,16:30,201808121630,sunday,Zvijezda 09 Bijeljina,Željezničar Sarajevo,1,3,4,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/premier-liga-2018-2019-zvijezda-09-bijeljina-zeljeznicar-sarajevo/
+bosnia-herzegovina-2018-2019,4,2018-08-12,18:00,201808121800,sunday,Čelik Zenica,Zrinjski Mostar,1,0,1,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/premier-liga-2018-2019-celik-zenica-zrinjski-mostar/
+bosnia-herzegovina-2018-2019,4,2018-08-12,19:30,201808121930,sunday,Široki Brijeg,Radnik Bijeljina,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/premier-liga-2018-2019-siroki-brijeg-radnik-bijeljina/
+bosnia-herzegovina-2018-2019,5,2018-08-15,16:00,201808151600,wednesday,FK Mladost Doboj-Kakanj,Široki Brijeg,0,1,1,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/premier-liga-2018-2019-fk-mladost-doboj-kakanj-siroki-brijeg/
+bosnia-herzegovina-2018-2019,5,2018-08-15,16:30,201808151630,wednesday,Radnik Bijeljina,Čelik Zenica,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/premier-liga-2018-2019-radnik-bijeljina-celik-zenica/
+bosnia-herzegovina-2018-2019,5,2018-08-15,16:30,201808151630,wednesday,Sloboda Tuzla,FK Krupa,1,0,1,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/premier-liga-2018-2019-sloboda-tuzla-fk-krupa/
+bosnia-herzegovina-2018-2019,5,2018-08-15,16:30,201808151630,wednesday,NK GOŠK Gabela,FK Tuzla City,3,2,5,H,W,L,2,0,2,H,W,L,http://www.worldfootball.net/report/premier-liga-2018-2019-nk-gosk-gabela-fk-tuzla-city/
+bosnia-herzegovina-2018-2019,5,2018-08-15,19:15,201808151915,wednesday,Željezničar Sarajevo,FK Sarajevo,2,2,4,D,D,D,1,2,3,A,L,W,http://www.worldfootball.net/report/premier-liga-2018-2019-zeljeznicar-sarajevo-fk-sarajevo/
+bosnia-herzegovina-2018-2019,6,2018-08-18,16:00,201808181600,saturday,Čelik Zenica,Zvijezda 09 Bijeljina,2,0,2,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/premier-liga-2018-2019-celik-zenica-zvijezda-09-bijeljina/
+bosnia-herzegovina-2018-2019,6,2018-08-18,16:00,201808181600,saturday,FK Krupa,NK GOŠK Gabela,3,0,3,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/premier-liga-2018-2019-fk-krupa-nk-gosk-gabela/
+bosnia-herzegovina-2018-2019,6,2018-08-18,16:00,201808181600,saturday,Radnik Bijeljina,FK Mladost Doboj-Kakanj,3,1,4,H,W,L,2,1,3,H,W,L,http://www.worldfootball.net/report/premier-liga-2018-2019-radnik-bijeljina-fk-mladost-doboj-kakanj/
+bosnia-herzegovina-2018-2019,6,2018-08-19,18:00,201808191800,sunday,FK Tuzla City,Željezničar Sarajevo,0,2,2,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/premier-liga-2018-2019-fk-tuzla-city-zeljeznicar-sarajevo/
+bosnia-herzegovina-2018-2019,6,2018-08-19,19:00,201808191900,sunday,FK Sarajevo,Zrinjski Mostar,4,2,6,H,W,L,2,1,3,H,W,L,http://www.worldfootball.net/report/premier-liga-2018-2019-fk-sarajevo-zrinjski-mostar/
+bosnia-herzegovina-2018-2019,6,2018-08-20,19:00,201808201900,monday,Široki Brijeg,Sloboda Tuzla,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/premier-liga-2018-2019-siroki-brijeg-sloboda-tuzla/
+bosnia-herzegovina-2018-2019,7,2018-08-25,16:00,201808251600,saturday,FK Mladost Doboj-Kakanj,Čelik Zenica,1,1,2,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/premier-liga-2018-2019-fk-mladost-doboj-kakanj-celik-zenica/
+bosnia-herzegovina-2018-2019,7,2018-08-25,16:00,201808251600,saturday,Zvijezda 09 Bijeljina,FK Sarajevo,0,4,4,A,L,W,0,3,3,A,L,W,http://www.worldfootball.net/report/premier-liga-2018-2019-zvijezda-09-bijeljina-fk-sarajevo/
+bosnia-herzegovina-2018-2019,7,2018-08-25,18:00,201808251800,saturday,Sloboda Tuzla,Radnik Bijeljina,2,0,2,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/premier-liga-2018-2019-sloboda-tuzla-radnik-bijeljina/
+bosnia-herzegovina-2018-2019,7,2018-08-25,19:00,201808251900,saturday,Zrinjski Mostar,FK Tuzla City,1,0,1,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/premier-liga-2018-2019-zrinjski-mostar-fk-tuzla-city/
+bosnia-herzegovina-2018-2019,7,2018-08-26,16:00,201808261600,sunday,NK GOŠK Gabela,Široki Brijeg,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/premier-liga-2018-2019-nk-gosk-gabela-siroki-brijeg/
+bosnia-herzegovina-2018-2019,7,2018-08-26,19:00,201808261900,sunday,Željezničar Sarajevo,FK Krupa,1,1,2,D,D,D,1,0,1,H,W,L,http://www.worldfootball.net/report/premier-liga-2018-2019-zeljeznicar-sarajevo-fk-krupa/
+bosnia-herzegovina-2018-2019,5,2018-08-29,19:00,201808291900,wednesday,Zrinjski Mostar,Zvijezda 09 Bijeljina,5,2,7,H,W,L,2,0,2,H,W,L,http://www.worldfootball.net/report/premier-liga-2018-2019-zrinjski-mostar-zvijezda-09-bijeljina/
+bosnia-herzegovina-2018-2019,8,2018-09-01,16:00,201809011600,saturday,FK Tuzla City,Zvijezda 09 Bijeljina,3,1,4,H,W,L,2,0,2,H,W,L,http://www.worldfootball.net/report/premier-liga-2018-2019-fk-tuzla-city-zvijezda-09-bijeljina/
+bosnia-herzegovina-2018-2019,8,2018-09-01,16:00,201809011600,saturday,FK Krupa,Zrinjski Mostar,1,2,3,A,L,W,1,1,2,D,D,D,http://www.worldfootball.net/report/premier-liga-2018-2019-fk-krupa-zrinjski-mostar/
+bosnia-herzegovina-2018-2019,8,2018-09-01,16:00,201809011600,saturday,Radnik Bijeljina,NK GOŠK Gabela,1,0,1,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/premier-liga-2018-2019-radnik-bijeljina-nk-gosk-gabela/
+bosnia-herzegovina-2018-2019,8,2018-09-01,16:00,201809011600,saturday,FK Mladost Doboj-Kakanj,Sloboda Tuzla,1,0,1,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/premier-liga-2018-2019-fk-mladost-doboj-kakanj-sloboda-tuzla/
+bosnia-herzegovina-2018-2019,8,2018-09-01,19:00,201809011900,saturday,Čelik Zenica,FK Sarajevo,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/premier-liga-2018-2019-celik-zenica-fk-sarajevo/
+bosnia-herzegovina-2018-2019,8,2018-09-02,19:00,201809021900,sunday,Široki Brijeg,Željezničar Sarajevo,0,3,3,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/premier-liga-2018-2019-siroki-brijeg-zeljeznicar-sarajevo/
+bosnia-herzegovina-2018-2019,9,2018-09-14,15:30,201809141530,friday,Sloboda Tuzla,Čelik Zenica,1,0,1,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/premier-liga-2018-2019-sloboda-tuzla-celik-zenica/
+bosnia-herzegovina-2018-2019,9,2018-09-15,15:30,201809151530,saturday,Zvijezda 09 Bijeljina,FK Krupa,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/premier-liga-2018-2019-zvijezda-09-bijeljina-fk-krupa/
+bosnia-herzegovina-2018-2019,9,2018-09-15,18:30,201809151830,saturday,FK Sarajevo,FK Tuzla City,2,0,2,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/premier-liga-2018-2019-fk-sarajevo-fk-tuzla-city/
+bosnia-herzegovina-2018-2019,9,2018-09-15,19:00,201809151900,saturday,Zrinjski Mostar,Široki Brijeg,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/premier-liga-2018-2019-zrinjski-mostar-siroki-brijeg/
+bosnia-herzegovina-2018-2019,9,2018-09-16,15:30,201809161530,sunday,NK GOŠK Gabela,FK Mladost Doboj-Kakanj,1,3,4,A,L,W,1,0,1,H,W,L,http://www.worldfootball.net/report/premier-liga-2018-2019-nk-gosk-gabela-fk-mladost-doboj-kakanj/
+bosnia-herzegovina-2018-2019,9,2018-09-16,18:30,201809161830,sunday,Željezničar Sarajevo,Radnik Bijeljina,1,0,1,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/premier-liga-2018-2019-zeljeznicar-sarajevo-radnik-bijeljina/
+bosnia-herzegovina-2018-2019,10,2018-09-22,15:30,201809221530,saturday,FK Krupa,FK Sarajevo,1,4,5,A,L,W,0,2,2,A,L,W,http://www.worldfootball.net/report/premier-liga-2018-2019-fk-krupa-fk-sarajevo/
+bosnia-herzegovina-2018-2019,10,2018-09-22,15:30,201809221530,saturday,Radnik Bijeljina,Zrinjski Mostar,0,1,1,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/premier-liga-2018-2019-radnik-bijeljina-zrinjski-mostar/
+bosnia-herzegovina-2018-2019,10,2018-09-22,18:00,201809221800,saturday,Sloboda Tuzla,NK GOŠK Gabela,2,0,2,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/premier-liga-2018-2019-sloboda-tuzla-nk-gosk-gabela/
+bosnia-herzegovina-2018-2019,10,2018-09-23,15:30,201809231530,sunday,FK Mladost Doboj-Kakanj,Željezničar Sarajevo,2,2,4,D,D,D,1,0,1,H,W,L,http://www.worldfootball.net/report/premier-liga-2018-2019-fk-mladost-doboj-kakanj-zeljeznicar-sarajevo/
+bosnia-herzegovina-2018-2019,10,2018-09-23,18:30,201809231830,sunday,Čelik Zenica,FK Tuzla City,1,1,2,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/premier-liga-2018-2019-celik-zenica-fk-tuzla-city/
+bosnia-herzegovina-2018-2019,10,2018-09-23,18:30,201809231830,sunday,Široki Brijeg,Zvijezda 09 Bijeljina,2,0,2,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/premier-liga-2018-2019-siroki-brijeg-zvijezda-09-bijeljina/
+bosnia-herzegovina-2018-2019,11,2018-09-26,15:00,201809261500,wednesday,NK GOŠK Gabela,Čelik Zenica,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/premier-liga-2018-2019-nk-gosk-gabela-celik-zenica/
+bosnia-herzegovina-2018-2019,11,2018-09-26,15:00,201809261500,wednesday,Zvijezda 09 Bijeljina,Radnik Bijeljina,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/premier-liga-2018-2019-zvijezda-09-bijeljina-radnik-bijeljina/
+bosnia-herzegovina-2018-2019,11,2018-09-26,15:00,201809261500,wednesday,FK Tuzla City,FK Krupa,2,1,3,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/premier-liga-2018-2019-fk-tuzla-city-fk-krupa/
+bosnia-herzegovina-2018-2019,11,2018-09-26,16:00,201809261600,wednesday,Zrinjski Mostar,FK Mladost Doboj-Kakanj,1,0,1,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/premier-liga-2018-2019-zrinjski-mostar-fk-mladost-doboj-kakanj/
+bosnia-herzegovina-2018-2019,11,2018-09-26,16:30,201809261630,wednesday,FK Sarajevo,Široki Brijeg,1,0,1,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/premier-liga-2018-2019-fk-sarajevo-siroki-brijeg/
+bosnia-herzegovina-2018-2019,11,2018-09-26,19:30,201809261930,wednesday,Željezničar Sarajevo,Sloboda Tuzla,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/premier-liga-2018-2019-zeljeznicar-sarajevo-sloboda-tuzla/
+bosnia-herzegovina-2018-2019,12,2018-09-29,15:00,201809291500,saturday,Čelik Zenica,FK Krupa,3,1,4,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/premier-liga-2018-2019-celik-zenica-fk-krupa/
+bosnia-herzegovina-2018-2019,12,2018-09-29,15:00,201809291500,saturday,FK Tuzla City,Široki Brijeg,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/premier-liga-2018-2019-fk-tuzla-city-siroki-brijeg/
+bosnia-herzegovina-2018-2019,12,2018-09-29,15:00,201809291500,saturday,Zvijezda 09 Bijeljina,FK Mladost Doboj-Kakanj,0,2,2,A,L,W,0,2,2,A,L,W,http://www.worldfootball.net/report/premier-liga-2018-2019-zvijezda-09-bijeljina-fk-mladost-doboj-kakanj/
+bosnia-herzegovina-2018-2019,12,2018-09-29,15:00,201809291500,saturday,Zrinjski Mostar,Sloboda Tuzla,2,0,2,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/premier-liga-2018-2019-zrinjski-mostar-sloboda-tuzla/
+bosnia-herzegovina-2018-2019,12,2018-09-29,19:00,201809291900,saturday,FK Sarajevo,Radnik Bijeljina,2,1,3,H,W,L,1,1,2,D,D,D,http://www.worldfootball.net/report/premier-liga-2018-2019-fk-sarajevo-radnik-bijeljina/
+bosnia-herzegovina-2018-2019,12,2018-09-30,18:00,201809301800,sunday,Željezničar Sarajevo,NK GOŠK Gabela,1,2,3,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/premier-liga-2018-2019-zeljeznicar-sarajevo-nk-gosk-gabela/
+bosnia-herzegovina-2018-2019,13,2018-10-05,17:00,201810051700,friday,Željezničar Sarajevo,Čelik Zenica,3,2,5,H,W,L,1,1,2,D,D,D,http://www.worldfootball.net/report/premier-liga-2018-2019-zeljeznicar-sarajevo-celik-zenica/
+bosnia-herzegovina-2018-2019,13,2018-10-06,14:30,201810061430,saturday,Sloboda Tuzla,Zvijezda 09 Bijeljina,0,3,3,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/premier-liga-2018-2019-sloboda-tuzla-zvijezda-09-bijeljina/
+bosnia-herzegovina-2018-2019,13,2018-10-06,14:30,201810061430,saturday,FK Mladost Doboj-Kakanj,FK Sarajevo,0,6,6,A,L,W,0,3,3,A,L,W,http://www.worldfootball.net/report/premier-liga-2018-2019-fk-mladost-doboj-kakanj-fk-sarajevo/
+bosnia-herzegovina-2018-2019,13,2018-10-06,14:30,201810061430,saturday,Radnik Bijeljina,FK Tuzla City,3,1,4,H,W,L,2,0,2,H,W,L,http://www.worldfootball.net/report/premier-liga-2018-2019-radnik-bijeljina-fk-tuzla-city/
+bosnia-herzegovina-2018-2019,13,2018-10-06,14:30,201810061430,saturday,NK GOŠK Gabela,Zrinjski Mostar,0,4,4,A,L,W,0,2,2,A,L,W,http://www.worldfootball.net/report/premier-liga-2018-2019-nk-gosk-gabela-zrinjski-mostar/
+bosnia-herzegovina-2018-2019,13,2018-10-06,17:30,201810061730,saturday,Široki Brijeg,FK Krupa,2,0,2,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/premier-liga-2018-2019-siroki-brijeg-fk-krupa/
+bosnia-herzegovina-2018-2019,14,2018-10-20,14:00,201810201400,saturday,FK Tuzla City,FK Mladost Doboj-Kakanj,0,1,1,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/premier-liga-2018-2019-fk-tuzla-city-fk-mladost-doboj-kakanj/
+bosnia-herzegovina-2018-2019,14,2018-10-20,14:00,201810201400,saturday,Zvijezda 09 Bijeljina,NK GOŠK Gabela,1,0,1,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/premier-liga-2018-2019-zvijezda-09-bijeljina-nk-gosk-gabela/
+bosnia-herzegovina-2018-2019,14,2018-10-20,14:00,201810201400,saturday,Zrinjski Mostar,Željezničar Sarajevo,0,1,1,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/premier-liga-2018-2019-zrinjski-mostar-zeljeznicar-sarajevo/
+bosnia-herzegovina-2018-2019,14,2018-10-20,16:00,201810201600,saturday,FK Sarajevo,Sloboda Tuzla,1,0,1,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/premier-liga-2018-2019-fk-sarajevo-sloboda-tuzla/
+bosnia-herzegovina-2018-2019,14,2018-10-21,14:00,201810211400,sunday,FK Krupa,Radnik Bijeljina,0,0,0,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/premier-liga-2018-2019-fk-krupa-radnik-bijeljina/
+bosnia-herzegovina-2018-2019,14,2018-10-21,16:00,201810211600,sunday,Čelik Zenica,Široki Brijeg,1,1,2,D,D,D,1,0,1,H,W,L,http://www.worldfootball.net/report/premier-liga-2018-2019-celik-zenica-siroki-brijeg/
+bosnia-herzegovina-2018-2019,15,2018-10-27,13:30,201810271330,saturday,FK Mladost Doboj-Kakanj,FK Krupa,2,1,3,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/premier-liga-2018-2019-fk-mladost-doboj-kakanj-fk-krupa/
+bosnia-herzegovina-2018-2019,15,2018-10-27,13:30,201810271330,saturday,Radnik Bijeljina,Široki Brijeg,2,1,3,H,W,L,1,1,2,D,D,D,http://www.worldfootball.net/report/premier-liga-2018-2019-radnik-bijeljina-siroki-brijeg/
+bosnia-herzegovina-2018-2019,15,2018-10-27,15:00,201810271500,saturday,Zrinjski Mostar,Čelik Zenica,3,0,3,H,W,L,2,0,2,H,W,L,http://www.worldfootball.net/report/premier-liga-2018-2019-zrinjski-mostar-celik-zenica/
+bosnia-herzegovina-2018-2019,15,2018-10-27,15:30,201810271530,saturday,Sloboda Tuzla,FK Tuzla City,1,1,2,D,D,D,1,0,1,H,W,L,http://www.worldfootball.net/report/premier-liga-2018-2019-sloboda-tuzla-fk-tuzla-city/
+bosnia-herzegovina-2018-2019,15,2018-10-28,13:30,201810281330,sunday,NK GOŠK Gabela,FK Sarajevo,1,0,1,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/premier-liga-2018-2019-nk-gosk-gabela-fk-sarajevo/
+bosnia-herzegovina-2018-2019,15,2018-10-28,14:30,201810281430,sunday,Željezničar Sarajevo,Zvijezda 09 Bijeljina,0,1,1,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/premier-liga-2018-2019-zeljeznicar-sarajevo-zvijezda-09-bijeljina/
+bosnia-herzegovina-2018-2019,16,2018-11-03,12:30,201811031230,saturday,Čelik Zenica,Radnik Bijeljina,1,0,1,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/premier-liga-2018-2019-celik-zenica-radnik-bijeljina/
+bosnia-herzegovina-2018-2019,16,2018-11-03,12:30,201811031230,saturday,FK Krupa,Sloboda Tuzla,0,1,1,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/premier-liga-2018-2019-fk-krupa-sloboda-tuzla/
+bosnia-herzegovina-2018-2019,16,2018-11-03,12:30,201811031230,saturday,FK Tuzla City,NK GOŠK Gabela,2,1,3,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/premier-liga-2018-2019-fk-tuzla-city-nk-gosk-gabela/
+bosnia-herzegovina-2018-2019,16,2018-11-03,12:30,201811031230,saturday,Zvijezda 09 Bijeljina,Zrinjski Mostar,1,0,1,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/premier-liga-2018-2019-zvijezda-09-bijeljina-zrinjski-mostar/
+bosnia-herzegovina-2018-2019,16,2018-11-03,16:00,201811031600,saturday,FK Sarajevo,Željezničar Sarajevo,2,1,3,H,W,L,2,1,3,H,W,L,http://www.worldfootball.net/report/premier-liga-2018-2019-fk-sarajevo-zeljeznicar-sarajevo/
+bosnia-herzegovina-2018-2019,16,2018-11-04,15:30,201811041530,sunday,Široki Brijeg,FK Mladost Doboj-Kakanj,1,1,2,D,D,D,0,1,1,A,L,W,http://www.worldfootball.net/report/premier-liga-2018-2019-siroki-brijeg-fk-mladost-doboj-kakanj/
+bosnia-herzegovina-2018-2019,17,2018-11-10,12:30,201811101230,saturday,Zvijezda 09 Bijeljina,Čelik Zenica,2,0,2,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/premier-liga-2018-2019-zvijezda-09-bijeljina-celik-zenica/
+bosnia-herzegovina-2018-2019,17,2018-11-10,12:30,201811101230,saturday,FK Mladost Doboj-Kakanj,Radnik Bijeljina,2,0,2,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/premier-liga-2018-2019-fk-mladost-doboj-kakanj-radnik-bijeljina/
+bosnia-herzegovina-2018-2019,17,2018-11-10,15:30,201811101530,saturday,Zrinjski Mostar,FK Sarajevo,2,2,4,D,D,D,1,0,1,H,W,L,http://www.worldfootball.net/report/premier-liga-2018-2019-zrinjski-mostar-fk-sarajevo/
+bosnia-herzegovina-2018-2019,17,2018-11-11,12:30,201811111230,sunday,NK GOŠK Gabela,FK Krupa,1,0,1,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/premier-liga-2018-2019-nk-gosk-gabela-fk-krupa/
+bosnia-herzegovina-2018-2019,17,2018-11-11,12:30,201811111230,sunday,Sloboda Tuzla,Široki Brijeg,0,1,1,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/premier-liga-2018-2019-sloboda-tuzla-siroki-brijeg/
+bosnia-herzegovina-2018-2019,17,2018-11-11,15:30,201811111530,sunday,Željezničar Sarajevo,FK Tuzla City,2,3,5,A,L,W,2,1,3,H,W,L,http://www.worldfootball.net/report/premier-liga-2018-2019-zeljeznicar-sarajevo-fk-tuzla-city/
+bosnia-herzegovina-2018-2019,18,2018-11-24,12:00,201811241200,saturday,FK Krupa,Željezničar Sarajevo,2,1,3,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/premier-liga-2018-2019-fk-krupa-zeljeznicar-sarajevo/
+bosnia-herzegovina-2018-2019,18,2018-11-24,12:00,201811241200,saturday,FK Tuzla City,Zrinjski Mostar,1,2,3,A,L,W,0,1,1,A,L,W,http://www.worldfootball.net/report/premier-liga-2018-2019-fk-tuzla-city-zrinjski-mostar/
+bosnia-herzegovina-2018-2019,18,2018-11-24,16:00,201811241600,saturday,Čelik Zenica,FK Mladost Doboj-Kakanj,0,3,3,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/premier-liga-2018-2019-celik-zenica-fk-mladost-doboj-kakanj/
+bosnia-herzegovina-2018-2019,18,2018-11-25,12:00,201811251200,sunday,Radnik Bijeljina,Sloboda Tuzla,0,1,1,A,L,W,0,0,0,D,D,D,http://www.worldfootball.net/report/premier-liga-2018-2019-radnik-bijeljina-sloboda-tuzla/
+bosnia-herzegovina-2018-2019,18,2018-11-25,12:00,201811251200,sunday,Široki Brijeg,NK GOŠK Gabela,1,1,2,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/premier-liga-2018-2019-siroki-brijeg-nk-gosk-gabela/
+bosnia-herzegovina-2018-2019,18,2018-11-25,14:00,201811251400,sunday,FK Sarajevo,Zvijezda 09 Bijeljina,3,1,4,H,W,L,3,1,4,H,W,L,http://www.worldfootball.net/report/premier-liga-2018-2019-fk-sarajevo-zvijezda-09-bijeljina/
+bosnia-herzegovina-2018-2019,19,2018-11-30,13:00,201811301300,friday,Zrinjski Mostar,FK Krupa,1,0,1,H,W,L,0,0,0,D,D,D,http://www.worldfootball.net/report/premier-liga-2018-2019-zrinjski-mostar-fk-krupa/
+bosnia-herzegovina-2018-2019,19,2018-12-01,12:00,201812011200,saturday,Zvijezda 09 Bijeljina,FK Tuzla City,1,1,2,D,D,D,1,1,2,D,D,D,http://www.worldfootball.net/report/premier-liga-2018-2019-zvijezda-09-bijeljina-fk-tuzla-city/
+bosnia-herzegovina-2018-2019,19,2018-12-01,12:00,201812011200,saturday,Sloboda Tuzla,FK Mladost Doboj-Kakanj,2,1,3,H,W,L,1,0,1,H,W,L,http://www.worldfootball.net/report/premier-liga-2018-2019-sloboda-tuzla-fk-mladost-doboj-kakanj/
+bosnia-herzegovina-2018-2019,19,2018-12-01,15:00,201812011500,saturday,FK Sarajevo,Čelik Zenica,3,1,4,H,W,L,1,1,2,D,D,D,http://www.worldfootball.net/report/premier-liga-2018-2019-fk-sarajevo-celik-zenica/
+bosnia-herzegovina-2018-2019,19,2018-12-02,12:00,201812021200,sunday,Željezničar Sarajevo,Široki Brijeg,2,3,5,A,L,W,1,2,3,A,L,W,http://www.worldfootball.net/report/premier-liga-2018-2019-zeljeznicar-sarajevo-siroki-brijeg/
+bosnia-herzegovina-2018-2019,19,2018-12-02,12:00,201812021200,sunday,NK GOŠK Gabela,Radnik Bijeljina,1,1,2,D,D,D,0,0,0,D,D,D,http://www.worldfootball.net/report/premier-liga-2018-2019-nk-gosk-gabela-radnik-bijeljina/
